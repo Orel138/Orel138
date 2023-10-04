@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Orel138</h1>
-<h3 align="center">An IoT Engineer from Grenoble, France</h3>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Orel138/Orel138/master/assets/Orel138-github-profile-header.png" alt="stacks"/>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orel138&label=Profile%20views&color=ffbe6f&style=flat" alt="orel138" /> </p>
 
