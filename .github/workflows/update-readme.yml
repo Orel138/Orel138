@@ -1,0 +1,68 @@
+name: Update the README every day
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '4 4 * * *' # At 4:04 a.m. every day
+    # Let's explain this expression:
+    # Minute: 4 (4th minute of the hour).
+    # Hour: 4 (4 a.m., using 24-hour format).
+    # Day of the month: * (each day of the month).
+    # Month: * (each month).
+    # Day of the week: * (every day).
+
+    # Each field can accept specific values, ranges of values (like 1-5),
+    # comma-separated lists (like 1,3,5), and special characters like * 
+    # (which represents "each" unit of time) and / to specify intervals.
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [latest] # 16, 18, 20, 18.4.0, lts/*, current, latest, node, .etc (see https://github.com/actions/setup-node)
+    steps:
+      - name: ⚙️ Checkout the repository
+        uses: actions/checkout@v4 # https://github.com/actions/checkout
+
+        # Setup Node.js
+      - name: 🧰 Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4 # https://github.com/actions/setup-node
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+      - run: npm ci
+      - run: npm test
+
+        # Install fortune-mod
+      - name: 🥠 - Install fortune-mod
+        run: sudo apt-get install fortune-mod
+
+        # Set multiple environment variables
+      - name: 🎲 Generate fortune cookie + date
+        run: | 
+          echo "FORTUNE_COOKIE=$(fortune)" >> $GITHUB_ENV
+          echo "CURRENT_DATE=$(date +'%d-%m-%Y')" >> $GITHUB_ENV
+
+        # Update README.md file
+      - name: 🧩 Update README.md file
+        run: |
+          node index.js > README.md
+        env:
+          CI: true
+          FORTUNE_COOKIE: ${{ env.FORTUNE_COOKIE }}
+          CURRENT_DATE: ${{ env.CURRENT_DATE }}
+
+        # Commit changes
+      - name: 🕺 commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Orel138
+          author_email: orel.reynaud@gmail.com
+          force: false
+          signoff: false
+          message: ':memo: README.md updated - ${{ env.CURRENT_DATE }}'
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
