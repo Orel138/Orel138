@@ -42,7 +42,7 @@ jobs:
         # Set multiple environment variables
       - name: 🎲 Generate fortune cookie + date
         run: | 
-          echo "FORTUNE_COOKIE=$(fortune)" >> $GITHUB_ENV
+          echo "FORTUNE_COOKIE=$(fortune | tr -d '\n' | sed 's/"/\\"/g')" >> $GITHUB_ENV
           echo "CURRENT_DATE=$(date +'%d-%m-%Y')" >> $GITHUB_ENV
 
         # Update README.md file
