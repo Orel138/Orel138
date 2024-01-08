@@ -1,6 +1,10 @@
 module.exports = `
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/Orel138/Orel138/master/assets/Orel138-github-profile-header.png" alt="stacks"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/<#banner_dark>">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/<#banner_light>">
+    <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
+  </picture>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orel138&label=Profile%20views&color=ffbe6f&style=flat" alt="orel138" /> </p>

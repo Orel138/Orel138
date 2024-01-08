@@ -1,6 +1,7 @@
 const { promises: fs } = require('fs');
 const readme = require('./readme');
 const { getWeather } = require('./src/weather');
+const { getRandomBanner } = require('./src/banner');
 
 const msInOneDay = 1000 * 60 * 60 * 24;
 
@@ -25,6 +26,8 @@ function generateNewREADME() {
     gabot_signing: getGabotSigning(),
     RandomDish: getRandomDish(),
     today_weather: getWeather(),
+    banner_light: getRandomBanner(false), // light theme
+    banner_dark: getRandomBanner(true), // dark theme
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
