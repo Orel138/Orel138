@@ -1,4 +1,6 @@
 
+<!-- Beginning of the rendered Markdown -->
+
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
@@ -17,11 +19,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-> "Your body is a reflection of what you eat" - Me: 🥖
+> "Your body is a reflection of what you eat" - Me: 🍔
 
-> 🥠 Fortune cookie : Q:	Why did the germ cross the microscope?A:	To get to the other slide.
+> 🥠 Fortune cookie : Your aims are high, and you are capable of much.
 
-**358 day before 2025 ⏱** days before new year
+**357 day before 2025 ⏱** days before new year
+
+Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.03°C),overcast clouds</b>.
+
+The ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:13
 
 <div align="center">
   <sub>
@@ -30,4 +36,5 @@
   </div>
 <br>
 
-<!-- This content will not appear in the rendered Markdown -->
+<!-- End of the rendered Markdown -->
+<!-- The following content will not appear in the rendered Markdown -->
