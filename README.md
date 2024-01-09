@@ -19,14 +19,14 @@
 
 > "Your body is a reflection of what you eat" - Me: 🥖
 
-> 🥠 Fortune cookie : Beware of a tall black man with one blond shoe.
+> 🥠 Fortune cookie : Q:	Why did the germ cross the microscope?A:	To get to the other slide.
 
 **358 day before 2025 ⏱** days before new year
 
 <div align="center">
   <sub>
   Added the Sun Feb 26 2023
-  Last update on Mon Jan 08 2024
+  Last update on Tue Jan 09 2024
   </div>
 <br>
 
