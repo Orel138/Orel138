@@ -52,6 +52,7 @@ jobs:
         env:
           CI: true
           FORTUNE_COOKIE: ${{ env.FORTUNE_COOKIE }}
+          OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
           CURRENT_DATE: ${{ env.CURRENT_DATE }}
 
         # Commit changes

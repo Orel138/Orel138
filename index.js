@@ -1,13 +1,40 @@
 const { promises: fs } = require('fs');
 const readme = require('./readme');
-const { getWeather } = require('./src/weather');
+const { getWeatherInformationForToday, getWeatherInformationForTomorrow} = require('./src/weather');
 const { getRandomBanner } = require('./src/banner');
+
+const city = "Grenoble,FR";
 
 const msInOneDay = 1000 * 60 * 60 * 24;
 
 const today = new Date();
 
-function generateNewREADME() {
+function getOpenWeatherMapAPIKey() {
+  if (!process.env.OPEN_WEATHER_MAP_KEY) {
+    console.error('Please provide an API Key for OpenWeatherMap');
+    return null;
+  }
+  return process.env.OPEN_WEATHER_MAP_KEY;
+}
+
+function getFortuneCookie() {
+  return process.env.FORTUNE_COOKIE || 'No fortune cookie today.';
+}
+
+async function generateNewREADME() {
+
+  // Retrieve complete weather data
+  const completeWeatherDataForToday = await getWeatherInformationForToday(getOpenWeatherMapAPIKey(), city);
+  const completeWeatherDataForTomorrow = await getWeatherInformationForTomorrow(getOpenWeatherMapAPIKey(), city);
+
+  // Extracting specific values
+  const TodaysTemperature = completeWeatherDataForToday ? completeWeatherDataForToday.temperature : null;
+  const TodaysFeltTemperature = completeWeatherDataForToday ? completeWeatherDataForToday.felt_temperature : null;
+  const TodaysWeather = completeWeatherDataForToday ? completeWeatherDataForToday.weather : null;
+  const TodaysSunRise = completeWeatherDataForToday ? completeWeatherDataForToday.sunrise : null;
+  const TodaysSunSets = completeWeatherDataForToday ? completeWeatherDataForToday.sunset : null;
+  // const TomorrowTemperature = completeWeatherDataForToday ? completeWeatherDataForToday.forecast.data.temperature : null;
+
   const readmeRow = readme.split('\n');
 
   function updateIdentifier(identifier, replaceText) {
@@ -23,15 +50,21 @@ function generateNewREADME() {
     day_before_new_years: getDBNWSentence(),
     today_date: getTodayDate(),
     fortune_cookie: getFortuneCookie(),
-    gabot_signing: getGabotSigning(),
+    signing: getSigning(),
     RandomDish: getRandomDish(),
-    today_weather: getWeather(),
+    todays_weather: TodaysWeather,
+    todays_temperature: TodaysTemperature,
+    todays_felt_temperature: TodaysFeltTemperature,
+    todays_sun_rise: TodaysSunRise,
+    todays_sun_sets: TodaysSunSets,
+    tomorrow_weather: null,
     banner_light: getRandomBanner(false), // light theme
     banner_dark: getRandomBanner(true), // dark theme
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
     updateIdentifier(key, value);
+    console.log(key, value);
   });
 
   return readmeRow.join('\n');
@@ -47,13 +80,9 @@ const moodByDay = {
   7: 'love',
 };
 
-function getGabotSigning() {
+function getSigning() {
   const mood = moodByDay[today.getDay() + 1];
   return `🤖 This README.md is updated with ${mood}`;
-}
-
-function getFortuneCookie() {
-  return process.env.FORTUNE_COOKIE || 'No fortune cookie today.';
 }
 
 function getTodayDate() {
@@ -84,10 +113,10 @@ const findIdentifierIndex = (rows, identifier) =>
 
 const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
 
-function main() {
-  const newREADME = generateNewREADME();
+async function main() {
+  const newREADME = await generateNewREADME();
   console.log(newREADME);
-  updateREADMEFile(newREADME);
+  await updateREADMEFile(newREADME);
 }
 
 main();

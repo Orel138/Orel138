@@ -1,4 +1,6 @@
 module.exports = `
+<!-- Beginning of the rendered Markdown -->
+
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/<#banner_dark>">
@@ -23,6 +25,10 @@ module.exports = `
 
 <#day_before_new_years> days before new year
 
+Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b><#todays_temperature>°C (felt <#todays_felt_temperature>°C),<#todays_weather></b>.
+
+The ☀️ rise 🌄 at <#todays_sun_rise> and sets 🌇 at <#todays_sun_sets>
+
 <div align="center">
   <sub>
   Added the Sun Feb 26 2023
@@ -30,5 +36,6 @@ module.exports = `
   </div>
 <br>
 
-<!-- This content will not appear in the rendered Markdown -->
+<!-- End of the rendered Markdown -->
+<!-- The following content will not appear in the rendered Markdown -->
 `;
