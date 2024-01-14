@@ -1,6 +1,7 @@
 const { promises: fs } = require('fs');
 const readme = require('./readme');
-const { getWeatherInformationForToday, getWeatherInformationForTomorrow} = require('./src/weather');
+const { getWeatherInformationForToday, getWeatherInformationForTomorrow } = require('./src/weather');
+const { getCocktailForToday } = require('./src/cocktail');
 const { getRandomBanner } = require('./src/banner');
 
 const city = "Grenoble,FR";
@@ -27,6 +28,8 @@ async function generateNewREADME() {
   const completeWeatherDataForToday = await getWeatherInformationForToday(getOpenWeatherMapAPIKey(), city);
   const completeWeatherDataForTomorrow = await getWeatherInformationForTomorrow(getOpenWeatherMapAPIKey(), city);
 
+  const CocktailForToday = await getCocktailForToday();
+
   // Extracting specific values
   const TodaysTemperature = completeWeatherDataForToday ? completeWeatherDataForToday.temperature : null;
   const TodaysFeltTemperature = completeWeatherDataForToday ? completeWeatherDataForToday.felt_temperature : null;
@@ -35,6 +38,12 @@ async function generateNewREADME() {
   const TodaysSunSets = completeWeatherDataForToday ? completeWeatherDataForToday.sunset : null;
   // const TomorrowTemperature = completeWeatherDataForToday ? completeWeatherDataForToday.forecast.data.temperature : null;
 
+  const TodaysCocktailName = CocktailForToday ? CocktailForToday.strDrink : null;
+  const TodaysCocktailGlass = CocktailForToday ? CocktailForToday.strGlass : null;
+  const TodaysCocktailInstructions = CocktailForToday ? CocktailForToday.strInstructions : null;
+  const TodaysCocktailPreview = CocktailForToday ? CocktailForToday.strDrinkPreview : null;
+  const TodaysCocktailIngredientsAndMeasures = CocktailForToday ? CocktailForToday.strIngredientsAndMeasures : null;
+  
   const readmeRow = readme.split('\n');
 
   function updateIdentifier(identifier, replaceText) {
@@ -58,13 +67,18 @@ async function generateNewREADME() {
     todays_sun_rise: TodaysSunRise,
     todays_sun_sets: TodaysSunSets,
     tomorrow_weather: null,
+    cocktail_name: TodaysCocktailName,
+    cocktail_glass: TodaysCocktailGlass,
+    cocktail_ingredients_and_measures: TodaysCocktailIngredientsAndMeasures,
+    cocktail_instructions: TodaysCocktailInstructions,
+    cocktail_image: TodaysCocktailPreview,
     banner_light: getRandomBanner(false), // light theme
     banner_dark: getRandomBanner(true), // dark theme
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
     updateIdentifier(key, value);
-    console.log(key, value);
+    // console.log(key, value);
   });
 
   return readmeRow.join('\n');
