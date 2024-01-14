@@ -21,17 +21,17 @@
 <img alt="git" src="https://img.shields.io/badge/Git%20-%20?style=flat-square&logo=git&logoColor=white&color=f05032" />
 </p>
 
-> "Your body is a reflection of what you eat" - Me: 🍭
+> "Your body is a reflection of what you eat" - Me: 🥨
 
-> 🥠 Fortune cookie : Your heart is pure, and your mind clear, and your soul devout.
+> 🥠 Fortune cookie : Q:	How many existentialists does it take to screw in a light bulb?A:	Two.  One to screw it in and one to observe how the light bulb	itself symbolizes a single incandescent beacon of subjective	reality in a netherworld of endless absurdity reaching out toward a	maudlin cosmos of nothingness.
 
 **353 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -9.72°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.88°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:16
+  The ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:18
   </div>
 <br>
 
@@ -41,7 +41,7 @@
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 13 2024
+  Last update on Sun Jan 14 2024
   </div>
 <br>
 
