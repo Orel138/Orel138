@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -53,7 +53,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-> Harp not on that string.		-- William Shakespeare, \"Henry VI\"
+> You will be advanced socially, without any special effort on your part.
 </details>
 
 <details>
@@ -63,19 +63,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Tipperary</strong></div></td>
+      <td><div align="center"><strong>Vermouth Cassis</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b522ek1521761610.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tswpxx1441554674.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Nick and Nora Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz Irish Whiskey, 1 oz Sweet Vermouth, 1/2 oz Green Chartreuse</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Dry Vermouth, 3/4 oz  Creme de Cassis, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.</td>
+      <td><b>Instructions:</b> Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.</td>
     </tr>
   </table>
 </div>
@@ -89,10 +89,10 @@ Random Stuff (for fun)
 **352 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -2.98°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -4.68°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:18
+  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 17:19
   </div>
 <br>
 
@@ -106,7 +106,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jan 14 2024
+  Last update on Mon Jan 15 2024
   </div>
 <br>
 
