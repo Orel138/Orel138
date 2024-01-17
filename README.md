@@ -53,7 +53,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-> Save energy: be apathetic.
+> You will triumph over your enemy.
 </details>
 
 <details>
@@ -63,19 +63,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Banana Cream Pi</strong></div></td>
+      <td><div align="center"><strong>Raspberry Cooler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m5p67n1582474609.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/suqyyx1441254346.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Malibu Rum, 1 oz Banana Liqueur, Top Pineapple Juice</td>
+      <td><b>Ingredients:</b> 2 oz  Raspberry vodka, 4 oz  Lemon-lime soda, Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Serve over ice.</td>
+      <td><b>Instructions:</b> Pour the raspberry vodka and soda into a highball glass almost filled with ice cubes. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -86,13 +86,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**351 day before 2025 ⏱** days before new year
+**350 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -8.39°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt -0.62°C), moderate rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 17:20
+  The sun ☀️ rise 🌄 at 08:10 and sets 🌇 at 17:21
   </div>
 <br>
 
@@ -106,7 +106,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jan 16 2024
+  Last update on Wed Jan 17 2024
   </div>
 <br>
 
