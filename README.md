@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -53,7 +53,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-> I don't know half of you half as well as I should like; and I like lessthan half of you half as well as you deserve.		-- J. R. R. Tolkien
+> Give thought to your reputation.  Consider changing name and moving toa new town.
 </details>
 
 <details>
@@ -63,19 +63,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Alfie Cocktail</strong></div></td>
+      <td><div align="center"><strong>Kiwi Lemon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Lemon vodka, 1 dash  Triple sec, 1 tblsp  Pineapple juice</td>
+      <td><b>Ingredients:</b> 1 part  Kiwi liqueur, 2 parts  Bitter lemon, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
     </tr>
   </table>
 </div>
@@ -86,13 +86,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**349 day before 2025 ⏱** days before new year
+**348 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.52°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -10.92°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:10 and sets 🌇 at 17:23
+  The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 17:24
   </div>
 <br>
 
@@ -106,7 +106,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jan 18 2024
+  Last update on Fri Jan 19 2024
   </div>
 <br>
 
