@@ -46,6 +46,19 @@ My GitHub Stats
 
 <img alt="orel138" src="https://komarev.com/ghpvc/?username=orel138&label=Profile%20views&color=ffbe6f&style=flat-square" />
 
+<table border="1">
+  <tr>
+    <th colspan="2"><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orel138&theme=nord_bright" /></th>
+  </tr>
+  <tr>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orel138&theme=nord_bright" /></td>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Orel138&theme=nord_bright" /></td>
+  </tr>
+  <tr>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orel138&theme=nord_bright" /></td>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Orel138&theme=nord_bright&utcOffset=8" /></td>
+  </tr>
+</table>
 
 <h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>
 Random Stuff (for fun)
