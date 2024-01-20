@@ -40,7 +40,7 @@ My fascination with technology extends beyond my professional life, finding root
 🔗 <i>Let's innovate and inspire together!</i>
 
 <h3 align="left">
-<img src="https://emojis.slackmojis.com/emojis/images/1643514890/9036/stonks.png?1643514890" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643789901/51874/stonks.png?1643789901" width="30"/>
 My GitHub Stats
 </h3>
 
@@ -53,7 +53,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-> <#fortune_cookie>
+<#fortune_cookie>
 </details>
 
 <details>
