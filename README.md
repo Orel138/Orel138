@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -40,7 +40,7 @@ My fascination with technology extends beyond my professional life, finding root
 🔗 <i>Let's innovate and inspire together!</i>
 
 <h3 align="left">
-<img src="https://emojis.slackmojis.com/emojis/images/1643514890/9036/stonks.png?1643514890" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643789901/51874/stonks.png?1643789901" width="30"/>
 My GitHub Stats
 </h3>
 
@@ -53,7 +53,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-> In the stairway of life, you'd best take the elevator.
+Reader, suppose you were an idiot.  And suppose you were a member ofCongress.  But I repeat myself.		-- Mark Twain
 </details>
 
 <details>
@@ -63,19 +63,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kill the cold Smoothie</strong></div></td>
+      <td><div align="center"><strong>Bubble Gum</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 inch  Ginger, 1/4  Lemon, 1 cup hot  Water</td>
+      <td><b>Ingredients:</b> 1/4  Vodka, 1/4  Banana liqueur, 1/4  Orange juice, 1/4  Peach schnapps</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
+      <td><b>Instructions:</b> Layer in order into a shot glass.</td>
     </tr>
   </table>
 </div>
@@ -86,10 +86,10 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**347 day before 2025 ⏱** days before new year
+**346 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-11°C (felt -11.09°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.12°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:08 and sets 🌇 at 17:25
