@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -46,6 +46,19 @@ My GitHub Stats
 
 <img alt="orel138" src="https://komarev.com/ghpvc/?username=orel138&label=Profile%20views&color=ffbe6f&style=flat-square" />
 
+<table border="1">
+  <tr>
+    <th colspan="2"><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orel138&theme=nord_bright" /></th>
+  </tr>
+  <tr>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orel138&theme=nord_bright" /></td>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Orel138&theme=nord_bright" /></td>
+  </tr>
+  <tr>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orel138&theme=nord_bright" /></td>
+    <td><img alt="orel138" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Orel138&theme=nord_bright&utcOffset=8" /></td>
+  </tr>
+</table>
 
 <h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>
 Random Stuff (for fun)
@@ -53,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Reader, suppose you were an idiot.  And suppose you were a member ofCongress.  But I repeat myself.		-- Mark Twain
+Avoid gunfire in the bathroom tonight.
 </details>
 
 <details>
@@ -63,19 +76,19 @@ Reader, suppose you were an idiot.  And suppose you were a member ofCongress.  B
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bubble Gum</strong></div></td>
+      <td><div align="center"><strong>Banana Strawberry Shake Daiquiri</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uvypss1472720581.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Cocktail Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/4  Vodka, 1/4  Banana liqueur, 1/4  Orange juice, 1/4  Peach schnapps</td>
+      <td><b>Ingredients:</b> 1/2 lb frozen  Strawberries, 1 frozen  Banana, 2 cups fresh  Apple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Layer in order into a shot glass.</td>
+      <td><b>Instructions:</b> Blend all together in a blender until smooth.</td>
     </tr>
   </table>
 </div>
@@ -92,7 +105,7 @@ Reader, suppose you were an idiot.  And suppose you were a member ofCongress.  B
   Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.12°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:08 and sets 🌇 at 17:25
+  The sun ☀️ rise 🌄 at 08:08 and sets 🌇 at 17:27
   </div>
 <br>
 
