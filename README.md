@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Avoid gunfire in the bathroom tonight.
+You will be misunderstood by everyone.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Avoid gunfire in the bathroom tonight.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Banana Strawberry Shake Daiquiri</strong></div></td>
+      <td><div align="center"><strong>Bleeding Surgeon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uvypss1472720581.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail Glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 lb frozen  Strawberries, 1 frozen  Banana, 2 cups fresh  Apple juice</td>
+      <td><b>Ingredients:</b> 1 shot  Dark rum, 1 slice  Orange, 1/2 glass  Surge, 1/2 glass  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend all together in a blender until smooth.</td>
+      <td><b>Instructions:</b> Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.</td>
     </tr>
   </table>
 </div>
@@ -102,7 +102,7 @@ Avoid gunfire in the bathroom tonight.
 **346 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.12°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.6°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:08 and sets 🌇 at 17:27
@@ -119,7 +119,7 @@ Avoid gunfire in the bathroom tonight.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 20 2024
+  Last update on Sun Jan 21 2024
   </div>
 <br>
 
