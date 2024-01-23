@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Never commit yourself!  Let someone else commit you.
+Your love life will be... interesting.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Never commit yourself!  Let someone else commit you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Yoghurt Cooler</strong></div></td>
+      <td><div align="center"><strong>Snakebite and Black</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trttrv1441254466.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Yoghurt, 1 cup  Fruit, Ice</td>
+      <td><b>Ingredients:</b> 1/2 pint  Lager, 1/2 pint  Cider, A little bit of  Blackcurrant squash</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed.</td>
+      <td><b>Instructions:</b> Put blackcurrant squash in first up to about 1cm in glass. Then add the lager and cider one after another.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Never commit yourself!  Let someone else commit you.
 <br>
 </details>
 
-**345 day before 2025 ⏱** days before new year
+**344 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-8°C (felt -12.22°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -1.55°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:07 and sets 🌇 at 17:28
+  The sun ☀️ rise 🌄 at 08:06 and sets 🌇 at 17:29
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Never commit yourself!  Let someone else commit you.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jan 22 2024
+  Last update on Tue Jan 23 2024
   </div>
 <br>
 
