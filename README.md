@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your love life will be... interesting.
+You dialed 5483.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Your love life will be... interesting.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Snakebite and Black</strong></div></td>
+      <td><div align="center"><strong>Gluehwein</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vuxwvt1468875418.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pint glass</td>
+      <td><b>Type of glass:</b> Irish coffee cup</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 pint  Lager, 1/2 pint  Cider, A little bit of  Blackcurrant squash</td>
+      <td><b>Ingredients:</b> 1 L  Red wine, 125 ml  Water, 60 gr  Sugar, 1  Cinnamon, 3  Cloves, 1 tblsp  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put blackcurrant squash in first up to about 1cm in glass. Then add the lager and cider one after another.</td>
+      <td><b>Instructions:</b> Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Your love life will be... interesting.
 <br>
 </details>
 
-**344 day before 2025 ⏱** days before new year
+**343 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -1.55°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.82°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:06 and sets 🌇 at 17:29
+  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 17:31
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Your love life will be... interesting.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jan 23 2024
+  Last update on Wed Jan 24 2024
   </div>
 <br>
 
