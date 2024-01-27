@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you stop an elephant from charging?A:	Take away his credit cards.
+Your boyfriend takes chocolate from strangers.
 </details>
 
 <details>
@@ -76,21 +76,19 @@ Q:	How do you stop an elephant from charging?A:	Take away his credit cards.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bee's Knees</strong></div></td>
+      <td><div align="center"><strong>Space Odyssey</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tx8ne41582475326.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Martini Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cl Gold rum, 2 cl Orange Juice, 2 cl Lime Juice, 2 jiggers Triple Sec</td>
+      <td><b>Ingredients:</b> 1 shot Bacardi  151 proof rum, 1 shot  Malibu rum, 1 shot  Pineapple juice, Orange juice, Grenadine, Cherries</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake ingredients with crushed ice
-Garnish with orange peel
-</td>
+      <td><b>Instructions:</b> Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +99,13 @@ Garnish with orange peel
 <br>
 </details>
 
-**341 day before 2025 ⏱** days before new year
+**340 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.1°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.85°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:03 and sets 🌇 at 17:34
+  The sun ☀️ rise 🌄 at 08:02 and sets 🌇 at 17:35
   </div>
 <br>
 
@@ -121,7 +119,7 @@ Garnish with orange peel
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jan 26 2024
+  Last update on Sat Jan 27 2024
   </div>
 <br>
 
