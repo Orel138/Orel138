@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your boyfriend takes chocolate from strangers.
+Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat think they are truffles.		-- Mark Twain, \"Pudd'nhead Wilson's Calendar\"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Your boyfriend takes chocolate from strangers.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Space Odyssey</strong></div></td>
+      <td><div align="center"><strong>Black Russian</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8oxlqf1606772765.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Bacardi  151 proof rum, 1 shot  Malibu rum, 1 shot  Pineapple juice, Orange juice, Grenadine, Cherries</td>
+      <td><b>Ingredients:</b> 3/4 oz  Coffee liqueur, 1 1/2 oz  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
+      <td><b>Instructions:</b> Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Your boyfriend takes chocolate from strangers.
 <br>
 </details>
 
-**340 day before 2025 ⏱** days before new year
+**339 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.85°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -4.06°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:02 and sets 🌇 at 17:35
+  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 17:36
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Your boyfriend takes chocolate from strangers.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 27 2024
+  Last update on Sun Jan 28 2024
   </div>
 <br>
 
