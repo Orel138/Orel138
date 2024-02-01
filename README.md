@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are deeply attached to your friends and acquaintances.
+Communicate!  It can't make things any worse.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You are deeply attached to your friends and acquaintances.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Havana Cocktail</strong></div></td>
+      <td><div align="center"><strong>Berry Deadly</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/zk74k21593351065.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Light rum, 1 oz  Pineapple juice, 1 tsp  Lemon juice</td>
+      <td><b>Ingredients:</b> 2 pint  Everclear, 1 bottle Boone Strawberry Hill  Wine, 1/2 gal  Orange juice, 1 gal Tropical Berry  Kool-Aid</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> Add all ingredients to large bowl. Stir gently. Serve chilled.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You are deeply attached to your friends and acquaintances.
 <br>
 </details>
 
-**336 day before 2025 ⏱** days before new year
+**335 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -1.06°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.38°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:58 and sets 🌇 at 17:41
+  The sun ☀️ rise 🌄 at 07:57 and sets 🌇 at 17:42
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You are deeply attached to your friends and acquaintances.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jan 31 2024
+  Last update on Thu Feb 01 2024
   </div>
 <br>
 
