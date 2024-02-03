@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intelligent as ever.		-- Samuel Beckett, \"Endgame\"
+Someone is speaking well of you.How unusual!
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intell
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lassi - Sweet</strong></div></td>
+      <td><div align="center"><strong>Vodka Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwxyux1441254243.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> White wine glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 4 tblsp  Sugar, pinch  Salt, 2 tblsp  Lemon juice</td>
+      <td><b>Ingredients:</b> 2 oz  Vodka, 2 oz  Half-and-half, 2 oz  Limeade, Ice, Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put all ingredients into a blender and blend until nice and frothy. Serve chilled.</td>
+      <td><b>Instructions:</b> Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intell
 <br>
 </details>
 
-**334 day before 2025 ⏱** days before new year
+**333 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.52°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt 0.23°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:56 and sets 🌇 at 17:44
+  The sun ☀️ rise 🌄 at 07:55 and sets 🌇 at 17:45
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intell
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Feb 02 2024
+  Last update on Sat Feb 03 2024
   </div>
 <br>
 
