@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Stay the curse.
+Noise proves nothing.  Often a hen who has merely laid an egg cacklesas if she laid an asteroid.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Stay the curse.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bumble Bee</strong></div></td>
+      <td><div align="center"><strong>3-Mile Long Island Iced Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwqpvv1461866378.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/3 oz  Baileys irish cream, 1/3 oz  Kahlua, 1/3 oz  Sambuca</td>
+      <td><b>Ingredients:</b> 1/2 oz Gin, 1/2 oz Light rum, 1/2 oz Tequila, 1/2 oz Triple sec, 1/2 oz Vodka, 1/2 oz Coca-Cola, 1-2 dash  Sweet and sour, 1 wedge  Bitters, Garnish with Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!</td>
+      <td><b>Instructions:</b> Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet & sour. Top with dash of bitters and lemon wedge.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Stay the curse.
 <br>
 </details>
 
-**332 day before 2025 ⏱** days before new year
+**331 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -2.12°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.1°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:54 and sets 🌇 at 17:46
+  The sun ☀️ rise 🌄 at 07:52 and sets 🌇 at 17:48
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Stay the curse.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Feb 04 2024
+  Last update on Mon Feb 05 2024
   </div>
 <br>
 
