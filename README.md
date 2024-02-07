@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are confused; but this is your normal state.
+Don't you wish you had more energy... or less ambition?
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You are confused; but this is your normal state.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vesuvio</strong></div></td>
+      <td><div align="center"><strong>Pink Panty Pulldowns</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/26cq601492976203.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Light rum, 1/2 oz  Sweet Vermouth, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1  Egg white</td>
+      <td><b>Ingredients:</b> 1 L  Sprite, 2 cups  Pink lemonade, 2 cups  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.</td>
+      <td><b>Instructions:</b> Shake well</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You are confused; but this is your normal state.
 <br>
 </details>
 
-**330 day before 2025 ⏱** days before new year
+**329 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.81°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -2.87°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:51 and sets 🌇 at 17:49
+  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 17:51
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You are confused; but this is your normal state.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 06 2024
+  Last update on Wed Feb 07 2024
   </div>
 <br>
 
