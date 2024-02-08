@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't you wish you had more energy... or less ambition?
+There are more things in heaven and earth,Horatio, than are dreamt of in your philosophy.		-- Wm. Shakespeare, \"Hamlet\"
 </details>
 
 <details>
@@ -76,19 +76,21 @@ Don't you wish you had more energy... or less ambition?
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pink Panty Pulldowns</strong></div></td>
+      <td><div align="center"><strong>Bee's Knees</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tx8ne41582475326.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 L  Sprite, 2 cups  Pink lemonade, 2 cups  Vodka</td>
+      <td><b>Ingredients:</b> 6 cl Gold rum, 2 cl Orange Juice, 2 cl Lime Juice, 2 jiggers Triple Sec</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well</td>
+      <td><b>Instructions:</b> Shake ingredients with crushed ice
+Garnish with orange peel
+</td>
     </tr>
   </table>
 </div>
@@ -99,13 +101,13 @@ Don't you wish you had more energy... or less ambition?
 <br>
 </details>
 
-**329 day before 2025 ⏱** days before new year
+**328 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -2.87°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.9°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 17:51
+  The sun ☀️ rise 🌄 at 07:48 and sets 🌇 at 17:52
   </div>
 <br>
 
@@ -119,7 +121,7 @@ Don't you wish you had more energy... or less ambition?
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Feb 07 2024
+  Last update on Thu Feb 08 2024
   </div>
 <br>
 
