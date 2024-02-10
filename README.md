@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your business will assume vast proportions.
+You are destined to become the commandant of the fighting men of thedepartment of transportation.
 </details>
 
 <details>
@@ -76,19 +76,20 @@ Your business will assume vast proportions.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Sea breeze</strong></div></td>
+      <td><div align="center"><strong>Pisco Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Vodka, 4 oz  Cranberry juice, 1 oz  Grapefruit juice</td>
+      <td><b>Ingredients:</b> 2 oz  Pisco, 1 oz  Lemon juice, 1-2 tblsp  Sugar, 1 Ice, Egg White</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.</td>
+      <td><b>Instructions:</b> Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
+</td>
     </tr>
   </table>
 </div>
@@ -99,13 +100,13 @@ Your business will assume vast proportions.
 <br>
 </details>
 
-**327 day before 2025 ⏱** days before new year
+**326 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 1.72°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.41°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:47 and sets 🌇 at 17:54
+  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 17:55
   </div>
 <br>
 
@@ -119,7 +120,7 @@ Your business will assume vast proportions.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Feb 09 2024
+  Last update on Sat Feb 10 2024
   </div>
 <br>
 
