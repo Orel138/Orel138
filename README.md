@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are destined to become the commandant of the fighting men of thedepartment of transportation.
+A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A lawyer who looks like a French Nobleman is executed in his place.The Metamorphosis LITE(tm)	-- by Franz Kafka	A man turns into a bug and his family gets annoyed.Lord of the Rings LITE(tm)	-- by J. R. R. Tolkien	Some guys take a long vacation to throw a ring into a volcano.Hamlet LITE(tm)	-- by Wm. Shakespeare	A college student on vacation with family problems, a screwy	girl-friend and a mother who won't act her age.
 </details>
 
 <details>
@@ -76,20 +76,19 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pisco Sour</strong></div></td>
+      <td><div align="center"><strong>Irish Russian</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/swqurw1454512730.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Pisco, 1 oz  Lemon juice, 1-2 tblsp  Sugar, 1 Ice, Egg White</td>
+      <td><b>Ingredients:</b> 1 shot  Vodka, 1 shot  Kahlua, 1 dash  Coca-Cola, Fill with  Guinness stout</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
-</td>
+      <td><b>Instructions:</b> Add the ingredients in the order listed in the recipe. Care must be taken when adding the Guinness to prevent an excess of foam. Do Not add ice.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +99,13 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <br>
 </details>
 
-**326 day before 2025 ⏱** days before new year
+**325 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.41°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -1.61°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 17:55
+  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 17:57
   </div>
 <br>
 
@@ -120,7 +119,7 @@ You are destined to become the commandant of the fighting men of thedepartment o
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Feb 10 2024
+  Last update on Sun Feb 11 2024
   </div>
 <br>
 
