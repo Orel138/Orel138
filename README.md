@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have a strong appeal for members of your own sex.
+What good is an obscenity trial except to popularize literature?		-- Nero Wolfe, \"The League of Frightened Men\"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You have a strong appeal for members of your own sex.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Tequila Fizz</strong></div></td>
+      <td><div align="center"><strong>Orange Whip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2bcase1504889637.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Tequila, 1 tblsp  Lemon juice, 3/4 oz  Grenadine, 1  Egg white, Ginger ale</td>
+      <td><b>Ingredients:</b> 4 oz  Orange juice, 1 oz  Rum, 1 oz  Vodka, 1 package  Cream, Over  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve.</td>
+      <td><b>Instructions:</b> Pour ingredients over ice and stir.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You have a strong appeal for members of your own sex.
 <br>
 </details>
 
-**323 day before 2025 ⏱** days before new year
+**322 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.46°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.19°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:41 and sets 🌇 at 18:00
+  The sun ☀️ rise 🌄 at 07:40 and sets 🌇 at 18:01
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You have a strong appeal for members of your own sex.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 13 2024
+  Last update on Wed Feb 14 2024
   </div>
 <br>
 
