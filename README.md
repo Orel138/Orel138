@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Many pages make a thick book.
+You will give someone a piece of your mind, which you can ill afford.
 </details>
 
 <details>
@@ -76,22 +76,19 @@ Many pages make a thick book.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>747 Drink</strong></div></td>
+      <td><div align="center"><strong>Almeria</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Vodka, 1 oz Roses sweetened lime juice, 1 oz Cranberry Juice, Top Sprite</td>
+      <td><b>Ingredients:</b> 2 oz  Dark rum, 1 oz  Kahlua, 1  Egg white</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a Collins glass with ice.
-Pour in vodka, lime cordial, and cranberry juice.
-Fill up with Sprite.
-Garnish with a Lime wheel or some cranberries</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -102,13 +99,13 @@ Garnish with a Lime wheel or some cranberries</td>
 <br>
 </details>
 
-**321 day before 2025 ⏱** days before new year
+**320 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.47°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.45°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:39 and sets 🌇 at 18:02
+  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 18:04
   </div>
 <br>
 
@@ -122,7 +119,7 @@ Garnish with a Lime wheel or some cranberries</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Feb 15 2024
+  Last update on Fri Feb 16 2024
   </div>
 <br>
 
