@@ -19,7 +19,11 @@ function getOpenWeatherMapAPIKey() {
 }
 
 function getFortuneCookie() {
-  return process.env.FORTUNE_COOKIE || 'No fortune cookie today.';
+  // Retrieve the FORTUNE_COOKIE environment variable, or default to a fallback message
+  let fortune = process.env.FORTUNE_COOKIE || 'No fortune cookie today.';
+  // Replace escaped double quotes with unescaped double quotes
+  fortune = fortune.replace(/\\"/g, '"');
+  return fortune;
 }
 
 async function generateNewREADME() {
