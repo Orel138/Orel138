@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-For a light heart lives long.		-- Shakespeare, \"Love's Labour's Lost\"
+	A man was reading The Canterbury Tales one Saturday morning, when hiswife asked \"What have you got there?\"  Replied he, \"Just my cup and Chaucer.\"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ For a light heart lives long.		-- Shakespeare, \"Love's Labour's Lost\"
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kool First Aid</strong></div></td>
+      <td><div align="center"><strong>Pink Gin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hfp6sv1503564824.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qyr51e1504888618.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> White wine glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz light  151 proof rum, 1/2 tsp Tropical  Kool-Aid</td>
+      <td><b>Ingredients:</b> 3 dashes  Bitters, 2 oz  Gin</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.</td>
+      <td><b>Instructions:</b> Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ For a light heart lives long.		-- Shakespeare, \"Love's Labour's Lost\"
 <br>
 </details>
 
-**319 day before 2025 ⏱** days before new year
+**318 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.58°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 1.58°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:35 and sets 🌇 at 18:05
+  The sun ☀️ rise 🌄 at 07:34 and sets 🌇 at 18:07
   </div>
 <br>
 
@@ -119,7 +119,7 @@ For a light heart lives long.		-- Shakespeare, \"Love's Labour's Lost\"
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Feb 17 2024
+  Last update on Sun Feb 18 2024
   </div>
 <br>
 
