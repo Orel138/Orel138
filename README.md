@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Noise proves nothing.  Often a hen who has merely laid an egg cacklesas if she laid an asteroid.		-- Mark Twain
+Must I hold a candle to my shames?		-- William Shakespeare, "The Merchant of Venice"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Noise proves nothing.  Often a hen who has merely laid an egg cacklesas if she l
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Irish Cream</strong></div></td>
+      <td><div align="center"><strong>California Root Beer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/90etyl1504884699.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rsxuyr1472719526.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Irish coffee cup</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Scotch, 1 1/4 cup  Half-and-half, 1 can sweetened  Condensed milk, 3 drops  Coconut syrup, 1 tblsp  Chocolate syrup</td>
+      <td><b>Ingredients:</b> 3/4 oz  Kahlua, 3/4 oz  Galliano, Fill with  Soda water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix scotch and milk. Add half-and-half. Add rest.</td>
+      <td><b>Instructions:</b> Put Kahlua and Galliano in highball glass fill with soda</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Noise proves nothing.  Often a hen who has merely laid an egg cacklesas if she l
 <br>
 </details>
 
-**316 day before 2025 ⏱** days before new year
+**315 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -3.29°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.41°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 18:10
+  The sun ☀️ rise 🌄 at 07:29 and sets 🌇 at 18:11
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Noise proves nothing.  Often a hen who has merely laid an egg cacklesas if she l
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 20 2024
+  Last update on Wed Feb 21 2024
   </div>
 <br>
 
