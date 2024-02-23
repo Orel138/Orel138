@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will engage in a profitable business activity.
+Q:	How do you shoot a blue elephant?A:	With a blue-elephant gun.Q:	How do you shoot a pink elephant?A:	Twist its trunk until it turns blue, then shoot it with	a blue-elephant gun.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will engage in a profitable business activity.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Absolutely Cranberry Smash</strong></div></td>
+      <td><div align="center"><strong>Radioactive Long Island Iced Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rdvqmh1503563512.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Absolut Vodka, 4 oz  Cranberry juice, 2 oz  Ginger ale, Add  Ice</td>
+      <td><b>Ingredients:</b> 1 oz  Rum, 1 oz  Vodka, 1 oz  Tequila, 1 oz  Gin, 1 oz  Triple sec, 1 oz  Chambord raspberry liqueur, 1 oz  Midori melon liqueur, 1 oz  Malibu rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir ingredients together. Serve over ice.</td>
+      <td><b>Instructions:</b> Pour all ingredients over ice in a very tall glass. Sip cautiously.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You will engage in a profitable business activity.
 <br>
 </details>
 
-**314 day before 2025 ⏱** days before new year
+**313 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.62°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -6.38°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 18:12
+  The sun ☀️ rise 🌄 at 07:26 and sets 🌇 at 18:14
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You will engage in a profitable business activity.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Feb 22 2024
+  Last update on Fri Feb 23 2024
   </div>
 <br>
 
