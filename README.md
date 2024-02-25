@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Troubled day for virgins over 16 who are beautiful and wealthy and livein eucalyptus trees.
+If you laid all of our laws end to end, there would be no end.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Troubled day for virgins over 16 who are beautiful and wealthy and livein eucaly
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cafe Savoy</strong></div></td>
+      <td><div align="center"><strong>Gin And Tonic</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Coffee, 1/2 oz  Milk, 1/2 oz  Triple sec, Brandy</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Tonic water, 1  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
+      <td><b>Instructions:</b> Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Troubled day for virgins over 16 who are beautiful and wealthy and livein eucaly
 <br>
 </details>
 
-**312 day before 2025 ⏱** days before new year
+**311 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -6.58°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -5.67°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:24 and sets 🌇 at 18:15
+  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 18:17
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Troubled day for virgins over 16 who are beautiful and wealthy and livein eucaly
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Feb 24 2024
+  Last update on Sun Feb 25 2024
   </div>
 <br>
 
