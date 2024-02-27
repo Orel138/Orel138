@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your true value depends entirely on what you are compared with.
+He is now rising from affluence to poverty.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Your true value depends entirely on what you are compared with.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Martinez Cocktail</strong></div></td>
+      <td><div align="center"><strong>Artillery</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g1vnbe1493067747.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Gin, 1 oz  Dry Vermouth, 1/4 tsp  Triple sec, 1 dash  Orange bitters, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1 1/2 tsp  Sweet Vermouth, 1 1/2 oz  Gin, 2 dashes  Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
+      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Your true value depends entirely on what you are compared with.
 <br>
 </details>
 
-**310 day before 2025 ⏱** days before new year
+**309 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.05°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:21 and sets 🌇 at 18:18
+  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 18:19
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Your true value depends entirely on what you are compared with.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Feb 26 2024
+  Last update on Tue Feb 27 2024
   </div>
 <br>
 
