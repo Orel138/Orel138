@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-He is now rising from affluence to poverty.		-- Mark Twain
+Your reasoning is excellent -- it's only your basic assumptions that are wrong.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ He is now rising from affluence to poverty.		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Artillery</strong></div></td>
+      <td><div align="center"><strong>Casa Blanca</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g1vnbe1493067747.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 tsp  Sweet Vermouth, 1 1/2 oz  Gin, 2 dashes  Bitters</td>
+      <td><b>Ingredients:</b> 2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 1/2 tsp  Lime juice, 1 1/2 tsp  Maraschino liqueur</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ He is now rising from affluence to poverty.		-- Mark Twain
 <br>
 </details>
 
-**309 day before 2025 ⏱** days before new year
+**308 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.05°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.12°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 18:19
+  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 18:21
   </div>
 <br>
 
@@ -119,7 +119,7 @@ He is now rising from affluence to poverty.		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 27 2024
+  Last update on Wed Feb 28 2024
   </div>
 <br>
 
