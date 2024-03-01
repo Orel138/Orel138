@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Chess tonight.
+A banker is a fellow who lends you his umbrella when the sun is shiningand wants it back the minute it begins to rain.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Chess tonight.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Old Cuban</strong></div></td>
+      <td><div align="center"><strong>Herbal flame</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Mason jar</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz White Rum, 1 oz Sugar Syrup, 1 oz Lime Juice, 2 dashes Angostura Bitters, 2 oz Prosecco</td>
+      <td><b>Ingredients:</b> 5 shots  Hot Damn, very sweet  Tea</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.</td>
+      <td><b>Instructions:</b> Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Chess tonight.
 <br>
 </details>
 
-**307 day before 2025 ⏱** days before new year
+**306 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -1.91°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.15°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 18:22
+  The sun ☀️ rise 🌄 at 07:14 and sets 🌇 at 18:23
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Chess tonight.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Feb 29 2024
+  Last update on Fri Mar 01 2024
   </div>
 <br>
 
