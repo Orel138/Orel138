@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Doppelgutt and said 'The Senator must really have been on abender this time -- he left a party in Cleveland, Ohio, at 11:30 lastnight, and they found his car this morning in the smokestack of a Britishaircraft carrier in the Formosa Straits.'		-- Grand Panjandrum's Special Award, 1985 Bulwer-Lytton		   bad fiction contest.
+People are beginning to notice you.  Try dressing before you leave the house.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Do
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bloody Maria</strong></div></td>
+      <td><div align="center"><strong>Afternoon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yz0j6z1504389461.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vyrurp1472667777.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Tequila, 2 oz  Tomato juice, 1 dash  Lemon juice, 1 dash  Tabasco sauce, 1 dash  Celery salt, 1 slice  Lemon</td>
+      <td><b>Ingredients:</b> 1 cl  Kahlua, 1 cl  Baileys irish cream, 1 1/2  Frangelico, 4 cl hot  Coffee, Cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.</td>
+      <td><b>Instructions:</b> Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Do
 <br>
 </details>
 
-**305 day before 2025 ⏱** days before new year
+**304 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -3.28°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.36°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 18:25
+  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 18:26
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Do
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Mar 02 2024
+  Last update on Sun Mar 03 2024
   </div>
 <br>
 
