@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-People are beginning to notice you.  Try dressing before you leave the house.
+Tomorrow, you can be anywhere.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ People are beginning to notice you.  Try dressing before you leave the house.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Afternoon</strong></div></td>
+      <td><div align="center"><strong>Abbey Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vyrurp1472667777.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cl  Kahlua, 1 cl  Baileys irish cream, 1 1/2  Frangelico, 4 cl hot  Coffee, Cream</td>
+      <td><b>Ingredients:</b> 2 shots  Gin, 1 shot  Sweet Vermouth, 1 shot  Orange Juice, 3 dashes  Angostura Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.</td>
+      <td><b>Instructions:</b> Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ People are beginning to notice you.  Try dressing before you leave the house.
 <br>
 </details>
 
-**304 day before 2025 ⏱** days before new year
+**303 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.36°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.82°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 18:26
+  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 18:27
   </div>
 <br>
 
@@ -119,7 +119,7 @@ People are beginning to notice you.  Try dressing before you leave the house.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 03 2024
+  Last update on Mon Mar 04 2024
   </div>
 <br>
 
