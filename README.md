@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tomorrow, you can be anywhere.
+	"...The name of the song is called 'Haddocks' Eyes'!"	"Oh, that's the name of the song, is it?" Alice said, trying tofeel interested.	"No, you don't understand," the Knight said, looking a littlevexed.  "That's what the name is called.  The name really is, 'The AgedAged Man.'"	"Then I ought to have said "That's what the song is called'?"Alice corrected herself.	"No, you oughtn't: that's quite another thing!  The song iscalled 'Ways and Means':  but that's only what it is called you know!"	"Well, what is the song then?" said Alice, who was by thistime completely bewildered.	"I was coming to that," the Knight said.  "The song really is"A-sitting on a Gate": and the tune's my own invention."		-- Lewis Carroll, "Through the Looking Glass"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Tomorrow, you can be anywhere.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Abbey Martini</strong></div></td>
+      <td><div align="center"><strong>The Galah</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 shots  Gin, 1 shot  Sweet Vermouth, 1 shot  Orange Juice, 3 dashes  Angostura Bitters</td>
+      <td><b>Ingredients:</b> 1 shot Dark Rum, 1 shot Campari, 1/2 shot Creme De Banane, Top Pineapple Juice, Top Lime Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Mix together the alcoholic portions and top with Pineapple and Lime juice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Tomorrow, you can be anywhere.
 <br>
 </details>
 
-**303 day before 2025 ⏱** days before new year
+**302 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.82°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -2.31°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 18:27
+  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 18:29
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Tomorrow, you can be anywhere.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Mar 04 2024
+  Last update on Tue Mar 05 2024
   </div>
 <br>
 
