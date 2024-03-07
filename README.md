@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intelligent as ever.		-- Samuel Beckett, "Endgame"
+Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put their hair in ponytails?A:	To cover up the valve stem.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intell
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cranberry Cordial</strong></div></td>
+      <td><div align="center"><strong>Algonquin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qtspsx1472667392.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 kg chopped  Cranberries, 3/4 L  Sugar, 1/2 L  Light rum</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, 1 oz  Dry Vermouth, 1 oz  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place the chopped cranberries in a 2 liter jar that has a tight-fitting lid. Add the sugar and rum. Adjust the lid securely and place the jar in a cool, dark place. Invert the jar and shake it every day for six weeks. Strain the cordial into bottles and seal with corks.</td>
+      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intell
 <br>
 </details>
 
-**301 day before 2025 ⏱** days before new year
+**300 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -7.25°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.49°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 18:30
+  The sun ☀️ rise 🌄 at 07:03 and sets 🌇 at 18:31
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intell
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Mar 06 2024
+  Last update on Thu Mar 07 2024
   </div>
 <br>
 
