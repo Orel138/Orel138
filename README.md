@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put their hair in ponytails?A:	To cover up the valve stem.
+All the troubles you have will pass away very quickly.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Algonquin</strong></div></td>
+      <td><div align="center"><strong>Black Forest Shake</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, 1 oz  Dry Vermouth, 1 oz  Pineapple juice</td>
+      <td><b>Ingredients:</b> cubes Ice, Chocolate syrup, Cherry brandy, Vodka, Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put 
 <br>
 </details>
 
-**300 day before 2025 ⏱** days before new year
+**299 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.49°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -6.63°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:03 and sets 🌇 at 18:31
+  The sun ☀️ rise 🌄 at 07:01 and sets 🌇 at 18:33
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put 
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 07 2024
+  Last update on Fri Mar 08 2024
   </div>
 <br>
 
