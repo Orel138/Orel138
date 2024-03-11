@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Are we not men?A:	We are Vaxen.
+There is a great discovery still to be made in Literature: that ofpaying literary men by the quantity they do NOT write.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	Are we not men?A:	We are Vaxen.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vampiro</strong></div></td>
+      <td><div align="center"><strong>A Furlong Too Late</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yfhn371504374246.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-Fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cl Tequila, 3 cl Tomato Juice, 3 cl Orange Juice, 1.5 cl Lime Juice, 1 dash Sugar Syrup, 1 pinch Salt</td>
+      <td><b>Ingredients:</b> 2 oz  Light rum, 4 oz  Ginger beer, 1 twist of  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.</td>
+      <td><b>Instructions:</b> Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	Are we not men?A:	We are Vaxen.
 <br>
 </details>
 
-**297 day before 2025 ⏱** days before new year
+**296 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt 0.4°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.55°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:58 and sets 🌇 at 18:35
+  The sun ☀️ rise 🌄 at 06:56 and sets 🌇 at 18:37
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	Are we not men?A:	We are Vaxen.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 10 2024
+  Last update on Mon Mar 11 2024
   </div>
 <br>
 
