@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-There is a great discovery still to be made in Literature: that ofpaying literary men by the quantity they do NOT write.
+Expect the worst, it's the least you can do.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ There is a great discovery still to be made in Literature: that ofpaying literar
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A Furlong Too Late</strong></div></td>
+      <td><div align="center"><strong>Atlantic Sun</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/doyxqb1493067556.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Light rum, 4 oz  Ginger beer, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 2 cl Smirnoff  Vodka, 2 cl  Southern Comfort, 2 cl  Passion fruit syrup, 6 cl  Sweet and sour, 1 dash  Club soda</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.</td>
+      <td><b>Instructions:</b> Shake all the ingredients, top the drink with soda. Garnish with a slice of orange.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ There is a great discovery still to be made in Literature: that ofpaying literar
 <br>
 </details>
 
-**296 day before 2025 ⏱** days before new year
+**295 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.55°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.59°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:56 and sets 🌇 at 18:37
+  The sun ☀️ rise 🌄 at 06:54 and sets 🌇 at 18:38
   </div>
 <br>
 
@@ -119,7 +119,7 @@ There is a great discovery still to be made in Literature: that ofpaying literar
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Mar 11 2024
+  Last update on Tue Mar 12 2024
   </div>
 <br>
 
