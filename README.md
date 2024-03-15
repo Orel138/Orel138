@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be awarded some great honor.
+This will be a memorable month -- no matter how hard you try to forget it.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will be awarded some great honor.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Aviation</strong></div></td>
+      <td><div align="center"><strong>Addison</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trbplb1606855233.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4.5 cl Gin, 1.5 cl lemon juice, 1.5 cl maraschino liqueur</td>
+      <td><b>Ingredients:</b> 1 1/2 shot  Gin, 1 1/2 shot  Vermouth</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.</td>
+      <td><b>Instructions:</b> Shake together all the ingredients and strain into a cold glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You will be awarded some great honor.
 <br>
 </details>
 
-**293 day before 2025 ⏱** days before new year
+**292 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.65°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.95°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:50 and sets 🌇 at 18:41
+  The sun ☀️ rise 🌄 at 06:48 and sets 🌇 at 18:42
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You will be awarded some great honor.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 14 2024
+  Last update on Fri Mar 15 2024
   </div>
 <br>
 
