@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"Life, loathe it or ignore it, you can't like it."		-- Marvin, "Hitchhiker's Guide to the Galaxy"
+Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man walks into a drugstore and states loudly, "I'd	like some condoms," and then, leaning over the counter, whispers,	"and some cigarettes."
 </details>
 
 <details>
@@ -76,21 +76,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rosemary Blue</strong></div></td>
+      <td><div align="center"><strong>After sex</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qwc5f91512406543.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Balloon Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Gin, 15 ml Blue Curacao, 100 ml Tonic Water, Garnish with Rosemary</td>
+      <td><b>Ingredients:</b> 2 cl  Vodka, 1 cl  Creme de Banane, Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> 1) Add the Bombay Sapphire, Blue Curacao, rosemary sprig and gently squeezed lemon wedge to a balloon glass. Swirl well to combine.
-2) Fill with cubed ice and top with the Fever-Tree Light Tonic Water.
-3) Gently fold with a bar spoon to mix.</td>
+      <td><b>Instructions:</b> Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar</td>
     </tr>
   </table>
 </div>
@@ -101,13 +99,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**291 day before 2025 ⏱** days before new year
+**290 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.86°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.52°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:46 and sets 🌇 at 18:43
+  The sun ☀️ rise 🌄 at 06:44 and sets 🌇 at 18:44
   </div>
 <br>
 
@@ -121,7 +119,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Mar 16 2024
+  Last update on Sun Mar 17 2024
   </div>
 <br>
 
