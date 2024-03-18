@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man walks into a drugstore and states loudly, "I'd	like some condoms," and then, leaning over the counter, whispers,	"and some cigarettes."
+You will be reincarnated as a toad; and you will be much happier.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>After sex</strong></div></td>
+      <td><div align="center"><strong>Brandon and Will's Coke Float</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xspxyr1472719185.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Beer mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cl  Vodka, 1 cl  Creme de Banane, Orange juice</td>
+      <td><b>Ingredients:</b> 2 scoops  Vanilla ice-cream, 1 can  Coca-Cola, 2 oz  Bourbon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar</td>
+      <td><b>Instructions:</b> Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man
 <br>
 </details>
 
-**290 day before 2025 ⏱** days before new year
+**289 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.52°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.79°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:44 and sets 🌇 at 18:44
+  The sun ☀️ rise 🌄 at 06:43 and sets 🌇 at 18:46
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 17 2024
+  Last update on Mon Mar 18 2024
   </div>
 <br>
 
