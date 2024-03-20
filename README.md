@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Caution: breathing may be hazardous to your health.
+Advancement in position.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Caution: breathing may be hazardous to your health.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mojito</strong></div></td>
+      <td><div align="center"><strong>Quentin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2-3 oz  Light rum, Juice of 1  Lime, 2 tsp  Sugar, 2-4  Mint, Soda water</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Dark rum, 1/2 oz  Kahlua, 1 oz  Light cream, 1/8 tsp grated  Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Caution: breathing may be hazardous to your health.
 <br>
 </details>
 
-**288 day before 2025 ⏱** days before new year
+**287 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.07°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.2°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 18:47
+  The sun ☀️ rise 🌄 at 06:39 and sets 🌇 at 18:48
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Caution: breathing may be hazardous to your health.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Mar 19 2024
+  Last update on Wed Mar 20 2024
   </div>
 <br>
 
