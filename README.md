@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Look afar and see the end from the beginning.
+The lunatic, the lover, and the poet,Are of imagination all compact...		-- Wm. Shakespeare, "A Midsummer Night's Dream"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Look afar and see the end from the beginning.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bobby Burns Cocktail</strong></div></td>
+      <td><div align="center"><strong>Zambeer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Sweet Vermouth, 1 1/2 oz  Scotch, 1 1/4 tsp  Benedictine, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Sambuca, Add 10 oz  Root beer, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
+      <td><b>Instructions:</b> Mix sambuca with rootbeer and stir. Add ice</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Look afar and see the end from the beginning.
 <br>
 </details>
 
-**285 day before 2025 ⏱** days before new year
+**284 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.19°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.43°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:35 and sets 🌇 at 18:51
+  The sun ☀️ rise 🌄 at 06:33 and sets 🌇 at 18:52
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Look afar and see the end from the beginning.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Mar 22 2024
+  Last update on Sat Mar 23 2024
   </div>
 <br>
 
