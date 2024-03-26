@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's buried in Grant's tomb?A:	A corpse.
+Soap and education are not as sudden as a massacre, but they are moredeadly in the long run.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What's buried in Grant's tomb?A:	A corpse.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lunch Box</strong></div></td>
+      <td><div align="center"><strong>Snake Bite (UK)</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 bottle  Beer, 1 shot  Amaretto, 1 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 1/2 pint  Lager, 1/2 pint sweet or dry  Cider</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.</td>
+      <td><b>Instructions:</b> Pour ingredients into a pint glass. Drink. Fall over.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What's buried in Grant's tomb?A:	A corpse.
 <br>
 </details>
 
-**282 day before 2025 ⏱** days before new year
+**281 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -3.54°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.38°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:29 and sets 🌇 at 18:55
+  The sun ☀️ rise 🌄 at 06:27 and sets 🌇 at 18:56
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What's buried in Grant's tomb?A:	A corpse.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Mar 25 2024
+  Last update on Tue Mar 26 2024
   </div>
 <br>
 
