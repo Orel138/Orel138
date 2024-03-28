@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Patch griefs with proverbs.		-- William Shakespeare, "Much Ado About Nothing"
+Q:	What's yellow, and equivalent to the Axiom of Choice?A:	Zorn's Lemon.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Patch griefs with proverbs.		-- William Shakespeare, "Much Ado About Nothing"
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Orange Crush</strong></div></td>
+      <td><div align="center"><strong>Kioki Coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/zvoics1504885926.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Vodka, 1 oz  Triple sec, 1 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 1 oz  Kahlua, 1/2 oz  Brandy, Coffee</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all ingredients to tumbler-Pour as shot</td>
+      <td><b>Instructions:</b> Stir. Add whipped cream to the top.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Patch griefs with proverbs.		-- William Shakespeare, "Much Ado About Nothing"
 <br>
 </details>
 
-**280 day before 2025 ⏱** days before new year
+**279 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.03°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -1.9°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 18:57
+  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 18:58
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Patch griefs with proverbs.		-- William Shakespeare, "Much Ado About Nothing"
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Mar 27 2024
+  Last update on Thu Mar 28 2024
   </div>
 <br>
 
