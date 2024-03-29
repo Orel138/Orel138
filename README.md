@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's yellow, and equivalent to the Axiom of Choice?A:	Zorn's Lemon.
+You will be awarded a medal for disregarding safety in saving someone.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What's yellow, and equivalent to the Axiom of Choice?A:	Zorn's Lemon.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kioki Coffee</strong></div></td>
+      <td><div align="center"><strong>Apple Karate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Kahlua, 1/2 oz  Brandy, Coffee</td>
+      <td><b>Ingredients:</b> 2 cups  Apple juice, 1 large  Carrot</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir. Add whipped cream to the top.</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What's yellow, and equivalent to the Axiom of Choice?A:	Zorn's Lemon.
 <br>
 </details>
 
-**279 day before 2025 ⏱** days before new year
+**278 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -1.9°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt -0.07°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 18:58
+  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 19:00
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What's yellow, and equivalent to the Axiom of Choice?A:	Zorn's Lemon.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 28 2024
+  Last update on Fri Mar 29 2024
   </div>
 <br>
 
