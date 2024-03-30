@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be awarded a medal for disregarding safety in saving someone.
+Be security conscious -- National defense is at stake.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will be awarded a medal for disregarding safety in saving someone.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Apple Karate</strong></div></td>
+      <td><div align="center"><strong>Grass Skirt</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qyvprp1473891585.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Apple juice, 1 large  Carrot</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Triple sec, 1 oz  Pineapple juice, 1/2 tsp  Grenadine, 1  Pineapple</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You will be awarded a medal for disregarding safety in saving someone.
 <br>
 </details>
 
-**278 day before 2025 ⏱** days before new year
+**277 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt -0.07°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt -0.71°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 19:00
+  The sun ☀️ rise 🌄 at 06:20 and sets 🌇 at 19:01
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You will be awarded a medal for disregarding safety in saving someone.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Mar 29 2024
+  Last update on Sat Mar 30 2024
   </div>
 <br>
 
