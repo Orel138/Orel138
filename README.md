@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Be security conscious -- National defense is at stake.
+The naked truth of it is, I have no shirt.		-- William Shakespeare, "Love's Labour's Lost"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Be security conscious -- National defense is at stake.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Grass Skirt</strong></div></td>
+      <td><div align="center"><strong>Alabama Slammer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qyvprp1473891585.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jntghf1606771886.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Triple sec, 1 oz  Pineapple juice, 1/2 tsp  Grenadine, 1  Pineapple</td>
+      <td><b>Ingredients:</b> 1 oz  Southern Comfort, 1 oz  Amaretto, 1/2 oz  Sloe gin, 1 dash  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.</td>
+      <td><b>Instructions:</b> Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Be security conscious -- National defense is at stake.
 <br>
 </details>
 
-**277 day before 2025 ⏱** days before new year
+**276 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt -0.71°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -2.26°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:20 and sets 🌇 at 19:01
+  The sun ☀️ rise 🌄 at 07:18 and sets 🌇 at 20:02
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Be security conscious -- National defense is at stake.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Mar 30 2024
+  Last update on Sun Mar 31 2024
   </div>
 <br>
 
