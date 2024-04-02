@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-ROMEO:		Courage, man; the hurt cannot be much.MERCUTIO:	No, 'tis not so deep as a well, nor so wide			as a church-door; but 'tis enough, 'twill serve.
+Domestic happiness and faithful friends.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ ROMEO:		Courage, man; the hurt cannot be much.MERCUTIO:	No, 'tis not so deep as 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Artillery Punch</strong></div></td>
+      <td><div align="center"><strong>Orangeade</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9a4vqb1493067692.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ytsxxw1441167732.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch bowl</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 quart black  Tea, 1 quart  Rye whiskey, 1 fifth  Red wine, 1 pint Jamaican  Rum, 1/2 pint  Brandy, 1 1/2 oz  Benedictine, 1 pint  Orange juice, 1/2 pint  Lemon juice</td>
+      <td><b>Ingredients:</b> 5 cl  Lemon juice, 15 cl  Orange juice, 2-3 cl  Sugar syrup, Soda water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel.</td>
+      <td><b>Instructions:</b> Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ ROMEO:		Courage, man; the hurt cannot be much.MERCUTIO:	No, 'tis not so deep as 
 <br>
 </details>
 
-**275 day before 2025 ⏱** days before new year
+**274 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt 0.32°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -1.35°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 20:03
+  The sun ☀️ rise 🌄 at 07:14 and sets 🌇 at 20:05
   </div>
 <br>
 
@@ -119,7 +119,7 @@ ROMEO:		Courage, man; the hurt cannot be much.MERCUTIO:	No, 'tis not so deep as 
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 01 2024
+  Last update on Tue Apr 02 2024
   </div>
 <br>
 
