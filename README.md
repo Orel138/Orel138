@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will not be elected to public office this year.
+Go to a movie tonight.  Darkness becomes you.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will not be elected to public office this year.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>57 Chevy with a White License Plate</strong></div></td>
+      <td><div align="center"><strong>Lassi Khara</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz white  Creme de Cacao, 1 oz  Vodka</td>
+      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 1 tsp  Salt, 1 pinch  Asafoetida</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> 1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir</td>
+      <td><b>Instructions:</b> Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You will not be elected to public office this year.
 <br>
 </details>
 
-**268 day before 2025 ⏱** days before new year
+**267 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 3.28°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 4.18°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:03 and sets 🌇 at 20:12
+  The sun ☀️ rise 🌄 at 07:01 and sets 🌇 at 20:14
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You will not be elected to public office this year.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 08 2024
+  Last update on Tue Apr 09 2024
   </div>
 <br>
 
