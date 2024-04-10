@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Go to a movie tonight.  Darkness becomes you.
+You will never know hunger.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Go to a movie tonight.  Darkness becomes you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lassi Khara</strong></div></td>
+      <td><div align="center"><strong>Belgian Blue</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jylbrq1582580066.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 1 tsp  Salt, 1 pinch  Asafoetida</td>
+      <td><b>Ingredients:</b> 2 cl  Vodka, 1 cl  Coconut liqueur, 1 cl  Blue Curacao, Fill with  Sprite</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
+      <td><b>Instructions:</b> Just pour all ingredients in the glass and stir...</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Go to a movie tonight.  Darkness becomes you.
 <br>
 </details>
 
-**267 day before 2025 ⏱** days before new year
+**266 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 4.18°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -5.52°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:01 and sets 🌇 at 20:14
+  The sun ☀️ rise 🌄 at 07:00 and sets 🌇 at 20:15
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Go to a movie tonight.  Darkness becomes you.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 09 2024
+  Last update on Wed Apr 10 2024
   </div>
 <br>
 
