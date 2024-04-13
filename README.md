@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You'll feel much better once you've given up hope.
+Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intelligent as ever.		-- Samuel Beckett, "Endgame"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You'll feel much better once you've given up hope.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Boxcar</strong></div></td>
+      <td><div align="center"><strong>Avalon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Triple sec, 1 tsp  Lemon juice, 1/2 tsp  Grenadine, 1  Egg white</td>
+      <td><b>Ingredients:</b> 3 parts Vodka, 1 part  Pisang Ambon, 6 parts  Apple juice, 1 1/2 part  Lemon juice, Lemonade</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.</td>
+      <td><b>Instructions:</b> Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You'll feel much better once you've given up hope.
 <br>
 </details>
 
-**264 day before 2025 ⏱** days before new year
+**263 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.01°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.53°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:56 and sets 🌇 at 20:17
+  The sun ☀️ rise 🌄 at 06:54 and sets 🌇 at 20:19
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You'll feel much better once you've given up hope.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 12 2024
+  Last update on Sat Apr 13 2024
   </div>
 <br>
 
