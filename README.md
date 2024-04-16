@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Consider well the proportions of things.  It is better to be a young June-bugthan an old bird of paradise.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+You will be divorced within a year.
 </details>
 
 <details>
@@ -76,21 +76,19 @@ Consider well the proportions of things.  It is better to be a young June-bugtha
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mango Mojito</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sweet & Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Jar</td>
+      <td><b>Type of glass:</b> Margarita/Coupette glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 Lime, 1 Fresh Mango, Sprig Mint, 200 ml White Rum, cubes Ice, Top Soda Water, Garnish with Mango</td>
+      <td><b>Ingredients:</b> Amaretto, Sweet and sour, Midori melon liqueur, Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
-Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
-Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.</td>
+      <td><b>Instructions:</b> Fill the blender with 3/4 ice. Add sweet & sour mix to the top of the ice. Add about 1" of pineapple juice, 1/2" of melon liqeur, and 1/2 to 1/4" of amaretto. Then blend the mix until it is of margaritta consistency or thinner.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +99,13 @@ Divide the mango purée between the glasses and add 30ml white rum and a handful
 <br>
 </details>
 
-**261 day before 2025 ⏱** days before new year
+**260 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.45°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.33°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:51 and sets 🌇 at 20:21
+  The sun ☀️ rise 🌄 at 06:49 and sets 🌇 at 20:22
   </div>
 <br>
 
@@ -121,7 +119,7 @@ Divide the mango purée between the glasses and add 30ml white rum and a handful
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 15 2024
+  Last update on Tue Apr 16 2024
   </div>
 <br>
 
