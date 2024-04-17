@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be divorced within a year.
+Your lucky number has been disconnected.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will be divorced within a year.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Sweet & Sour</strong></div></td>
+      <td><div align="center"><strong>Lassi - Sweet</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Margarita/Coupette glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Amaretto, Sweet and sour, Midori melon liqueur, Pineapple juice</td>
+      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 4 tblsp  Sugar, pinch  Salt, 2 tblsp  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill the blender with 3/4 ice. Add sweet & sour mix to the top of the ice. Add about 1" of pineapple juice, 1/2" of melon liqeur, and 1/2 to 1/4" of amaretto. Then blend the mix until it is of margaritta consistency or thinner.</td>
+      <td><b>Instructions:</b> Put all ingredients into a blender and blend until nice and frothy. Serve chilled.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You will be divorced within a year.
 <br>
 </details>
 
-**260 day before 2025 ⏱** days before new year
+**259 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.33°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.74°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:49 and sets 🌇 at 20:22
+  The sun ☀️ rise 🌄 at 06:47 and sets 🌇 at 20:24
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You will be divorced within a year.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 16 2024
+  Last update on Wed Apr 17 2024
   </div>
 <br>
 
