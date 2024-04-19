@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do Winnie the Pooh and John the Baptist have in common?A:	The same middle name.
+Questionable day.Ask somebody something.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What do Winnie the Pooh and John the Baptist have in common?A:	The same middl
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Chocolate Drink</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sunrise</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q7w4xu1487603180.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/akcpsh1493070267.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 125 gr Chocolate, 3/4 L  Milk, Water</td>
+      <td><b>Ingredients:</b> 1 cl  Amaretto, 4 oz  Orange juice, 1/4 cl  Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Melt the bar in a small amount of boiling water. Add milk. Cook over low heat, whipping gently (with a whisk, i would assume) until heated well. Don't let it boil! Serve in coffee mug.</td>
+      <td><b>Instructions:</b> Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What do Winnie the Pooh and John the Baptist have in common?A:	The same middl
 <br>
 </details>
 
-**258 day before 2025 ⏱** days before new year
+**257 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -7.37°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.53°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:45 and sets 🌇 at 20:25
+  The sun ☀️ rise 🌄 at 06:44 and sets 🌇 at 20:26
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What do Winnie the Pooh and John the Baptist have in common?A:	The same middl
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Apr 18 2024
+  Last update on Fri Apr 19 2024
   </div>
 <br>
 
