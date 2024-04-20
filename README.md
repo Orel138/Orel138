@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Questionable day.Ask somebody something.
+You two ought to be more careful--your love could drag on for years and years.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Questionable day.Ask somebody something.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Sunrise</strong></div></td>
+      <td><div align="center"><strong>Spiking coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/akcpsh1493070267.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cl  Amaretto, 4 oz  Orange juice, 1/4 cl  Grenadine</td>
+      <td><b>Ingredients:</b> Coffee, Cinnamon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.</td>
+      <td><b>Instructions:</b> Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Questionable day.Ask somebody something.
 <br>
 </details>
 
-**257 day before 2025 ⏱** days before new year
+**256 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.53°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.93°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:44 and sets 🌇 at 20:26
+  The sun ☀️ rise 🌄 at 06:42 and sets 🌇 at 20:28
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Questionable day.Ask somebody something.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 19 2024
+  Last update on Sat Apr 20 2024
   </div>
 <br>
 
