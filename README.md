@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You two ought to be more careful--your love could drag on for years and years.
+Anyone who has had a bull by the tail knows five or six more thingsthan someone who hasn't.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You two ought to be more careful--your love could drag on for years and years.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Spiking coffee</strong></div></td>
+      <td><div align="center"><strong>Avalon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/isql6y1487602375.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Coffee, Cinnamon</td>
+      <td><b>Ingredients:</b> 3 parts Vodka, 1 part  Pisang Ambon, 6 parts  Apple juice, 1 1/2 part  Lemon juice, Lemonade</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.</td>
+      <td><b>Instructions:</b> Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You two ought to be more careful--your love could drag on for years and years.
 <br>
 </details>
 
-**256 day before 2025 ⏱** days before new year
+**255 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.93°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.29°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:42 and sets 🌇 at 20:28
+  The sun ☀️ rise 🌄 at 06:40 and sets 🌇 at 20:29
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You two ought to be more careful--your love could drag on for years and years.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Apr 20 2024
+  Last update on Sun Apr 21 2024
   </div>
 <br>
 
