@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Anyone who has had a bull by the tail knows five or six more thingsthan someone who hasn't.		-- Mark Twain
+You'll wish that you had done some of the hard things when they were easierto do.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Anyone who has had a bull by the tail knows five or six more thingsthan someone 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Avalon</strong></div></td>
+      <td><div align="center"><strong>Space Odyssey</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 parts Vodka, 1 part  Pisang Ambon, 6 parts  Apple juice, 1 1/2 part  Lemon juice, Lemonade</td>
+      <td><b>Ingredients:</b> 1 shot Bacardi  151 proof rum, 1 shot  Malibu rum, 1 shot  Pineapple juice, Orange juice, Grenadine, Cherries</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.</td>
+      <td><b>Instructions:</b> Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Anyone who has had a bull by the tail knows five or six more thingsthan someone 
 <br>
 </details>
 
-**255 day before 2025 ⏱** days before new year
+**254 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.29°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -10.06°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:40 and sets 🌇 at 20:29
+  The sun ☀️ rise 🌄 at 06:39 and sets 🌇 at 20:30
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Anyone who has had a bull by the tail knows five or six more thingsthan someone 
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Apr 21 2024
+  Last update on Mon Apr 22 2024
   </div>
 <br>
 
