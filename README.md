@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold the giraffe, and the other to fill the bathtub	with brightly colored machine tools.	[Surrealist jokes just aren't my cup of fur.  Ed.]
+Be cheerful while you are alive.		-- Phathotep, 24th Century B.C.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jitterbug</strong></div></td>
+      <td><div align="center"><strong>Apello</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wwqvrq1441245318.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail Glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 jiggers  Gin, 1 jigger  Vodka, 3 dashes  Grenadine, 1 shot  Lime juice, Around rim put 1 pinch  Sugar, 3 dashes  Sugar syrup, Fill to top with  Soda water</td>
+      <td><b>Ingredients:</b> 4 cl  Orange juice, 3 cl  Grapefruit juice, 1 cl  Apple juice, 1  Maraschino cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!</td>
+      <td><b>Instructions:</b> Stirr. Grnish with maraschino cherry.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
 <br>
 </details>
 
-**253 day before 2025 ⏱** days before new year
+**252 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.41°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -7.9°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:37 and sets 🌇 at 20:31
+  The sun ☀️ rise 🌄 at 06:36 and sets 🌇 at 20:33
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 23 2024
+  Last update on Wed Apr 24 2024
   </div>
 <br>
 
