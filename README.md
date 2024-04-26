@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-So you're back... about time...
+If you learn one useless thing every day, in a single year you'll learn365 useless things.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ So you're back... about time...
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Yellow Bird</strong></div></td>
+      <td><div align="center"><strong>Zambeer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2t9r6w1504374811.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 cl White Rum, 1.5 cl Galliano, 1.5 cl Triple Sec, 1.5 cl Lime Juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Sambuca, Add 10 oz  Root beer, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake and strain into a chilled cocktail glass</td>
+      <td><b>Instructions:</b> Mix sambuca with rootbeer and stir. Add ice</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ So you're back... about time...
 <br>
 </details>
 
-**251 day before 2025 ⏱** days before new year
+**250 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.59°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.41°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:34 and sets 🌇 at 20:34
+  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 20:35
   </div>
 <br>
 
@@ -119,7 +119,7 @@ So you're back... about time...
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Apr 25 2024
+  Last update on Fri Apr 26 2024
   </div>
 <br>
 
