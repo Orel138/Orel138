@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-If you learn one useless thing every day, in a single year you'll learn365 useless things.
+You will engage in a profitable business activity.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zambeer</strong></div></td>
+      <td><div align="center"><strong>English Rose Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yxwrpp1441208697.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Sambuca, Add 10 oz  Root beer, cubes Ice</td>
+      <td><b>Ingredients:</b> 3/4 oz  Apricot brandy, 1 1/2 oz  Gin, 3/4 oz  Dry Vermouth, 1 tsp  Grenadine, 1/4 tsp  Lemon juice, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix sambuca with rootbeer and stir. Add ice</td>
+      <td><b>Instructions:</b> Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <br>
 </details>
 
-**250 day before 2025 ⏱** days before new year
+**249 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.41°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -2.37°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 20:35
+  The sun ☀️ rise 🌄 at 06:31 and sets 🌇 at 20:36
   </div>
 <br>
 
@@ -119,7 +119,7 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 26 2024
+  Last update on Sat Apr 27 2024
   </div>
 <br>
 
