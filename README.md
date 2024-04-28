@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will engage in a profitable business activity.
+Repartee is something we think of twenty-four hours too late.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will engage in a profitable business activity.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>English Rose Cocktail</strong></div></td>
+      <td><div align="center"><strong>Strawberry Lemonade</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yxwrpp1441208697.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Apricot brandy, 1 1/2 oz  Gin, 3/4 oz  Dry Vermouth, 1 tsp  Grenadine, 1/4 tsp  Lemon juice, 1  Cherry</td>
+      <td><b>Ingredients:</b> Juice of 1  Lemon, 1 tblsp  Sugar, 8-10 ripe  Strawberries, 1 cup  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve.</td>
+      <td><b>Instructions:</b> Throw everything into a blender and mix until fairly smooth. Serve over ice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You will engage in a profitable business activity.
 <br>
 </details>
 
-**249 day before 2025 ⏱** days before new year
+**248 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -2.37°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.44°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:31 and sets 🌇 at 20:36
+  The sun ☀️ rise 🌄 at 06:29 and sets 🌇 at 20:38
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You will engage in a profitable business activity.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Apr 27 2024
+  Last update on Sun Apr 28 2024
   </div>
 <br>
 
