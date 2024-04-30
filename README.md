@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Increased knowledge will help you now.  Have mate's phone bugged.
+When you are about to die, a wombat is better than no company at all.		-- Roger Zelazny, "Doorways in the Sand"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Increased knowledge will help you now.  Have mate's phone bugged.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Irish Spring</strong></div></td>
+      <td><div align="center"><strong>Sherry Flip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sot8v41504884783.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Nick and Nora Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Irish whiskey, 1/2 oz  Peach brandy, 1 oz  Orange juice, 1 oz  Sweet and sour, 1 slice  Orange, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1 1/2 oz cream  Sherry, 2 tsp  Light cream, 1 tsp  Powdered sugar, 1 whole  Egg, Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Increased knowledge will help you now.  Have mate's phone bugged.
 <br>
 </details>
 
-**247 day before 2025 ⏱** days before new year
+**246 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.25°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.34°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:28 and sets 🌇 at 20:39
+  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 20:40
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Increased knowledge will help you now.  Have mate's phone bugged.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 29 2024
+  Last update on Tue Apr 30 2024
   </div>
 <br>
 
