@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-When you are about to die, a wombat is better than no company at all.		-- Roger Zelazny, "Doorways in the Sand"
+If you learn one useless thing every day, in a single year you'll learn365 useless things.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ When you are about to die, a wombat is better than no company at all.		-- Roger 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Sherry Flip</strong></div></td>
+      <td><div align="center"><strong>Foxy Lady</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Nick and Nora Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz cream  Sherry, 2 tsp  Light cream, 1 tsp  Powdered sugar, 1 whole  Egg, Nutmeg</td>
+      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz  Creme de Cacao, 2 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ When you are about to die, a wombat is better than no company at all.		-- Roger 
 <br>
 </details>
 
-**246 day before 2025 ⏱** days before new year
+**245 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.34°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.55°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 20:40
+  The sun ☀️ rise 🌄 at 06:25 and sets 🌇 at 20:41
   </div>
 <br>
 
@@ -119,7 +119,7 @@ When you are about to die, a wombat is better than no company at all.		-- Roger 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 30 2024
+  Last update on Wed May 01 2024
   </div>
 <br>
 
