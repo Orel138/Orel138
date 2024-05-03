@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You feel a whole lot more like you do now than you did when you used to.
+The human race has one really effective weapon, and that is laughter.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,28 @@ You feel a whole lot more like you do now than you did when you used to.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cafe Savoy</strong></div></td>
+      <td><div align="center"><strong>Zombie</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2en3jk1509557725.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Coffee, 1/2 oz  Milk, 1/2 oz  Triple sec, Brandy</td>
+      <td><b>Ingredients:</b> 1 1/2 oz Rum, 1 1/2 oz Gold rum, 1 oz 151 proof rum, 1 tsp Pernod, 1 tsp Grenadine, 1 tsp Lime Juice, 1 drop Angostura Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
+      <td><b>Instructions:</b> 
+Blend at high speed for no more than 5 seconds.
+
+Pour into a glass, add ice cubes to fill, then add the garnish.
+
+*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
+
+Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
+
+Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +108,13 @@ You feel a whole lot more like you do now than you did when you used to.
 <br>
 </details>
 
-**244 day before 2025 ⏱** days before new year
+**243 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.66°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.55°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:23 and sets 🌇 at 20:43
+  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 20:44
   </div>
 <br>
 
@@ -119,7 +128,7 @@ You feel a whole lot more like you do now than you did when you used to.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 02 2024
+  Last update on Fri May 03 2024
   </div>
 <br>
 
