@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What is the sound of one cat napping?A:	Mu.
+You will hear good news from one you thought unfriendly to you.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What is the sound of one cat napping?A:	Mu.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Long vodka</strong></div></td>
+      <td><div align="center"><strong>A True Amaretto Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9179i01503565212.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 cl  Vodka, 1/2  Lime, 4 dashes  Angostura bitters, 1 dl Schweppes  Tonic water, 4  Ice</td>
+      <td><b>Ingredients:</b> 1 jigger  Amaretto, Juice of 1/2  Lemon, Ice, Maraschino cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka</td>
+      <td><b>Instructions:</b> Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good "frosted" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What is the sound of one cat napping?A:	Mu.
 <br>
 </details>
 
-**242 day before 2025 ⏱** days before new year
+**241 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.64°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.78°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:20 and sets 🌇 at 20:45
+  The sun ☀️ rise 🌄 at 06:19 and sets 🌇 at 20:47
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What is the sound of one cat napping?A:	Mu.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 04 2024
+  Last update on Sun May 05 2024
   </div>
 <br>
 
