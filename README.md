@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are destined to become the commandant of the fighting men of thedepartment of transportation.
+The surest protection against temptation is cowardice.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bourbon Sour</strong></div></td>
+      <td><div align="center"><strong>Long Island Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dms3io1504366318.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Bourbon, 1 oz  Lemon juice, 1/2 tsp superfine  Sugar, 1  Orange, 1  Maraschino cherry</td>
+      <td><b>Ingredients:</b> 1/2 oz  Vodka, 1/2 oz  Light rum, 1/2 oz  Gin, 1/2 oz  Tequila, Juice of 1/2  Lemon, 1 splash  Coca-Cola</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and sugar. Shake well. Strain into a whiskey sour glass, garnish with the orange slice and cherry.</td>
+      <td><b>Instructions:</b> Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <br>
 </details>
 
-**240 day before 2025 ⏱** days before new year
+**239 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.75°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.59°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:18 and sets 🌇 at 20:48
+  The sun ☀️ rise 🌄 at 06:16 and sets 🌇 at 20:49
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You are destined to become the commandant of the fighting men of thedepartment o
   </div>
 <div align="center">
   <sub>
-  Last update on Mon May 06 2024
+  Last update on Tue May 07 2024
   </div>
 <br>
 
