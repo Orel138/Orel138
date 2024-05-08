@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The surest protection against temptation is cowardice.		-- Mark Twain
+You recoil from the crude; you tend naturally toward the exquisite.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ The surest protection against temptation is cowardice.		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Long Island Tea</strong></div></td>
+      <td><div align="center"><strong>Absolutely Cranberry Smash</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Vodka, 1/2 oz  Light rum, 1/2 oz  Gin, 1/2 oz  Tequila, Juice of 1/2  Lemon, 1 splash  Coca-Cola</td>
+      <td><b>Ingredients:</b> 2 oz  Absolut Vodka, 4 oz  Cranberry juice, 2 oz  Ginger ale, Add  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.</td>
+      <td><b>Instructions:</b> Stir ingredients together. Serve over ice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ The surest protection against temptation is cowardice.		-- Mark Twain
 <br>
 </details>
 
-**239 day before 2025 ⏱** days before new year
+**238 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.59°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.09°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:16 and sets 🌇 at 20:49
+  The sun ☀️ rise 🌄 at 06:15 and sets 🌇 at 20:50
   </div>
 <br>
 
@@ -119,7 +119,7 @@ The surest protection against temptation is cowardice.		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Tue May 07 2024
+  Last update on Wed May 08 2024
   </div>
 <br>
 
