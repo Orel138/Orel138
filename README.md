@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tomorrow, this will be part of the unchangeable past but fortunately,it can still be changed today.
+Think twice before speaking, but don't say "think think click click".
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Tomorrow, this will be part of the unchangeable past but fortunately,it can stil
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lemouroudji</strong></div></td>
+      <td><div align="center"><strong>Homemade Kahlua</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eirmo71487603745.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 pieces  Ginger, 1 gal  Water, 1 lb  Lemon, 1 cup  Sugar, ground  Cayenne pepper</td>
+      <td><b>Ingredients:</b> 2 1/2 cups  Sugar, 1 cup  Corn syrup, 1 1/2 oz instant  Coffee, 2 oz  Vanilla extract, 3 cups boiling  Water, 1 fifth  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve.</td>
+      <td><b>Instructions:</b> Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture "mature" for 4-5 weeks.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Tomorrow, this will be part of the unchangeable past but fortunately,it can stil
 <br>
 </details>
 
-**237 day before 2025 ⏱** days before new year
+**236 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.28°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.99°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:14 and sets 🌇 at 20:51
+  The sun ☀️ rise 🌄 at 06:13 and sets 🌇 at 20:53
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Tomorrow, this will be part of the unchangeable past but fortunately,it can stil
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 09 2024
+  Last update on Fri May 10 2024
   </div>
 <br>
 
