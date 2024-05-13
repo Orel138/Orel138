@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Harp not on that string.		-- William Shakespeare, "Henry VI"
+Break into jail and claim police brutality.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Harp not on that string.		-- William Shakespeare, "Henry VI"
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>24k nightmare</strong></div></td>
+      <td><div align="center"><strong>747</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yyrwty1468877498.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xxsxqy1472668106.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Goldschlager, 1/2 oz  Jägermeister, 1/2 oz  Rumple Minze, 1/2 oz Bacardi  151 proof rum</td>
+      <td><b>Ingredients:</b> 1/3 part  Kahlua, 1/3 part  Baileys irish cream, 1/3 part  Frangelico</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add over ice,shake and pour.</td>
+      <td><b>Instructions:</b> pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Harp not on that string.		-- William Shakespeare, "Henry VI"
 <br>
 </details>
 
-**234 day before 2025 ⏱** days before new year
+**233 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.98°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.64°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:10 and sets 🌇 at 20:55
+  The sun ☀️ rise 🌄 at 06:09 and sets 🌇 at 20:56
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Harp not on that string.		-- William Shakespeare, "Henry VI"
   </div>
 <div align="center">
   <sub>
-  Last update on Sun May 12 2024
+  Last update on Mon May 13 2024
   </div>
 <br>
 
