@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will win success in whatever calling you adopt.
+Don't hate yourself in the morning -- sleep till noon.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will win success in whatever calling you adopt.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Apple Highball</strong></div></td>
+      <td><div align="center"><strong>Brooklyn</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/66mt9b1619695719.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Chopped Lime, 1 shot Apple Schnapps, 1 shot Cognac, Top Ginger</td>
+      <td><b>Ingredients:</b> 2 oz Rye Whiskey, 1 oz Dry Vermouth, 1/4 oz Maraschino Liqueur, 3 dashes Angostura Bitters, 1 Maraschino Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add ice in a highball glass. Rub a wedge of fresh lime around rim and place it in the glass. Add a shot of Apple schnapps, a shot of Courvoisier and top up with ginger ale.</td>
+      <td><b>Instructions:</b> Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You will win success in whatever calling you adopt.
 <br>
 </details>
 
-**231 day before 2025 ⏱** days before new year
+**230 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 5.2°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.06°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:07 and sets 🌇 at 20:59
+  The sun ☀️ rise 🌄 at 06:06 and sets 🌇 at 21:00
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You will win success in whatever calling you adopt.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed May 15 2024
+  Last update on Thu May 16 2024
   </div>
 <br>
 
