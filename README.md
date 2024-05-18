@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Persons attempting to find a motive in this narrative will be prosecuted;persons attempting to find a moral in it will be banished; persons attemptingto find a plot in it will be shot.  By Order of the Author		-- Mark Twain, "The Adventures of Huckleberry Finn"
+You will feel hungry again in another hour.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Persons attempting to find a motive in this narrative will be prosecuted;persons
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Smash</strong></div></td>
+      <td><div align="center"><strong>Fruit Flip-Flop</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iprva61606768774.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nfdx6p1484430633.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz  Carbonated water, 1 cube  Sugar, 4  Mint, 1 slice  Orange, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1 cup  Yoghurt, 1 cup  Fruit juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Persons attempting to find a motive in this narrative will be prosecuted;persons
 <br>
 </details>
 
-**229 day before 2025 ⏱** days before new year
+**228 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.88°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.1°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:01
+  The sun ☀️ rise 🌄 at 06:03 and sets 🌇 at 21:02
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Persons attempting to find a motive in this narrative will be prosecuted;persons
   </div>
 <div align="center">
   <sub>
-  Last update on Fri May 17 2024
+  Last update on Sat May 18 2024
   </div>
 <br>
 
