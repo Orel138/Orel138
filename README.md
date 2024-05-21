@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19A:	To be or not to be.Q:	What is the square root of 4b^2?
+You will have good luck and overcome many hardships.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19A:	To be or not to be.Q:	Wh
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>69 Special</strong></div></td>
+      <td><div align="center"><strong>Absolut Evergreen</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqyxqx1472669095.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wrxrxp1472812609.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz dry  Gin, 4 oz  7-Up, 0.75 oz  Lemon juice</td>
+      <td><b>Ingredients:</b> 2/3 part  Absolut Citron, 1/3 part  Pisang Ambon, cubes Ice, Bitter lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.</td>
+      <td><b>Instructions:</b> Mix, pour over ice and top up with Bitter Lemon.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19A:	To be or not to be.Q:	Wh
 <br>
 </details>
 
-**226 day before 2025 ⏱** days before new year
+**225 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.01°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 4.28°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:01 and sets 🌇 at 21:04
+  The sun ☀️ rise 🌄 at 06:01 and sets 🌇 at 21:05
   </div>
 <br>
 
@@ -119,7 +119,7 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19A:	To be or not to be.Q:	Wh
   </div>
 <div align="center">
   <sub>
-  Last update on Mon May 20 2024
+  Last update on Tue May 21 2024
   </div>
 <br>
 
