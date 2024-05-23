@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your analyst has you mixed up with another patient.  Don't believe athing he tells you.
+You may be gone tomorrow, but that doesn't mean that you weren't here today.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Your analyst has you mixed up with another patient.  Don't believe athing he tel
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Ipamena</strong></div></td>
+      <td><div align="center"><strong>Banana Daiquiri</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k1xatq1504389300.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Champagne flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> ½ Lime, 2 tsp Brown sugar, 4 cl Passion fruit juice, top up with Ginger ale, fill Ice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 tblsp  Triple sec, 1  Banana, 1 1/2 oz  Lime juice, 1 tsp  Sugar, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime</td>
+      <td><b>Instructions:</b> Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Your analyst has you mixed up with another patient.  Don't believe athing he tel
 <br>
 </details>
 
-**224 day before 2025 ⏱** days before new year
+**223 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.8°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.73°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:00 and sets 🌇 at 21:06
+  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:07
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Your analyst has you mixed up with another patient.  Don't believe athing he tel
   </div>
 <div align="center">
   <sub>
-  Last update on Wed May 22 2024
+  Last update on Thu May 23 2024
   </div>
 <br>
 
