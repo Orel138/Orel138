@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You may be gone tomorrow, but that doesn't mean that you weren't here today.
+Excellent day to have a rotten day.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You may be gone tomorrow, but that doesn't mean that you weren't here today.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Banana Daiquiri</strong></div></td>
+      <td><div align="center"><strong>Bleeding Surgeon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k1xatq1504389300.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Champagne flute</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 tblsp  Triple sec, 1  Banana, 1 1/2 oz  Lime juice, 1 tsp  Sugar, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1 shot  Dark rum, 1 slice  Orange, 1/2 glass  Surge, 1/2 glass  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You may be gone tomorrow, but that doesn't mean that you weren't here today.
 <br>
 </details>
 
-**223 day before 2025 ⏱** days before new year
+**222 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.73°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.05°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:07
+  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:08
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You may be gone tomorrow, but that doesn't mean that you weren't here today.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 23 2024
+  Last update on Fri May 24 2024
   </div>
 <br>
 
