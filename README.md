@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Excellent day to have a rotten day.
+You have no real enemies.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Excellent day to have a rotten day.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bleeding Surgeon</strong></div></td>
+      <td><div align="center"><strong>Vodka Slime</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Dark rum, 1 slice  Orange, 1/2 glass  Surge, 1/2 glass  Cranberry juice</td>
+      <td><b>Ingredients:</b> 1 cup Sprite, 1/2 shot Lime Juice, 1 1/2 shot Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.</td>
+      <td><b>Instructions:</b> Fill glass with ice. Add vodka, 7-up then finish with the lime juice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Excellent day to have a rotten day.
 <br>
 </details>
 
-**222 day before 2025 ⏱** days before new year
+**221 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.05°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 1.47°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:08
+  The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:09
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Excellent day to have a rotten day.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri May 24 2024
+  Last update on Sat May 25 2024
   </div>
 <br>
 
