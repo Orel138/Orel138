@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have no real enemies.
+Give thought to your reputation.  Consider changing name and moving toa new town.
 </details>
 
 <details>
@@ -76,19 +76,20 @@ You have no real enemies.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vodka Slime</strong></div></td>
+      <td><div align="center"><strong>Lemon Elderflower Spritzer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup Sprite, 1/2 shot Lime Juice, 1 1/2 shot Vodka</td>
+      <td><b>Ingredients:</b> 2 tsp Elderflower cordial, 1 shot Vodka, 1/3 cup Soda Water, Top Fresh Lemon Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill glass with ice. Add vodka, 7-up then finish with the lime juice.</td>
+      <td><b>Instructions:</b> Pour all ingredients over ice, stir and enjoy!
+</td>
     </tr>
   </table>
 </div>
@@ -99,13 +100,13 @@ You have no real enemies.
 <br>
 </details>
 
-**221 day before 2025 ⏱** days before new year
+**220 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 1.47°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.67°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:09
+  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:10
   </div>
 <br>
 
@@ -119,7 +120,7 @@ You have no real enemies.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 25 2024
+  Last update on Sun May 26 2024
   </div>
 <br>
 
