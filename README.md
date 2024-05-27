@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Give thought to your reputation.  Consider changing name and moving toa new town.
+You would if you could but you can't so you won't.
 </details>
 
 <details>
@@ -76,20 +76,19 @@ Give thought to your reputation.  Consider changing name and moving toa new town
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lemon Elderflower Spritzer</strong></div></td>
+      <td><div align="center"><strong>Boxcar</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp Elderflower cordial, 1 shot Vodka, 1/3 cup Soda Water, Top Fresh Lemon Juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Triple sec, 1 tsp  Lemon juice, 1/2 tsp  Grenadine, 1  Egg white</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients over ice, stir and enjoy!
-</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +99,13 @@ Give thought to your reputation.  Consider changing name and moving toa new town
 <br>
 </details>
 
-**220 day before 2025 ⏱** days before new year
+**219 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.67°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.26°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:10
+  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:11
   </div>
 <br>
 
@@ -120,7 +119,7 @@ Give thought to your reputation.  Consider changing name and moving toa new town
   </div>
 <div align="center">
   <sub>
-  Last update on Sun May 26 2024
+  Last update on Mon May 27 2024
   </div>
 <br>
 
