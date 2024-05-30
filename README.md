@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Executive ability is prominent in your make-up.
+Do what comes naturally.  Seethe and fume and throw a tantrum.
 </details>
 
 <details>
@@ -76,22 +76,19 @@ Executive ability is prominent in your make-up.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Dark Caipirinha</strong></div></td>
+      <td><div align="center"><strong>Rum Cooler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp  demerara Sugar, 1 Lime, 2 1/2 oz Cachaca</td>
+      <td><b>Ingredients:</b> 2 oz light or dark  Rum, 4 oz  Lemon-lime soda, 1  Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Muddle the sugar into the lime wedges in an old-fashioned glass.
-Fill the glass with ice cubes.
-Pour the cachaca into the glass.
-Stir well.</td>
+      <td><b>Instructions:</b> Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.</td>
     </tr>
   </table>
 </div>
@@ -102,13 +99,13 @@ Stir well.</td>
 <br>
 </details>
 
-**217 day before 2025 ⏱** days before new year
+**216 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.88°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.84°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:13
+  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:14
   </div>
 <br>
 
@@ -122,7 +119,7 @@ Stir well.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Wed May 29 2024
+  Last update on Thu May 30 2024
   </div>
 <br>
 
