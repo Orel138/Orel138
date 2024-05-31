@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Do what comes naturally.  Seethe and fume and throw a tantrum.
+Whoever has lived long enough to find out what life is, knows how deep a debtof gratitude we owe to Adam, the first great benefactor of our race.  Hebrought death into the world.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Do what comes naturally.  Seethe and fume and throw a tantrum.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rum Cooler</strong></div></td>
+      <td><div align="center"><strong>Screaming Orgasm</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz light or dark  Rum, 4 oz  Lemon-lime soda, 1  Lemon</td>
+      <td><b>Ingredients:</b> 1 oz  Vodka, 1 1/2 oz  Baileys irish cream, 1/2 oz  Kahlua</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.</td>
+      <td><b>Instructions:</b> Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Do what comes naturally.  Seethe and fume and throw a tantrum.
 <br>
 </details>
 
-**216 day before 2025 ⏱** days before new year
+**215 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.84°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.48°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:14
+  The sun ☀️ rise 🌄 at 05:53 and sets 🌇 at 21:15
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Do what comes naturally.  Seethe and fume and throw a tantrum.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 30 2024
+  Last update on Fri May 31 2024
   </div>
 <br>
 
