@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You own a dog, but you can only feed a cat.
+Q:	How many marketing people does it take to change a light bulb?A:	I'll have to get back to you on that.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You own a dog, but you can only feed a cat.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gagliardo</strong></div></td>
+      <td><div align="center"><strong>Abbey Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/lyloe91487602877.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 parts  Peach Vodka, 3 parts  Lemon juice, 1 part  Galliano, 1 part  Sirup of roses</td>
+      <td><b>Ingredients:</b> 2 shots  Gin, 1 shot  Sweet Vermouth, 1 shot  Orange Juice, 3 dashes  Angostura Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy.</td>
+      <td><b>Instructions:</b> Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You own a dog, but you can only feed a cat.
 <br>
 </details>
 
-**213 day before 2025 ⏱** days before new year
+**212 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.49°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.47°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:17
+  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:18
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You own a dog, but you can only feed a cat.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jun 02 2024
+  Last update on Mon Jun 03 2024
   </div>
 <br>
 
