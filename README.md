@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many marketing people does it take to change a light bulb?A:	I'll have to get back to you on that.
+The smallest worm will turn being trodden on.		-- William Shakespeare, "Henry VI"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	How many marketing people does it take to change a light bulb?A:	I'll have to
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Abbey Martini</strong></div></td>
+      <td><div align="center"><strong>Mulled Wine</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 shots  Gin, 1 shot  Sweet Vermouth, 1 shot  Orange Juice, 3 dashes  Angostura Bitters</td>
+      <td><b>Ingredients:</b> 3 cups  Water, 1 cup  Sugar, 12  Cloves, 2  Cinnamon, 1  Lemon peel, 750 ml  Red wine, 1/4 cup  Brandy</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a "coffee temperature" (DO NOT BOIL) then add the brandy.</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ Q:	How many marketing people does it take to change a light bulb?A:	I'll have to
 <br>
 </details>
 
-**212 day before 2025 ⏱** days before new year
+**211 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.47°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.76°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:18
@@ -119,7 +119,7 @@ Q:	How many marketing people does it take to change a light bulb?A:	I'll have to
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 03 2024
+  Last update on Tue Jun 04 2024
   </div>
 <br>
 
