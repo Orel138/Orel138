@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you shoot a blue elephant?A:	With a blue-elephant gun.Q:	How do you shoot a pink elephant?A:	Twist its trunk until it turns blue, then shoot it with	a blue-elephant gun.
+Lord, what fools these mortals be!		-- William Shakespeare, "A Midsummer-Night's Dream"
 </details>
 
 <details>
@@ -76,23 +76,19 @@ Q:	How do you shoot a blue elephant?A:	With a blue-elephant gun.Q:	How do you sh
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Hot Toddy</strong></div></td>
+      <td><div align="center"><strong>Tequila Surprise</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ggx0lv1613942306.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8189p51504735581.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Irish coffee cup</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Whiskey, 15 ml Honey, 1 Cinnamon, 1 lemon, 2 Cloves</td>
+      <td><b>Ingredients:</b> full glass  Tequila, About 8 drops  Tabasco sauce</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> STEP 1
-Whisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.
-
-STEP 2
-Add a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.</td>
+      <td><b>Instructions:</b> Fill shot glass with Tequila. Add drops of Tobasco sauce.</td>
     </tr>
   </table>
 </div>
@@ -103,13 +99,13 @@ Add a splash of lemon juice to each, then taste and add more to your preference.
 <br>
 </details>
 
-**210 day before 2025 ⏱** days before new year
+**209 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.92°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.54°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:19
+  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:20
   </div>
 <br>
 
@@ -123,7 +119,7 @@ Add a splash of lemon juice to each, then taste and add more to your preference.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jun 05 2024
+  Last update on Thu Jun 06 2024
   </div>
 <br>
 
