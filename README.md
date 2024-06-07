@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Lord, what fools these mortals be!		-- William Shakespeare, "A Midsummer-Night's Dream"
+Live in a world of your own, but always welcome visitors.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Lord, what fools these mortals be!		-- William Shakespeare, "A Midsummer-Night's
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Tequila Surprise</strong></div></td>
+      <td><div align="center"><strong>B-52</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8189p51504735581.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> full glass  Tequila, About 8 drops  Tabasco sauce</td>
+      <td><b>Ingredients:</b> 1/3  Baileys irish cream, 1/3  Grand Marnier, 1/4  Kahlua</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill shot glass with Tequila. Add drops of Tobasco sauce.</td>
+      <td><b>Instructions:</b> Layer ingredients into a shot glass. Serve with a stirrer.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Lord, what fools these mortals be!		-- William Shakespeare, "A Midsummer-Night's
 <br>
 </details>
 
-**209 day before 2025 ⏱** days before new year
+**208 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.54°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.75°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:20
+  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:21
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Lord, what fools these mortals be!		-- William Shakespeare, "A Midsummer-Night's
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 06 2024
+  Last update on Fri Jun 07 2024
   </div>
 <br>
 
