@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Let us endeavor so to live that when we come to die even the undertaker will besorry.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Are you making all this up as you go along?
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Let us endeavor so to live that when we come to die even the undertaker will bes
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Affinity</strong></div></td>
+      <td><div align="center"><strong>Diesel</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wzdtnn1582477684.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1 oz  Sweet Vermouth, 1 oz  Dry Vermouth, 2 dashes  Orange bitters</td>
+      <td><b>Ingredients:</b> 1/2 pint  Lager, 1/2 pint  Cider, 1 dash  Blackcurrant cordial</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Let us endeavor so to live that when we come to die even the undertaker will bes
 <br>
 </details>
 
-**207 day before 2025 ⏱** days before new year
+**206 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.83°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.42°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:21
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:22
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Let us endeavor so to live that when we come to die even the undertaker will bes
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jun 08 2024
+  Last update on Sun Jun 09 2024
   </div>
 <br>
 
