@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your manuscript is both good and original, but the part that is good is notoriginal and the part that is original is not good.		-- Samuel Johnson
+Today is what happened to yesterday.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Your manuscript is both good and original, but the part that is good is notorigi
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Banana Cream Pi</strong></div></td>
+      <td><div align="center"><strong>The Last Word</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m5p67n1582474609.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/91oule1513702624.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Malibu Rum, 1 oz Banana Liqueur, Top Pineapple Juice</td>
+      <td><b>Ingredients:</b> 1 oz Green Chartreuse, 1 oz Maraschino Liqueur, 1 oz Lime Juice, 1 oz Gin</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Serve over ice.</td>
+      <td><b>Instructions:</b> Shake with ice and strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Your manuscript is both good and original, but the part that is good is notorigi
 <br>
 </details>
 
-**204 day before 2025 ⏱** days before new year
+**203 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 5.35°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.63°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:23
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:24
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Your manuscript is both good and original, but the part that is good is notorigi
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jun 11 2024
+  Last update on Wed Jun 12 2024
   </div>
 <br>
 
