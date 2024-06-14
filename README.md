@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elephants have big flat feet?A:	To stamp out flaming ducks.
+"I wonder", he said to himself, "what's in a book while it's closed.  Oh, Iknow it's full of letters printed on paper, but all the same, something mustbe happening, because as soon as I open it, there's a whole story with peopleI don't know yet and all kinds of adventures and battles."		-- Bastian B. Bux
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elepha
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Texas Sling</strong></div></td>
+      <td><div align="center"><strong>Arizona Stingers</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ypl13s1504890158.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y7w0721493068255.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Kahlua, 1/2 oz  Irish cream, 1/2 oz  Amaretto, 1/2 oz Bacardi  151 proof rum, 1 oz  Cream</td>
+      <td><b>Ingredients:</b> 2 shots  Absolut Vodka, 12 oz lemon  Iced tea</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.</td>
+      <td><b>Instructions:</b> Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elepha
 <br>
 </details>
 
-**202 day before 2025 ⏱** days before new year
+**201 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.24°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.81°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:24
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:25
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elepha
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 13 2024
+  Last update on Fri Jun 14 2024
   </div>
 <br>
 
