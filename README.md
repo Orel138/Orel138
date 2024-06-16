@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Let him choose out of my files, his projects to accomplish.		-- Shakespeare, "Coriolanus"
+Your reasoning powers are good, and you are a fairly good planner.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Let him choose out of my files, his projects to accomplish.		-- Shakespeare, "Co
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mudslinger</strong></div></td>
+      <td><div align="center"><strong>Vodka Russian</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rpttur1454515129.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch bowl</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 750 ml  Southern Comfort, 1 L  Orange juice, 750 ml  Pepsi Cola</td>
+      <td><b>Ingredients:</b> 2 oz  Vodka, Schweppes Russchian</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all contents to a large jug or punch bowl. Stir well!</td>
+      <td><b>Instructions:</b> Mix it as a ordinary drink .</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ Let him choose out of my files, his projects to accomplish.		-- Shakespeare, "Co
 <br>
 </details>
 
-**200 day before 2025 ⏱** days before new year
+**199 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.92°C), moderate rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 5.32°C), broken clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:25
@@ -119,7 +119,7 @@ Let him choose out of my files, his projects to accomplish.		-- Shakespeare, "Co
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jun 15 2024
+  Last update on Sun Jun 16 2024
   </div>
 <br>
 
