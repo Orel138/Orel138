@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-So you're back... about time...
+Fine day to work off excess energy.  Steal something heavy.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ So you're back... about time...
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Almond Joy</strong></div></td>
+      <td><div align="center"><strong>Lunch Box</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xutuqs1483388296.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz white  Creme de Cacao, 2 oz  Light cream</td>
+      <td><b>Ingredients:</b> 3/4 bottle  Beer, 1 shot  Amaretto, 1 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ So you're back... about time...
 <br>
 </details>
 
-**198 day before 2025 ⏱** days before new year
+**197 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.11°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.02°C), few clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:26
@@ -119,7 +119,7 @@ So you're back... about time...
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 17 2024
+  Last update on Tue Jun 18 2024
   </div>
 <br>
 
