@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul is grooved to run.  Over unsounded gorges, throughthe rifled hearts of mountains, under torrents' beds, unerringly I rush!		-- Captain Ahab, "Moby Dick"
+You'll wish that you had done some of the hard things when they were easierto do.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Dragonfly</strong></div></td>
+      <td><div align="center"><strong>Pysch Vitamin Light</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 4 oz  Ginger ale, 1  Lime</td>
+      <td><b>Ingredients:</b> 1 part  Orange juice, 1 part  Apple juice, 1 part  Pineapple juice, Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.</td>
+      <td><b>Instructions:</b> Shake with ice.</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul
 <br>
 </details>
 
-**195 day before 2025 ⏱** days before new year
+**194 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.76°C), moderate rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.42°C), light rain</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:27
@@ -119,7 +119,7 @@ Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 20 2024
+  Last update on Fri Jun 21 2024
   </div>
 <br>
 
