@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You'll wish that you had done some of the hard things when they were easierto do.
+The human race is a race of cowards; and I am not only marching in thatprocession but carrying a banner.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You'll wish that you had done some of the hard things when they were easierto do
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pysch Vitamin Light</strong></div></td>
+      <td><div align="center"><strong>Midnight Mint</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xsqsxw1441553580.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/svuvrq1441208310.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Orange juice, 1 part  Apple juice, 1 part  Pineapple juice, Ice</td>
+      <td><b>Ingredients:</b> 1 oz  Baileys irish cream, 3/4 oz  White Creme de Menthe, 3/4 oz double  Cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with ice.</td>
+      <td><b>Instructions:</b> If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ You'll wish that you had done some of the hard things when they were easierto do
 <br>
 </details>
 
-**194 day before 2025 ⏱** days before new year
+**193 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.42°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.53°C), few clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:27
@@ -119,7 +119,7 @@ You'll wish that you had done some of the hard things when they were easierto do
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jun 21 2024
+  Last update on Sat Jun 22 2024
   </div>
 <br>
 
