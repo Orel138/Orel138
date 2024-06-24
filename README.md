@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but it takes a long time, and the light bulb has	to really want to change.
+You will be awarded a medal for disregarding safety in saving someone.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but i
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Stinger</strong></div></td>
+      <td><div align="center"><strong>A Day at the Beach</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2ahv791504352433.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Brandy, 1/2 oz  White Creme de Menthe</td>
+      <td><b>Ingredients:</b> 1 oz  Coconut rum, 1/2 oz  Amaretto, 4 oz  Orange juice, 1/2 oz  Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.</td>
+      <td><b>Instructions:</b> Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but i
 <br>
 </details>
 
-**192 day before 2025 ⏱** days before new year
+**191 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.48°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.02°C), scattered clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
@@ -119,7 +119,7 @@ Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but i
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jun 23 2024
+  Last update on Mon Jun 24 2024
   </div>
 <br>
 
