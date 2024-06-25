@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be awarded a medal for disregarding safety in saving someone.
+You have a reputation for being thoroughly reliable and trustworthy.A pity that it's totally undeserved.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You will be awarded a medal for disregarding safety in saving someone.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A Day at the Beach</strong></div></td>
+      <td><div align="center"><strong>155 Belmont</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> White wine glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Coconut rum, 1/2 oz  Amaretto, 4 oz  Orange juice, 1/2 oz  Grenadine</td>
+      <td><b>Ingredients:</b> 1 shot  Dark rum, 2 shots  Light rum, 1 shot  Vodka, 1 shot  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.</td>
+      <td><b>Instructions:</b> Blend with ice. Serve in a wine glass. Garnish with carrot.</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ You will be awarded a medal for disregarding safety in saving someone.
 <br>
 </details>
 
-**191 day before 2025 ⏱** days before new year
+**190 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.02°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.76°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
@@ -119,7 +119,7 @@ You will be awarded a medal for disregarding safety in saving someone.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 24 2024
+  Last update on Tue Jun 25 2024
   </div>
 <br>
 
