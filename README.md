@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have a reputation for being thoroughly reliable and trustworthy.A pity that it's totally undeserved.
+Everything that you know is wrong, but you can be straightened out.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You have a reputation for being thoroughly reliable and trustworthy.A pity that 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>155 Belmont</strong></div></td>
+      <td><div align="center"><strong>Orange Whip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> White wine glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Dark rum, 2 shots  Light rum, 1 shot  Vodka, 1 shot  Orange juice</td>
+      <td><b>Ingredients:</b> 4 oz  Orange juice, 1 oz  Rum, 1 oz  Vodka, 1 package  Cream, Over  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend with ice. Serve in a wine glass. Garnish with carrot.</td>
+      <td><b>Instructions:</b> Pour ingredients over ice and stir.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You have a reputation for being thoroughly reliable and trustworthy.A pity that 
 <br>
 </details>
 
-**190 day before 2025 ⏱** days before new year
+**189 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.76°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.58°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You have a reputation for being thoroughly reliable and trustworthy.A pity that 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jun 25 2024
+  Last update on Wed Jun 26 2024
   </div>
 <br>
 
