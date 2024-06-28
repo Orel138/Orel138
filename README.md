@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
+But, for my own part, it was Greek to me.		-- William Shakespeare, "Julius Caesar"
 </details>
 
 <details>
@@ -76,19 +76,21 @@ Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Chocolate Monkey</strong></div></td>
+      <td><div align="center"><strong>Bee's Knees</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tx8ne41582475326.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Parfait glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Banana liqueur, 2 shots  Creme de Cacao, 2 scoops  Chocolate ice-cream, 1 oz  Chocolate syrup, 4 oz  Chocolate milk, 1  Whipped cream, 1  Cherry, 1 piece  Banana</td>
+      <td><b>Ingredients:</b> 6 cl Gold rum, 2 cl Orange Juice, 2 cl Lime Juice, 2 jiggers Triple Sec</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
+      <td><b>Instructions:</b> Shake ingredients with crushed ice
+Garnish with orange peel
+</td>
     </tr>
   </table>
 </div>
@@ -99,13 +101,13 @@ Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
 <br>
 </details>
 
-**188 day before 2025 ⏱** days before new year
+**187 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 11.01°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.45°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -119,7 +121,7 @@ Green light in A.M. for new projects.  Red light in P.M. for traffic tickets.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 27 2024
+  Last update on Fri Jun 28 2024
   </div>
 <br>
 
