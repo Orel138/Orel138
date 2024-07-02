@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A lawyer who looks like a French Nobleman is executed in his place.The Metamorphosis LITE(tm)	-- by Franz Kafka	A man turns into a bug and his family gets annoyed.Lord of the Rings LITE(tm)	-- by J. R. R. Tolkien	Some guys take a long vacation to throw a ring into a volcano.Hamlet LITE(tm)	-- by Wm. Shakespeare	A college student on vacation with family problems, a screwy	girl-friend and a mother who won't act her age.
+You prefer the company of the opposite sex, but are well liked by your own.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A lawyer who looks like a Fr
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Moranguito</strong></div></td>
+      <td><div align="center"><strong>Zippy's Revenge</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/urpsyq1475667335.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1sqm7n1485620312.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2/5  Absinthe, 2/5  Tequila, 1/5  Grenadine</td>
+      <td><b>Ingredients:</b> 2 oz  Amaretto, 2 oz  Rum, 4 oz Grape  Kool-Aid</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> first you put rhe absinthe, then put tequila, then put the Granadine syrup.</td>
+      <td><b>Instructions:</b> Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A lawyer who looks like a Fr
 <br>
 </details>
 
-**184 day before 2025 ⏱** days before new year
+**183 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.56°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.72°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:53 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -119,7 +119,7 @@ A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A lawyer who looks like a Fr
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 01 2024
+  Last update on Tue Jul 02 2024
   </div>
 <br>
 
