@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You prefer the company of the opposite sex, but are well liked by your own.
+Living your life is a task so difficult, it has never been attempted before.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You prefer the company of the opposite sex, but are well liked by your own.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zippy's Revenge</strong></div></td>
+      <td><div align="center"><strong>Strawberry Margarita</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1sqm7n1485620312.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Amaretto, 2 oz  Rum, 4 oz Grape  Kool-Aid</td>
+      <td><b>Ingredients:</b> 1/2 oz  Strawberry schnapps, 1 oz  Tequila, 1/2 oz  Triple sec, 1 oz  Lemon juice, 1 oz  Strawberries, Salt</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold</td>
+      <td><b>Instructions:</b> Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You prefer the company of the opposite sex, but are well liked by your own.
 <br>
 </details>
 
-**183 day before 2025 ⏱** days before new year
+**182 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.72°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.19°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:26
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You prefer the company of the opposite sex, but are well liked by your own.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jul 02 2024
+  Last update on Wed Jul 03 2024
   </div>
 <br>
 
