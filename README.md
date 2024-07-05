@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Another good night not to sleep in a eucalyptus tree.
+As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Another good night not to sleep in a eucalyptus tree.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Artillery Punch</strong></div></td>
+      <td><div align="center"><strong>The Evil Blue Thing</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9a4vqb1493067692.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch bowl</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 quart black  Tea, 1 quart  Rye whiskey, 1 fifth  Red wine, 1 pint Jamaican  Rum, 1/2 pint  Brandy, 1 1/2 oz  Benedictine, 1 pint  Orange juice, 1/2 pint  Lemon juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Creme de Cacao, 1 oz  Blue Curacao, 1/2 oz  Light rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel.</td>
+      <td><b>Instructions:</b> Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more "fun".</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Another good night not to sleep in a eucalyptus tree.
 <br>
 </details>
 
-**181 day before 2025 ⏱** days before new year
+**180 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.39°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.62°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:55 and sets 🌇 at 21:26
+  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:26
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Another good night not to sleep in a eucalyptus tree.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 04 2024
+  Last update on Fri Jul 05 2024
   </div>
 <br>
 
