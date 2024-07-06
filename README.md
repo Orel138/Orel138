@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Your object is to save the world, while still leading a pleasant life.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead W
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Evil Blue Thing</strong></div></td>
+      <td><div align="center"><strong>Tequila Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ek0mlq1504820601.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Creme de Cacao, 1 oz  Blue Curacao, 1/2 oz  Light rum</td>
+      <td><b>Ingredients:</b> 2 oz  Tequila, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1/2 slice  Lemon, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more "fun".</td>
+      <td><b>Instructions:</b> Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Add the half-slice of lemon, top with the cherry, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead W
 <br>
 </details>
 
-**180 day before 2025 ⏱** days before new year
+**179 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.62°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.45°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:26
+  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:25
   </div>
 <br>
 
@@ -119,7 +119,7 @@ As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead W
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jul 05 2024
+  Last update on Sat Jul 06 2024
   </div>
 <br>
 
