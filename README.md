@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"Elves and Dragons!" I says to him.  "Cabbages and potatoes are betterfor you and me."		-- J. R. R. Tolkien
+"... an experienced, industrious, ambitious, and often quite oftenpicturesque liar."		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A Gilligan's Island</strong></div></td>
+      <td><div align="center"><strong>Strawberry Shivers</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Vodka, 1 oz  Peach schnapps, 3 oz  Orange juice, 3 oz  Cranberry juice</td>
+      <td><b>Ingredients:</b> 1 1/2 cup  Strawberries, 4 tsp  Honey, 1/2 cup  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shaken, not stirred!</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**178 day before 2025 ⏱** days before new year
+**177 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.63°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 7.18°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:25
+  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:25
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 07 2024
+  Last update on Mon Jul 08 2024
   </div>
 <br>
 
