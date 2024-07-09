@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"... an experienced, industrious, ambitious, and often quite oftenpicturesque liar."		-- Mark Twain
+A tall, dark stranger will have more fun than you.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Strawberry Shivers</strong></div></td>
+      <td><div align="center"><strong>Scotch Cobbler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1q7coh1504736227.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 cup  Strawberries, 4 tsp  Honey, 1/2 cup  Water</td>
+      <td><b>Ingredients:</b> 2 oz  Scotch, 4 dashes  Brandy, 4 dashes  Curacao, 1 slice  Orange, 1  Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+      <td><b>Instructions:</b> Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**177 day before 2025 ⏱** days before new year
+**176 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 7.18°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.67°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:25
+  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:24
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 08 2024
+  Last update on Tue Jul 09 2024
   </div>
 <br>
 
