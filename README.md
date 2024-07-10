@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A tall, dark stranger will have more fun than you.
+You will probably marry after a very brief courtship.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ A tall, dark stranger will have more fun than you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Scotch Cobbler</strong></div></td>
+      <td><div align="center"><strong>Godchild</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1q7coh1504736227.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m5nhtr1504820829.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Champagne flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Scotch, 4 dashes  Brandy, 4 dashes  Curacao, 1 slice  Orange, 1  Mint</td>
+      <td><b>Ingredients:</b> 1 oz  Vodka, 1 oz  Amaretto, 1 oz  Heavy cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ A tall, dark stranger will have more fun than you.
 <br>
 </details>
 
-**176 day before 2025 ⏱** days before new year
+**175 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.67°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 12.93°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:24
+  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:24
   </div>
 <br>
 
@@ -119,7 +119,7 @@ A tall, dark stranger will have more fun than you.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jul 09 2024
+  Last update on Wed Jul 10 2024
   </div>
 <br>
 
