@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will probably marry after a very brief courtship.
+Communicate!  It can't make things any worse.
 </details>
 
 <details>
@@ -76,19 +76,21 @@ You will probably marry after a very brief courtship.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Godchild</strong></div></td>
+      <td><div align="center"><strong>Duchamp's Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m5nhtr1504820829.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Champagne flute</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Vodka, 1 oz  Amaretto, 1 oz  Heavy cream</td>
+      <td><b>Ingredients:</b> 5 cl Pisco, 2.5 cl Lime Juice, 2.5 cl Pineapple Syrup, 1.5 cl St. Germain, 2 Dashes Angostura Bitters, Pinch Pepper, 2 sprigs Lavender</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients.
+Double strain in a chilled double old fashioned glass with abig ice cube.
+Garnish with a couple of lavender sprigs</td>
     </tr>
   </table>
 </div>
@@ -99,13 +101,13 @@ You will probably marry after a very brief courtship.
 <br>
 </details>
 
-**175 day before 2025 ⏱** days before new year
+**174 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 12.93°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.87°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:24
+  The sun ☀️ rise 🌄 at 06:00 and sets 🌇 at 21:23
   </div>
 <br>
 
@@ -119,7 +121,7 @@ You will probably marry after a very brief courtship.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jul 10 2024
+  Last update on Thu Jul 11 2024
   </div>
 <br>
 
