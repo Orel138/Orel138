@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Communicate!  It can't make things any worse.
+"Speak, thou vast and venerable head," muttered Ahab, "which, thoughungarnished with a beard, yet here and there lookest hoary with mosses; speak,mighty head, and tell us the secret thing that is in thee.  Of all divers,thou has dived the deepest.  That head upon which the upper sun now gleams hasmoved amid the world's foundations.  Where unrecorded names and navies rust,and untold hopes and anchors rot; where in her murderous hold this frigateearth is ballasted with bones of millions of the drowned; there, in that awfulwater-land, there was thy most familiar home.  Thou hast been where bell ordiver never went; has slept by many a sailer's side, where sleepless motherswould give their lives to lay them down.  Thou saw'st the locked lovers whenleaping from their flaming ship; heart to heart they sank beneath the exultingwave; true to each other, when heaven seemed false to them.  Thou saw'st themurdered mate when tossed by pirates from the midnight deck; for hours he fellinto the deeper midnight of the insatiate maw; and his murderers still sailedon unharmed -- while swift lightnings shivered the neighboring ship that wouldhave borne a righteous husband to outstretched, longing arms.  O head! thou hasseen enough to split the planets and make an infidel of Abraham, and not onesyllable is thine!"		-- H. Melville, "Moby Dick"
 </details>
 
 <details>
@@ -76,21 +76,19 @@ Communicate!  It can't make things any worse.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Duchamp's Punch</strong></div></td>
+      <td><div align="center"><strong>Egg Nog - Healthy</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxuppv1468875308.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 cl Pisco, 2.5 cl Lime Juice, 2.5 cl Pineapple Syrup, 1.5 cl St. Germain, 2 Dashes Angostura Bitters, Pinch Pepper, 2 sprigs Lavender</td>
+      <td><b>Ingredients:</b> 1/2 cup  Egg, 3 tblsp  Sugar, 13 oz skimmed  Condensed milk, 3/4 cup skimmed  Milk, 1 tsp  Vanilla extract, 1 tsp  Rum, Nutmeg, , , , , </td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients.
-Double strain in a chilled double old fashioned glass with abig ice cube.
-Garnish with a couple of lavender sprigs</td>
+      <td><b>Instructions:</b> Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +99,13 @@ Garnish with a couple of lavender sprigs</td>
 <br>
 </details>
 
-**174 day before 2025 ⏱** days before new year
+**173 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.87°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.88°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:00 and sets 🌇 at 21:23
+  The sun ☀️ rise 🌄 at 06:01 and sets 🌇 at 21:22
   </div>
 <br>
 
@@ -121,7 +119,7 @@ Garnish with a couple of lavender sprigs</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 11 2024
+  Last update on Fri Jul 12 2024
   </div>
 <br>
 
