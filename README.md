@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat think they are truffles.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold the giraffe, and the other to fill the bathtub	with brightly colored machine tools.	[Surrealist jokes just aren't my cup of fur.  Ed.]
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Aperol Spritz</strong></div></td>
+      <td><div align="center"><strong>9 1/2 Weeks</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iloasq1587661955.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 100 ml Aperol, 150 ml Prosecco, Top Soda Water</td>
+      <td><b>Ingredients:</b> 2 oz  Absolut Citron, 1/2 oz  Orange Curacao, 1 splash  Strawberry liqueur, 1 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.</td>
+      <td><b>Instructions:</b> Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat
 <br>
 </details>
 
-**172 day before 2025 ⏱** days before new year
+**171 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.76°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.76°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:02 and sets 🌇 at 21:22
+  The sun ☀️ rise 🌄 at 06:03 and sets 🌇 at 21:21
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jul 13 2024
+  Last update on Sun Jul 14 2024
   </div>
 <br>
 
