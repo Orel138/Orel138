@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold the giraffe, and the other to fill the bathtub	with brightly colored machine tools.	[Surrealist jokes just aren't my cup of fur.  Ed.]
+Repartee is something we think of twenty-four hours too late.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>9 1/2 Weeks</strong></div></td>
+      <td><div align="center"><strong>After Five</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sk3lr91493068595.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Absolut Citron, 1/2 oz  Orange Curacao, 1 splash  Strawberry liqueur, 1 oz  Orange juice</td>
+      <td><b>Ingredients:</b> Peppermint schnapps, Kahlua, Baileys irish cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.</td>
+      <td><b>Instructions:</b> 1. Pour Kahlua into shot glass to about 1/2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3/4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey's. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey's floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
 <br>
 </details>
 
-**171 day before 2025 ⏱** days before new year
+**170 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.76°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 10.58°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:03 and sets 🌇 at 21:21
+  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:20
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 14 2024
+  Last update on Mon Jul 15 2024
   </div>
 <br>
 
