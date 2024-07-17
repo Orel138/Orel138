@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A visit to a strange place will bring fresh work.
+This life is yours.  Some of it was given to you; the rest, you made yourself.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ A visit to a strange place will bring fresh work.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gideon's Green Dinosaur</strong></div></td>
+      <td><div align="center"><strong>Happy Skipper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/p5r0tr1503564636.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/42w2g41487602448.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Dark rum, 1/2 oz  Vodka, 1/2 oz  Triple sec, 1/2 oz  Tequila, 1/2 oz  Melon liqueur, Fill with  Mountain Dew</td>
+      <td><b>Ingredients:</b> 1 1/2 cl  Spiced rum, Ginger ale, Lime, Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all ingredients in collins glass with ice and stir.</td>
+      <td><b>Instructions:</b> Pour Captain Morgan's Spiced Rum over ice, fill glass to top with Ginger Ale. Garnish with lime. Tastes like a cream soda. Named for the Gilligan's Island reference ("The Captain" *in* "Ginger" is a Happy Skipper!)</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ A visit to a strange place will bring fresh work.
 <br>
 </details>
 
-**169 day before 2025 ⏱** days before new year
+**168 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.74°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.88°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:20
+  The sun ☀️ rise 🌄 at 06:05 and sets 🌇 at 21:19
   </div>
 <br>
 
@@ -119,7 +119,7 @@ A visit to a strange place will bring fresh work.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jul 16 2024
+  Last update on Wed Jul 17 2024
   </div>
 <br>
 
