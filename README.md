@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-This life is yours.  Some of it was given to you; the rest, you made yourself.
+You will outgrow your usefulness.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ This life is yours.  Some of it was given to you; the rest, you made yourself.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Happy Skipper</strong></div></td>
+      <td><div align="center"><strong>National Aquarium</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/42w2g41487602448.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dlw0om1503565021.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 cl  Spiced rum, Ginger ale, Lime, Ice</td>
+      <td><b>Ingredients:</b> 1/2 oz  Rum, 1/2 oz  Vodka, 1/2 oz  Gin, 1/2 oz  Blue Curacao, 2 oz  Sour mix, 1 splash  Lemon-lime soda</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Captain Morgan's Spiced Rum over ice, fill glass to top with Ginger Ale. Garnish with lime. Tastes like a cream soda. Named for the Gilligan's Island reference ("The Captain" *in* "Ginger" is a Happy Skipper!)</td>
+      <td><b>Instructions:</b> Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ This life is yours.  Some of it was given to you; the rest, you made yourself.
 <br>
 </details>
 
-**168 day before 2025 ⏱** days before new year
+**167 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.88°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.4°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:05 and sets 🌇 at 21:19
+  The sun ☀️ rise 🌄 at 06:06 and sets 🌇 at 21:18
   </div>
 <br>
 
@@ -119,7 +119,7 @@ This life is yours.  Some of it was given to you; the rest, you made yourself.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jul 17 2024
+  Last update on Thu Jul 18 2024
   </div>
 <br>
 
