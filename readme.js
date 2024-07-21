@@ -3,9 +3,9 @@ module.exports = `
 
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Orel138/assets/tree/main/Orel138/banner_dark_theme/<#banner_dark>">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Orel138/assets/tree/main/Orel138/banner_light_theme/<#banner_light>">
-    <img alt="TEXT" src="https://github.com/Orel138/assets/tree/main/Orel138/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/<#banner_dark>">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/<#banner_light>">
+    <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
 
