@@ -1,1 +1,0 @@
-<h3 align="center">Assets for my GitHub profile.</h3>
