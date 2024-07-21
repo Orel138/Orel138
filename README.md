@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Let me take you a button-hole lower.		-- William Shakespeare, "Love's Labour's Lost"
+Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man walks into a drugstore and states loudly, "I'd	like some condoms," and then, leaning over the counter, whispers,	"and some cigarettes."
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Let me take you a button-hole lower.		-- William Shakespeare, "Love's Labour's L
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jello shots</strong></div></td>
+      <td><div align="center"><strong>Amaretto And Cream</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l0smzo1504884904.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Vodka, 3 packages  Jello, 3 cups  Water</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Amaretto, 1 1/2 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...</td>
+      <td><b>Instructions:</b> Shake well with cracked ice, strain contents into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
