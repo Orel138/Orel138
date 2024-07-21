@@ -3,9 +3,9 @@
 
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
-    <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Orel138/assets/tree/main/Orel138/banner_dark_theme/dark-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Orel138/assets/tree/main/Orel138/banner_light_theme/light-banner-1.png">
+    <img alt="TEXT" src="https://github.com/Orel138/assets/tree/main/Orel138/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
 
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why don't Scotsmen ever have coffee the way they like it?A:	Well, they like it with two lumps of sugar.  If they drink	it at home, they only take one, and if they drink it while	visiting, they always take three.
+Your fly might be open (but don't check it just now).
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	Why don't Scotsmen ever have coffee the way they like it?A:	Well, they like i
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Nutty Irishman</strong></div></td>
+      <td><div align="center"><strong>Girl From Ipanema</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xspupx1441248014.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xypspq1469090633.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Wine Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Baileys irish cream, 1 part  Frangelico, 1 part  Milk</td>
+      <td><b>Ingredients:</b> 25 ml Cachaca, 15 ml Lemon Juice, 10 ml Agave Syrup, top up with Champagne</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Serve over ice</td>
+      <td><b>Instructions:</b> Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne</td>
     </tr>
   </table>
 </div>
@@ -99,10 +99,10 @@ Q:	Why don't Scotsmen ever have coffee the way they like it?A:	Well, they like i
 <br>
 </details>
 
-**164 day before 2025 ⏱** days before new year
+**163 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 12.03°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.64°C), light rain</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 06:09 and sets 🌇 at 21:15
