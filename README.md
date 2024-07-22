@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man walks into a drugstore and states loudly, "I'd	like some condoms," and then, leaning over the counter, whispers,	"and some cigarettes."
+What happened last night can happen again.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto And Cream</strong></div></td>
+      <td><div align="center"><strong>Arctic Fish</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ttsvwy1472668781.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Beer pilsner</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Amaretto, 1 1/2 oz  Light cream</td>
+      <td><b>Ingredients:</b> 1/3 part  Vodka, 1/3 part  Grape soda, 1/3 part  Orange juice, lots  Ice, 1 dash  Candy</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well with cracked ice, strain contents into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled.</td>
     </tr>
   </table>
 </div>
@@ -102,10 +102,10 @@ Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man
 **163 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.07°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 11.27°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:09 and sets 🌇 at 21:15
+  The sun ☀️ rise 🌄 at 06:10 and sets 🌇 at 21:14
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What's the difference between the 1950's and the 1980's?A:	In the 80's, a man
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 21 2024
+  Last update on Mon Jul 22 2024
   </div>
 <br>
 
