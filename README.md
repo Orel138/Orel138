@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dopey, Sneezy, Sleepy, & GrumpyQ:	Who were the Democratic presidential candidates?
+Tempt not a desperate man.		-- William Shakespeare, "Romeo and Juliet"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dop
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Royal Bitch</strong></div></td>
+      <td><div align="center"><strong>Boulevardier</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/km84qi1513705868.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Frangelico, 1 part  Crown Royal</td>
+      <td><b>Ingredients:</b> 1 oz Campari, 1 oz Sweet Vermouth, 1 1/4 oz Rye whiskey, 1 Orange Peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Into a shot glass layer the Crown Royal on top of the Frangelico.</td>
+      <td><b>Instructions:</b> Stir with ice, strain, garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dop
 <br>
 </details>
 
-**162 day before 2025 ⏱** days before new year
+**161 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.69°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.8°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:12 and sets 🌇 at 21:13
+  The sun ☀️ rise 🌄 at 06:13 and sets 🌇 at 21:12
   </div>
 <br>
 
@@ -119,7 +119,7 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dop
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jul 23 2024
+  Last update on Wed Jul 24 2024
   </div>
 <br>
 
