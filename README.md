@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are taking yourself far too seriously.
+The Least Perceptive Literary Critic	The most important critic in our field of study is Lord Halifax.  Amost individual judge of poetry, he once invited Alexander Pope round togive a public reading of his latest poem.	Pope, the leading poet of his day, was greatly surprised when LordHalifax stopped him four or five times and said, "I beg your pardon, Mr.Pope, but there is something in that passage that does not quite please me."	Pope was rendered speechless, as this fine critic suggested sizeableand unwise emendations to his latest masterpiece.  "Be so good as to markthe place and consider at your leisure.  I'm sure you can give it a betterturn."	After the reading, a good friend of Lord Halifax, a certain Dr.Garth, took the stunned Pope to one side.  "There is no need to touch thelines," he said.  "All you need do is leave them just as they are, call onLord Halifax two or three months hence, thank him for his kind observationon those passages, and then read them to him as altered.  I have known himmuch longer than you have, and will be answerable for the event."	Pope took his advice, called on Lord Halifax and read the poemexactly as it was before.  His unique critical faculties had lost none oftheir edge.  "Ay", he commented, "now they are perfectly right.  Nothing canbe better."		-- Stephen Pile, "The Book of Heroic Failures"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You are taking yourself far too seriously.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Quentin</strong></div></td>
+      <td><div align="center"><strong>Sweet Tooth</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Dark rum, 1/2 oz  Kahlua, 1 oz  Light cream, 1/8 tsp grated  Nutmeg</td>
+      <td><b>Ingredients:</b> 2 shots  Godiva liqueur, Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.</td>
+      <td><b>Instructions:</b> Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You are taking yourself far too seriously.
 <br>
 </details>
 
-**160 day before 2025 ⏱** days before new year
+**159 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.81°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.58°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:14 and sets 🌇 at 21:11
+  The sun ☀️ rise 🌄 at 06:15 and sets 🌇 at 21:10
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You are taking yourself far too seriously.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 25 2024
+  Last update on Fri Jul 26 2024
   </div>
 <br>
 
