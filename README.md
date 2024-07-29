@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Many enraged psychiatrists are inciting a weary butcher.  The butcher isweary and tired because he has cut meat and steak and lamb for hours andweeks.  He does not desire to chant about anything with raving psychiatrists,but he sings about his gingivectomist, he dreams about a single cosmologist,he thinks about his dog.  The dog is named Herbert.		-- Racter, "The Policeman's Beard is Half-Constructed"
+You have a deep interest in all that is artistic.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Many enraged psychiatrists are inciting a weary butcher.  The butcher isweary an
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Strange Weaver</strong></div></td>
+      <td><div align="center"><strong>Downshift</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/opxjzh1604179528.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Light Rum, 1 oz Gin, 0.75 oz Sweet Vermouth, 0.75 oz Campari, Dash Lemon Juice, Dash Orgeat Syrup, Garnish with Orange Peel</td>
+      <td><b>Ingredients:</b> 2 part  Fruit punch, 1 part  Sprite, 2 shots  Tequila, Float Bacardi  151 proof rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix ingredients slowly in a glass with ice, garnish with orange slice</td>
+      <td><b>Instructions:</b> Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Many enraged psychiatrists are inciting a weary butcher.  The butcher isweary an
 <br>
 </details>
 
-**157 day before 2025 ⏱** days before new year
+**156 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.31°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.19°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:17 and sets 🌇 at 21:08
+  The sun ☀️ rise 🌄 at 06:18 and sets 🌇 at 21:07
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Many enraged psychiatrists are inciting a weary butcher.  The butcher isweary an
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 28 2024
+  Last update on Mon Jul 29 2024
   </div>
 <br>
 
