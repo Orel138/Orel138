@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have a deep interest in all that is artistic.
+You have taken yourself too seriously.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You have a deep interest in all that is artistic.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Downshift</strong></div></td>
+      <td><div align="center"><strong>Cranberry Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Hurricane glass</td>
+      <td><b>Type of glass:</b> Punch Bowl</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 part  Fruit punch, 1 part  Sprite, 2 shots  Tequila, Float Bacardi  151 proof rum</td>
+      <td><b>Ingredients:</b> 4 cups  Cranberry juice, 1 1/2 cup  Sugar, 4 cups  Pineapple juice, 1 tblsp  Almond flavoring, 2 qt  Ginger ale</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.</td>
+      <td><b>Instructions:</b> Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You have a deep interest in all that is artistic.
 <br>
 </details>
 
-**156 day before 2025 ⏱** days before new year
+**155 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.19°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.45°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:18 and sets 🌇 at 21:07
+  The sun ☀️ rise 🌄 at 06:19 and sets 🌇 at 21:06
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You have a deep interest in all that is artistic.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 29 2024
+  Last update on Tue Jul 30 2024
   </div>
 <br>
 
