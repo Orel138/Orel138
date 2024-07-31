@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have taken yourself too seriously.
+This night methinks is but the daylight sick.		-- William Shakespeare, "The Merchant of Venice"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You have taken yourself too seriously.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cranberry Punch</strong></div></td>
+      <td><div align="center"><strong>Lemouroudji</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eirmo71487603745.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch Bowl</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cups  Cranberry juice, 1 1/2 cup  Sugar, 4 cups  Pineapple juice, 1 tblsp  Almond flavoring, 2 qt  Ginger ale</td>
+      <td><b>Ingredients:</b> 2 pieces  Ginger, 1 gal  Water, 1 lb  Lemon, 1 cup  Sugar, ground  Cayenne pepper</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine first four ingredients. Stir until sugar is dissolved, chill. Then add ginger ale just before serving. Add ice ring to keep punch cold.</td>
+      <td><b>Instructions:</b> Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You have taken yourself too seriously.
 <br>
 </details>
 
-**155 day before 2025 ⏱** days before new year
+**154 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.45°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.56°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:19 and sets 🌇 at 21:06
+  The sun ☀️ rise 🌄 at 06:20 and sets 🌇 at 21:05
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You have taken yourself too seriously.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jul 30 2024
+  Last update on Wed Jul 31 2024
   </div>
 <br>
 
