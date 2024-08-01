@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-This night methinks is but the daylight sick.		-- William Shakespeare, "The Merchant of Venice"
+F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway:	"Yes.  They have more money."
 </details>
 
 <details>
@@ -76,19 +76,19 @@ This night methinks is but the daylight sick.		-- William Shakespeare, "The Merc
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lemouroudji</strong></div></td>
+      <td><div align="center"><strong>Flying Dutchman</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eirmo71487603745.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 pieces  Ginger, 1 gal  Water, 1 lb  Lemon, 1 cup  Sugar, ground  Cayenne pepper</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Triple sec</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ This night methinks is but the daylight sick.		-- William Shakespeare, "The Merc
 <br>
 </details>
 
-**154 day before 2025 ⏱** days before new year
+**153 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.56°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.33°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:20 and sets 🌇 at 21:05
+  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 21:03
   </div>
 <br>
 
@@ -119,7 +119,7 @@ This night methinks is but the daylight sick.		-- William Shakespeare, "The Merc
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jul 31 2024
+  Last update on Thu Aug 01 2024
   </div>
 <br>
 
