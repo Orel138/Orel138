@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What happens when four WASPs find themselves in the same room?A:	A dinner party.
+You single-handedly fought your way into this hopeless mess.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What happens when four WASPs find themselves in the same room?A:	A dinner par
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Imperial Cocktail</strong></div></td>
+      <td><div align="center"><strong>Jelly Bean</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bcsj2e1487603625.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Cordial glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl  Lime juice, 2 cl  Gin, 4 cl  Aperol</td>
+      <td><b>Ingredients:</b> 1 oz  Blackberry brandy, 1 oz  Anis</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with ice and strain into cocktail glass.</td>
+      <td><b>Instructions:</b> mix equal parts in pony glass-tastes just like a jelly bean!</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What happens when four WASPs find themselves in the same room?A:	A dinner par
 <br>
 </details>
 
-**151 day before 2025 ⏱** days before new year
+**150 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.8°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.58°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 21:01
+  The sun ☀️ rise 🌄 at 06:25 and sets 🌇 at 20:59
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What happens when four WASPs find themselves in the same room?A:	A dinner par
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Aug 03 2024
+  Last update on Sun Aug 04 2024
   </div>
 <br>
 
