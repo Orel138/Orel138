@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You single-handedly fought your way into this hopeless mess.
+Q:	How many Bell Labs Vice Presidents does it take to change a light bulb?A:	That's proprietary information.  Answer available from AT&T on payment	of license fee (binary only).
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You single-handedly fought your way into this hopeless mess.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jelly Bean</strong></div></td>
+      <td><div align="center"><strong>Applecar</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cordial glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Blackberry brandy, 1 oz  Anis</td>
+      <td><b>Ingredients:</b> 1 oz  Applejack, 1 oz  Triple sec, 1 oz  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> mix equal parts in pony glass-tastes just like a jelly bean!</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You single-handedly fought your way into this hopeless mess.
 <br>
 </details>
 
-**150 day before 2025 ⏱** days before new year
+**149 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.58°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.14°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:25 and sets 🌇 at 20:59
+  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 20:58
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You single-handedly fought your way into this hopeless mess.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Aug 04 2024
+  Last update on Mon Aug 05 2024
   </div>
 <br>
 
