@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many Bell Labs Vice Presidents does it take to change a light bulb?A:	That's proprietary information.  Answer available from AT&T on payment	of license fee (binary only).
+Q:	Why did the astrophysicist order three hamburgers?A:	Because he was hungry.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	How many Bell Labs Vice Presidents does it take to change a light bulb?A:	Tha
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Applecar</strong></div></td>
+      <td><div align="center"><strong>Vodka Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwxyux1441254243.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> White wine glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Applejack, 1 oz  Triple sec, 1 oz  Lemon juice</td>
+      <td><b>Ingredients:</b> 2 oz  Vodka, 2 oz  Half-and-half, 2 oz  Limeade, Ice, Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	How many Bell Labs Vice Presidents does it take to change a light bulb?A:	Tha
 <br>
 </details>
 
-**149 day before 2025 ⏱** days before new year
+**148 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.14°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.26°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 20:58
+  The sun ☀️ rise 🌄 at 06:27 and sets 🌇 at 20:57
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	How many Bell Labs Vice Presidents does it take to change a light bulb?A:	Tha
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Aug 05 2024
+  Last update on Tue Aug 06 2024
   </div>
 <br>
 
