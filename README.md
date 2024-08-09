@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You attempt things that you do not even plan because of your extreme stupidity.
+Q:	How does the Polish Constitution differ from the American?A:	Under the Polish Constitution citizens are guaranteed freedom of	speech, but under the United States constitution they are	guaranteed freedom after speech.		-- being told in Poland, 1987
 </details>
 
 <details>
@@ -76,19 +76,19 @@ You attempt things that you do not even plan because of your extreme stupidity.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Screwdriver</strong></div></td>
+      <td><div align="center"><strong>Bleeding Surgeon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, Orange juice</td>
+      <td><b>Ingredients:</b> 1 shot  Dark rum, 1 slice  Orange, 1/2 glass  Surge, 1/2 glass  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix in a highball glass with ice. Garnish and serve.</td>
+      <td><b>Instructions:</b> Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ You attempt things that you do not even plan because of your extreme stupidity.
 <br>
 </details>
 
-**146 day before 2025 ⏱** days before new year
+**145 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.75°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.87°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:30 and sets 🌇 at 20:54
+  The sun ☀️ rise 🌄 at 06:31 and sets 🌇 at 20:52
   </div>
 <br>
 
@@ -119,7 +119,7 @@ You attempt things that you do not even plan because of your extreme stupidity.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Aug 08 2024
+  Last update on Fri Aug 09 2024
   </div>
 <br>
 
