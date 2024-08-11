@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"You have been in Afghanistan, I perceive."		-- Sir Arthur Conan Doyle, "A Study in Scarlet"
+Just to have it is enough.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Mist</strong></div></td>
+      <td><div align="center"><strong>Coffee-Vodka</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/utpxxq1483388370.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qvrrvu1472667494.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Amaretto, 1  Lime</td>
+      <td><b>Ingredients:</b> 2 cups  Water, 2 cups white  Sugar, 1/2 cup instant  Coffee, 1/2 Vanilla, 1 1/2 cup Vodka, Caramel coloring</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)</td>
+      <td><b>Instructions:</b> Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won't evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**144 day before 2025 ⏱** days before new year
+**143 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.49°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.22°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 20:51
+  The sun ☀️ rise 🌄 at 06:33 and sets 🌇 at 20:49
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Aug 10 2024
+  Last update on Sun Aug 11 2024
   </div>
 <br>
 
