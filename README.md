@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-I must have a prodigious quantity of mind; it takes me as much as aweek sometimes to make it up.		-- Mark Twain, "The Innocents Abroad"
+Q:	How does the Polish Constitution differ from the American?A:	Under the Polish Constitution citizens are guaranteed freedom of	speech, but under the United States constitution they are	guaranteed freedom after speech.		-- being told in Poland, 1987
 </details>
 
 <details>
@@ -76,19 +76,19 @@ I must have a prodigious quantity of mind; it takes me as much as aweek sometime
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Godfather</strong></div></td>
+      <td><div align="center"><strong>Apple Karate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/e5zgao1582582378.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 3/4 oz  Amaretto</td>
+      <td><b>Ingredients:</b> 2 cups  Apple juice, 1 large  Carrot</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ I must have a prodigious quantity of mind; it takes me as much as aweek sometime
 <br>
 </details>
 
-**142 day before 2025 ⏱** days before new year
+**141 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 14.06°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.4°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:35 and sets 🌇 at 20:48
+  The sun ☀️ rise 🌄 at 06:36 and sets 🌇 at 20:46
   </div>
 <br>
 
@@ -119,7 +119,7 @@ I must have a prodigious quantity of mind; it takes me as much as aweek sometime
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Aug 12 2024
+  Last update on Tue Aug 13 2024
   </div>
 <br>
 
