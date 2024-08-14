@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How does the Polish Constitution differ from the American?A:	Under the Polish Constitution citizens are guaranteed freedom of	speech, but under the United States constitution they are	guaranteed freedom after speech.		-- being told in Poland, 1987
+The difference between a Miracle and a Fact is exactly the differencebetween a mermaid and a seal.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	How does the Polish Constitution differ from the American?A:	Under the Polish
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Apple Karate</strong></div></td>
+      <td><div align="center"><strong>Slippery Nipple</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Apple juice, 1 large  Carrot</td>
+      <td><b>Ingredients:</b> 1 part Sambuca, 1 part Irish cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+      <td><b>Instructions:</b> Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	How does the Polish Constitution differ from the American?A:	Under the Polish
 <br>
 </details>
 
-**141 day before 2025 ⏱** days before new year
+**140 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.4°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>null°C (felt null°C), null</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:36 and sets 🌇 at 20:46
+  The sun ☀️ rise 🌄 at null and sets 🌇 at null
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	How does the Polish Constitution differ from the American?A:	Under the Polish
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Aug 13 2024
+  Last update on Wed Aug 14 2024
   </div>
 <br>
 
