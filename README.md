@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The difference between a Miracle and a Fact is exactly the differencebetween a mermaid and a seal.		-- Mark Twain
+"Not Hercules could have knock'd out his brains, for he had none."		-- Shakespeare
 </details>
 
 <details>
@@ -76,19 +76,19 @@ The difference between a Miracle and a Fact is exactly the differencebetween a m
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Slippery Nipple</strong></div></td>
+      <td><div align="center"><strong>Red Snapper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part Sambuca, 1 part Irish cream</td>
+      <td><b>Ingredients:</b> 1 shot  Crown Royal, 1 shot  Amaretto, 1 shot  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
+      <td><b>Instructions:</b> One shot each, shake n shoot</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ The difference between a Miracle and a Fact is exactly the differencebetween a m
 <br>
 </details>
 
-**140 day before 2025 ⏱** days before new year
+**139 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>null°C (felt null°C), null</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.48°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at null and sets 🌇 at null
+  The sun ☀️ rise 🌄 at 06:38 and sets 🌇 at 20:43
   </div>
 <br>
 
@@ -119,7 +119,7 @@ The difference between a Miracle and a Fact is exactly the differencebetween a m
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Aug 14 2024
+  Last update on Thu Aug 15 2024
   </div>
 <br>
 
