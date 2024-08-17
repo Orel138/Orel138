@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tonight you will pay the wages of sin; Don't forget to leave a tip.
+Q:	How many supply-siders does it take to change a light bulb?A:	None.  The darkness will cause the light bulb to change by itself.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Tonight you will pay the wages of sin; Don't forget to leave a tip.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Clove Cocktail</strong></div></td>
+      <td><div align="center"><strong>Bailey's Dream Shake</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxvtst1461867579.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxrvqw1472718959.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Sweet Vermouth, 1/2 oz  Sloe gin, 1/2 oz Muscatel  Wine</td>
+      <td><b>Ingredients:</b> 2 oz  Baileys irish cream, 2 scoops  Vanilla ice-cream, Cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Tonight you will pay the wages of sin; Don't forget to leave a tip.
 <br>
 </details>
 
-**138 day before 2025 ⏱** days before new year
+**137 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.39°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.28°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:39 and sets 🌇 at 20:42
+  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 20:40
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Tonight you will pay the wages of sin; Don't forget to leave a tip.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 16 2024
+  Last update on Sat Aug 17 2024
   </div>
 <br>
 
