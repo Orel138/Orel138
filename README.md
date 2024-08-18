@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many supply-siders does it take to change a light bulb?A:	None.  The darkness will cause the light bulb to change by itself.
+How apt the poor are to be proud.		-- William Shakespeare, "Twelfth-Night"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	How many supply-siders does it take to change a light bulb?A:	None.  The dark
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bailey's Dream Shake</strong></div></td>
+      <td><div align="center"><strong>Algonquin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxrvqw1472718959.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Baileys irish cream, 2 scoops  Vanilla ice-cream, Cream</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, 1 oz  Dry Vermouth, 1 oz  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !</td>
+      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	How many supply-siders does it take to change a light bulb?A:	None.  The dark
 <br>
 </details>
 
-**137 day before 2025 ⏱** days before new year
+**136 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.28°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 12.33°C), moderate rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 20:40
+  The sun ☀️ rise 🌄 at 06:42 and sets 🌇 at 20:38
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	How many supply-siders does it take to change a light bulb?A:	None.  The dark
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Aug 17 2024
+  Last update on Sun Aug 18 2024
   </div>
 <br>
 
