@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-It's lucky you're going so slowly, because you're going in the wrong direction.
+"Good afternoon, madam.  How may I help you?""Good afternoon.  I'd like a FrintArms HandCannon, please.""A--?  Oh, now, that's an awfully big gun for such a lovely lady.  Imean, not everybody thinks ladies should carry guns at all, though Isay they have a right to.  But I think... I might... Let's have a lookdown here.  I might have just the thing for you.  Yes, here we are!Look at that, isn't it neat?  Now that is a FrintArms product as well,but it's what's called a laser -- a light-pistol some people callthem.  Very small, as you see; fits easily into a pocket or bag; won'tspoil the line of a jacket; and you won't feel you're lugging half atonne of iron around with you.  We do a range of matching accessories,including -- if I may say so -- a rather saucy garter holster.  Wish Igot to do the fitting for that!  Ha -- just my little joke.  Andthere's *even*... here we are -- this special presentation pack: gun,charged battery, charging unit, beautiful glider-hide shoulder holsterwith adjustable fitting and contrast stitching, and a discount on yournext battery.  Full instructions, of course, and a voucher for freelessons at your local gun club or range.  Or there's the *special*presentation pack; it has all the other one's got but with *two*charged batteries and a night-sight, too.  Here, feel that -- don'tworry, it's a dummy battery -- isn't it neat?  Feel how light it is?Smooth, see?  No bits to stick out and catch on your clothes, *and*beautifully balanced.  And of course the beauty of a laser is, there'sno recoil.  Because it's shooting light, you see?  Beautiful gun,beautiful gun; my wife has one.  Really.  That's not a line, shereally has.  Now, I can do you that one -- with a battery and a freecharge -- for ninety-five; or the presentation pack on a specialoffer for one-nineteen; or this, the special presentation pack, forone-forty-nine.""I'll take the special.""Sound choice, madam, *sound* choice.  Now, do--?""And a HandCannon, with the eighty-mill silencer, five GP clips, threesix-five AP/wire-fl'echettes clips, two bipropellant HE clips, and aSpecial Projectile Pack if you have one -- the one with the embeddingrounds, not the signalers.  I assume the night-sight on this toy iscompatible?""Aah... yes,  And how does madam wish to pay?"She slapped her credit card on the counter.  "Eventually."		-- Iain M. Banks, "Against a Dark Background"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ It's lucky you're going so slowly, because you're going in the wrong direction.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Castillian Hot Chocolate</strong></div></td>
+      <td><div align="center"><strong>Bubble Gum</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3nbu4a1487603196.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 cup  Cocoa powder, 1 cup  Sugar, 7 tsp  Cornstarch, 1/2 cup  Water, 1 qt  Milk</td>
+      <td><b>Ingredients:</b> 1/4  Vodka, 1/4  Banana liqueur, 1/4  Orange juice, 1/4  Peach schnapps</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.</td>
+      <td><b>Instructions:</b> Layer in order into a shot glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ It's lucky you're going so slowly, because you're going in the wrong direction.
 <br>
 </details>
 
-**135 day before 2025 ⏱** days before new year
+**134 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.89°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.76°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:43 and sets 🌇 at 20:37
+  The sun ☀️ rise 🌄 at 06:44 and sets 🌇 at 20:35
   </div>
 <br>
 
@@ -119,7 +119,7 @@ It's lucky you're going so slowly, because you're going in the wrong direction.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Aug 19 2024
+  Last update on Tue Aug 20 2024
   </div>
 <br>
 
