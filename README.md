@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"Good afternoon, madam.  How may I help you?""Good afternoon.  I'd like a FrintArms HandCannon, please.""A--?  Oh, now, that's an awfully big gun for such a lovely lady.  Imean, not everybody thinks ladies should carry guns at all, though Isay they have a right to.  But I think... I might... Let's have a lookdown here.  I might have just the thing for you.  Yes, here we are!Look at that, isn't it neat?  Now that is a FrintArms product as well,but it's what's called a laser -- a light-pistol some people callthem.  Very small, as you see; fits easily into a pocket or bag; won'tspoil the line of a jacket; and you won't feel you're lugging half atonne of iron around with you.  We do a range of matching accessories,including -- if I may say so -- a rather saucy garter holster.  Wish Igot to do the fitting for that!  Ha -- just my little joke.  Andthere's *even*... here we are -- this special presentation pack: gun,charged battery, charging unit, beautiful glider-hide shoulder holsterwith adjustable fitting and contrast stitching, and a discount on yournext battery.  Full instructions, of course, and a voucher for freelessons at your local gun club or range.  Or there's the *special*presentation pack; it has all the other one's got but with *two*charged batteries and a night-sight, too.  Here, feel that -- don'tworry, it's a dummy battery -- isn't it neat?  Feel how light it is?Smooth, see?  No bits to stick out and catch on your clothes, *and*beautifully balanced.  And of course the beauty of a laser is, there'sno recoil.  Because it's shooting light, you see?  Beautiful gun,beautiful gun; my wife has one.  Really.  That's not a line, shereally has.  Now, I can do you that one -- with a battery and a freecharge -- for ninety-five; or the presentation pack on a specialoffer for one-nineteen; or this, the special presentation pack, forone-forty-nine.""I'll take the special.""Sound choice, madam, *sound* choice.  Now, do--?""And a HandCannon, with the eighty-mill silencer, five GP clips, threesix-five AP/wire-fl'echettes clips, two bipropellant HE clips, and aSpecial Projectile Pack if you have one -- the one with the embeddingrounds, not the signalers.  I assume the night-sight on this toy iscompatible?""Aah... yes,  And how does madam wish to pay?"She slapped her credit card on the counter.  "Eventually."		-- Iain M. Banks, "Against a Dark Background"
+"... all the modern inconveniences ..."		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bubble Gum</strong></div></td>
+      <td><div align="center"><strong>Acapulco</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/4  Vodka, 1/4  Banana liqueur, 1/4  Orange juice, 1/4  Peach schnapps</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 tblsp  Lime juice, 1 tsp  Sugar, 1  Egg white, 1  Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Layer in order into a shot glass.</td>
+      <td><b>Instructions:</b> Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**134 day before 2025 ⏱** days before new year
+**133 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.76°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.71°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:44 and sets 🌇 at 20:35
+  The sun ☀️ rise 🌄 at 06:45 and sets 🌇 at 20:33
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Aug 20 2024
+  Last update on Wed Aug 21 2024
   </div>
 <br>
 
