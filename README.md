@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"... all the modern inconveniences ..."		-- Mark Twain
+Your present plans will be successful.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Acapulco</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xnzc541493070211.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 tblsp  Lime juice, 1 tsp  Sugar, 1  Egg white, 1  Mint</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Amaretto, 3 oz  Sour mix</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.</td>
+      <td><b>Instructions:</b> Shake and strain. Garnish with a cherry and an orange slice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**133 day before 2025 ⏱** days before new year
+**132 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.71°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.98°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:45 and sets 🌇 at 20:33
+  The sun ☀️ rise 🌄 at 06:47 and sets 🌇 at 20:32
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Aug 21 2024
+  Last update on Thu Aug 22 2024
   </div>
 <br>
 
