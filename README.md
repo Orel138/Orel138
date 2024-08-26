@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What is green and lives in the ocean?A:	Moby Pickle.
+Of course you have a purpose -- to find a purpose.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Q:	What is green and lives in the ocean?A:	Moby Pickle.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Absolut Summertime</strong></div></td>
+      <td><div align="center"><strong>Belgian Blue</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trpxxs1472669662.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jylbrq1582580066.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Absolut Citron, 3/4 oz  Sweet and sour, 1/2 oz  Sprite, 3 oz  Soda water, 1 slice  Lemon</td>
+      <td><b>Ingredients:</b> 2 cl  Vodka, 1 cl  Coconut liqueur, 1 cl  Blue Curacao, Fill with  Sprite</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.</td>
+      <td><b>Instructions:</b> Just pour all ingredients in the glass and stir...</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Q:	What is green and lives in the ocean?A:	Moby Pickle.
 <br>
 </details>
 
-**129 day before 2025 ⏱** days before new year
+**128 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.34°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.37°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:50 and sets 🌇 at 20:27
+  The sun ☀️ rise 🌄 at 06:51 and sets 🌇 at 20:25
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Q:	What is green and lives in the ocean?A:	Moby Pickle.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Aug 25 2024
+  Last update on Mon Aug 26 2024
   </div>
 <br>
 
