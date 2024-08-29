@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Never be led astray onto the path of virtue.
+The Least Successful Collector	Betsy Baker played a central role in the history of collecting.  Shewas employed as a servant in the house of John Warburton (1682-1759) who hadamassed a fine collection of 58 first edition plays, including most of theworks of Shakespeare.	One day Warburton returned home to find 55 of them charred beyondlegibility.  Betsy had either burned them or used them as pie bottoms.  Theremaining three folios are now in the British Museum.	The only comparable literary figure was the maid who in 1835 burnedthe manuscript of the first volume of Thomas Carlyle's "The Hisory of theFrench Revolution", thinking it was wastepaper.		-- Stephen Pile, "The Book of Heroic Failures"
 </details>
 
 <details>
@@ -76,19 +76,20 @@ Never be led astray onto the path of virtue.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Egg Nog - Healthy</strong></div></td>
+      <td><div align="center"><strong>New York Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxuppv1468875308.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 cup  Egg, 3 tblsp  Sugar, 13 oz skimmed  Condensed milk, 3/4 cup skimmed  Milk, 1 tsp  Vanilla extract, 1 tsp  Rum, Nutmeg, , , , , </td>
+      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Sugar, (Claret)
+ Red wine, Lemon, Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings.</td>
+      <td><b>Instructions:</b> Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +100,13 @@ Never be led astray onto the path of virtue.
 <br>
 </details>
 
-**126 day before 2025 ⏱** days before new year
+**125 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.56°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.36°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:54 and sets 🌇 at 20:21
+  The sun ☀️ rise 🌄 at 06:55 and sets 🌇 at 20:20
   </div>
 <br>
 
@@ -119,7 +120,7 @@ Never be led astray onto the path of virtue.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Aug 28 2024
+  Last update on Thu Aug 29 2024
   </div>
 <br>
 
