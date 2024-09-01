@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The Least Perceptive Literary Critic	The most important critic in our field of study is Lord Halifax.  Amost individual judge of poetry, he once invited Alexander Pope round togive a public reading of his latest poem.	Pope, the leading poet of his day, was greatly surprised when LordHalifax stopped him four or five times and said, "I beg your pardon, Mr.Pope, but there is something in that passage that does not quite please me."	Pope was rendered speechless, as this fine critic suggested sizeableand unwise emendations to his latest masterpiece.  "Be so good as to markthe place and consider at your leisure.  I'm sure you can give it a betterturn."	After the reading, a good friend of Lord Halifax, a certain Dr.Garth, took the stunned Pope to one side.  "There is no need to touch thelines," he said.  "All you need do is leave them just as they are, call onLord Halifax two or three months hence, thank him for his kind observationon those passages, and then read them to him as altered.  I have known himmuch longer than you have, and will be answerable for the event."	Pope took his advice, called on Lord Halifax and read the poemexactly as it was before.  His unique critical faculties had lost none oftheir edge.  "Ay", he commented, "now they are perfectly right.  Nothing canbe better."		-- Stephen Pile, "The Book of Heroic Failures"
+This night methinks is but the daylight sick.		-- William Shakespeare, "The Merchant of Venice"
 </details>
 
 <details>
@@ -76,19 +76,19 @@ The Least Perceptive Literary Critic	The most important critic in our field of s
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>After sex</strong></div></td>
+      <td><div align="center"><strong>Iced Coffee Fillip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cl  Vodka, 1 cl  Creme de Banane, Orange juice</td>
+      <td><b>Ingredients:</b> 2 tsp  Kahlua, Strong cold  Coffee</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar</td>
+      <td><b>Instructions:</b> Mix together in a coffee mug and chill before serving.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ The Least Perceptive Literary Critic	The most important critic in our field of s
 <br>
 </details>
 
-**123 day before 2025 ⏱** days before new year
+**122 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.32°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.49°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:57 and sets 🌇 at 20:16
+  The sun ☀️ rise 🌄 at 06:59 and sets 🌇 at 20:14
   </div>
 <br>
 
@@ -119,7 +119,7 @@ The Least Perceptive Literary Critic	The most important critic in our field of s
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Aug 31 2024
+  Last update on Sun Sep 01 2024
   </div>
 <br>
 
