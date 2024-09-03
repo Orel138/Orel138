@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-He that breaks a thing to find out what it is has left the path of wisdom.		-- J.R.R. Tolkien
+Its name is Public Opinion.  It is held in reverence.  It settles everything.Some think it is the voice of God.		-- Mark Twain
 </details>
 
 <details>
@@ -76,19 +76,19 @@ He that breaks a thing to find out what it is has left the path of wisdom.		-- J
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Hunter's Moon</strong></div></td>
+      <td><div align="center"><strong>London Town</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/t0iugg1509556712.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rpsrqv1468923507.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Balloon Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 25 ml Vermouth, 15 ml Maraschino Cherry, 10 ml Sugar Syrup, 100 ml Lemonade, 2 Blackberries</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Maraschino liqueur, 2 dashes  Orange bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put the Bombay Sapphire, Martini Bianco, sugar syrup & blackberries in a cocktail shaker with lots of ice and shake vigorously before pouring into a balloon glass, topping up with lemonade and garnishing with a wedge of orange.</td>
+      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ He that breaks a thing to find out what it is has left the path of wisdom.		-- J
 <br>
 </details>
 
-**121 day before 2025 ⏱** days before new year
+**120 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.75°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.35°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:00 and sets 🌇 at 20:12
+  The sun ☀️ rise 🌄 at 07:01 and sets 🌇 at 20:10
   </div>
 <br>
 
@@ -119,7 +119,7 @@ He that breaks a thing to find out what it is has left the path of wisdom.		-- J
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 02 2024
+  Last update on Tue Sep 03 2024
   </div>
 <br>
 
