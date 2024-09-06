@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Blow it out your ear.
+F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway:	"Yes.  They have more money."
 </details>
 
 <details>
@@ -76,19 +76,19 @@ Blow it out your ear.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Captain Kidd's Punch</strong></div></td>
+      <td><div align="center"><strong>Paloma</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/d83spj1596017390.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/samm5j1513706393.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 shots Rum, 1 shot Lime Juice, 1 shot Egg White, 1 dash Bitters, Ground Sugar, Top Nutmeg</td>
+      <td><b>Ingredients:</b> 3 oz Grape Soda, 1 1/2 oz Tequila</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix all ingredients together in a shaker and strain into a collins glass. Use Caribbean dark Rum for a sweeter taste.</td>
+      <td><b>Instructions:</b> Stir together and serve over ice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ Blow it out your ear.
 <br>
 </details>
 
-**118 day before 2025 ⏱** days before new year
+**117 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 12.33°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.34°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:03 and sets 🌇 at 20:07
+  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:05
   </div>
 <br>
 
@@ -119,7 +119,7 @@ Blow it out your ear.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 05 2024
+  Last update on Fri Sep 06 2024
   </div>
 <br>
 
