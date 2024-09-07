@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
   </picture>
 </h1>
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway:	"Yes.  They have more money."
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #21A:	Dr. Livingston I. Presume.Q:	What's Dr. Presume's full name?
 </details>
 
 <details>
@@ -76,19 +76,21 @@ F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Paloma</strong></div></td>
+      <td><div align="center"><strong>French Negroni</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/samm5j1513706393.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 oz Grape Soda, 1 1/2 oz Tequila</td>
+      <td><b>Ingredients:</b> 1 oz Gin, 1 oz Lillet, 1 oz Sweet Vermouth, 1 Orange Peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir together and serve over ice.</td>
+      <td><b>Instructions:</b> Add ice to a shaker and pour in all ingredients.
+Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
+Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +101,13 @@ F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway
 <br>
 </details>
 
-**117 day before 2025 ⏱** days before new year
+**116 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.34°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.46°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:05
+  The sun ☀️ rise 🌄 at 07:06 and sets 🌇 at 20:03
   </div>
 <br>
 
@@ -119,7 +121,7 @@ F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 06 2024
+  Last update on Sat Sep 07 2024
   </div>
 <br>
 
