@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #21A:	Dr. Livingston I. Presume.Q:	What's Dr. Presume's full name?
+The naked truth of it is, I have no shirt.		-- William Shakespeare, "Love's Labour's Lost"
 </details>
 
 <details>
@@ -76,21 +76,19 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #21A:	Dr. Livingston I. Presum
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>French Negroni</strong></div></td>
+      <td><div align="center"><strong>Quick F**K</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Martini Glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Gin, 1 oz Lillet, 1 oz Sweet Vermouth, 1 Orange Peel</td>
+      <td><b>Ingredients:</b> 1 part  Kahlua, 1 part  Midori melon liqueur, 1 part  Baileys irish cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add ice to a shaker and pour in all ingredients.
-Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
-Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.</td>
+      <td><b>Instructions:</b> In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream</td>
     </tr>
   </table>
 </div>
@@ -101,13 +99,13 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 <br>
 </details>
 
-**116 day before 2025 ⏱** days before new year
+**115 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.46°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.29°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:06 and sets 🌇 at 20:03
+  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:01
   </div>
 <br>
 
@@ -121,7 +119,7 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Sep 07 2024
+  Last update on Sun Sep 08 2024
   </div>
 <br>
 
