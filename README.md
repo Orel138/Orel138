@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you have when you have a lawyer buried up to his neck in sand?A:	Not enough sand.
+Q:	Why do people who live near Niagara Falls have flat foreheads?A:	Because every morning they wake up thinking "What *is* that noise?	Oh, right, *of course*!
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Q:	What do you have when you have a lawyer buried up to his neck in sand?A:	Not 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pink Panty Pulldowns</strong></div></td>
+      <td><div align="center"><strong>Zizi Coin-coin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0fbo2t1485620752.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Margarita/Coupette glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 L  Sprite, 2 cups  Pink lemonade, 2 cups  Vodka</td>
+      <td><b>Ingredients:</b> 5 cl  Cointreau, 2 cl  Lemon juice, cubes Ice, or lime
+ Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well</td>
+      <td><b>Instructions:</b> Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon/lime in glass.</td>
     </tr>
   </table>
 </div>
