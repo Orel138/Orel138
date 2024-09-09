@@ -4,8 +4,8 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-2.png">
-    <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
 
@@ -29,9 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
-
-🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -66,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Expect the worst, it's the least you can do.
+Q:	What do you have when you have a lawyer buried up to his neck in sand?A:	Not enough sand.
 </details>
 
 <details>
@@ -76,19 +74,19 @@ Expect the worst, it's the least you can do.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Casino Royale</strong></div></td>
+      <td><div align="center"><strong>Pink Panty Pulldowns</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3qpv121504366699.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Lemon juice, 1 tsp  Maraschino liqueur, 1 dash  Orange bitters, 1  Egg yolk</td>
+      <td><b>Ingredients:</b> 1 L  Sprite, 2 cups  Pink lemonade, 2 cups  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.</td>
+      <td><b>Instructions:</b> Shake well</td>
     </tr>
   </table>
 </div>
