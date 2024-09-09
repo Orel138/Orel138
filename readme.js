@@ -5,7 +5,7 @@ module.exports = `
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/<#banner_dark>">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/<#banner_light>">
-    <img alt="TEXT" src="assets/banner_light_theme/light-banner-1.png">
+    <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
 
@@ -30,8 +30,6 @@ My fascination with technology extends beyond my professional life, finding root
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
 🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a <#RandomDish>
-
-🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 

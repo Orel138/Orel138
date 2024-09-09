@@ -1,5 +1,5 @@
 function getRandomBanner(isDarkTheme) {
-  const bannersLight = ['light-banner-1.png', 'light-banner-2.png'];
+  const bannersLight = ['light-banner-1.png', 'light-banner-darth-vader.png', 'light-banner-lego-minifigure.png'];
   const bannersDark = ['dark-banner-1.png'];
 
   // Choose the appropriate listing based on the theme
