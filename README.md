@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🎨 Currently, I'm diving into the world of 3D modeling, exploring Blender and Fusion360. It's a thrilling journey that marries my technical skills with artistic creativity, opening new horizons in my professional and personal development.
 
@@ -66,7 +66,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The naked truth of it is, I have no shirt.		-- William Shakespeare, "Love's Labour's Lost"
+Delores breezed along the surface of her life like a flat stone foreverskipping along smooth water, rippling reality sporadically but obliviousto it consistently, until she finally lost momentum, sank, and due to anoverdose of flouride as a child which caused her to suffer from chronicapathy, doomed herself to lie forever on the floor of her life as uselessas an appendix and as lonely as a five-hundred pound barbell in asteroid-free fitness center.		-- Winning sentence, 1990 Bulwer-Lytton bad fiction contest.
 </details>
 
 <details>
@@ -76,19 +76,19 @@ The naked truth of it is, I have no shirt.		-- William Shakespeare, "Love's Labo
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Quick F**K</strong></div></td>
+      <td><div align="center"><strong>Sherry Flip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Nick and Nora Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Kahlua, 1 part  Midori melon liqueur, 1 part  Baileys irish cream</td>
+      <td><b>Ingredients:</b> 1 1/2 oz cream  Sherry, 2 tsp  Light cream, 1 tsp  Powdered sugar, 1 whole  Egg, Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream</td>
+      <td><b>Instructions:</b> Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +99,13 @@ The naked truth of it is, I have no shirt.		-- William Shakespeare, "Love's Labo
 <br>
 </details>
 
-**115 day before 2025 ⏱** days before new year
+**114 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.29°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.65°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:01
+  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 19:59
   </div>
 <br>
 
@@ -119,7 +119,7 @@ The naked truth of it is, I have no shirt.		-- William Shakespeare, "Love's Labo
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 08 2024
+  Last update on Mon Sep 09 2024
   </div>
 <br>
 
