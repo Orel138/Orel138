@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why do people who live near Niagara Falls have flat foreheads?A:	Because every morning they wake up thinking "What *is* that noise?	Oh, right, *of course*!
+He jests at scars who never felt a wound.		-- Shakespeare, "Romeo and Juliet, II. 2"
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Q:	Why do people who live near Niagara Falls have flat foreheads?A:	Because ever
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zizi Coin-coin</strong></div></td>
+      <td><div align="center"><strong>Apple Grande</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0fbo2t1485620752.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wqrptx1472668622.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Margarita/Coupette glass</td>
+      <td><b>Type of glass:</b> Punch Bowl</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 cl  Cointreau, 2 cl  Lemon juice, cubes Ice, or lime
- Lemon</td>
+      <td><b>Ingredients:</b> 3 oz  Tequila, 12 oz  Apple cider</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon/lime in glass.</td>
+      <td><b>Instructions:</b> Chill both ingredients!! Mix in a tumbler and enjoy!</td>
     </tr>
   </table>
 </div>
@@ -101,10 +100,10 @@ Q:	Why do people who live near Niagara Falls have flat foreheads?A:	Because ever
 **113 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.18°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.48°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 19:59
+  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 19:57
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Q:	Why do people who live near Niagara Falls have flat foreheads?A:	Because ever
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 09 2024
+  Last update on Tue Sep 10 2024
   </div>
 <br>
 
