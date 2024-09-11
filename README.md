@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-He jests at scars who never felt a wound.		-- Shakespeare, "Romeo and Juliet, II. 2"
+Q:	How many Oregonians does it take to screw in a light bulb?A:	Three.  One to screw in the light bulb and two to fend off all those	Californians trying to share the experience.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ He jests at scars who never felt a wound.		-- Shakespeare, "Romeo and Juliet, II
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Apple Grande</strong></div></td>
+      <td><div align="center"><strong>A1</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wqrptx1472668622.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch Bowl</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 oz  Tequila, 12 oz  Apple cider</td>
+      <td><b>Ingredients:</b> 1 3/4 shot  Gin, 1 Shot  Grand Marnier, 1/4 Shot Lemon Juice, 1/8 Shot Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Chill both ingredients!! Mix in a tumbler and enjoy!</td>
+      <td><b>Instructions:</b> Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ He jests at scars who never felt a wound.		-- Shakespeare, "Romeo and Juliet, II
 <br>
 </details>
 
-**113 day before 2025 ⏱** days before new year
+**112 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.48°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.65°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 19:57
+  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 19:55
   </div>
 <br>
 
@@ -117,7 +117,7 @@ He jests at scars who never felt a wound.		-- Shakespeare, "Romeo and Juliet, II
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Sep 10 2024
+  Last update on Wed Sep 11 2024
   </div>
 <br>
 
