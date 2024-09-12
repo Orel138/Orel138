@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many Oregonians does it take to screw in a light bulb?A:	Three.  One to screw in the light bulb and two to fend off all those	Californians trying to share the experience.
+Don't get to bragging.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many Oregonians does it take to screw in a light bulb?A:	Three.  One to s
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A1</strong></div></td>
+      <td><div align="center"><strong>Champagne Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/t5pv461606773026.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Champagne flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 3/4 shot  Gin, 1 Shot  Grand Marnier, 1/4 Shot Lemon Juice, 1/8 Shot Grenadine</td>
+      <td><b>Ingredients:</b> Chilled  Champagne, 1 piece  Sugar, 2 dashes  Bitters, 1 twist of  Lemon peel, 1 dash Cognac</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.</td>
+      <td><b>Instructions:</b> Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many Oregonians does it take to screw in a light bulb?A:	Three.  One to s
 <br>
 </details>
 
-**112 day before 2025 ⏱** days before new year
+**111 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.65°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.33°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 19:55
+  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 19:53
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many Oregonians does it take to screw in a light bulb?A:	Three.  One to s
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 11 2024
+  Last update on Thu Sep 12 2024
   </div>
 <br>
 
