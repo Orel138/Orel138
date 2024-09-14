@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-After your lover has gone you will still have PEANUT BUTTER!
+Q:	What do monsters eat?A:	Things.Q:	What do monsters drink?A:	Coke.  (Because Things go better with Coke.)
 </details>
 
 <details>
@@ -74,19 +74,19 @@ After your lover has gone you will still have PEANUT BUTTER!
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Queen Bee</strong></div></td>
+      <td><div align="center"><strong>Elderflower Caipirinha</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rvvpxu1478963194.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dif7a31614006331.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Coffee brandy, 1 1/2 oz  Lime vodka, 1/2 oz cream  Sherry</td>
+      <td><b>Ingredients:</b> 60 ml Cachaca, 1 Lime, 3 cl Elderflower cordial</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Take the glass and muddle the lime in it. Fill the glass with crushed ice and add the Cachaca. Stir well and top with some more crushed ice. Garnish with lime and enjoy!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ After your lover has gone you will still have PEANUT BUTTER!
 <br>
 </details>
 
-**110 day before 2025 ⏱** days before new year
+**109 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.78°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.43°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 19:51
+  The sun ☀️ rise 🌄 at 07:14 and sets 🌇 at 19:50
   </div>
 <br>
 
@@ -117,7 +117,7 @@ After your lover has gone you will still have PEANUT BUTTER!
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 13 2024
+  Last update on Sat Sep 14 2024
   </div>
 <br>
 
