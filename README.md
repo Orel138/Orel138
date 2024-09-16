@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't go around saying the world owes you a living.  The world owes younothing.  It was here first.		-- Mark Twain
+People are beginning to notice you.  Try dressing before you leave the house.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't go around saying the world owes you a living.  The world owes younothing. 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Negroni</strong></div></td>
+      <td><div align="center"><strong>57 Chevy with a White License Plate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Gin, 1 oz  Campari, 1 oz  Sweet Vermouth</td>
+      <td><b>Ingredients:</b> 1 oz white  Creme de Cacao, 1 oz  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir into glass over ice, garnish and serve.</td>
+      <td><b>Instructions:</b> 1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't go around saying the world owes you a living.  The world owes younothing. 
 <br>
 </details>
 
-**108 day before 2025 ⏱** days before new year
+**107 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.5°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.88°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:15 and sets 🌇 at 19:48
+  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 19:46
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't go around saying the world owes you a living.  The world owes younothing. 
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 15 2024
+  Last update on Mon Sep 16 2024
   </div>
 <br>
 
