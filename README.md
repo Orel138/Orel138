@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tonight's the night: Sleep in a eucalyptus tree.
+Q:	How many hardware engineers does it take to change a light bulb?A:	None.  We'll fix it in software.Q:	How many system programmers does it take to change a light bulb?A:	None.  The application can work around it.Q:	How many software engineers does it take to change a light bulb?A:	None.  We'll document it in the manual.Q:	How many tech writers does it take to change a light bulb?A:	None.  The user can figure it out.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Tonight's the night: Sleep in a eucalyptus tree.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Chocolate Beverage</strong></div></td>
+      <td><div align="center"><strong>Castillian Hot Chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jbqrhv1487603186.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3nbu4a1487603196.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cups  Milk, 3 oz Mexican  Chocolate, 1 tsp powdered  Cinnamon, 3  Egg</td>
+      <td><b>Ingredients:</b> 1/2 cup  Cocoa powder, 1 cup  Sugar, 7 tsp  Cornstarch, 1/2 cup  Water, 1 qt  Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Boil milk in the top of a deep double boiler five minutes. Remove from fire and add chocolate, mixed with the cinnamon, a little at a time, beating with molinillo or egg beater after each addition. When the chocolate is thoroughly blended, heat to the boiling point. Place over bottom of double boiler and add eggs, whipping constantly, until they are thoroughly blended and the mixture is frothing. Serve in coffee mug. Serves eight.</td>
+      <td><b>Instructions:</b> Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Tonight's the night: Sleep in a eucalyptus tree.
 <br>
 </details>
 
-**105 day before 2025 ⏱** days before new year
+**104 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.65°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.26°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 19:42
+  The sun ☀️ rise 🌄 at 07:20 and sets 🌇 at 19:40
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Tonight's the night: Sleep in a eucalyptus tree.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 18 2024
+  Last update on Thu Sep 19 2024
   </div>
 <br>
 
