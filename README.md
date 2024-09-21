@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your reasoning powers are good, and you are a fairly good planner.
+You don't become a failure until you're satisfied with being one.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your reasoning powers are good, and you are a fairly good planner.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A Splash of Nash</strong></div></td>
+      <td><div align="center"><strong>Port And Starboard</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wxvupx1441553911.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Pousse cafe glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Cranberry juice, 2 oz  Soda water, 0.5 oz  Midori melon liqueur, 0.5 oz  Creme de Banane</td>
+      <td><b>Ingredients:</b> 1 tblsp  Grenadine, 1/2 oz  Green Creme de Menthe</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Drop shot glass with banana & melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.</td>
+      <td><b>Instructions:</b> Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your reasoning powers are good, and you are a fairly good planner.
 <br>
 </details>
 
-**103 day before 2025 ⏱** days before new year
+**102 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.91°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.83°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:21 and sets 🌇 at 19:38
+  The sun ☀️ rise 🌄 at 07:22 and sets 🌇 at 19:36
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your reasoning powers are good, and you are a fairly good planner.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 20 2024
+  Last update on Sat Sep 21 2024
   </div>
 <br>
 
