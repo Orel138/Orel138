@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your heart is pure, and your mind clear, and your soul devout.
+And do you think (fop that I am) that I could be the Scarlet Pumpernickel?
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your heart is pure, and your mind clear, and your soul devout.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bleeding Surgeon</strong></div></td>
+      <td><div align="center"><strong>Tequila Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2bcase1504889637.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Dark rum, 1 slice  Orange, 1/2 glass  Surge, 1/2 glass  Cranberry juice</td>
+      <td><b>Ingredients:</b> 2 oz  Tequila, 1 tblsp  Lemon juice, 3/4 oz  Grenadine, 1  Egg white, Ginger ale</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your heart is pure, and your mind clear, and your soul devout.
 <br>
 </details>
 
-**101 day before 2025 ⏱** days before new year
+**100 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.22°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.06°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 19:34
+  The sun ☀️ rise 🌄 at 07:25 and sets 🌇 at 19:32
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your heart is pure, and your mind clear, and your soul devout.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 22 2024
+  Last update on Mon Sep 23 2024
   </div>
 <br>
 
