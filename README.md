@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be a winner today.  Pick a fight with a four-year-old.
+The ripest fruit falls first.		-- William Shakespeare, "Richard II"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will be a winner today.  Pick a fight with a four-year-old.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Chicago Fizz</strong></div></td>
+      <td><div align="center"><strong>Blue Mountain</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qwvwqr1441207763.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bih7ln1582485506.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Light rum, 1 oz  Port, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1  Egg white, Carbonated water</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Añejo rum, 1/2 oz  Tia maria, 1/2 oz  Vodka, 1 oz  Orange juice, 1 tsp  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass almost filled with ice cubes.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will be a winner today.  Pick a fight with a four-year-old.
 <br>
 </details>
 
-**98 day before 2025 ⏱** days before new year
+**97 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.03°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 11.11°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:27 and sets 🌇 at 19:28
+  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 19:26
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will be a winner today.  Pick a fight with a four-year-old.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 25 2024
+  Last update on Thu Sep 26 2024
   </div>
 <br>
 
