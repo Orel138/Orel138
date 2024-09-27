@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The ripest fruit falls first.		-- William Shakespeare, "Richard II"
+Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The elephants are coming over the hill."Q:	What did he say when saw them coming over the hill wearing		sunglasses?A:	Nothing, for he didn't recognize them.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The ripest fruit falls first.		-- William Shakespeare, "Richard II"
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Blue Mountain</strong></div></td>
+      <td><div align="center"><strong>Grizzly Bear</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bih7ln1582485506.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k6v97f1487602550.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Añejo rum, 1/2 oz  Tia maria, 1/2 oz  Vodka, 1 oz  Orange juice, 1 tsp  Lemon juice</td>
+      <td><b>Ingredients:</b> 1 part  Amaretto, 1 part  Jägermeister, 1 part  Kahlua, 2 1/2 parts  Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass almost filled with ice cubes.</td>
+      <td><b>Instructions:</b> Served over ice. Sounds nasty, but tastes great.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The ripest fruit falls first.		-- William Shakespeare, "Richard II"
 <br>
 </details>
 
-**97 day before 2025 ⏱** days before new year
+**96 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 11.11°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.61°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 19:26
+  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 19:25
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The ripest fruit falls first.		-- William Shakespeare, "Richard II"
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 26 2024
+  Last update on Fri Sep 27 2024
   </div>
 <br>
 
