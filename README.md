@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The elephants are coming over the hill."Q:	What did he say when saw them coming over the hill wearing		sunglasses?A:	Nothing, for he didn't recognize them.
+Q:	How many college football players does it take to screw in a light bulb?A:	Only one, but he gets three credits for it.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The el
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Grizzly Bear</strong></div></td>
+      <td><div align="center"><strong>Foxy Lady</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k6v97f1487602550.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Amaretto, 1 part  Jägermeister, 1 part  Kahlua, 2 1/2 parts  Milk</td>
+      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz  Creme de Cacao, 2 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Served over ice. Sounds nasty, but tastes great.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The el
 <br>
 </details>
 
-**96 day before 2025 ⏱** days before new year
+**95 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.61°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.73°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 19:25
+  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 19:23
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The el
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 27 2024
+  Last update on Sat Sep 28 2024
   </div>
 <br>
 
