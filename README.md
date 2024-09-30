@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Hope that the day after you die is a nice day.
+Q:	Why do WASPs play golf ?A:	So they can dress like pimps.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Hope that the day after you die is a nice day.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Creme de Menthe</strong></div></td>
+      <td><div align="center"><strong>Bloody Maria</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yxswtp1441253918.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yz0j6z1504389461.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 8 cups  Sugar, 6 cups  Water, 1 pint  Grain alcohol, 1 oz pure  Peppermint extract, 1 tblsp green  Food coloring</td>
+      <td><b>Ingredients:</b> 1 oz  Tequila, 2 oz  Tomato juice, 1 dash  Lemon juice, 1 dash  Tabasco sauce, 1 dash  Celery salt, 1 slice  Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Hope that the day after you die is a nice day.
 <br>
 </details>
 
-**94 day before 2025 ⏱** days before new year
+**93 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.83°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.02°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:32 and sets 🌇 at 19:21
+  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 19:19
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Hope that the day after you die is a nice day.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 29 2024
+  Last update on Mon Sep 30 2024
   </div>
 <br>
 
