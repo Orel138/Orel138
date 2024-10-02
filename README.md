@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold the giraffe, and the other to fill the bathtub	with brightly colored machine tools.	[Surrealist jokes just aren't my cup of fur.  Ed.]
+Write yourself a threatening letter and pen a defiant reply.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Diesel</strong></div></td>
+      <td><div align="center"><strong>Archbishop</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4g6xds1582579703.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pint glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 pint  Lager, 1/2 pint  Cider, 1 dash  Blackcurrant cordial</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz Green Ginger  Wine, 1 tsp  Benedictine, 1  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
 <br>
 </details>
 
-**92 day before 2025 ⏱** days before new year
+**91 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.49°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 7.42°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:34 and sets 🌇 at 19:17
+  The sun ☀️ rise 🌄 at 07:36 and sets 🌇 at 19:15
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many surrealists does it take to change a light bulb?A:	Two, one to hold 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 01 2024
+  Last update on Wed Oct 02 2024
   </div>
 <br>
 
