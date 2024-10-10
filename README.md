@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-All the troubles you have will pass away very quickly.
+No live organism can continue for long to exist sanely under conditions ofabsolute reality; even larks and katydids are supposed, by some, to dream.Hill House, not sane, stood by itself against its hills, holding darknesswithin; it had stood so for eighty years and might stand for eighty more.Within, walls continued upright, bricks met neatly, floors were firm, anddoors were sensibly shut; silence lay steadily against the wood and stoneof Hill House, and whatever walked there, walked alone.		-- Shirley Jackson, "The Haunting of Hill House"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ All the troubles you have will pass away very quickly.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Allies Cocktail</strong></div></td>
+      <td><div align="center"><strong>Grasshopper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qvprvp1483388104.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Dry Vermouth, 1 oz  Gin, 1/2 tsp  Kummel</td>
+      <td><b>Ingredients:</b> 3/4 oz  Green Creme de Menthe, 3/4 oz white  Creme de Cacao, 3/4 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ All the troubles you have will pass away very quickly.
 <br>
 </details>
 
-**84 day before 2025 ⏱** days before new year
+**83 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.63°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.14°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 19:02
+  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 19:00
   </div>
 <br>
 
@@ -117,7 +117,7 @@ All the troubles you have will pass away very quickly.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Oct 09 2024
+  Last update on Thu Oct 10 2024
   </div>
 <br>
 
