@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".		-- Shakespeare
+You will not be elected to public office this year.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".		-- Shakesp
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Ruby Tuesday</strong></div></td>
+      <td><div align="center"><strong>Monkey Wrench</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qsyqqq1441553437.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Cranberry juice, 2 splashes  Grenadine</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 3 oz  Grapefruit juice, 1 dash  Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.</td>
+      <td><b>Instructions:</b> Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".		-- Shakesp
 <br>
 </details>
 
-**82 day before 2025 ⏱** days before new year
+**81 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.52°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.09°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:47 and sets 🌇 at 18:58
+  The sun ☀️ rise 🌄 at 07:48 and sets 🌇 at 18:57
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Lay on, MacDuff, and curs'd be him who first cries, "Hold, enough!".		-- Shakesp
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Oct 11 2024
+  Last update on Sat Oct 12 2024
   </div>
 <br>
 
