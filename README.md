@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tomorrow will be cancelled due to lack of interest.
+All the troubles you have will pass away very quickly.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Tomorrow will be cancelled due to lack of interest.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Iced Coffee Fillip</strong></div></td>
+      <td><div align="center"><strong>Strawberry Margarita</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp  Kahlua, Strong cold  Coffee</td>
+      <td><b>Ingredients:</b> 1/2 oz  Strawberry schnapps, 1 oz  Tequila, 1/2 oz  Triple sec, 1 oz  Lemon juice, 1 oz  Strawberries, Salt</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together in a coffee mug and chill before serving.</td>
+      <td><b>Instructions:</b> Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Tomorrow will be cancelled due to lack of interest.
 <br>
 </details>
 
-**79 day before 2025 ⏱** days before new year
+**78 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.44°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.77°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:51 and sets 🌇 at 18:53
+  The sun ☀️ rise 🌄 at 07:52 and sets 🌇 at 18:51
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Tomorrow will be cancelled due to lack of interest.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Oct 14 2024
+  Last update on Tue Oct 15 2024
   </div>
 <br>
 
