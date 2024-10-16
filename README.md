@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-All the troubles you have will pass away very quickly.
+Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The Boy Scouts have adult supervision.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ All the troubles you have will pass away very quickly.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Strawberry Margarita</strong></div></td>
+      <td><div align="center"><strong>Bobby Burns Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Strawberry schnapps, 1 oz  Tequila, 1/2 oz  Triple sec, 1 oz  Lemon juice, 1 oz  Strawberries, Salt</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Sweet Vermouth, 1 1/2 oz  Scotch, 1 1/4 tsp  Benedictine, 1 twist of  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.</td>
+      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ All the troubles you have will pass away very quickly.
 <br>
 </details>
 
-**78 day before 2025 ⏱** days before new year
+**77 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.77°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.71°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:52 and sets 🌇 at 18:51
+  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 18:50
   </div>
 <br>
 
@@ -117,7 +117,7 @@ All the troubles you have will pass away very quickly.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 15 2024
+  Last update on Wed Oct 16 2024
   </div>
 <br>
 
