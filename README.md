@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The Boy Scouts have adult supervision.
+Avoid reality at all costs.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bobby Burns Cocktail</strong></div></td>
+      <td><div align="center"><strong>Bellini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eaag491504367543.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Champagne Flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Sweet Vermouth, 1 1/2 oz  Scotch, 1 1/4 tsp  Benedictine, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 6 oz  Champagne, 1 oz  Peach schnapps</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
+      <td><b>Instructions:</b> Pour peach purée into chilled flute, add sparkling wine. Stir gently.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The 
 <br>
 </details>
 
-**77 day before 2025 ⏱** days before new year
+**76 day before 2025 ⏱** days before new year
 
 <div align="left">
   Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.71°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 18:50
+  The sun ☀️ rise 🌄 at 07:55 and sets 🌇 at 18:48
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The 
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Oct 16 2024
+  Last update on Thu Oct 17 2024
   </div>
 <br>
 
