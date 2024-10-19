@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"Elves and Dragons!" I says to him.  "Cabbages and potatoes are betterfor you and me."		-- J. R. R. Tolkien
+Q:	What lies on the bottom of the ocean and twitches?A:	A nervous wreck.
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vampiro</strong></div></td>
+      <td><div align="center"><strong>Zoksel</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yfhn371504374246.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-Fashioned glass</td>
+      <td><b>Type of glass:</b> Beer pilsner</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cl Tequila, 3 cl Tomato Juice, 3 cl Orange Juice, 1.5 cl Lime Juice, 1 dash Sugar Syrup, 1 pinch Salt</td>
+      <td><b>Ingredients:</b> Beer, Root beer, Lemonade, slice
+ Coca-Cola, 7-Up, Creme de Cassis, Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.</td>
+      <td><b>Instructions:</b> No specific mixinginstructions, just poor every ingredient in one glass. The lemon goes with it.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**75 day before 2025 ⏱** days before new year
+**74 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.53°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.53°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:56 and sets 🌇 at 18:46
+  The sun ☀️ rise 🌄 at 07:57 and sets 🌇 at 18:44
   </div>
 <br>
 
@@ -117,7 +118,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Oct 18 2024
+  Last update on Sat Oct 19 2024
   </div>
 <br>
 
