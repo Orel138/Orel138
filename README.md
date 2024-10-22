@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You'll be called to a post requiring ability in handling groups of people.
+Seeing that death, a necessary end,Will come when it will come.		-- William Shakespeare, "Julius Caesar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You'll be called to a post requiring ability in handling groups of people.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Orange Oasis</strong></div></td>
+      <td><div align="center"><strong>Monkey Gland</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/su1olx1582473812.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Cherry brandy, 1 1/2 oz  Gin, 4 oz  Orange juice, Ginger ale</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1 tsp  Benedictine, 1/2 oz  Orange juice, 1 tsp  Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve.</td>
+      <td><b>Instructions:</b> Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You'll be called to a post requiring ability in handling groups of people.
 <br>
 </details>
 
-**72 day before 2025 ⏱** days before new year
+**71 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.97°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:00 and sets 🌇 at 18:41
+  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 18:40
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You'll be called to a post requiring ability in handling groups of people.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Oct 21 2024
+  Last update on Tue Oct 22 2024
   </div>
 <br>
 
