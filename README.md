@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Seeing that death, a necessary end,Will come when it will come.		-- William Shakespeare, "Julius Caesar"
+You are wise, witty, and wonderful, but you spend too much time readingthis sort of trash.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Seeing that death, a necessary end,Will come when it will come.		-- William Shak
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Monkey Gland</strong></div></td>
+      <td><div align="center"><strong>Porto flip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 tsp  Benedictine, 1/2 oz  Orange juice, 1 tsp  Grenadine</td>
+      <td><b>Ingredients:</b> 3 parts Brandy, 9 parts Port, 2 parts Egg Yolk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Seeing that death, a necessary end,Will come when it will come.		-- William Shak
 <br>
 </details>
 
-**71 day before 2025 ⏱** days before new year
+**70 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.64°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 18:40
+  The sun ☀️ rise 🌄 at 08:03 and sets 🌇 at 18:38
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Seeing that death, a necessary end,Will come when it will come.		-- William Shak
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 22 2024
+  Last update on Wed Oct 23 2024
   </div>
 <br>
 
