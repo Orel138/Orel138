@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many marketing people does it take to change a light bulb?A:	I'll have to get back to you on that.
+To be or not to be.		-- ShakespeareTo do is to be.		-- NietzscheTo be is to do.		-- SartreDo be do be do.		-- Sinatra
 </details>
 
 <details>
@@ -74,28 +74,19 @@ Q:	How many marketing people does it take to change a light bulb?A:	I'll have to
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zombie</strong></div></td>
+      <td><div align="center"><strong>Scotch Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2en3jk1509557725.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Hurricane glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz Rum, 1 1/2 oz Gold rum, 1 oz 151 proof rum, 1 tsp Pernod, 1 tsp Grenadine, 1 tsp Lime Juice, 1 drop Angostura Bitters</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, Juice of 1/2  Lime, 1/2 tsp  Powdered sugar, 1/2 slice  Lemon, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> 
-Blend at high speed for no more than 5 seconds.
-
-Pour into a glass, add ice cubes to fill, then add the garnish.
-
-*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
-
-Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
-
-Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td>
+      <td><b>Instructions:</b> Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1/2 slice lemon, top with the cherry, and serve.</td>
     </tr>
   </table>
 </div>
@@ -106,13 +97,13 @@ Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td
 <br>
 </details>
 
-**69 day before 2025 ⏱** days before new year
+**68 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.6°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.86°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 18:36
+  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 18:35
   </div>
 <br>
 
@@ -126,7 +117,7 @@ Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Oct 24 2024
+  Last update on Fri Oct 25 2024
   </div>
 <br>
 
