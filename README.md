@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-To be or not to be.		-- ShakespeareTo do is to be.		-- NietzscheTo be is to do.		-- SartreDo be do be do.		-- Sinatra
+Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put their hair in ponytails?A:	To cover up the valve stem.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ To be or not to be.		-- ShakespeareTo do is to be.		-- NietzscheTo be is to do.	
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Scotch Sour</strong></div></td>
+      <td><div align="center"><strong>Planter's Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/fdk8a31606854815.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, Juice of 1/2  Lime, 1/2 tsp  Powdered sugar, 1/2 slice  Lemon, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1 part  Dark rum, 1/2 part  Orgeat syrup, 2 parts  Orange juice, 1 part  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1/2 slice lemon, top with the cherry, and serve.</td>
+      <td><b>Instructions:</b> Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, "on top". Garnish with cocktail cherry and pineapple.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ To be or not to be.		-- ShakespeareTo do is to be.		-- NietzscheTo be is to do.	
 <br>
 </details>
 
-**68 day before 2025 ⏱** days before new year
+**67 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.86°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.52°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 18:35
+  The sun ☀️ rise 🌄 at 08:07 and sets 🌇 at 18:33
   </div>
 <br>
 
@@ -117,7 +117,7 @@ To be or not to be.		-- ShakespeareTo do is to be.		-- NietzscheTo be is to do.	
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Oct 25 2024
+  Last update on Sat Oct 26 2024
   </div>
 <br>
 
