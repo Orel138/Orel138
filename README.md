@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put their hair in ponytails?A:	To cover up the valve stem.
+Habit is habit, and not to be flung out of the window by any man, but coaxeddown-stairs a step at a time.		-- Mark Twain, "Pudd'nhead Wilson's Calendar
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Planter's Punch</strong></div></td>
+      <td><div align="center"><strong>Gin Cooler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/fdk8a31606854815.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/678xt11582481163.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Dark rum, 1/2 part  Orgeat syrup, 2 parts  Orange juice, 1 part  Pineapple juice</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, Carbonated water, Powdered sugar, Orange spiral, Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, "on top". Garnish with cocktail cherry and pineapple.</td>
+      <td><b>Instructions:</b> Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put 
 <br>
 </details>
 
-**67 day before 2025 ⏱** days before new year
+**66 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.52°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.55°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:07 and sets 🌇 at 18:33
+  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 17:32
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What do you call 15 blondes in a circle?A:	A dope ring.Q:	Why do blondes put 
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Oct 26 2024
+  Last update on Sun Oct 27 2024
   </div>
 <br>
 
