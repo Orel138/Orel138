@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Habit is habit, and not to be flung out of the window by any man, but coaxeddown-stairs a step at a time.		-- Mark Twain, "Pudd'nhead Wilson's Calendar
+Q:	What's a WASP's idea of open-mindedness?A:	Dating a Canadian.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Habit is habit, and not to be flung out of the window by any man, but coaxeddown
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Cooler</strong></div></td>
+      <td><div align="center"><strong>3 Wise Men</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/678xt11582481163.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wxqpyw1468877677.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, Carbonated water, Powdered sugar, Orange spiral, Lemon peel</td>
+      <td><b>Ingredients:</b> 1/3 oz  Jack Daniels, 1/3 oz  Johnnie Walker, 1/3 oz  Jim Beam</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.</td>
+      <td><b>Instructions:</b> put them them in a glass... and slam it to tha head.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Habit is habit, and not to be flung out of the window by any man, but coaxeddown
 <br>
 </details>
 
-**66 day before 2025 ⏱** days before new year
+**65 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.55°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.8°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 17:32
+  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 17:30
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Habit is habit, and not to be flung out of the window by any man, but coaxeddown
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Oct 27 2024
+  Last update on Mon Oct 28 2024
   </div>
 <br>
 
