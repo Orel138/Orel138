@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Anyone who has had a bull by the tail knows five or six more thingsthan someone who hasn't.		-- Mark Twain
+Q:	What happens when four WASPs find themselves in the same room?A:	A dinner party.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Anyone who has had a bull by the tail knows five or six more thingsthan someone 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Almeria</strong></div></td>
+      <td><div align="center"><strong>The Philosopher</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Dark rum, 1 oz  Kahlua, 1  Egg white</td>
+      <td><b>Ingredients:</b> 1 shot Gin, 1 shot Melon Liqueur, 1 dash Orange Bitters, 1 dash Lemon Juice, Top Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Anyone who has had a bull by the tail knows five or six more thingsthan someone 
 <br>
 </details>
 
-**64 day before 2025 ⏱** days before new year
+**63 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.67°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.71°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 17:29
+  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 17:27
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Anyone who has had a bull by the tail knows five or six more thingsthan someone 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 29 2024
+  Last update on Wed Oct 30 2024
   </div>
 <br>
 
