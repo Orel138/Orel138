@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-It usually takes more than three weeks to prepare a good impromptu speech.		-- Mark Twain
+Noise proves nothing.  Often a hen who has merely laid an egg cacklesas if she laid an asteroid.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,23 @@ It usually takes more than three weeks to prepare a good impromptu speech.		-- M
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>ACID</strong></div></td>
+      <td><div align="center"><strong>Butterfly Effect</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ht3hnk1619704289.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Bacardi  151 proof rum, 1 oz  Wild Turkey</td>
+      <td><b>Ingredients:</b> 50 ml Raspberry Vodka, 25 ml Cranberry Juice, 25 ml Lemonade, 10 ml Blue Curacao, 10 ml Sugar Syrup, Dash Lime Juice, Sprig Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.</td>
+      <td><b>Instructions:</b> Grab your boston tin, fill it with cubes ice and then simply chuck in all your ingredients apart from your lemonade.
+Now it’s time to shake what your mama gave you until all your ingredients are blended to perfection.
+Add some cubes of ice to your hurricane glass, give them a swill to cool the whole thing down and then strain your raspberry vodka cocktail of wonder into the glass.
+Top with lemonade and chuck a sprig of mint on top for garnish.
+You can either get drinking at this point or go and try and grab a few butterflies to finish, the choice really is yours.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ It usually takes more than three weeks to prepare a good impromptu speech.		-- M
 <br>
 </details>
 
-**62 day before 2025 ⏱** days before new year
+**61 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.3°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.9°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:14 and sets 🌇 at 17:26
+  The sun ☀️ rise 🌄 at 07:15 and sets 🌇 at 17:24
   </div>
 <br>
 
@@ -117,7 +121,7 @@ It usually takes more than three weeks to prepare a good impromptu speech.		-- M
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Oct 31 2024
+  Last update on Fri Nov 01 2024
   </div>
 <br>
 
