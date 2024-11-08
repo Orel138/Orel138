@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-If you learn one useless thing every day, in a single year you'll learn365 useless things.
+F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway:	"Yes.  They have more money."
 </details>
 
 <details>
@@ -74,19 +74,19 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Royal Fizz</strong></div></td>
+      <td><div align="center"><strong>Pink Moon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wrh44j1504390609.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/lnjoc81619696191.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Whiskey Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Gin, 2 oz  Sweet and sour, 1 whole  Egg, Coca-Cola</td>
+      <td><b>Ingredients:</b> 1 shot Gin, 1 shot Coconut Liqueur, 25 ml Elderflower cordial, 30 ml Lime Juice, Garnish with Blackberries</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.</td>
+      <td><b>Instructions:</b> Slowly shake in a shaker with ice, strain into a square whiskey glass. Top with fresh ice. Add the blackberries to garnish. Add flowers and a green leaf for a special look!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <br>
 </details>
 
-**55 day before 2025 ⏱** days before new year
+**54 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.86°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.84°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 17:16
+  The sun ☀️ rise 🌄 at 07:25 and sets 🌇 at 17:15
   </div>
 <br>
 
@@ -117,7 +117,7 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 07 2024
+  Last update on Fri Nov 08 2024
   </div>
 <br>
 
