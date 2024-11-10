@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't Worry, Be Happy.		-- Meher Baba
+So this is it.  We're going to die.
 </details>
 
 <details>
@@ -74,19 +74,23 @@ Don't Worry, Be Happy.		-- Meher Baba
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Moranguito</strong></div></td>
+      <td><div align="center"><strong>Vodka Tonic</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/urpsyq1475667335.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2/5  Absinthe, 2/5  Tequila, 1/5  Grenadine</td>
+      <td><b>Ingredients:</b> 4 cl Vodka, 10 cl Tonic Water, 1 Slice Lemon Peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> first you put rhe absinthe, then put tequila, then put the Granadine syrup.</td>
+      <td><b>Instructions:</b> Wash and cut 1 wedge and 1 slice of lime or lemon.
+Fill a tumbler with fresh ice.
+Pour the desired dose of vodka and top up with the tonic.
+Squeeze the lime wedge into the glass and decorate with the slice.
+That's all, very simple: it's just the recipe for happiness!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ Don't Worry, Be Happy.		-- Meher Baba
 <br>
 </details>
 
-**53 day before 2025 ⏱** days before new year
+**52 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.13°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.13°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:26 and sets 🌇 at 17:14
+  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 17:13
   </div>
 <br>
 
@@ -117,7 +121,7 @@ Don't Worry, Be Happy.		-- Meher Baba
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Nov 09 2024
+  Last update on Sun Nov 10 2024
   </div>
 <br>
 
