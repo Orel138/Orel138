@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
+Q:	What's a light-year?A:	One-third less calories than a regular year.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pink Lady</strong></div></td>
+      <td><div align="center"><strong>Banana Cantaloupe Smoothie</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 tsp  Grenadine, 1 tsp  Light cream, 1  Egg white</td>
+      <td><b>Ingredients:</b> Juice of 1/2  Cantaloupe, 1  Banana</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
 <br>
 </details>
 
-**49 day before 2025 ⏱** days before new year
+**48 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -2.61°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -5.23°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:32 and sets 🌇 at 17:09
+  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 17:08
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Nov 13 2024
+  Last update on Thu Nov 14 2024
   </div>
 <br>
 
