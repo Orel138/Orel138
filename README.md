@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have a strong desire for a home and your family interests come first.
+You may get an opportunity for advancement today.  Watch it!
 </details>
 
 <details>
@@ -74,19 +74,23 @@ You have a strong desire for a home and your family interests come first.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Hot Chocolate to Die for</strong></div></td>
+      <td><div align="center"><strong>Vodka Tonic</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0lrmjp1487603166.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 12 oz fine  Chocolate, 1 tsp  Butter, 1/2 tsp  Vanilla extract, 1 cup  Half-and-half, mini  Marshmallows</td>
+      <td><b>Ingredients:</b> 4 cl Vodka, 10 cl Tonic Water, 1 Slice Lemon Peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.</td>
+      <td><b>Instructions:</b> Wash and cut 1 wedge and 1 slice of lime or lemon.
+Fill a tumbler with fresh ice.
+Pour the desired dose of vodka and top up with the tonic.
+Squeeze the lime wedge into the glass and decorate with the slice.
+That's all, very simple: it's just the recipe for happiness!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ You have a strong desire for a home and your family interests come first.
 <br>
 </details>
 
-**45 day before 2025 ⏱** days before new year
+**44 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.39°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.76°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 17:05
+  The sun ☀️ rise 🌄 at 07:39 and sets 🌇 at 17:05
   </div>
 <br>
 
@@ -117,7 +121,7 @@ You have a strong desire for a home and your family interests come first.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 17 2024
+  Last update on Mon Nov 18 2024
   </div>
 <br>
 
