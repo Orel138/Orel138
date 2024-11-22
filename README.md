@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Abandon the search for Truth; settle for a good fantasy.
+	"...The name of the song is called 'Haddocks' Eyes'!"	"Oh, that's the name of the song, is it?" Alice said, trying tofeel interested.	"No, you don't understand," the Knight said, looking a littlevexed.  "That's what the name is called.  The name really is, 'The AgedAged Man.'"	"Then I ought to have said "That's what the song is called'?"Alice corrected herself.	"No, you oughtn't: that's quite another thing!  The song iscalled 'Ways and Means':  but that's only what it is called you know!"	"Well, what is the song then?" said Alice, who was by thistime completely bewildered.	"I was coming to that," the Knight said.  "The song really is"A-sitting on a Gate": and the tune's my own invention."		-- Lewis Carroll, "Through the Looking Glass"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Abandon the search for Truth; settle for a good fantasy.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Slippery Nipple</strong></div></td>
+      <td><div align="center"><strong>Bob Marley</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part Sambuca, 1 part Irish cream</td>
+      <td><b>Ingredients:</b> 1/2 oz  Midori melon liqueur, 1/2 oz  Jägermeister, 1/2 oz  Goldschlager</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
+      <td><b>Instructions:</b> Layer in a 2 oz shot glass or pony glass</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Abandon the search for Truth; settle for a good fantasy.
 <br>
 </details>
 
-**41 day before 2025 ⏱** days before new year
+**40 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -3.69°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.37°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:43 and sets 🌇 at 17:02
+  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 17:01
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Abandon the search for Truth; settle for a good fantasy.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 21 2024
+  Last update on Fri Nov 22 2024
   </div>
 <br>
 
