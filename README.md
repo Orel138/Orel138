@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-	"...The name of the song is called 'Haddocks' Eyes'!"	"Oh, that's the name of the song, is it?" Alice said, trying tofeel interested.	"No, you don't understand," the Knight said, looking a littlevexed.  "That's what the name is called.  The name really is, 'The AgedAged Man.'"	"Then I ought to have said "That's what the song is called'?"Alice corrected herself.	"No, you oughtn't: that's quite another thing!  The song iscalled 'Ways and Means':  but that's only what it is called you know!"	"Well, what is the song then?" said Alice, who was by thistime completely bewildered.	"I was coming to that," the Knight said.  "The song really is"A-sitting on a Gate": and the tune's my own invention."		-- Lewis Carroll, "Through the Looking Glass"
+Don't look now, but there is a multi-legged creature on your shoulder.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bob Marley</strong></div></td>
+      <td><div align="center"><strong>Bumble Bee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwqpvv1461866378.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Midori melon liqueur, 1/2 oz  Jägermeister, 1/2 oz  Goldschlager</td>
+      <td><b>Ingredients:</b> 1/3 oz  Baileys irish cream, 1/3 oz  Kahlua, 1/3 oz  Sambuca</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Layer in a 2 oz shot glass or pony glass</td>
+      <td><b>Instructions:</b> This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**40 day before 2025 ⏱** days before new year
+**39 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.37°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -5.42°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 17:01
+  The sun ☀️ rise 🌄 at 07:45 and sets 🌇 at 17:01
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Nov 22 2024
+  Last update on Sat Nov 23 2024
   </div>
 <br>
 
