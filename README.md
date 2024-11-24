@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't look now, but there is a multi-legged creature on your shoulder.
+Courage is resistance to fear, mastery of fear--not absence of fear.  Except acreature be part coward it is not a compliment to say it is brave; it is merelya loose misapplication of the word.  Consider the flea!--incomparably thebravest of all the creatures of God, if ignorance of fear were courage.Whether you are asleep or awake he will attack you, caring nothing for the factthat in bulk and strength you are to him as are the massed armies of the earthto a sucking child; he lives both day and night and all days and nights in thevery lap of peril and the immediate presence of death, and yet is no moreafraid than is the man who walks the streets of a city that was threatened byan earthquake ten centuries before.  When we speak of Clive, Nelson, and Putnamas men who "didn't know what fear was," we ought always to add the flea--andput him at the head of the procession.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't look now, but there is a multi-legged creature on your shoulder.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bumble Bee</strong></div></td>
+      <td><div align="center"><strong>Kir</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwqpvv1461866378.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apneom1504370294.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Wine Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/3 oz  Baileys irish cream, 1/3 oz  Kahlua, 1/3 oz  Sambuca</td>
+      <td><b>Ingredients:</b> 1 part  Creme de Cassis, 5 parts  Champagne</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!</td>
+      <td><b>Instructions:</b> Add the crème de cassis to the bottom of the glass, then top up with wine.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't look now, but there is a multi-legged creature on your shoulder.
 <br>
 </details>
 
-**39 day before 2025 ⏱** days before new year
+**38 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -5.42°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 1.39°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:45 and sets 🌇 at 17:01
+  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 17:00
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't look now, but there is a multi-legged creature on your shoulder.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Nov 23 2024
+  Last update on Sun Nov 24 2024
   </div>
 <br>
 
