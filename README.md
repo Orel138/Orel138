@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Courage is resistance to fear, mastery of fear--not absence of fear.  Except acreature be part coward it is not a compliment to say it is brave; it is merelya loose misapplication of the word.  Consider the flea!--incomparably thebravest of all the creatures of God, if ignorance of fear were courage.Whether you are asleep or awake he will attack you, caring nothing for the factthat in bulk and strength you are to him as are the massed armies of the earthto a sucking child; he lives both day and night and all days and nights in thevery lap of peril and the immediate presence of death, and yet is no moreafraid than is the man who walks the streets of a city that was threatened byan earthquake ten centuries before.  When we speak of Clive, Nelson, and Putnamas men who "didn't know what fear was," we ought always to add the flea--andput him at the head of the procession.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+He that breaks a thing to find out what it is has left the path of wisdom.		-- J.R.R. Tolkien
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Courage is resistance to fear, mastery of fear--not absence of fear.  Except acr
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kir</strong></div></td>
+      <td><div align="center"><strong>Castillian Hot Chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apneom1504370294.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3nbu4a1487603196.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Creme de Cassis, 5 parts  Champagne</td>
+      <td><b>Ingredients:</b> 1/2 cup  Cocoa powder, 1 cup  Sugar, 7 tsp  Cornstarch, 1/2 cup  Water, 1 qt  Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add the crème de cassis to the bottom of the glass, then top up with wine.</td>
+      <td><b>Instructions:</b> Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Courage is resistance to fear, mastery of fear--not absence of fear.  Except acr
 <br>
 </details>
 
-**38 day before 2025 ⏱** days before new year
+**37 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 1.39°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 2.15°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 17:00
+  The sun ☀️ rise 🌄 at 07:48 and sets 🌇 at 16:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Courage is resistance to fear, mastery of fear--not absence of fear.  Except acr
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 24 2024
+  Last update on Mon Nov 25 2024
   </div>
 <br>
 
