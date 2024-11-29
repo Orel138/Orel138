@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your manuscript is both good and original, but the part that is good is notoriginal and the part that is original is not good.		-- Samuel Johnson
+Your best consolation is the hope that the things you failed to get weren'treally worth having.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your manuscript is both good and original, but the part that is good is notorigi
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Passion Fruit Martini</strong></div></td>
+      <td><div align="center"><strong>Cosmopolitan</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/6trfve1582473527.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Vodka, 1/2 shot Sugar Syrup, Full Glass Passion fruit juice</td>
+      <td><b>Ingredients:</b> 1 1/4 oz  Vodka, 1/4 oz  Lime juice, 1/4 oz  Cointreau, 1/4 cup  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into a glass and stir. Garnish with half a passion fruit piece.</td>
+      <td><b>Instructions:</b> Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your manuscript is both good and original, but the part that is good is notorigi
 <br>
 </details>
 
-**34 day before 2025 ⏱** days before new year
+**33 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.71°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.16°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:51 and sets 🌇 at 16:57
+  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 16:57
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your manuscript is both good and original, but the part that is good is notorigi
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 28 2024
+  Last update on Fri Nov 29 2024
   </div>
 <br>
 
