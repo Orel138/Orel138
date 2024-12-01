@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-That secret you've been guarding, isn't.
+"Life, loathe it or ignore it, you can't like it."		-- Marvin, "Hitchhiker's Guide to the Galaxy"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ That secret you've been guarding, isn't.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Frappé</strong></div></td>
+      <td><div align="center"><strong>Space Odyssey</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqwryq1441245927.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 cup black  Coffee, 1/2 cup  Milk, 1-2 tsp  Sugar</td>
+      <td><b>Ingredients:</b> 1 shot Bacardi  151 proof rum, 1 shot  Malibu rum, 1 shot  Pineapple juice, Orange juice, Grenadine, Cherries</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1/2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1/2 hour, with more iced coffee continually appearing at the bottom. Very refreshing.</td>
+      <td><b>Instructions:</b> Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ That secret you've been guarding, isn't.
 <br>
 </details>
 
-**32 day before 2025 ⏱** days before new year
+**31 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.21°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.66°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:54 and sets 🌇 at 16:57
+  The sun ☀️ rise 🌄 at 07:55 and sets 🌇 at 16:56
   </div>
 <br>
 
@@ -117,7 +117,7 @@ That secret you've been guarding, isn't.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Nov 30 2024
+  Last update on Sun Dec 01 2024
   </div>
 <br>
 
