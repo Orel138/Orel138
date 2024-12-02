@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"Life, loathe it or ignore it, you can't like it."		-- Marvin, "Hitchhiker's Guide to the Galaxy"
+You have an ambitious nature and may make a name for yourself.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Space Odyssey</strong></div></td>
+      <td><div align="center"><strong>Grape lemon pineapple Smoothie</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/54z5h71487603583.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Bacardi  151 proof rum, 1 shot  Malibu rum, 1 shot  Pineapple juice, Orange juice, Grenadine, Cherries</td>
+      <td><b>Ingredients:</b> 1 cup  Grapes, 1/4  Lemon, 1/2  Pineapple</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
+      <td><b>Instructions:</b> Throw everything into a blender and liquify.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**31 day before 2025 ⏱** days before new year
+**30 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.66°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.92°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:55 and sets 🌇 at 16:56
+  The sun ☀️ rise 🌄 at 07:56 and sets 🌇 at 16:56
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Dec 01 2024
+  Last update on Mon Dec 02 2024
   </div>
 <br>
 
