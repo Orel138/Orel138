@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have literary talent that you should take pains to develop.
+Beauty and harmony are as necessary to you as the very breath of life.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have literary talent that you should take pains to develop.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Frozen Daiquiri</strong></div></td>
+      <td><div align="center"><strong>Flying Dutchman</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7oyrj91504884412.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Champagne flute</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 tblsp  Triple sec, 1 1/2 oz  Lime juice, 1 tsp  Sugar, 1  Cherry, 1 cup crushed  Ice</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Triple sec</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have literary talent that you should take pains to develop.
 <br>
 </details>
 
-**26 day before 2025 ⏱** days before new year
+**25 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.23°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.79°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:00 and sets 🌇 at 16:55
+  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 16:55
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have literary talent that you should take pains to develop.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Dec 06 2024
+  Last update on Sat Dec 07 2024
   </div>
 <br>
 
