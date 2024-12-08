@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Beauty and harmony are as necessary to you as the very breath of life.
+Fine day for friends.So-so day for you.
 </details>
 
 <details>
@@ -74,19 +74,23 @@ Beauty and harmony are as necessary to you as the very breath of life.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Flying Dutchman</strong></div></td>
+      <td><div align="center"><strong>Butterfly Effect</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ht3hnk1619704289.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Triple sec</td>
+      <td><b>Ingredients:</b> 50 ml Raspberry Vodka, 25 ml Cranberry Juice, 25 ml Lemonade, 10 ml Blue Curacao, 10 ml Sugar Syrup, Dash Lime Juice, Sprig Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
+      <td><b>Instructions:</b> Grab your boston tin, fill it with cubes ice and then simply chuck in all your ingredients apart from your lemonade.
+Now it’s time to shake what your mama gave you until all your ingredients are blended to perfection.
+Add some cubes of ice to your hurricane glass, give them a swill to cool the whole thing down and then strain your raspberry vodka cocktail of wonder into the glass.
+Top with lemonade and chuck a sprig of mint on top for garnish.
+You can either get drinking at this point or go and try and grab a few butterflies to finish, the choice really is yours.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ Beauty and harmony are as necessary to you as the very breath of life.
 <br>
 </details>
 
-**25 day before 2025 ⏱** days before new year
+**24 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.79°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.69°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 16:55
+  The sun ☀️ rise 🌄 at 08:02 and sets 🌇 at 16:54
   </div>
 <br>
 
@@ -117,7 +121,7 @@ Beauty and harmony are as necessary to you as the very breath of life.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Dec 07 2024
+  Last update on Sun Dec 08 2024
   </div>
 <br>
 
