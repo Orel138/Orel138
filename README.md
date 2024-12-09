@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Fine day for friends.So-so day for you.
+You definitely intend to start living sometime soon.
 </details>
 
 <details>
@@ -74,23 +74,21 @@ Fine day for friends.So-so day for you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Butterfly Effect</strong></div></td>
+      <td><div align="center"><strong>Mango Mojito</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ht3hnk1619704289.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Hurricane glass</td>
+      <td><b>Type of glass:</b> Jar</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Raspberry Vodka, 25 ml Cranberry Juice, 25 ml Lemonade, 10 ml Blue Curacao, 10 ml Sugar Syrup, Dash Lime Juice, Sprig Mint</td>
+      <td><b>Ingredients:</b> 3 Lime, 1 Fresh Mango, Sprig Mint, 200 ml White Rum, cubes Ice, Top Soda Water, Garnish with Mango</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Grab your boston tin, fill it with cubes ice and then simply chuck in all your ingredients apart from your lemonade.
-Now it’s time to shake what your mama gave you until all your ingredients are blended to perfection.
-Add some cubes of ice to your hurricane glass, give them a swill to cool the whole thing down and then strain your raspberry vodka cocktail of wonder into the glass.
-Top with lemonade and chuck a sprig of mint on top for garnish.
-You can either get drinking at this point or go and try and grab a few butterflies to finish, the choice really is yours.</td>
+      <td><b>Instructions:</b> Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
+Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
+Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +99,13 @@ You can either get drinking at this point or go and try and grab a few butterfli
 <br>
 </details>
 
-**24 day before 2025 ⏱** days before new year
+**23 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.69°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.35°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:02 and sets 🌇 at 16:54
+  The sun ☀️ rise 🌄 at 08:03 and sets 🌇 at 16:54
   </div>
 <br>
 
@@ -121,7 +119,7 @@ You can either get drinking at this point or go and try and grab a few butterfli
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Dec 08 2024
+  Last update on Mon Dec 09 2024
   </div>
 <br>
 
