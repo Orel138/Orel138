@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You definitely intend to start living sometime soon.
+You will be advanced socially, without any special effort on your part.
 </details>
 
 <details>
@@ -74,21 +74,20 @@ You definitely intend to start living sometime soon.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mango Mojito</strong></div></td>
+      <td><div align="center"><strong>Masala Chai</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Jar</td>
+      <td><b>Type of glass:</b> Coffee Mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 Lime, 1 Fresh Mango, Sprig Mint, 200 ml White Rum, cubes Ice, Top Soda Water, Garnish with Mango</td>
+      <td><b>Ingredients:</b> 2 cups  Water, 3-4 tsp  Tea, 1 chunk dried  Ginger, 3-4 crushed  Cardamom, 3  Cloves, 1 piece  Cinnamon, 1-2 whole  Black pepper, to taste
+ Sugar, to taste Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
-Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
-Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.</td>
+      <td><b>Instructions:</b> Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +98,13 @@ Divide the mango purée between the glasses and add 30ml white rum and a handful
 <br>
 </details>
 
-**23 day before 2025 ⏱** days before new year
+**22 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.35°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -2.69°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:03 and sets 🌇 at 16:54
+  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 16:54
   </div>
 <br>
 
@@ -119,7 +118,7 @@ Divide the mango purée between the glasses and add 30ml white rum and a handful
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Dec 09 2024
+  Last update on Tue Dec 10 2024
   </div>
 <br>
 
