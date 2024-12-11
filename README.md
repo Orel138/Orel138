@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be advanced socially, without any special effort on your part.
+You are fairminded, just and loving.
 </details>
 
 <details>
@@ -74,20 +74,19 @@ You will be advanced socially, without any special effort on your part.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Masala Chai</strong></div></td>
+      <td><div align="center"><strong>Thai Iced Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee Mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Water, 3-4 tsp  Tea, 1 chunk dried  Ginger, 3-4 crushed  Cardamom, 3  Cloves, 1 piece  Cinnamon, 1-2 whole  Black pepper, to taste
- Sugar, to taste Milk</td>
+      <td><b>Ingredients:</b> 1/4 cup Thai  Tea, 1/2 cup boiling  Water, 2 tsp sweetened  Condensed milk, cubes Ice, garnish Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT.</td>
+      <td><b>Instructions:</b> Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ You will be advanced socially, without any special effort on your part.
 <br>
 </details>
 
-**22 day before 2025 ⏱** days before new year
+**21 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -2.69°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -3.44°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 16:54
+  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 16:54
   </div>
 <br>
 
@@ -118,7 +117,7 @@ You will be advanced socially, without any special effort on your part.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Dec 10 2024
+  Last update on Wed Dec 11 2024
   </div>
 <br>
 
