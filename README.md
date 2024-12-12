@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are fairminded, just and loving.
+Is this really happening?
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You are fairminded, just and loving.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Thai Iced Tea</strong></div></td>
+      <td><div align="center"><strong>Zambeer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/4 cup Thai  Tea, 1/2 cup boiling  Water, 2 tsp sweetened  Condensed milk, cubes Ice, garnish Mint</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Sambuca, Add 10 oz  Root beer, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.</td>
+      <td><b>Instructions:</b> Mix sambuca with rootbeer and stir. Add ice</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You are fairminded, just and loving.
 <br>
 </details>
 
-**21 day before 2025 ⏱** days before new year
+**20 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -3.44°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -2.8°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 16:54
+  The sun ☀️ rise 🌄 at 08:06 and sets 🌇 at 16:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You are fairminded, just and loving.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Dec 11 2024
+  Last update on Thu Dec 12 2024
   </div>
 <br>
 
