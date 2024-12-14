@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-	My dear People.	My dear Bagginses and Boffins, and my dear Tooks and Brandybucks,and Grubbs, and Chubbs, and Burrowses, and Hornblowers, and Bolgers,Bracegirdles, Goodbodies, Brockhouses and Proudfoots.  Also my goodSackville Bagginses that I welcome back at last to Bag End.  Today is myone hundred and eleventh birthday: I am eleventy-one today!"		-- J. R. R. Tolkien
+The man who sets out to carry a cat by its tail learns something thatwill always be useful and which never will grow dim or doubtful.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Golden dream</strong></div></td>
+      <td><div align="center"><strong>Aquamarine</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qrot6j1504369425.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/zvsre31572902738.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 parts Galliano, 2 parts Triple Sec, 2 parts orange juice, 1 part Cream</td>
+      <td><b>Ingredients:</b> 2 oz Hpnotiq, 1 oz Pineapple Juice, 1 oz Banana Liqueur</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with cracked ice. Strain into glass and serve.</td>
+      <td><b>Instructions:</b> Shake well in a shaker with ice.
+Strain in a martini glass.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +98,10 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**19 day before 2025 ⏱** days before new year
+**18 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.88°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 1.66°C), light snow</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:07 and sets 🌇 at 16:55
@@ -117,7 +118,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Dec 13 2024
+  Last update on Sat Dec 14 2024
   </div>
 <br>
 
