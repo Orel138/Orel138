@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your fly might be open (but don't check it just now).
+You will stop at nothing to reach your objective, but only because yourbrakes are defective.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your fly might be open (but don't check it just now).
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Horse's Neck</strong></div></td>
+      <td><div align="center"><strong>Adam & Eve</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/006k4e1504370092.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vfeumw1504819077.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 long strip  Lemon peel, 2 oz  Brandy, 5 oz  Ginger ale, 2 dashes  Bitters</td>
+      <td><b>Ingredients:</b> 1 shot  Gin, 1 shot  Cognac, 1 shot  Creme de Cassis, 1/8 shot  Fresh Lemon Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.</td>
+      <td><b>Instructions:</b> Shake together all the ingredients and strain into a cold glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your fly might be open (but don't check it just now).
 <br>
 </details>
 
-**16 day before 2025 ⏱** days before new year
+**15 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -3.05°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -1.05°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 16:55
+  The sun ☀️ rise 🌄 at 08:10 and sets 🌇 at 16:55
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your fly might be open (but don't check it just now).
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Dec 16 2024
+  Last update on Tue Dec 17 2024
   </div>
 <br>
 
