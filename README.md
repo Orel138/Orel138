@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your supervisor is thinking about you.
+"I wonder", he said to himself, "what's in a book while it's closed.  Oh, Iknow it's full of letters printed on paper, but all the same, something mustbe happening, because as soon as I open it, there's a whole story with peopleI don't know yet and all kinds of adventures and battles."		-- Bastian B. Bux
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your supervisor is thinking about you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Absolutely Fabulous</strong></div></td>
+      <td><div align="center"><strong>Japanese Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/37vzv11504884831.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Champagne flute</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Vodka, 2 shots  Cranberry Juice, Top up with Champagne</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1 tblsp Port, 1  Egg white, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Your supervisor is thinking about you.
 <br>
 </details>
 
-**13 day before 2025 ⏱** days before new year
+**12 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.28°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -6.12°C), snow</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 16:56
@@ -117,7 +117,7 @@ Your supervisor is thinking about you.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Dec 19 2024
+  Last update on Fri Dec 20 2024
   </div>
 <br>
 
