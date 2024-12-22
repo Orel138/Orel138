@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The only people for me are the mad ones -- the ones who are mad to live,mad to talk, mad to be saved, desirous of everything at the same time,the ones who never yawn or say a commonplace thing, but burn, burn, burnlike fabulous yellow Roman candles.		-- Jack Kerouac, "On the Road"
+You will win success in whatever calling you adopt.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The only people for me are the mad ones -- the ones who are mad to live,mad to t
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Clover Club</strong></div></td>
+      <td><div align="center"><strong>Orange Whip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/t0aja61504348715.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 2 tsp  Grenadine, Juice of 1/2  Lemon, 1  Egg white</td>
+      <td><b>Ingredients:</b> 4 oz  Orange juice, 1 oz  Rum, 1 oz  Vodka, 1 package  Cream, Over  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Dry shake ingredients to emulsify, add ice, shake and served straight up.</td>
+      <td><b>Instructions:</b> Pour ingredients over ice and stir.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ The only people for me are the mad ones -- the ones who are mad to live,mad to t
 <br>
 </details>
 
-**11 day before 2025 ⏱** days before new year
+**10 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.05°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.04°C), light rain</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 16:57
@@ -117,7 +117,7 @@ The only people for me are the mad ones -- the ones who are mad to live,mad to t
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Dec 21 2024
+  Last update on Sun Dec 22 2024
   </div>
 <br>
 
