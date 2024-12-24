@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't kiss an elephant on the lips today.
+You seek to shield those you love and you like the role of the provider.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't kiss an elephant on the lips today.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Dubonnet Cocktail</strong></div></td>
+      <td><div align="center"><strong>Long Island Iced Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pfz3hz1582483111.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Dubonnet Rouge, 3/4 oz  Gin, 1 dash  Bitters, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 1/2 oz  Vodka, 1/2 oz  Tequila, 1/2 oz  Light rum, 1/2 oz  Gin, 1 dash  Coca-Cola, Twist of  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
+      <td><b>Instructions:</b> Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't kiss an elephant on the lips today.
 <br>
 </details>
 
-**9 day before 2025 ⏱** days before new year
+**8 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -4.44°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -5.66°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:13 and sets 🌇 at 16:58
+  The sun ☀️ rise 🌄 at 08:13 and sets 🌇 at 16:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't kiss an elephant on the lips today.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Dec 23 2024
+  Last update on Tue Dec 24 2024
   </div>
 <br>
 
