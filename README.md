@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you call a boomerang that doesn't come back?A:	A stick.
+AWAKE! FEAR! FIRE! FOES! AWAKE!	FEAR! FIRE! FOES!		AWAKE! AWAKE!		-- J. R. R. Tolkien
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do you call a boomerang that doesn't come back?A:	A stick.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Popped cherry</strong></div></td>
+      <td><div align="center"><strong>Freddy Kruger</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxvrwv1473344825.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tuppuq1461866798.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, 2 oz  Cherry liqueur, 4 oz  Cranberry juice, 4 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 1/2 oz  Jägermeister, 1/2 oz  Sambuca, 1/2 oz  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Served over ice in a tall glass with a popped cherry (can add more popped cherries if in the mood)!</td>
+      <td><b>Instructions:</b> make it an ample size shot!!</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Q:	What do you call a boomerang that doesn't come back?A:	A stick.
 <br>
 </details>
 
-**5 day before 2025 ⏱** days before new year
+**4 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.51°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.82°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:01
@@ -117,7 +117,7 @@ Q:	What do you call a boomerang that doesn't come back?A:	A stick.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Dec 27 2024
+  Last update on Sat Dec 28 2024
   </div>
 <br>
 
