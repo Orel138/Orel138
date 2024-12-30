@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You two ought to be more careful--your love could drag on for years and years.
+"Not Hercules could have knock'd out his brains, for he had none."		-- Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You two ought to be more careful--your love could drag on for years and years.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vampiro</strong></div></td>
+      <td><div align="center"><strong>Casino</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yfhn371504374246.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1mvjxg1504348579.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-Fashioned glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cl Tequila, 3 cl Tomato Juice, 3 cl Orange Juice, 1.5 cl Lime Juice, 1 dash Sugar Syrup, 1 pinch Salt</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1/4 tsp  Maraschino liqueur, 1/4 tsp  Lemon juice, 2 dashes  Orange bitters, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.</td>
+      <td><b>Instructions:</b> Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You two ought to be more careful--your love could drag on for years and years.
 <br>
 </details>
 
-**3 day before 2025 ⏱** days before new year
+**2 day before 2025 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.14°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -4.47°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:02
+  The sun ☀️ rise 🌄 at 08:15 and sets 🌇 at 17:03
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You two ought to be more careful--your love could drag on for years and years.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Dec 29 2024
+  Last update on Mon Dec 30 2024
   </div>
 <br>
 
