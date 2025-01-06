@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your sister swims out to meet troop ships.
+You can do very well in speculation where land or anything to do with dirtis concerned.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your sister swims out to meet troop ships.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Casa Blanca</strong></div></td>
+      <td><div align="center"><strong>Adam Sunrise</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 1/2 tsp  Lime juice, 1 1/2 tsp  Maraschino liqueur</td>
+      <td><b>Ingredients:</b> 1/2  Vodka, 1/2 can  Lemonade, 1/2  Water, 10 tsp  Sugar</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1/2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your sister swims out to meet troop ships.
 <br>
 </details>
 
-**1 day before 2025 ⏱** days before new year
+**359 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -4.25°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 2.87°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:15 and sets 🌇 at 17:04
+  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your sister swims out to meet troop ships.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Dec 31 2024
+  Last update on Mon Jan 06 2025
   </div>
 <br>
 
