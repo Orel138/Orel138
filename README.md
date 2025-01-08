@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do little WASPs want to be when they grow up?A:	The very best person they can possibly be.
+A hundred years from now it is very likely that [of Twain's works] "TheJumping Frog" alone will be remembered.		-- Harry Thurston Peck (Editor of "The Bookman"), January 1901.
 </details>
 
 <details>
@@ -74,21 +74,19 @@ Q:	What do little WASPs want to be when they grow up?A:	The very best person the
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mango Mojito</strong></div></td>
+      <td><div align="center"><strong>Vodka Slime</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Jar</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 Lime, 1 Fresh Mango, Sprig Mint, 200 ml White Rum, cubes Ice, Top Soda Water, Garnish with Mango</td>
+      <td><b>Ingredients:</b> 1 cup Sprite, 1/2 shot Lime Juice, 1 1/2 shot Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
-Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
-Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.</td>
+      <td><b>Instructions:</b> Fill glass with ice. Add vodka, 7-up then finish with the lime juice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +97,13 @@ Divide the mango purée between the glasses and add 30ml white rum and a handful
 <br>
 </details>
 
-**359 day before 2026 ⏱** days before new year
+**358 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -3.02°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.77°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:10
+  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:11
   </div>
 <br>
 
@@ -119,7 +117,7 @@ Divide the mango purée between the glasses and add 30ml white rum and a handful
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jan 07 2025
+  Last update on Wed Jan 08 2025
   </div>
 <br>
 
