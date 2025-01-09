@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A hundred years from now it is very likely that [of Twain's works] "TheJumping Frog" alone will be remembered.		-- Harry Thurston Peck (Editor of "The Bookman"), January 1901.
+Q:	What do you get when you cross a mobster with an international standard?A:	You get someone who makes you an offer that you can't understand!
 </details>
 
 <details>
@@ -74,19 +74,19 @@ A hundred years from now it is very likely that [of Twain's works] "TheJumping F
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vodka Slime</strong></div></td>
+      <td><div align="center"><strong>Wine Cooler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup Sprite, 1/2 shot Lime Juice, 1 1/2 shot Vodka</td>
+      <td><b>Ingredients:</b> 2 oz white or  Red wine, 5 oz  Lemon-lime soda, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill glass with ice. Add vodka, 7-up then finish with the lime juice.</td>
+      <td><b>Instructions:</b> Mix wine and soft drink. Pour into glass. Add ice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ A hundred years from now it is very likely that [of Twain's works] "TheJumping F
 <br>
 </details>
 
-**358 day before 2026 ⏱** days before new year
+**357 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.77°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.76°C), moderate rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:11
+  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:13
   </div>
 <br>
 
@@ -117,7 +117,7 @@ A hundred years from now it is very likely that [of Twain's works] "TheJumping F
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jan 08 2025
+  Last update on Thu Jan 09 2025
   </div>
 <br>
 
