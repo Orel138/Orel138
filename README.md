@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you get when you cross a mobster with an international standard?A:	You get someone who makes you an offer that you can't understand!
+Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do you get when you cross a mobster with an international standard?A:	Yo
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Wine Cooler</strong></div></td>
+      <td><div align="center"><strong>Addison Special</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4vo5651493068493.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz white or  Red wine, 5 oz  Lemon-lime soda, cubes Ice</td>
+      <td><b>Ingredients:</b> 1 shot  Vodka, 1 tblsp  Grenadine, Fill with  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix wine and soft drink. Pour into glass. Add ice.</td>
+      <td><b>Instructions:</b> Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What do you get when you cross a mobster with an international standard?A:	Yo
 <br>
 </details>
 
-**357 day before 2026 ⏱** days before new year
+**356 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.76°C), moderate rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -5.8°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:13
+  The sun ☀️ rise 🌄 at 08:13 and sets 🌇 at 17:14
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What do you get when you cross a mobster with an international standard?A:	Yo
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jan 09 2025
+  Last update on Fri Jan 10 2025
   </div>
 <br>
 
