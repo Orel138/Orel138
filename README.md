@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You now have Asian Flu.
+Today is what happened to yesterday.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You now have Asian Flu.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Affair</strong></div></td>
+      <td><div align="center"><strong>Green Goblin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Strawberry schnapps, 2 oz  Orange juice, 2 oz  Cranberry juice, Club soda</td>
+      <td><b>Ingredients:</b> 1/2 pint hard  Cider, 1/2 pint  Lager, 1 shot  Blue Curacao</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.</td>
+      <td><b>Instructions:</b> Cider First, Lager then Curacao</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You now have Asian Flu.
 <br>
 </details>
 
-**355 day before 2026 ⏱** days before new year
+**354 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt 0.31°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-9°C (felt -14.29°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:13 and sets 🌇 at 17:15
+  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:16
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You now have Asian Flu.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 11 2025
+  Last update on Sun Jan 12 2025
   </div>
 <br>
 
