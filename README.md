@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Today is what happened to yesterday.
+Q:	How many WASPs does it take to change a light bulb?A:	One.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Today is what happened to yesterday.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Green Goblin</strong></div></td>
+      <td><div align="center"><strong>After Supper Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pint glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 pint hard  Cider, 1/2 pint  Lager, 1 shot  Blue Curacao</td>
+      <td><b>Ingredients:</b> 1 oz  Triple sec, 1 oz  Apricot brandy, 1/2 tsp  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Cider First, Lager then Curacao</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Today is what happened to yesterday.
 <br>
 </details>
 
-**354 day before 2026 ⏱** days before new year
+**353 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-9°C (felt -14.29°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-9°C (felt -12.55°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:16
+  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:17
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Today is what happened to yesterday.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jan 12 2025
+  Last update on Mon Jan 13 2025
   </div>
 <br>
 
