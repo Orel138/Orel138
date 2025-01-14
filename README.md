@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many WASPs does it take to change a light bulb?A:	One.
+The fashion wears out more apparel than the man.		-- William Shakespeare, "Much Ado About Nothing"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many WASPs does it take to change a light bulb?A:	One.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>After Supper Cocktail</strong></div></td>
+      <td><div align="center"><strong>Amaretto Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b7qzo21493070167.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Pousse cafe glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Triple sec, 1 oz  Apricot brandy, 1/2 tsp  Lemon juice</td>
+      <td><b>Ingredients:</b> 6 oz hot  Tea, 2 oz  Amaretto, Chilled  Whipped cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many WASPs does it take to change a light bulb?A:	One.
 <br>
 </details>
 
-**353 day before 2026 ⏱** days before new year
+**352 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-9°C (felt -12.55°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-10°C (felt -9.69°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:17
+  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:19
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many WASPs does it take to change a light bulb?A:	One.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jan 13 2025
+  Last update on Tue Jan 14 2025
   </div>
 <br>
 
