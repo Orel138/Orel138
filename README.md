@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The fashion wears out more apparel than the man.		-- William Shakespeare, "Much Ado About Nothing"
+You are standing on my toes.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The fashion wears out more apparel than the man.		-- William Shakespeare, "Much 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Tea</strong></div></td>
+      <td><div align="center"><strong>Bruised Heart</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b7qzo21493070167.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7if5kq1503564209.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pousse cafe glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 oz hot  Tea, 2 oz  Amaretto, Chilled  Whipped cream</td>
+      <td><b>Ingredients:</b> 1/2 oz  Vodka, 1/2 oz  Chambord raspberry liqueur, 1/2 oz  Peachtree schnapps, 1/2 oz  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.</td>
+      <td><b>Instructions:</b> Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The fashion wears out more apparel than the man.		-- William Shakespeare, "Much 
 <br>
 </details>
 
-**352 day before 2026 ⏱** days before new year
+**351 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-10°C (felt -9.69°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-11°C (felt -11.35°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:19
+  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 17:20
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The fashion wears out more apparel than the man.		-- William Shakespeare, "Much 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jan 14 2025
+  Last update on Wed Jan 15 2025
   </div>
 <br>
 
