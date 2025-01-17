@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will contract a rare disease.
+You have the body of a 19 year old.  Please return it before it gets wrinkled.
 </details>
 
 <details>
@@ -74,19 +74,22 @@ You will contract a rare disease.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rum Cooler</strong></div></td>
+      <td><div align="center"><strong>Greyhound</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz light or dark  Rum, 4 oz  Lemon-lime soda, 1  Lemon</td>
+      <td><b>Ingredients:</b> 1 1/2 oz Vodka, 3 oz Grapefruit Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.</td>
+      <td><b>Instructions:</b> Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ You will contract a rare disease.
 <br>
 </details>
 
-**350 day before 2026 ⏱** days before new year
+**349 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -5.8°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.97°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:10 and sets 🌇 at 17:21
+  The sun ☀️ rise 🌄 at 08:10 and sets 🌇 at 17:22
   </div>
 <br>
 
@@ -117,7 +120,7 @@ You will contract a rare disease.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jan 16 2025
+  Last update on Fri Jan 17 2025
   </div>
 <br>
 
