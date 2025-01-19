@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The elephants are coming over the hill."Q:	What did he say when saw them coming over the hill wearing		sunglasses?A:	Nothing, for he didn't recognize them.
+You see, I consider that a man's brain originally is like a little emptyattic, and you have to stock it with such furniture as you choose.  A fooltakes in all the lumber of every sort he comes across, so that the knowledgewhich might be useful to him gets crowded out, or at best is jumbled up witha lot of other things, so that he has difficulty in laying his hands upon it.Now the skilful workman is very careful indeed as to what he takes into hisbrain-attic.  He will have nothing but the tools which may help him in doinghis work, but of these he has a large assortment, and all in the most perfectorder.  It is a mistake to think that that little room has elastic walls andcan distend to any extent.  Depend upon it there comes a time when for everyaddition of knowledge you forget something that you knew before.  It is ofthe highest importance, therefore, not to have useless facts elbowing outthe useful ones.		-- Sir Arthur Conan Doyle, "A Study in Scarlet"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The el
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Absolutly Screwed Up</strong></div></td>
+      <td><div align="center"><strong>Adam Sunrise</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vtuyvu1472812112.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Absolut Citron, 1 shot  Orange juice, 1 shot  Triple sec, Fill to top  Ginger ale</td>
+      <td><b>Ingredients:</b> 1/2  Vodka, 1/2 can  Lemonade, 1/2  Water, 10 tsp  Sugar</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.</td>
+      <td><b>Instructions:</b> Fill blender up with ice. Fill half with Bartons Vodka. Put 10 tsp of sugar, add 1/2 can lemonade concentrate, fill to top with water. Blend for 60 seconds.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The el
 <br>
 </details>
 
-**348 day before 2026 ⏱** days before new year
+**347 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.18°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.34°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 17:24
+  The sun ☀️ rise 🌄 at 08:08 and sets 🌇 at 17:25
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What did Tarzan say when he saw the elephants coming over the hill?A:	"The el
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 18 2025
+  Last update on Sun Jan 19 2025
   </div>
 <br>
 
