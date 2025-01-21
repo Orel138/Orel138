@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-It's all in the mind, ya know.
+Q:	What is printed on the bottom of beer bottles in Minnesota?A:	Open other end.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ It's all in the mind, ya know.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cosmopolitan Martini</strong></div></td>
+      <td><div align="center"><strong>Avalon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Cointreau, 1 oz  Vodka, Juice of 1/2  Lime, 1 splash  Cranberry juice</td>
+      <td><b>Ingredients:</b> 3 parts Vodka, 1 part  Pisang Ambon, 6 parts  Apple juice, 1 1/2 part  Lemon juice, Lemonade</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.</td>
+      <td><b>Instructions:</b> Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ It's all in the mind, ya know.
 <br>
 </details>
 
-**346 day before 2026 ⏱** days before new year
+**345 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.68°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.4°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:08 and sets 🌇 at 17:26
+  The sun ☀️ rise 🌄 at 08:07 and sets 🌇 at 17:28
   </div>
 <br>
 
@@ -117,7 +117,7 @@ It's all in the mind, ya know.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jan 20 2025
+  Last update on Tue Jan 21 2025
   </div>
 <br>
 
