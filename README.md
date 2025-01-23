@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Among the lucky, you are the chosen one.
+You are wise, witty, and wonderful, but you spend too much time readingthis sort of trash.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Among the lucky, you are the chosen one.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Herbal flame</strong></div></td>
+      <td><div align="center"><strong>Clove Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxvtst1461867579.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Mason jar</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 shots  Hot Damn, very sweet  Tea</td>
+      <td><b>Ingredients:</b> 1 oz  Sweet Vermouth, 1/2 oz  Sloe gin, 1/2 oz Muscatel  Wine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.</td>
+      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Among the lucky, you are the chosen one.
 <br>
 </details>
 
-**344 day before 2026 ⏱** days before new year
+**343 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 1.57°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.14°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:06 and sets 🌇 at 17:29
+  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 17:30
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Among the lucky, you are the chosen one.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jan 22 2025
+  Last update on Thu Jan 23 2025
   </div>
 <br>
 
