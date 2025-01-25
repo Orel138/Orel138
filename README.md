@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-I must have a prodigious quantity of mind; it takes me as much as aweek sometimes to make it up.		-- Mark Twain, "The Innocents Abroad"
+Q:	How many elephants can you fit in a VW Bug?A:	Four.  Two in the front, two in the back.Q:	How can you tell if an elephant is in your refrigerator?A:	There's a footprint in the mayo.Q:	How can you tell if two elephants are in your refrigerator?A:	There's two footprints in the mayo.Q:	How can you tell if three elephants are in your refrigerator?A:	The door won't shut.Q:	How can you tell if four elephants are in your refrigerator?A:	There's a VW Bug in your driveway.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ I must have a prodigious quantity of mind; it takes me as much as aweek sometime
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lassi Khara</strong></div></td>
+      <td><div align="center"><strong>Shanghai Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1478820678.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 1 tsp  Salt, 1 pinch  Asafoetida</td>
+      <td><b>Ingredients:</b> 1 oz Jamaican  Light rum, 1 tsp  Anisette, 1/2 tsp  Grenadine, Juice of 1/4  Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ I must have a prodigious quantity of mind; it takes me as much as aweek sometime
 <br>
 </details>
 
-**342 day before 2026 ⏱** days before new year
+**341 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.58°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 3.18°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 17:32
+  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 17:33
   </div>
 <br>
 
@@ -117,7 +117,7 @@ I must have a prodigious quantity of mind; it takes me as much as aweek sometime
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jan 24 2025
+  Last update on Sat Jan 25 2025
   </div>
 <br>
 
