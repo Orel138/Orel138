@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many elephants can you fit in a VW Bug?A:	Four.  Two in the front, two in the back.Q:	How can you tell if an elephant is in your refrigerator?A:	There's a footprint in the mayo.Q:	How can you tell if two elephants are in your refrigerator?A:	There's two footprints in the mayo.Q:	How can you tell if three elephants are in your refrigerator?A:	The door won't shut.Q:	How can you tell if four elephants are in your refrigerator?A:	There's a VW Bug in your driveway.
+You are not dead yet.  But watch for further reports.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many elephants can you fit in a VW Bug?A:	Four.  Two in the front, two in
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Shanghai Cocktail</strong></div></td>
+      <td><div align="center"><strong>Dry Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1478820678.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Jamaican  Light rum, 1 tsp  Anisette, 1/2 tsp  Grenadine, Juice of 1/4  Lemon</td>
+      <td><b>Ingredients:</b> 1 2/3 oz  Gin, 1/3 oz  Dry Vermouth, 1  Olive</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many elephants can you fit in a VW Bug?A:	Four.  Two in the front, two in
 <br>
 </details>
 
-**341 day before 2026 ⏱** days before new year
+**340 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 3.18°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -3.02°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 17:33
+  The sun ☀️ rise 🌄 at 08:03 and sets 🌇 at 17:35
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many elephants can you fit in a VW Bug?A:	Four.  Two in the front, two in
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 25 2025
+  Last update on Sun Jan 26 2025
   </div>
 <br>
 
