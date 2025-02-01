@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Be careful!  UGLY strikes 9 out of 10!
+You will get what you deserve.
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Be careful!  UGLY strikes 9 out of 10!
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>New York Sour</strong></div></td>
+      <td><div align="center"><strong>Smashed Watermelon Margarita</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dztcv51598717861.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Sugar, (Claret)
- Red wine, Lemon, Cherry</td>
+      <td><b>Ingredients:</b> 1/2 cup Watermelon, 5 Mint, 1/3 Cup Grapefruit Juice, Juice of 1/2 Lime, 1 shot Tequila, Garnish with Watermelon, Garnish with Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.</td>
+      <td><b>Instructions:</b> In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ Be careful!  UGLY strikes 9 out of 10!
 <br>
 </details>
 
-**335 day before 2026 ⏱** days before new year
+**334 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.53°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -4.69°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:57 and sets 🌇 at 17:42
+  The sun ☀️ rise 🌄 at 07:56 and sets 🌇 at 17:43
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Be careful!  UGLY strikes 9 out of 10!
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jan 31 2025
+  Last update on Sat Feb 01 2025
   </div>
 <br>
 
