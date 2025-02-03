@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your business will assume vast proportions.
+You will soon forget this.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your business will assume vast proportions.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Shake</strong></div></td>
+      <td><div align="center"><strong>Long vodka</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xk79al1493069655.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9179i01503565212.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 scoops  Chocolate ice-cream, 2 oz  Brandy, 2 oz  Amaretto</td>
+      <td><b>Ingredients:</b> 5 cl  Vodka, 1/2  Lime, 4 dashes  Angostura bitters, 1 dl Schweppes  Tonic water, 4  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.</td>
+      <td><b>Instructions:</b> Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your business will assume vast proportions.
 <br>
 </details>
 
-**333 day before 2026 ⏱** days before new year
+**332 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.75°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.69°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:55 and sets 🌇 at 17:45
+  The sun ☀️ rise 🌄 at 07:54 and sets 🌇 at 17:46
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your business will assume vast proportions.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Feb 02 2025
+  Last update on Mon Feb 03 2025
   </div>
 <br>
 
