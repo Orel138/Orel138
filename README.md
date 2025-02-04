@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will soon forget this.
+A banker is a fellow who lends you his umbrella when the sun is shiningand wants it back the minute it begins to rain.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will soon forget this.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Long vodka</strong></div></td>
+      <td><div align="center"><strong>B-53</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9179i01503565212.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 cl  Vodka, 1/2  Lime, 4 dashes  Angostura bitters, 1 dl Schweppes  Tonic water, 4  Ice</td>
+      <td><b>Ingredients:</b> 1/3 shot  Kahlua, 1/3 shot  Sambuca, 1/3 shot  Grand Marnier</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka</td>
+      <td><b>Instructions:</b> Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will soon forget this.
 <br>
 </details>
 
-**332 day before 2026 ⏱** days before new year
+**331 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.69°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -8.76°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:54 and sets 🌇 at 17:46
+  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 17:48
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will soon forget this.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Feb 03 2025
+  Last update on Tue Feb 04 2025
   </div>
 <br>
 
