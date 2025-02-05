@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A banker is a fellow who lends you his umbrella when the sun is shiningand wants it back the minute it begins to rain.		-- Mark Twain
+You tread upon my patience.		-- William Shakespeare, "Henry IV"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ A banker is a fellow who lends you his umbrella when the sun is shiningand wants
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>B-53</strong></div></td>
+      <td><div align="center"><strong>Casino Royale</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3qpv121504366699.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/3 shot  Kahlua, 1/3 shot  Sambuca, 1/3 shot  Grand Marnier</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Lemon juice, 1 tsp  Maraschino liqueur, 1 dash  Orange bitters, 1  Egg yolk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ A banker is a fellow who lends you his umbrella when the sun is shiningand wants
 <br>
 </details>
 
-**331 day before 2026 ⏱** days before new year
+**330 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -8.76°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.24°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 17:48
+  The sun ☀️ rise 🌄 at 07:51 and sets 🌇 at 17:49
   </div>
 <br>
 
@@ -117,7 +117,7 @@ A banker is a fellow who lends you his umbrella when the sun is shiningand wants
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 04 2025
+  Last update on Wed Feb 05 2025
   </div>
 <br>
 
