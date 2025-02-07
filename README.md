@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-No live organism can continue for long to exist sanely under conditions ofabsolute reality; even larks and katydids are supposed, by some, to dream.Hill House, not sane, stood by itself against its hills, holding darknesswithin; it had stood so for eighty years and might stand for eighty more.Within, walls continued upright, bricks met neatly, floors were firm, anddoors were sensibly shut; silence lay steadily against the wood and stoneof Hill House, and whatever walked there, walked alone.		-- Shirley Jackson, "The Haunting of Hill House"
+Don't you wish you had more energy... or less ambition?
 </details>
 
 <details>
@@ -74,19 +74,25 @@ No live organism can continue for long to exist sanely under conditions ofabsolu
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Nuked Hot Chocolate</strong></div></td>
+      <td><div align="center"><strong>Bellini Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xcu6nb1487603142.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp  Cocoa powder, 1 tsp  Sugar, 1/2 tsp  Vanilla extract, 12 oz  Milk</td>
+      <td><b>Ingredients:</b> 8 cubes Ice, 3 oz  Vodka, 1.5 oz  Peach nectar, 1.5 oz  Peach schnapps, 1  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts.</td>
+      <td><b>Instructions:</b> Add ice cubes to shaker.
+Add vodka.
+Add peach schnapps.
+Add peach nectar.
+Shake.
+Strain into glass.
+Add lemon twist peel.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +103,13 @@ No live organism can continue for long to exist sanely under conditions ofabsolu
 <br>
 </details>
 
-**329 day before 2026 ⏱** days before new year
+**328 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-8°C (felt -10.82°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.33°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 17:50
+  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 17:52
   </div>
 <br>
 
@@ -117,7 +123,7 @@ No live organism can continue for long to exist sanely under conditions ofabsolu
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Feb 06 2025
+  Last update on Fri Feb 07 2025
   </div>
 <br>
 
