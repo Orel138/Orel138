@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't you wish you had more energy... or less ambition?
+Alimony and bribes will engage a large share of your wealth.
 </details>
 
 <details>
@@ -74,25 +74,19 @@ Don't you wish you had more energy... or less ambition?
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bellini Martini</strong></div></td>
+      <td><div align="center"><strong>Sex on the Beach</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/fi67641668420787.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 8 cubes Ice, 3 oz  Vodka, 1.5 oz  Peach nectar, 1.5 oz  Peach schnapps, 1  Lemon peel</td>
+      <td><b>Ingredients:</b> 1 oz  Vodka, 3/4 oz  Peach schnapps, Cranberry juice, Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add ice cubes to shaker.
-Add vodka.
-Add peach schnapps.
-Add peach nectar.
-Shake.
-Strain into glass.
-Add lemon twist peel.</td>
+      <td><b>Instructions:</b> Build all ingredients in a highball glass filled with ice. Garnish with orange slice.</td>
     </tr>
   </table>
 </div>
@@ -103,13 +97,13 @@ Add lemon twist peel.</td>
 <br>
 </details>
 
-**328 day before 2026 ⏱** days before new year
+**327 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -11.33°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.01°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 17:52
+  The sun ☀️ rise 🌄 at 07:47 and sets 🌇 at 17:53
   </div>
 <br>
 
@@ -123,7 +117,7 @@ Add lemon twist peel.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Feb 07 2025
+  Last update on Sat Feb 08 2025
   </div>
 <br>
 
