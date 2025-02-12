@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have been selected for a secret mission.
+Let him choose out of my files, his projects to accomplish.		-- Shakespeare, "Coriolanus"
 </details>
 
 <details>
@@ -74,19 +74,20 @@ You have been selected for a secret mission.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Sherry Eggnog</strong></div></td>
+      <td><div align="center"><strong>Zizi Coin-coin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwrpsv1478820541.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0fbo2t1485620752.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Margarita/Coupette glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz cream  Sherry, 1 tsp  Powdered sugar, 1 whole  Egg, Milk, Nutmeg</td>
+      <td><b>Ingredients:</b> 5 cl  Cointreau, 2 cl  Lemon juice, cubes Ice, or lime
+ Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake sherry, powdered sugar, and egg with ice and strain into a collins glass. Fill with milk and stir. Sprinkle nutmeg on top and serve.</td>
+      <td><b>Instructions:</b> Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon/lime in glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ You have been selected for a secret mission.
 <br>
 </details>
 
-**324 day before 2026 ⏱** days before new year
+**323 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.16°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.55°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:43 and sets 🌇 at 17:58
+  The sun ☀️ rise 🌄 at 07:42 and sets 🌇 at 17:59
   </div>
 <br>
 
@@ -117,7 +118,7 @@ You have been selected for a secret mission.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 11 2025
+  Last update on Wed Feb 12 2025
   </div>
 <br>
 
