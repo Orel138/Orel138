@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't have any real intelligence.
+Excellent day for putting Slinkies on an escalator.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't ha
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Port And Starboard</strong></div></td>
+      <td><div align="center"><strong>Thai Iced Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wxvupx1441553911.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pousse cafe glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 tblsp  Grenadine, 1/2 oz  Green Creme de Menthe</td>
+      <td><b>Ingredients:</b> 1/4 cup Thai  Tea, 1/2 cup boiling  Water, 2 tsp sweetened  Condensed milk, cubes Ice, garnish Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.</td>
+      <td><b>Instructions:</b> Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't ha
 <br>
 </details>
 
-**322 day before 2026 ⏱** days before new year
+**321 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt 0.31°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.81°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:40 and sets 🌇 at 18:01
+  The sun ☀️ rise 🌄 at 07:39 and sets 🌇 at 18:02
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't ha
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Feb 13 2025
+  Last update on Fri Feb 14 2025
   </div>
 <br>
 
