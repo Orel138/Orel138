@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You may worry about your hair-do today, but tomorrow much peanut butter willbe sold.
+Hell is empty and all the devils are here.		-- Wm. Shakespeare, "The Tempest"
 </details>
 
 <details>
@@ -74,19 +74,20 @@ You may worry about your hair-do today, but tomorrow much peanut butter willbe s
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Espresso Rumtini</strong></div></td>
+      <td><div align="center"><strong>Corpse Reviver</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/acvf171561574403.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Rum, 1/2 shot Vanilla syrup, 1 shot Espresso, 1 shot Coffee</td>
+      <td><b>Ingredients:</b> 3/4 oz Gin, 3/4 oz Triple Sec, 3/4 oz Lillet Blanc, 3/4 oz Lemon Juice, 1 dash Absinthe</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together in a cocktail glass. Garnish with some choclate powder and coffee beans</td>
+      <td><b>Instructions:</b> Shake, strain, straight up, cocktail glass rinsed with absinthe
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ You may worry about your hair-do today, but tomorrow much peanut butter willbe s
 <br>
 </details>
 
-**320 day before 2026 ⏱** days before new year
+**319 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -7.46°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.5°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 18:03
+  The sun ☀️ rise 🌄 at 07:36 and sets 🌇 at 18:05
   </div>
 <br>
 
@@ -117,7 +118,7 @@ You may worry about your hair-do today, but tomorrow much peanut butter willbe s
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Feb 15 2025
+  Last update on Sun Feb 16 2025
   </div>
 <br>
 
