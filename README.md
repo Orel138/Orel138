@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Be cautious in your daily affairs.
+You will be married within a year, and divorced within two.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Be cautious in your daily affairs.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cafe Savoy</strong></div></td>
+      <td><div align="center"><strong>Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Coffee, 1/2 oz  Milk, 1/2 oz  Triple sec, Brandy</td>
+      <td><b>Ingredients:</b> 1 2/3 oz  Gin, 1/3 oz  Dry Vermouth, 1  Olive</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.</td>
+      <td><b>Instructions:</b> Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Be cautious in your daily affairs.
 <br>
 </details>
 
-**317 day before 2026 ⏱** days before new year
+**316 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.9°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.76°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 18:08
+  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 18:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Be cautious in your daily affairs.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 18 2025
+  Last update on Wed Feb 19 2025
   </div>
 <br>
 
