@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be married within a year, and divorced within two.
+Don't feed the bats tonight.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will be married within a year, and divorced within two.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Martini</strong></div></td>
+      <td><div align="center"><strong>Frozen Pineapple Daiquiri</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k3aecd1582481679.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Cocktail Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 2/3 oz  Gin, 1/3 oz  Dry Vermouth, 1  Olive</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 4 chunks  Pineapple, 1 tblsp  Lime juice, 1/2 tsp  Sugar</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
+      <td><b>Instructions:</b> Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into a cocktail glass and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will be married within a year, and divorced within two.
 <br>
 </details>
 
-**316 day before 2026 ⏱** days before new year
+**315 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.76°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt 0.31°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 18:09
+  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 18:11
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will be married within a year, and divorced within two.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Feb 19 2025
+  Last update on Thu Feb 20 2025
   </div>
 <br>
 
