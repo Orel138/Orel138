@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your present plans will be successful.
+Don't look back, the lemmings are gaining on you.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your present plans will be successful.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Moscow Mule</strong></div></td>
+      <td><div align="center"><strong>Downshift</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Copper Mug</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, 2 oz  Lime juice, 8 oz  Ginger ale</td>
+      <td><b>Ingredients:</b> 2 part  Fruit punch, 1 part  Sprite, 2 shots  Tequila, Float Bacardi  151 proof rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.</td>
+      <td><b>Instructions:</b> Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your present plans will be successful.
 <br>
 </details>
 
-**313 day before 2026 ⏱** days before new year
+**312 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 3.99°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 1.43°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:26 and sets 🌇 at 18:13
+  The sun ☀️ rise 🌄 at 07:25 and sets 🌇 at 18:15
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your present plans will be successful.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Feb 22 2025
+  Last update on Sun Feb 23 2025
   </div>
 <br>
 
