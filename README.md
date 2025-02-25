@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you stop an elephant from charging?A:	Take away his credit cards.
+Never be led astray onto the path of virtue.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How do you stop an elephant from charging?A:	Take away his credit cards.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Black Russian</strong></div></td>
+      <td><div align="center"><strong>Scotch Cobbler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8oxlqf1606772765.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1q7coh1504736227.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Coffee liqueur, 1 1/2 oz  Vodka</td>
+      <td><b>Ingredients:</b> 2 oz  Scotch, 4 dashes  Brandy, 4 dashes  Curacao, 1 slice  Orange, 1  Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.</td>
+      <td><b>Instructions:</b> Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How do you stop an elephant from charging?A:	Take away his credit cards.
 <br>
 </details>
 
-**311 day before 2026 ⏱** days before new year
+**310 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.73°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.6°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 18:16
+  The sun ☀️ rise 🌄 at 07:21 and sets 🌇 at 18:18
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How do you stop an elephant from charging?A:	Take away his credit cards.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Feb 24 2025
+  Last update on Tue Feb 25 2025
   </div>
 <br>
 
