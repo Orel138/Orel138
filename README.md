@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Beware of a dark-haired man with a loud tie.
+Tomorrow, you can be anywhere.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Beware of a dark-haired man with a loud tie.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Sidecar Cocktail</strong></div></td>
+      <td><div align="center"><strong>Kioki Coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ewjxui1504820428.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Brandy, 1/2 oz  Triple sec, Juice of 1/4  Lemon</td>
+      <td><b>Ingredients:</b> 1 oz  Kahlua, 1/2 oz  Brandy, Coffee</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Stir. Add whipped cream to the top.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Beware of a dark-haired man with a loud tie.
 <br>
 </details>
 
-**309 day before 2026 ⏱** days before new year
+**308 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -6.94°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.57°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:20 and sets 🌇 at 18:19
+  The sun ☀️ rise 🌄 at 07:18 and sets 🌇 at 18:20
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Beware of a dark-haired man with a loud tie.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Feb 26 2025
+  Last update on Thu Feb 27 2025
   </div>
 <br>
 
