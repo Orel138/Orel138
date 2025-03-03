@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-In a museum in Havana, there are two skulls of Christopher Columbus,"one when he was a boy and one when he was a man."		-- Mark Twain
+Today is what happened to yesterday.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ In a museum in Havana, there are two skulls of Christopher Columbus,"one when he
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Yellow Bird</strong></div></td>
+      <td><div align="center"><strong>Royal Flush</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2t9r6w1504374811.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 cl White Rum, 1.5 cl Galliano, 1.5 cl Triple Sec, 1.5 cl Lime Juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Crown Royal, 1 oz  Peach schnapps, 1/2 oz  Chambord raspberry liqueur, 1 oz  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake and strain into a chilled cocktail glass</td>
+      <td><b>Instructions:</b> Pour all the ingredients into tumbler over ice. Strain into glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ In a museum in Havana, there are two skulls of Christopher Columbus,"one when he
 <br>
 </details>
 
-**305 day before 2026 ⏱** days before new year
+**304 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -5.24°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.52°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 18:24
+  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 18:26
   </div>
 <br>
 
@@ -117,7 +117,7 @@ In a museum in Havana, there are two skulls of Christopher Columbus,"one when he
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 02 2025
+  Last update on Mon Mar 03 2025
   </div>
 <br>
 
