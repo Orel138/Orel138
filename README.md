@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your business will assume vast proportions.
+"Speak, thou vast and venerable head," muttered Ahab, "which, thoughungarnished with a beard, yet here and there lookest hoary with mosses; speak,mighty head, and tell us the secret thing that is in thee.  Of all divers,thou has dived the deepest.  That head upon which the upper sun now gleams hasmoved amid the world's foundations.  Where unrecorded names and navies rust,and untold hopes and anchors rot; where in her murderous hold this frigateearth is ballasted with bones of millions of the drowned; there, in that awfulwater-land, there was thy most familiar home.  Thou hast been where bell ordiver never went; has slept by many a sailer's side, where sleepless motherswould give their lives to lay them down.  Thou saw'st the locked lovers whenleaping from their flaming ship; heart to heart they sank beneath the exultingwave; true to each other, when heaven seemed false to them.  Thou saw'st themurdered mate when tossed by pirates from the midnight deck; for hours he fellinto the deeper midnight of the insatiate maw; and his murderers still sailedon unharmed -- while swift lightnings shivered the neighboring ship that wouldhave borne a righteous husband to outstretched, longing arms.  O head! thou hasseen enough to split the planets and make an infidel of Abraham, and not onesyllable is thine!"		-- H. Melville, "Moby Dick"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your business will assume vast proportions.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Royal Bitch</strong></div></td>
+      <td><div align="center"><strong>Gin And Tonic</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Frangelico, 1 part  Crown Royal</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Tonic water, 1  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Into a shot glass layer the Crown Royal on top of the Frangelico.</td>
+      <td><b>Instructions:</b> Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your business will assume vast proportions.
 <br>
 </details>
 
-**301 day before 2026 ⏱** days before new year
+**300 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.78°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.38°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 18:30
+  The sun ☀️ rise 🌄 at 07:04 and sets 🌇 at 18:31
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your business will assume vast proportions.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 06 2025
+  Last update on Fri Mar 07 2025
   </div>
 <br>
 
