@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"Speak, thou vast and venerable head," muttered Ahab, "which, thoughungarnished with a beard, yet here and there lookest hoary with mosses; speak,mighty head, and tell us the secret thing that is in thee.  Of all divers,thou has dived the deepest.  That head upon which the upper sun now gleams hasmoved amid the world's foundations.  Where unrecorded names and navies rust,and untold hopes and anchors rot; where in her murderous hold this frigateearth is ballasted with bones of millions of the drowned; there, in that awfulwater-land, there was thy most familiar home.  Thou hast been where bell ordiver never went; has slept by many a sailer's side, where sleepless motherswould give their lives to lay them down.  Thou saw'st the locked lovers whenleaping from their flaming ship; heart to heart they sank beneath the exultingwave; true to each other, when heaven seemed false to them.  Thou saw'st themurdered mate when tossed by pirates from the midnight deck; for hours he fellinto the deeper midnight of the insatiate maw; and his murderers still sailedon unharmed -- while swift lightnings shivered the neighboring ship that wouldhave borne a righteous husband to outstretched, longing arms.  O head! thou hasseen enough to split the planets and make an infidel of Abraham, and not onesyllable is thine!"		-- H. Melville, "Moby Dick"
+We were young and our happiness dazzled us with its strength.  But there wasalso a terrible betrayal that lay within me like a Merle Haggard song at aFrench restaurant. [...]	I could not tell the girl about the woman of the tollway, of her milkwhite BMW and her Jordache smile.  There had been a fight.  I had punched herboyfriend, who fought the mechanical bulls.  Everyone told him, "You ride thebull, senor.  You do not fight it."  But he was lean and tough like a badrib-eye and he fought the bull.  And then he fought me.  And when we finishedthere were no winners, just men doing what men must do. [...]	"Stop the car," the girl said.	There was a look of terrible sadness in her eyes.  She knew about thewoman of the tollway.  I knew not how.  I started to speak, but she raised anarm and spoke with a quiet and peace I will never forget.	"I do not ask for whom's the tollway belle," she said, "the tollwaybelle's for thee."	The next morning our youth was a memory, and our happiness was a lie.Life is like a bad margarita with good tequila, I thought as I poured whiskeyonto my granola and faced a new day.		-- Peter Applebome, International Imitation Hemingway		   Competition
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin And Tonic</strong></div></td>
+      <td><div align="center"><strong>Fruit Flip-Flop</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nfdx6p1484430633.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Tonic water, 1  Lime</td>
+      <td><b>Ingredients:</b> 1 cup  Yoghurt, 1 cup  Fruit juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**300 day before 2026 ⏱** days before new year
+**299 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.38°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.89°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:04 and sets 🌇 at 18:31
+  The sun ☀️ rise 🌄 at 07:02 and sets 🌇 at 18:32
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Mar 07 2025
+  Last update on Sat Mar 08 2025
   </div>
 <br>
 
