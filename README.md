@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-How apt the poor are to be proud.		-- William Shakespeare, "Twelfth-Night"
+You'll wish that you had done some of the hard things when they were easierto do.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ How apt the poor are to be proud.		-- William Shakespeare, "Twelfth-Night"
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kentucky Colonel</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sunrise</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/utqwpu1478820348.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/akcpsh1493070267.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 oz  Bourbon, 1/2 oz  Benedictine, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 1 cl  Amaretto, 4 oz  Orange juice, 1/4 cl  Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.</td>
+      <td><b>Instructions:</b> Mix together the amaretto and orange juice. Pour into glass and then add the grenadine untill you see the sunrise.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ How apt the poor are to be proud.		-- William Shakespeare, "Twelfth-Night"
 <br>
 </details>
 
-**298 day before 2026 ⏱** days before new year
+**297 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.64°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.83°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:00 and sets 🌇 at 18:34
+  The sun ☀️ rise 🌄 at 06:58 and sets 🌇 at 18:35
   </div>
 <br>
 
@@ -117,7 +117,7 @@ How apt the poor are to be proud.		-- William Shakespeare, "Twelfth-Night"
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 09 2025
+  Last update on Mon Mar 10 2025
   </div>
 <br>
 
