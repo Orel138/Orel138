@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-O, what a tangled web we weave, When first we practice to deceive.		-- Sir Walter Scott, "Marmion"
+Beware of low-flying butterflies.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ O, what a tangled web we weave, When first we practice to deceive.		-- Sir Walte
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Egg Nog - Healthy</strong></div></td>
+      <td><div align="center"><strong>Talos Coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxuppv1468875308.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rswqpy1441246518.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Brandy snifter</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 cup  Egg, 3 tblsp  Sugar, 13 oz skimmed  Condensed milk, 3/4 cup skimmed  Milk, 1 tsp  Vanilla extract, 1 tsp  Rum, Nutmeg, , , , , </td>
+      <td><b>Ingredients:</b> 3 parts  Grand Marnier, 1 part  Coffee</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings.</td>
+      <td><b>Instructions:</b> Add your GM and then add your coffee.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ O, what a tangled web we weave, When first we practice to deceive.		-- Sir Walte
 <br>
 </details>
 
-**296 day before 2026 ⏱** days before new year
+**295 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -0.8°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:56 and sets 🌇 at 18:36
+  The sun ☀️ rise 🌄 at 06:54 and sets 🌇 at 18:38
   </div>
 <br>
 
@@ -117,7 +117,7 @@ O, what a tangled web we weave, When first we practice to deceive.		-- Sir Walte
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Mar 11 2025
+  Last update on Wed Mar 12 2025
   </div>
 <br>
 
