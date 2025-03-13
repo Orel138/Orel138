@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Beware of low-flying butterflies.
+A horse!  A horse!  My kingdom for a horse!		-- Wm. Shakespeare, "Richard III"
 </details>
 
 <details>
@@ -74,19 +74,22 @@ Beware of low-flying butterflies.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Talos Coffee</strong></div></td>
+      <td><div align="center"><strong>Pineapple Paloma</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rswqpy1441246518.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pg8iw31593351601.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Brandy snifter</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 parts  Grand Marnier, 1 part  Coffee</td>
+      <td><b>Ingredients:</b> 4 oz Tequila, 4 oz Grapefruit Juice, 1 oz Fresh Lime Juice, 8 oz Pineapple Juice, Garnish with Lime, Rimmed Pepper</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add your GM and then add your coffee.</td>
+      <td><b>Instructions:</b> Rub the rim of each glass with lime slice and dip into salt.
+Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
+Give it a quick stir.
+Garnish with fresh pineapple or lime.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ Beware of low-flying butterflies.
 <br>
 </details>
 
-**295 day before 2026 ⏱** days before new year
+**294 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -1.35°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:54 and sets 🌇 at 18:38
+  The sun ☀️ rise 🌄 at 06:52 and sets 🌇 at 18:39
   </div>
 <br>
 
@@ -117,7 +120,7 @@ Beware of low-flying butterflies.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Mar 12 2025
+  Last update on Thu Mar 13 2025
   </div>
 <br>
 
