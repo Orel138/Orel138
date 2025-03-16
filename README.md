@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-	You will remember, Watson, how the dreadful business of theAbernetty family was first brought to my notice by the depth which theparsley had sunk into the butter upon a hot day.		-- Sherlock Holmes
+You display the wonderful traits of charm and courtesy.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pink Penocha</strong></div></td>
+      <td><div align="center"><strong>Rum Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/6vigjx1503564007.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wyrsxu1441554538.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Punch bowl</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 750 ml  Everclear, 1750 ml  Vodka, 1750 ml  Peach schnapps, 1 gal  Orange juice, 1 gal  Cranberry juice</td>
+      <td><b>Ingredients:</b> mikey bottle  Rum, large bottle  Ginger ale, 355 ml frozen  Fruit punch, 355 ml frozen  Orange juice, crushed  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> mix all ingredients into bowl keep iced stir frequently</td>
+      <td><b>Instructions:</b> Mix all ingredients in a punch bowl and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**292 day before 2026 ⏱** days before new year
+**291 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -5.24°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -5.8°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:49 and sets 🌇 at 18:42
+  The sun ☀️ rise 🌄 at 06:47 and sets 🌇 at 18:43
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Mar 15 2025
+  Last update on Sun Mar 16 2025
   </div>
 <br>
 
