@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You display the wonderful traits of charm and courtesy.
+You are fighting for survival in your own sweet and gentle way.
 </details>
 
 <details>
@@ -97,13 +97,13 @@ You display the wonderful traits of charm and courtesy.
 <br>
 </details>
 
-**291 day before 2026 ⏱** days before new year
+**290 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -5.8°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.33°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:47 and sets 🌇 at 18:43
+  The sun ☀️ rise 🌄 at 06:45 and sets 🌇 at 18:44
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You display the wonderful traits of charm and courtesy.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 16 2025
+  Last update on Mon Mar 17 2025
   </div>
 <br>
 
