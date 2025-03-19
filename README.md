@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What is purple and conquered the world?A:	Alexander the Grape.
+Unless hours were cups of sack, and minutes capons, and clocks the tonguesof bawds, and dials the signs of leaping houses, and the blessed sun himselfa fair, hot wench in flame-colored taffeta, I see no reason why thou shouldstbe so superfluous to demand the time of the day.  I wasted time and now dothtime waste me.		-- William Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Q:	What is purple and conquered the world?A:	Alexander the Grape.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Whiskey Sour</strong></div></td>
+      <td><div align="center"><strong>New York Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1/2 tsp  Powdered sugar, 1  Cherry, 1/2 slice  Lemon</td>
+      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Sugar, (Claret)
+ Red wine, Lemon, Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.</td>
+      <td><b>Instructions:</b> Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ Q:	What is purple and conquered the world?A:	Alexander the Grape.
 <br>
 </details>
 
-**289 day before 2026 ⏱** days before new year
+**288 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.79°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.27°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:43 and sets 🌇 at 18:45
+  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 18:47
   </div>
 <br>
 
@@ -117,7 +118,7 @@ Q:	What is purple and conquered the world?A:	Alexander the Grape.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Mar 18 2025
+  Last update on Wed Mar 19 2025
   </div>
 <br>
 
