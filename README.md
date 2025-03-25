@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
+I think we are in Rats' Alley where the dead men lost their bones.		-- T.S. Eliot
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Victor</strong></div></td>
+      <td><div align="center"><strong>Baby Eskimo</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/voapgc1492976416.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wywrtw1472720227.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Sweet Vermouth, 1/2 oz  Brandy</td>
+      <td><b>Ingredients:</b> 2 oz  Kahlua, 8 oz  Milk, 2 scoops  Vanilla ice-cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
 <br>
 </details>
 
-**283 day before 2026 ⏱** days before new year
+**282 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.62°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 18:53
+  The sun ☀️ rise 🌄 at 06:30 and sets 🌇 at 18:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Mar 24 2025
+  Last update on Tue Mar 25 2025
   </div>
 <br>
 
