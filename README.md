@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will gain money by a speculation or lottery.
+"I understand this is your first dead client," Sabian was saying.  Theabsurdity of the statement made me want to laugh but they don't call meDeadpan Allie and lie.		-- Pat Cadigan, "Mindplayers"
 </details>
 
 <details>
@@ -74,19 +74,23 @@ You will gain money by a speculation or lottery.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Queen Elizabeth</strong></div></td>
+      <td><div align="center"><strong>Hot Toddy</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vpqspv1478963339.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ggx0lv1613942306.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Irish coffee cup</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Dry Vermouth, 1 1/2 oz  Gin, 1 1/2 tsp  Benedictine</td>
+      <td><b>Ingredients:</b> 50 ml Whiskey, 15 ml Honey, 1 Cinnamon, 1 lemon, 2 Cloves</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> STEP 1
+Whisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.
+
+STEP 2
+Add a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ You will gain money by a speculation or lottery.
 <br>
 </details>
 
-**280 day before 2026 ⏱** days before new year
+**279 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.33°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 4.03°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 18:57
+  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 18:58
   </div>
 <br>
 
@@ -117,7 +121,7 @@ You will gain money by a speculation or lottery.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 27 2025
+  Last update on Fri Mar 28 2025
   </div>
 <br>
 
