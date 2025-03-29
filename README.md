@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"I understand this is your first dead client," Sabian was saying.  Theabsurdity of the statement made me want to laugh but they don't call meDeadpan Allie and lie.		-- Pat Cadigan, "Mindplayers"
+There will be big changes for you but you will be happy.
 </details>
 
 <details>
@@ -74,23 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Hot Toddy</strong></div></td>
+      <td><div align="center"><strong>Tequila Slammer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ggx0lv1613942306.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Irish coffee cup</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Whiskey, 15 ml Honey, 1 Cinnamon, 1 lemon, 2 Cloves</td>
+      <td><b>Ingredients:</b> 1 shot Tequila, 1 part 7-up</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> STEP 1
-Whisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.
-
-STEP 2
-Add a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.</td>
+      <td><b>Instructions:</b> Mix carefully to avoid releasing the dissolved CO2.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +97,13 @@ Add a splash of lemon juice to each, then taste and add more to your preference.
 <br>
 </details>
 
-**279 day before 2026 ⏱** days before new year
+**278 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 4.03°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -3.6°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 18:58
+  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 18:59
   </div>
 <br>
 
@@ -121,7 +117,7 @@ Add a splash of lemon juice to each, then taste and add more to your preference.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Mar 28 2025
+  Last update on Sat Mar 29 2025
   </div>
 <br>
 
