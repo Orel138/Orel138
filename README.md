@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be given a post of trust and responsibility.
+It has long been an axiom of mine that the little things are infinitelythe most important.		-- Sir Arthur Conan Doyle, "A Case of Identity"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will be given a post of trust and responsibility.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Quentin</strong></div></td>
+      <td><div align="center"><strong>Poppy Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/cslw1w1504389915.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Dark rum, 1/2 oz  Kahlua, 1 oz  Light cream, 1/8 tsp grated  Nutmeg</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 3/4 oz white  Creme de Cacao</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.</td>
+      <td><b>Instructions:</b> Shake ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will be given a post of trust and responsibility.
 <br>
 </details>
 
-**277 day before 2026 ⏱** days before new year
+**276 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.79°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -2.36°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:20 and sets 🌇 at 20:01
+  The sun ☀️ rise 🌄 at 07:18 and sets 🌇 at 20:02
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will be given a post of trust and responsibility.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 30 2025
+  Last update on Mon Mar 31 2025
   </div>
 <br>
 
