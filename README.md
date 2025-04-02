@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You may be recognized soon.  Hide.
+Q:	What's hard going in and soft and sticky coming out?A:	Chewing gum.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You may be recognized soon.  Hide.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Midnight Manx</strong></div></td>
+      <td><div align="center"><strong>Tomato Tang</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uqqurp1441208231.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/869qr81487603278.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Kahlua, 1 oz  Baileys irish cream, dash  Goldschlager, 2 oz  Heavy cream, 2 oz Hazlenut  Coffee</td>
+      <td><b>Ingredients:</b> 2 cups  Tomato juice, 1-2 tblsp  Lemon juice, 1 dash  Celery salt</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a mixer with ice and add Baileys, Kahlua, Goldshlager, and cream. Shake for 5 seconds and Strain into a double rocks glass filled with ice. Add chilled coffee Stir and enjoy!</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You may be recognized soon.  Hide.
 <br>
 </details>
 
-**275 day before 2026 ⏱** days before new year
+**274 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -2.46°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -1.35°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 20:03
+  The sun ☀️ rise 🌄 at 07:15 and sets 🌇 at 20:04
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You may be recognized soon.  Hide.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 01 2025
+  Last update on Wed Apr 02 2025
   </div>
 <br>
 
