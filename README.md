@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You're a card which will have to be dealt with.
+Your true value depends entirely on what you are compared with.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You're a card which will have to be dealt with.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Victor</strong></div></td>
+      <td><div align="center"><strong>Midnight Mint</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/voapgc1492976416.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/svuvrq1441208310.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Sweet Vermouth, 1/2 oz  Brandy</td>
+      <td><b>Ingredients:</b> 1 oz  Baileys irish cream, 3/4 oz  White Creme de Menthe, 3/4 oz double  Cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You're a card which will have to be dealt with.
 <br>
 </details>
 
-**272 day before 2026 ⏱** days before new year
+**271 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.31°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 20:07
+  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 20:08
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You're a card which will have to be dealt with.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 04 2025
+  Last update on Sat Apr 05 2025
   </div>
 <br>
 
