@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your true value depends entirely on what you are compared with.
+Q:	How many mathematicians does it take to screw in a light bulb?A:	One.  He gives it to six Californians, thereby reducing the problem	to the earlier joke.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your true value depends entirely on what you are compared with.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Midnight Mint</strong></div></td>
+      <td><div align="center"><strong>Whisky Mac</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/svuvrq1441208310.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Baileys irish cream, 3/4 oz  White Creme de Menthe, 3/4 oz double  Cream</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1 oz Green Ginger  Wine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.</td>
+      <td><b>Instructions:</b> Pour both of the ingredients into a wine goblet with no ice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your true value depends entirely on what you are compared with.
 <br>
 </details>
 
-**271 day before 2026 ⏱** days before new year
+**270 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.51°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 20:08
+  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your true value depends entirely on what you are compared with.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Apr 05 2025
+  Last update on Sun Apr 06 2025
   </div>
 <br>
 
