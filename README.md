@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many mathematicians does it take to screw in a light bulb?A:	One.  He gives it to six Californians, thereby reducing the problem	to the earlier joke.
+Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many mathematicians does it take to screw in a light bulb?A:	One.  He giv
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Whisky Mac</strong></div></td>
+      <td><div align="center"><strong>Zimadori Zinger</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1 oz Green Ginger  Wine</td>
+      <td><b>Ingredients:</b> 1.5 oz  Midori melon liqueur, 12 oz  Zima</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour both of the ingredients into a wine goblet with no ice.</td>
+      <td><b>Instructions:</b> Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many mathematicians does it take to screw in a light bulb?A:	One.  He giv
 <br>
 </details>
 
-**270 day before 2026 ⏱** days before new year
+**269 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.51°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:09
+  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:11
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many mathematicians does it take to screw in a light bulb?A:	One.  He giv
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Apr 06 2025
+  Last update on Mon Apr 07 2025
   </div>
 <br>
 
