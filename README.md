@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
+I must have a prodigious quantity of mind; it takes me as much as aweek sometimes to make it up.		-- Mark Twain, "The Innocents Abroad"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zimadori Zinger</strong></div></td>
+      <td><div align="center"><strong>Coffee-Vodka</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qvrrvu1472667494.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1.5 oz  Midori melon liqueur, 12 oz  Zima</td>
+      <td><b>Ingredients:</b> 2 cups  Water, 2 cups white  Sugar, 1/2 cup instant  Coffee, 1/2 Vanilla, 1 1/2 cup Vodka, Caramel coloring</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry.</td>
+      <td><b>Instructions:</b> Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won't evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
 <br>
 </details>
 
-**269 day before 2026 ⏱** days before new year
+**268 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt 0.31°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:11
+  The sun ☀️ rise 🌄 at 07:04 and sets 🌇 at 20:12
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What do they call the alphabet in Arkansas?A:	The impossible dream.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 07 2025
+  Last update on Tue Apr 08 2025
   </div>
 <br>
 
