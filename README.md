@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You own a dog, but you can only feed a cat.
+After your lover has gone you will still have PEANUT BUTTER!
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You own a dog, but you can only feed a cat.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Sour</strong></div></td>
+      <td><div align="center"><strong>Karsk</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/noxp7e1606769224.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/808mxk1487602471.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz  Lemon juice, 1/2 tsp superfine  Sugar, 1  Orange, 1  Maraschino cherry</td>
+      <td><b>Ingredients:</b> 1 part  Coffee, 2 parts  Grain alcohol</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.</td>
+      <td><b>Instructions:</b> Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You own a dog, but you can only feed a cat.
 <br>
 </details>
 
-**265 day before 2026 ⏱** days before new year
+**264 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.97°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 1.99°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:58 and sets 🌇 at 20:16
+  The sun ☀️ rise 🌄 at 06:56 and sets 🌇 at 20:17
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You own a dog, but you can only feed a cat.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 11 2025
+  Last update on Sat Apr 12 2025
   </div>
 <br>
 
