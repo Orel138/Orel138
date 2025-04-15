@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will not be elected to public office this year.
+Patch griefs with proverbs.		-- William Shakespeare, "Much Ado About Nothing"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will not be elected to public office this year.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>New York Lemonade</strong></div></td>
+      <td><div align="center"><strong>ABC</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tqpvqp1472668328.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Absolut Citron, 1 oz  Grand Marnier, 2 oz sweetened  Lemon juice, 1 oz  Club soda</td>
+      <td><b>Ingredients:</b> 1/3  Amaretto, 1/3  Baileys irish cream, 1/3  Cognac</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.</td>
+      <td><b>Instructions:</b> Layered in a shot glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will not be elected to public office this year.
 <br>
 </details>
 
-**262 day before 2026 ⏱** days before new year
+**261 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.76°C), moderate rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.22°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:53 and sets 🌇 at 20:20
+  The sun ☀️ rise 🌄 at 06:51 and sets 🌇 at 20:21
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will not be elected to public office this year.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 14 2025
+  Last update on Tue Apr 15 2025
   </div>
 <br>
 
