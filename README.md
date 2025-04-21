@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You get along very well with everyone except animals and people.
+ROMEO:		Courage, man; the hurt cannot be much.MERCUTIO:	No, 'tis not so deep as a well, nor so wide			as a church-door; but 'tis enough, 'twill serve.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You get along very well with everyone except animals and people.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jamaican Coffee</strong></div></td>
+      <td><div align="center"><strong>Acapulco</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xqptps1441247257.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Champagne flute</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/6 glass  Rum, 1/6 glass strong black  Coffee, 1/2 glass cold  Water, Whipped cream</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 tblsp  Lime juice, 1 tsp  Sugar, 1  Egg white, 1  Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.</td>
+      <td><b>Instructions:</b> Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You get along very well with everyone except animals and people.
 <br>
 </details>
 
-**256 day before 2026 ⏱** days before new year
+**255 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.64°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 1.91°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:43 and sets 🌇 at 20:27
+  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 20:28
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You get along very well with everyone except animals and people.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Apr 20 2025
+  Last update on Mon Apr 21 2025
   </div>
 <br>
 
