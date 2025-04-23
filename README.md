@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"What's this?  Trix?  Aunt!  Trix?  You?  You're after the prize!  Whatis it?"  He picked up the box and studied the back.  "A glow-in-the-darksquid!  Have you got it out of there yet?"  He tilted the box, angling thelittle colored balls of cereal so as to see the bottom, and nearly spillingthem onto the table top.  "Here it is!"  He hauled out a little cream-colored,glitter-sprinkled squid, three-inches long and made out of rubbery plastic.		-- James P. Blaylock, "The Last Coin"
+Wrinkles should merely indicate where smiles have been.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Sling</strong></div></td>
+      <td><div align="center"><strong>Valencia Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8cl9sm1582581761.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9myuc11492975640.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1 tsp  Water, Twist of  Orange peel</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Apricot brandy, 1 tblsp  Orange juice, 2 dashes  Orange bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**254 day before 2026 ⏱** days before new year
+**253 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 1.43°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.65°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:39 and sets 🌇 at 20:30
+  The sun ☀️ rise 🌄 at 06:38 and sets 🌇 at 20:31
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 22 2025
+  Last update on Wed Apr 23 2025
   </div>
 <br>
 
