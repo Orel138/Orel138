@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your temporary financial embarrassment will be relieved in a surprising manner.
+Stay away from flying saucers today.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your temporary financial embarrassment will be relieved in a surprising manner.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brave Bull Shooter</strong></div></td>
+      <td><div align="center"><strong>Fruit Shake</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yrtypx1473344625.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Tequila, 1/2 oz  Tabasco sauce</td>
+      <td><b>Ingredients:</b> 1 cup fruit  Yoghurt, 1  Banana, 4 oz frozen  Orange juice, 1/2 piece textural  Fruit, 6  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Tabasco into bottom of shot glass and fill with tequila.</td>
+      <td><b>Instructions:</b> Blend til smooth.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your temporary financial embarrassment will be relieved in a surprising manner.
 <br>
 </details>
 
-**252 day before 2026 ⏱** days before new year
+**251 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.73°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.35°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:36 and sets 🌇 at 20:32
+  The sun ☀️ rise 🌄 at 06:34 and sets 🌇 at 20:34
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your temporary financial embarrassment will be relieved in a surprising manner.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Apr 24 2025
+  Last update on Fri Apr 25 2025
   </div>
 <br>
 
