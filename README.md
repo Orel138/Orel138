@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tonight you will pay the wages of sin; Don't forget to leave a tip.
+Even the clearest and most perfect circumstantial evidence is likely to be atfault, after all, and therefore ought to be received with great caution.  Takethe case of any pencil, sharpened by any woman; if you have witnesses, you willfind she did it with a knife; but if you take simply the aspect of the pencil,you will say that she did it with her teeth.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Tonight you will pay the wages of sin; Don't forget to leave a tip.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kurant Tea</strong></div></td>
+      <td><div align="center"><strong>Amaretto Stinger</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vvop4w1493069934.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Champagne flute</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl  Absolut Kurant, Turkish apple  Tea, (if needed)
- Sugar</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Amaretto, 3/4 oz  White Creme de Menthe</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!</td>
+      <td><b>Instructions:</b> Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ Tonight you will pay the wages of sin; Don't forget to leave a tip.
 <br>
 </details>
 
-**249 day before 2026 ⏱** days before new year
+**248 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.09°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.65°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:31 and sets 🌇 at 20:36
+  The sun ☀️ rise 🌄 at 06:30 and sets 🌇 at 20:37
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Tonight you will pay the wages of sin; Don't forget to leave a tip.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Apr 27 2025
+  Last update on Mon Apr 28 2025
   </div>
 <br>
 
