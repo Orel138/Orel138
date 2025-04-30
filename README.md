@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You now have Asian Flu.
+Its name is Public Opinion.  It is held in reverence.  It settles everything.Some think it is the voice of God.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You now have Asian Flu.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Strawberry Margarita</strong></div></td>
+      <td><div align="center"><strong>Flying Dutchman</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Strawberry schnapps, 1 oz  Tequila, 1/2 oz  Triple sec, 1 oz  Lemon juice, 1 oz  Strawberries, Salt</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Triple sec</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You now have Asian Flu.
 <br>
 </details>
 
-**247 day before 2026 ⏱** days before new year
+**246 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.84°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.02°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:28 and sets 🌇 at 20:39
+  The sun ☀️ rise 🌄 at 06:27 and sets 🌇 at 20:40
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You now have Asian Flu.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 29 2025
+  Last update on Wed Apr 30 2025
   </div>
 <br>
 
