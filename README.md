@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why is Christmas just like a day at the office?A:	You do all of the work and the fat guy in the suit	gets all the credit.
+For the fashion of Minas Tirith was such that it was built on seven levels,each delved into a hill, and about each was set a wall, and in each wallwas a gate.		-- J.R.R. Tolkien, "The Return of the King"	[Quoted in "VMS Internals and Data Structures", V4.4, when	 referring to system overview.]
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kir</strong></div></td>
+      <td><div align="center"><strong>Barracuda</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apneom1504370294.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Creme de Cassis, 5 parts  Champagne</td>
+      <td><b>Ingredients:</b> 4.5 cl Rum, 1.5 cl Galliano, 6 cl Pineapple Juice, 1 dash Lime Juice, top up  Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add the crème de cassis to the bottom of the glass, then top up with wine.</td>
+      <td><b>Instructions:</b> Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
 <br>
 </details>
 
-**245 day before 2026 ⏱** days before new year
+**244 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.17°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.32°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:25 and sets 🌇 at 20:41
+  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 20:42
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 01 2025
+  Last update on Fri May 02 2025
   </div>
 <br>
 
