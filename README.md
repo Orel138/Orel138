@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-What good is an obscenity trial except to popularize literature?		-- Nero Wolfe, "The League of Frightened Men"
+The secret source of humor is not joy but sorrow; there is no humor in Heaven.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,22 @@ What good is an obscenity trial except to popularize literature?		-- Nero Wolfe,
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Whiskey Sour</strong></div></td>
+      <td><div align="center"><strong>Bombay Cassis</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/h1e0e51510136907.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Balloon Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1/2 tsp  Powdered sugar, 1  Cherry, 1/2 slice  Lemon</td>
+      <td><b>Ingredients:</b> 50 ml Gin, 20 ml Creme de Cassis, 15 ml Fresh Lime Juice, 75 ml Ginger beer, 1 Lime, 1 long strip Ginger</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.</td>
+      <td><b>Instructions:</b> Add the Bombay Sapphire, Crème de Cassis and lime juice to a balloon glass and swirl well to mix.
+Fill the glass with good quality cubed ice.
+Top up with chilled and freshly opened Fever-Tree Ginger Beer.
+Gently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ What good is an obscenity trial except to popularize literature?		-- Nero Wolfe,
 <br>
 </details>
 
-**243 day before 2026 ⏱** days before new year
+**242 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.85°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 20:44
+  The sun ☀️ rise 🌄 at 06:21 and sets 🌇 at 20:45
   </div>
 <br>
 
@@ -117,7 +120,7 @@ What good is an obscenity trial except to popularize literature?		-- Nero Wolfe,
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 03 2025
+  Last update on Sun May 04 2025
   </div>
 <br>
 
