@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have the power to influence all with whom you come in contact.
+"Life, loathe it or ignore it, you can't like it."		-- Marvin, "Hitchhiker's Guide to the Galaxy"
 </details>
 
 <details>
@@ -74,19 +74,20 @@ You have the power to influence all with whom you come in contact.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Alice in Wonderland</strong></div></td>
+      <td><div align="center"><strong>Ice Pick</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ypsrqp1469091726.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Amaretto, 1 shot  Grand Marnier, 1 shot  Southern Comfort</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Vodka, 6 oz  Iced tea, to taste
+ Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Just mix the three ingredients one to one to one</td>
+      <td><b>Instructions:</b> Put Vodka in glass fill with iced tea. Stir in lemon to taste.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ You have the power to influence all with whom you come in contact.
 <br>
 </details>
 
-**241 day before 2026 ⏱** days before new year
+**240 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.49°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.74°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:19 and sets 🌇 at 20:46
+  The sun ☀️ rise 🌄 at 06:18 and sets 🌇 at 20:47
   </div>
 <br>
 
@@ -117,7 +118,7 @@ You have the power to influence all with whom you come in contact.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon May 05 2025
+  Last update on Tue May 06 2025
   </div>
 <br>
 
