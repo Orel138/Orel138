@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The bay-trees in our country are all wither'dAnd meteors fright the fixed stars of heaven;The pale-faced moon looks bloody on the earthAnd lean-look'd prophets whisper fearful change.These signs forerun the death or fall of kings.		-- Wm. Shakespeare, "Richard II"
+You will remember something that you should not have forgotten.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The bay-trees in our country are all wither'dAnd meteors fright the fixed stars 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Smash</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sunset</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iprva61606768774.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz  Carbonated water, 1 cube  Sugar, 4  Mint, 1 slice  Orange, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1/2 jigger  Triple sec, 3 shots  Amaretto, 1/2 cup  Cider, Add 1/2 cup  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.</td>
+      <td><b>Instructions:</b> Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The bay-trees in our country are all wither'dAnd meteors fright the fixed stars 
 <br>
 </details>
 
-**239 day before 2026 ⏱** days before new year
+**238 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:17 and sets 🌇 at 20:49
+  The sun ☀️ rise 🌄 at 06:15 and sets 🌇 at 20:50
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The bay-trees in our country are all wither'dAnd meteors fright the fixed stars 
   </div>
 <div align="center">
   <sub>
-  Last update on Wed May 07 2025
+  Last update on Thu May 08 2025
   </div>
 <br>
 
