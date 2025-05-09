@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will remember something that you should not have forgotten.
+You have a will that can be influenced by all with whom you come in contact.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will remember something that you should not have forgotten.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Sunset</strong></div></td>
+      <td><div align="center"><strong>Smashed Watermelon Margarita</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dztcv51598717861.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 jigger  Triple sec, 3 shots  Amaretto, 1/2 cup  Cider, Add 1/2 cup  Ice</td>
+      <td><b>Ingredients:</b> 1/2 cup Watermelon, 5 Mint, 1/3 Cup Grapefruit Juice, Juice of 1/2 Lime, 1 shot Tequila, Garnish with Watermelon, Garnish with Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.</td>
+      <td><b>Instructions:</b> In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will remember something that you should not have forgotten.
 <br>
 </details>
 
-**238 day before 2026 ⏱** days before new year
+**237 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:15 and sets 🌇 at 20:50
+  The sun ☀️ rise 🌄 at 06:14 and sets 🌇 at 20:51
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will remember something that you should not have forgotten.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 08 2025
+  Last update on Fri May 09 2025
   </div>
 <br>
 
