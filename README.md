@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have a will that can be influenced by all with whom you come in contact.
+F.S. Fitzgerald to Hemingway:	"Ernest, the rich are different from us."Hemingway:	"Yes.  They have more money."
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have a will that can be influenced by all with whom you come in contact.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Smashed Watermelon Margarita</strong></div></td>
+      <td><div align="center"><strong>Thriller</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dztcv51598717861.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rvuswq1461867714.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 cup Watermelon, 5 Mint, 1/3 Cup Grapefruit Juice, Juice of 1/2 Lime, 1 shot Tequila, Garnish with Watermelon, Garnish with Mint</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1 oz Green Ginger  Wine, 1 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have a will that can be influenced by all with whom you come in contact.
 <br>
 </details>
 
-**237 day before 2026 ⏱** days before new year
+**236 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.91°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:14 and sets 🌇 at 20:51
+  The sun ☀️ rise 🌄 at 06:13 and sets 🌇 at 20:52
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have a will that can be influenced by all with whom you come in contact.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri May 09 2025
+  Last update on Sat May 10 2025
   </div>
 <br>
 
