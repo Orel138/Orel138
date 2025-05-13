@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Of course you have a purpose -- to find a purpose.
+Q:	Why is it that the more accuracy you demand from an interpolation	function, the more expensive it becomes to compute?A:	That's the Law of Spline Demand.
 </details>
 
 <details>
@@ -74,19 +74,21 @@ Of course you have a purpose -- to find a purpose.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>155 Belmont</strong></div></td>
+      <td><div align="center"><strong>Duchamp's Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> White wine glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Dark rum, 2 shots  Light rum, 1 shot  Vodka, 1 shot  Orange juice</td>
+      <td><b>Ingredients:</b> 5 cl Pisco, 2.5 cl Lime Juice, 2.5 cl Pineapple Syrup, 1.5 cl St. Germain, 2 Dashes Angostura Bitters, Pinch Pepper, 2 sprigs Lavender</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend with ice. Serve in a wine glass. Garnish with carrot.</td>
+      <td><b>Instructions:</b> Shake all ingredients.
+Double strain in a chilled double old fashioned glass with abig ice cube.
+Garnish with a couple of lavender sprigs</td>
     </tr>
   </table>
 </div>
@@ -97,13 +99,13 @@ Of course you have a purpose -- to find a purpose.
 <br>
 </details>
 
-**234 day before 2026 ⏱** days before new year
+**233 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.65°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.78°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:10 and sets 🌇 at 20:55
+  The sun ☀️ rise 🌄 at 06:09 and sets 🌇 at 20:56
   </div>
 <br>
 
@@ -117,7 +119,7 @@ Of course you have a purpose -- to find a purpose.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon May 12 2025
+  Last update on Tue May 13 2025
   </div>
 <br>
 
