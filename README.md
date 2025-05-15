@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between a duck and an elephant?A:	You can't get down off an elephant.
+Give thought to your reputation.  Consider changing name and moving toa new town.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What's the difference between a duck and an elephant?A:	You can't get down of
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Chocolate Milk</strong></div></td>
+      <td><div align="center"><strong>Spanish chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/j6q35t1504889399.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 shot  Chocolate liqueur, 1/2 shot  Milk, 1 dash  Amaretto</td>
+      <td><b>Ingredients:</b> 2 cups  Milk, 2 oz sweet  Chocolate, 1/2 tsp  Cinnamon, 2 beaten  Egg yolk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!</td>
+      <td><b>Instructions:</b> Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What's the difference between a duck and an elephant?A:	You can't get down of
 <br>
 </details>
 
-**232 day before 2026 ⏱** days before new year
+**231 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.37°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.76°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:08 and sets 🌇 at 20:57
+  The sun ☀️ rise 🌄 at 06:07 and sets 🌇 at 20:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What's the difference between a duck and an elephant?A:	You can't get down of
   </div>
 <div align="center">
   <sub>
-  Last update on Wed May 14 2025
+  Last update on Thu May 15 2025
   </div>
 <br>
 
