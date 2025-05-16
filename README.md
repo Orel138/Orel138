@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Give thought to your reputation.  Consider changing name and moving toa new town.
+You will receive a legacy which will place you above want.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Give thought to your reputation.  Consider changing name and moving toa new town
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Spanish chocolate</strong></div></td>
+      <td><div align="center"><strong>Caribbean Boilermaker</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/svsxsv1454511666.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Beer pilsner</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Milk, 2 oz sweet  Chocolate, 1/2 tsp  Cinnamon, 2 beaten  Egg yolk</td>
+      <td><b>Ingredients:</b> 1 bottle  Corona, 1 shot  Light rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.</td>
+      <td><b>Instructions:</b> Pour the Corona into an 18oz beer glass pour the rum into the beer.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Give thought to your reputation.  Consider changing name and moving toa new town
 <br>
 </details>
 
-**231 day before 2026 ⏱** days before new year
+**230 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.76°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.46°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:07 and sets 🌇 at 20:58
+  The sun ☀️ rise 🌄 at 06:06 and sets 🌇 at 20:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Give thought to your reputation.  Consider changing name and moving toa new town
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 15 2025
+  Last update on Fri May 16 2025
   </div>
 <br>
 
