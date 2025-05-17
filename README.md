@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will receive a legacy which will place you above want.
+You will wish you hadn't.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will receive a legacy which will place you above want.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Caribbean Boilermaker</strong></div></td>
+      <td><div align="center"><strong>Kamikaze</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/svsxsv1454511666.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/d7ff7u1606855412.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Beer pilsner</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 bottle  Corona, 1 shot  Light rum</td>
+      <td><b>Ingredients:</b> 1 oz  Vodka, 1 oz  Triple sec, 1 oz  Lime juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the Corona into an 18oz beer glass pour the rum into the beer.</td>
+      <td><b>Instructions:</b> Shake all ingredients together with ice. Strain into glass, garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will receive a legacy which will place you above want.
 <br>
 </details>
 
-**230 day before 2026 ⏱** days before new year
+**229 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.46°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.06°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:06 and sets 🌇 at 20:59
+  The sun ☀️ rise 🌄 at 06:05 and sets 🌇 at 21:01
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will receive a legacy which will place you above want.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri May 16 2025
+  Last update on Sat May 17 2025
   </div>
 <br>
 
