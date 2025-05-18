@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will wish you hadn't.
+When you are about to die, a wombat is better than no company at all.		-- Roger Zelazny, "Doorways in the Sand"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will wish you hadn't.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kamikaze</strong></div></td>
+      <td><div align="center"><strong>747</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/d7ff7u1606855412.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xxsxqy1472668106.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Vodka, 1 oz  Triple sec, 1 oz  Lime juice</td>
+      <td><b>Ingredients:</b> 1/3 part  Kahlua, 1/3 part  Baileys irish cream, 1/3 part  Frangelico</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients together with ice. Strain into glass, garnish and serve.</td>
+      <td><b>Instructions:</b> pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will wish you hadn't.
 <br>
 </details>
 
-**229 day before 2026 ⏱** days before new year
+**228 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.06°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.54°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:05 and sets 🌇 at 21:01
+  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:02
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will wish you hadn't.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 17 2025
+  Last update on Sun May 18 2025
   </div>
 <br>
 
