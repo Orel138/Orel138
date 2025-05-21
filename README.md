@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-O, it is excellentTo have a giant's strength; but it is tyrannousTo use it like a giant.		-- Shakespeare, "Measure for Measure", II, 2
+You love peace.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ O, it is excellentTo have a giant's strength; but it is tyrannousTo use it like 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A. J.</strong></div></td>
+      <td><div align="center"><strong>Gentleman's Club</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l74qo91582480316.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Applejack, 1 oz  Grapefruit juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Brandy, 1 oz  Sweet Vermouth, 1 oz  Club soda</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ O, it is excellentTo have a giant's strength; but it is tyrannousTo use it like 
 <br>
 </details>
 
-**226 day before 2026 ⏱** days before new year
+**225 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), moderate rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.98°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:02 and sets 🌇 at 21:04
+  The sun ☀️ rise 🌄 at 06:01 and sets 🌇 at 21:05
   </div>
 <br>
 
@@ -117,7 +117,7 @@ O, it is excellentTo have a giant's strength; but it is tyrannousTo use it like 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue May 20 2025
+  Last update on Wed May 21 2025
   </div>
 <br>
 
