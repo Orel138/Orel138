@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's tiny and yellow and very, very, dangerous?A:	A canary with the super-user password.
+You are a fluke of the universe; you have no right to be here.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What's tiny and yellow and very, very, dangerous?A:	A canary with the super-u
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Clove Cocktail</strong></div></td>
+      <td><div align="center"><strong>Chicago Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxvtst1461867579.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qwvwqr1441207763.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Sweet Vermouth, 1/2 oz  Sloe gin, 1/2 oz Muscatel  Wine</td>
+      <td><b>Ingredients:</b> 1 oz  Light rum, 1 oz  Port, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1  Egg white, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What's tiny and yellow and very, very, dangerous?A:	A canary with the super-u
 <br>
 </details>
 
-**224 day before 2026 ⏱** days before new year
+**223 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 3.65°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -1.06°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:00 and sets 🌇 at 21:06
+  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:07
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What's tiny and yellow and very, very, dangerous?A:	A canary with the super-u
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 22 2025
+  Last update on Fri May 23 2025
   </div>
 <br>
 
