@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are only young once, but you can stay immature indefinitely.
+You'll be sorry...
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You are only young once, but you can stay immature indefinitely.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rum Runner</strong></div></td>
+      <td><div align="center"><strong>Tom Collins</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Malibu rum, 1 oz  Blackberry brandy, 3-4 oz  Orange juice, 3-4 oz  Pineapple juice, 3-4 oz  Cranberry juice</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz  Lemon juice, 1 tsp superfine  Sugar, 3 oz  Club soda, 1  Maraschino cherry, 1  Orange</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix all ingredients in glass & add ice.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You are only young once, but you can stay immature indefinitely.
 <br>
 </details>
 
-**221 day before 2026 ⏱** days before new year
+**220 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.57°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.68°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:09
+  The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:10
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You are only young once, but you can stay immature indefinitely.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun May 25 2025
+  Last update on Mon May 26 2025
   </div>
 <br>
 
