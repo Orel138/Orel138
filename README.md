@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you shoot a blue elephant?A:	With a blue-elephant gun.Q:	How do you shoot a pink elephant?A:	Twist its trunk until it turns blue, then shoot it with	a blue-elephant gun.
+You have the capacity to learn from mistakes.  You'll learn a lot today.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How do you shoot a blue elephant?A:	With a blue-elephant gun.Q:	How do you sh
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Lemon</strong></div></td>
+      <td><div align="center"><strong>Damned if you do</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/6gdohq1681212476.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ql7bmx1503565106.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cl Gin, 8 cl Lemon Juice, 1 Slice Lemon Peel, cubes Ice</td>
+      <td><b>Ingredients:</b> 0.75 oz  Whiskey, 0.25 oz  Hot Damn</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> For the preparation of the gin lemon you will not need the shaker. Fill the tumbler with ice, pour the gin and lemonade over it. Gently mix and decorate with a slice of lemon. Those who prefer can also add a few mint leaves. Your gin lemon is ready to be served.</td>
+      <td><b>Instructions:</b> Pour into shot glass. Put in mouth. Repeat as deemed necessary.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How do you shoot a blue elephant?A:	With a blue-elephant gun.Q:	How do you sh
 <br>
 </details>
 
-**219 day before 2026 ⏱** days before new year
+**218 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.62°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.26°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:11
+  The sun ☀️ rise 🌄 at 05:55 and sets 🌇 at 21:12
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How do you shoot a blue elephant?A:	With a blue-elephant gun.Q:	How do you sh
   </div>
 <div align="center">
   <sub>
-  Last update on Tue May 27 2025
+  Last update on Wed May 28 2025
   </div>
 <br>
 
