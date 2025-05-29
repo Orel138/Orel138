@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have the capacity to learn from mistakes.  You'll learn a lot today.
+Tomorrow, you can be anywhere.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have the capacity to learn from mistakes.  You'll learn a lot today.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Damned if you do</strong></div></td>
+      <td><div align="center"><strong>24k nightmare</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ql7bmx1503565106.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yyrwty1468877498.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 0.75 oz  Whiskey, 0.25 oz  Hot Damn</td>
+      <td><b>Ingredients:</b> 1/2 oz  Goldschlager, 1/2 oz  Jägermeister, 1/2 oz  Rumple Minze, 1/2 oz Bacardi  151 proof rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour into shot glass. Put in mouth. Repeat as deemed necessary.</td>
+      <td><b>Instructions:</b> Add over ice,shake and pour.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have the capacity to learn from mistakes.  You'll learn a lot today.
 <br>
 </details>
 
-**218 day before 2026 ⏱** days before new year
+**217 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.26°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.04°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:55 and sets 🌇 at 21:12
+  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:13
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have the capacity to learn from mistakes.  You'll learn a lot today.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed May 28 2025
+  Last update on Thu May 29 2025
   </div>
 <br>
 
