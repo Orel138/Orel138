@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your depth of comprehension may tend to make you lax in worldly ways.
+"I wonder", he said to himself, "what's in a book while it's closed.  Oh, Iknow it's full of letters printed on paper, but all the same, something mustbe happening, because as soon as I open it, there's a whole story with peopleI don't know yet and all kinds of adventures and battles."		-- Bastian B. Bux
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your depth of comprehension may tend to make you lax in worldly ways.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Afterglow</strong></div></td>
+      <td><div align="center"><strong>Absolut Stress #2</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xuyqrw1472811825.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Grenadine, 4 parts  Orange juice, 4 parts  Pineapple juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Absolut Vodka, 1/2 oz  Peach schnapps, 1/2 oz  Coconut liqueur, 1 1/2 oz  Cranberry juice, 1 1/2 oz  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix. Serve over ice.</td>
+      <td><b>Instructions:</b> Mix well. Garnish with Orange and Cherry. Enjoy</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your depth of comprehension may tend to make you lax in worldly ways.
 <br>
 </details>
 
-**216 day before 2026 ⏱** days before new year
+**215 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.54°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.08°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:14
+  The sun ☀️ rise 🌄 at 05:53 and sets 🌇 at 21:15
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your depth of comprehension may tend to make you lax in worldly ways.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri May 30 2025
+  Last update on Sat May 31 2025
   </div>
 <br>
 
