@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will pay for your sins.  If you have already paid, please disregardthis message.
+Try to value useful qualities in one who loves you.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will pay for your sins.  If you have already paid, please disregardthis mess
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Liqueur</strong></div></td>
+      <td><div align="center"><strong>Space Odyssey</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/swqxuv1472719649.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vxtjbx1504817842.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup Sugar, 3/4 cup  Water, 2  Apricot, 1 tblsp  Almond flavoring, 1/2 cup pure  Grain alcohol, 1/2 cup  Water, 1 cup  Brandy, 3 drops yellow  Food coloring, 6 drops red  Food coloring, 2 drops blue  Food coloring, 1/2 tsp  Glycerine</td>
+      <td><b>Ingredients:</b> 1 shot Bacardi  151 proof rum, 1 shot  Malibu rum, 1 shot  Pineapple juice, Orange juice, Grenadine, Cherries</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine sugar and 3/4 cup water in a small saucepan. Bring to a boil, stirring constantly. Reduce heat and simmer until all sugar is dissolved. Remove from heat and cool. In an aging container, combine apricot halves, almond extract, grain alcohol with 1/2 cup water, and brandy. Stir in cooled sugar syrup mixture. Cap and let age for 2 days. Remove apricot halves. (Save apricot halves, can be used for cooking). Add food coloring and glycerine. Stir, recap and continue aging for 1 to 2 months. Re-bottle as desired. Liqueur is ready to serve but will continue to improve with additional aging.</td>
+      <td><b>Instructions:</b> Fill glass with ice and add shots of Bacardi and Malibu. Add splash of pineapple juice and top with orange juice. Add grenadine for color and garnish with cherries.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will pay for your sins.  If you have already paid, please disregardthis mess
 <br>
 </details>
 
-**214 day before 2026 ⏱** days before new year
+**213 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.53°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.68°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:53 and sets 🌇 at 21:16
+  The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:17
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will pay for your sins.  If you have already paid, please disregardthis mess
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jun 01 2025
+  Last update on Mon Jun 02 2025
   </div>
 <br>
 
