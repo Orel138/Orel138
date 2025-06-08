@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she can't have and the South gets trashed.Gift of the Magi LITE(tm)	-- by O. Henry	A husband and wife forget to register their gift preferences.The Old Man and the Sea LITE(tm)	-- by Ernest Hemingway	An old man goes fishing, but doesn't have much luck.
+Generosity and perfection are your everlasting goals.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>French 75</strong></div></td>
+      <td><div align="center"><strong>Quarter Deck Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hrxfbl1606773109.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qrwvps1478963017.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 2 tsp superfine  Sugar, 1 1/2 oz  Lemon juice, 4 oz Chilled  Champagne, 1  Orange, 1  Maraschino cherry</td>
+      <td><b>Ingredients:</b> 1 1/2  Light rum, 1/3 oz cream  Sherry, Juice of 1/2  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.</td>
+      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
 <br>
 </details>
 
-**208 day before 2026 ⏱** days before new year
+**207 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.67°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:20
+  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:21
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jun 07 2025
+  Last update on Sun Jun 08 2025
   </div>
 <br>
 
