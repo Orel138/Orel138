@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Generosity and perfection are your everlasting goals.
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #15A:	The Royal Canadian Mounted Police.Q:	What was the greatest achievement in taxidermy?
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Generosity and perfection are your everlasting goals.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Quarter Deck Cocktail</strong></div></td>
+      <td><div align="center"><strong>410 Gone</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qrwvps1478963017.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xtuyqv1472669026.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2  Light rum, 1/3 oz cream  Sherry, Juice of 1/2  Lime</td>
+      <td><b>Ingredients:</b> 2-3 oz Peach Vodka, Coca-Cola</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Mix together and enjoy!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Generosity and perfection are your everlasting goals.
 <br>
 </details>
 
-**207 day before 2026 ⏱** days before new year
+**206 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.56°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:21
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:22
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Generosity and perfection are your everlasting goals.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jun 08 2025
+  Last update on Mon Jun 09 2025
   </div>
 <br>
 
