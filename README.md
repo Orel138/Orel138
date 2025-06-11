@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-If one cannot enjoy reading a book over and over again, there is no usein reading it at all.		-- Oscar Wilde
+The time is right to make new friends.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ If one cannot enjoy reading a book over and over again, there is no usein readin
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Martini</strong></div></td>
+      <td><div align="center"><strong>Bramble</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/twtbh51630406392.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Old-Fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 2/3 oz  Gin, 1/3 oz  Dry Vermouth, 1  Olive</td>
+      <td><b>Ingredients:</b> 4 cl Gin, 1.5 cl lemon juice, 1 cl Sugar syrup, 1.5 cl Creme de Mure</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.</td>
+      <td><b>Instructions:</b> Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ If one cannot enjoy reading a book over and over again, there is no usein readin
 <br>
 </details>
 
-**205 day before 2026 ⏱** days before new year
+**204 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.33°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.18°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:22
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:23
   </div>
 <br>
 
@@ -117,7 +117,7 @@ If one cannot enjoy reading a book over and over again, there is no usein readin
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jun 10 2025
+  Last update on Wed Jun 11 2025
   </div>
 <br>
 
