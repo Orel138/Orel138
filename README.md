@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The time is right to make new friends.
+Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul is grooved to run.  Over unsounded gorges, throughthe rifled hearts of mountains, under torrents' beds, unerringly I rush!		-- Captain Ahab, "Moby Dick"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The time is right to make new friends.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bramble</strong></div></td>
+      <td><div align="center"><strong>Mojito Extra</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/twtbh51630406392.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vwxrsw1478251483.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-Fashioned glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl Gin, 1.5 cl lemon juice, 1 cl Sugar syrup, 1.5 cl Creme de Mure</td>
+      <td><b>Ingredients:</b> 1/2 handful  Mint, 3 cl  Lemon juice, 1/8 L Jamaican  Dark rum, 1/8 L  Club soda, 8 drops  Angostura bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.</td>
+      <td><b>Instructions:</b> Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ The time is right to make new friends.
 <br>
 </details>
 
-**204 day before 2026 ⏱** days before new year
+**203 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.18°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.81°C), scattered clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:23
@@ -117,7 +117,7 @@ The time is right to make new friends.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jun 11 2025
+  Last update on Thu Jun 12 2025
   </div>
 <br>
 
