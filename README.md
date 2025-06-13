@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul is grooved to run.  Over unsounded gorges, throughthe rifled hearts of mountains, under torrents' beds, unerringly I rush!		-- Captain Ahab, "Moby Dick"
+I've touch'd the highest point of all my greatness;And from that full meridian of my gloryI haste now to my setting.  I shall fall,Like a bright exhalation in the eveningAnd no man see me more.		-- Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mojito Extra</strong></div></td>
+      <td><div align="center"><strong>Vesuvio</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vwxrsw1478251483.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/26cq601492976203.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 handful  Mint, 3 cl  Lemon juice, 1/8 L Jamaican  Dark rum, 1/8 L  Club soda, 8 drops  Angostura bitters</td>
+      <td><b>Ingredients:</b> 1 oz  Light rum, 1/2 oz  Sweet Vermouth, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1  Egg white</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul
 <br>
 </details>
 
-**203 day before 2026 ⏱** days before new year
+**202 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.81°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.47°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:23
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:24
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 12 2025
+  Last update on Fri Jun 13 2025
   </div>
 <br>
 
