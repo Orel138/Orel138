@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-I've touch'd the highest point of all my greatness;And from that full meridian of my gloryI haste now to my setting.  I shall fall,Like a bright exhalation in the eveningAnd no man see me more.		-- Shakespeare
+You will be married within a year, and divorced within two.
 </details>
 
 <details>
@@ -97,10 +97,10 @@ I've touch'd the highest point of all my greatness;And from that full meridian o
 <br>
 </details>
 
-**202 day before 2026 ⏱** days before new year
+**201 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.47°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.53°C), light rain</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:24
@@ -117,7 +117,7 @@ I've touch'd the highest point of all my greatness;And from that full meridian o
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jun 13 2025
+  Last update on Sat Jun 14 2025
   </div>
 <br>
 
