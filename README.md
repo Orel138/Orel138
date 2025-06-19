@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Familiarity breeds contempt -- and children.		-- Mark Twain
+Stay away from hurricanes for a while.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Familiarity breeds contempt -- and children.		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Algonquin</strong></div></td>
+      <td><div align="center"><strong>Scotch Cobbler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1q7coh1504736227.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, 1 oz  Dry Vermouth, 1 oz  Pineapple juice</td>
+      <td><b>Ingredients:</b> 2 oz  Scotch, 4 dashes  Brandy, 4 dashes  Curacao, 1 slice  Orange, 1  Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Familiarity breeds contempt -- and children.		-- Mark Twain
 <br>
 </details>
 
-**197 day before 2026 ⏱** days before new year
+**196 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.67°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.53°C), scattered clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:26
@@ -117,7 +117,7 @@ Familiarity breeds contempt -- and children.		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jun 18 2025
+  Last update on Thu Jun 19 2025
   </div>
 <br>
 
