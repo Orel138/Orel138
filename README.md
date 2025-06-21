@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you save a drowning lawyer?A:	Throw him a rock.
+I was gratified to be able to answer promptly, and I did. I said I didn't know.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Army special</strong></div></td>
+      <td><div align="center"><strong>Alabama Slammer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/55muhh1493068062.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jntghf1606771886.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 30 ml  Vodka, 30 ml  Gin, 45 ml  Lime juice cordial, 1/2 glass crushed  Ice</td>
+      <td><b>Ingredients:</b> 1 oz  Southern Comfort, 1 oz  Amaretto, 1/2 oz  Sloe gin, 1 dash  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.</td>
+      <td><b>Instructions:</b> Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
 <br>
 </details>
 
-**195 day before 2026 ⏱** days before new year
+**194 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.65°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 11.94°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jun 20 2025
+  Last update on Sat Jun 21 2025
   </div>
 <br>
 
