@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-In Marseilles they make half the toilet soap we consume in America, butthe Marseillaise only have a vague theoretical idea of its use, which theyhave obtained from books of travel.		-- Mark Twain
+Don't worry so loud, your roommate can't think.
 </details>
 
 <details>
@@ -74,22 +74,19 @@ In Marseilles they make half the toilet soap we consume in America, butthe Marse
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bombay Cassis</strong></div></td>
+      <td><div align="center"><strong>Orange Scented Hot Chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/h1e0e51510136907.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hdzwrh1487603131.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Balloon Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Gin, 20 ml Creme de Cassis, 15 ml Fresh Lime Juice, 75 ml Ginger beer, 1 Lime, 1 long strip Ginger</td>
+      <td><b>Ingredients:</b> 2 cups  Milk, 4 oz chopped bittersweet or semi-sweet  Chocolate, 3 2-inch strips  Orange peel, 1/2 tsp instant  Espresso, 1/8 tsp ground  Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add the Bombay Sapphire, Crème de Cassis and lime juice to a balloon glass and swirl well to mix.
-Fill the glass with good quality cubed ice.
-Top up with chilled and freshly opened Fever-Tree Ginger Beer.
-Gently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.</td>
+      <td><b>Instructions:</b> Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +97,13 @@ Gently stir to combine, top with a gently squeezed lime wedge and finish with a 
 <br>
 </details>
 
-**193 day before 2026 ⏱** days before new year
+**192 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 16.06°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.55°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -120,7 +117,7 @@ Gently stir to combine, top with a gently squeezed lime wedge and finish with a 
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jun 22 2025
+  Last update on Mon Jun 23 2025
   </div>
 <br>
 
