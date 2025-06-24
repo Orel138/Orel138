@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't worry so loud, your roommate can't think.
+Q:	How many Californians does it take to screw in a light bulb?A:	Five.  One to screw in the light bulb and four to share the		experience.  (Actually, Californians don't screw in		light bulbs, they screw in hot tubs.)Q:	How many Oregonians does it take to screw in a light bulb?A:	Three.  One to screw in the light bulb and two to fend off all		those Californians trying to share the experience.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't worry so loud, your roommate can't think.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Orange Scented Hot Chocolate</strong></div></td>
+      <td><div align="center"><strong>Mother's Milk</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hdzwrh1487603131.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7stuuh1504885399.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Milk, 4 oz chopped bittersweet or semi-sweet  Chocolate, 3 2-inch strips  Orange peel, 1/2 tsp instant  Espresso, 1/8 tsp ground  Nutmeg</td>
+      <td><b>Ingredients:</b> 1 oz  Goldschlager, 1 oz  Butterscotch schnapps, 1 oz  Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.</td>
+      <td><b>Instructions:</b> Shake over ice, strain. Serves two.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Don't worry so loud, your roommate can't think.
 <br>
 </details>
 
-**192 day before 2026 ⏱** days before new year
+**191 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.55°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.62°C), scattered clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Don't worry so loud, your roommate can't think.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 23 2025
+  Last update on Tue Jun 24 2025
   </div>
 <br>
 
