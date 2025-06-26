@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-This night methinks is but the daylight sick.		-- William Shakespeare, "The Merchant of Venice"
+Like an expensive sports car, fine-tuned and well-built, Portia was sleek,shapely, and gorgeous, her red jumpsuit moulding her body, which was as warmas seatcovers in July, her hair as dark as new tires, her eyes flashing likebright hubcaps, and her lips as dewy as the beads of fresh rain on the hood;she was a woman driven -- fueled by a single accelerant -- and she needed aman, a man who wouldn't shift from his views, a man to steer her along theright road: a man like Alf Romeo.		-- Rachel Sheeley, winnerThe hair ball blocking the drain of the shower reminded Laura she would neversee her little dog Pritzi again.		-- Claudia Fields, runner-upIt could have been an organically based disturbance of the brain -- perhaps atumor or a metabolic deficiency -- but after a thorough neurological exam itwas determined that Byron was simply a jerk.		-- Jeff Jahnke, runner-upWinners in the 7th Annual Bulwer-Lytton Bad Writing Contest.  The contest isnamed after the author of the immortal lines:  "It was a dark and stormynight."  The object of the contest is to write the opening sentence of theworst possible novel.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ This night methinks is but the daylight sick.		-- William Shakespeare, "The Merc
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bora Bora</strong></div></td>
+      <td><div align="center"><strong>Black & Tan</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 10 cl  Pineapple juice, 6 cl  Passion fruit juice, 1 cl  Lemon juice, 1 cl  Grenadine</td>
+      <td><b>Ingredients:</b> 1 part Bass pale  Ale, 1 part  Guinness stout</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.</td>
+      <td><b>Instructions:</b> Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black & Tan.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ This night methinks is but the daylight sick.		-- William Shakespeare, "The Merc
 <br>
 </details>
 
-**190 day before 2026 ⏱** days before new year
+**189 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 12.72°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.09°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -117,7 +117,7 @@ This night methinks is but the daylight sick.		-- William Shakespeare, "The Merc
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jun 25 2025
+  Last update on Thu Jun 26 2025
   </div>
 <br>
 
