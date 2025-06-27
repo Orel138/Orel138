@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Like an expensive sports car, fine-tuned and well-built, Portia was sleek,shapely, and gorgeous, her red jumpsuit moulding her body, which was as warmas seatcovers in July, her hair as dark as new tires, her eyes flashing likebright hubcaps, and her lips as dewy as the beads of fresh rain on the hood;she was a woman driven -- fueled by a single accelerant -- and she needed aman, a man who wouldn't shift from his views, a man to steer her along theright road: a man like Alf Romeo.		-- Rachel Sheeley, winnerThe hair ball blocking the drain of the shower reminded Laura she would neversee her little dog Pritzi again.		-- Claudia Fields, runner-upIt could have been an organically based disturbance of the brain -- perhaps atumor or a metabolic deficiency -- but after a thorough neurological exam itwas determined that Byron was simply a jerk.		-- Jeff Jahnke, runner-upWinners in the 7th Annual Bulwer-Lytton Bad Writing Contest.  The contest isnamed after the author of the immortal lines:  "It was a dark and stormynight."  The object of the contest is to write the opening sentence of theworst possible novel.
+Today is the first day of the rest of the mess.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Like an expensive sports car, fine-tuned and well-built, Portia was sleek,shapel
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Black & Tan</strong></div></td>
+      <td><div align="center"><strong>Aloha Fruit punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pint glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part Bass pale  Ale, 1 part  Guinness stout</td>
+      <td><b>Ingredients:</b> 3/4 cup  Water, 2 tsp  Ginger, 2 cups  Guava juice, 1 1/2 tblsp  Lemon juice, 1 1/2 cup  Pineapple, 1 cup  Sugar, 3-4 cups  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black & Tan.</td>
+      <td><b>Instructions:</b> Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Like an expensive sports car, fine-tuned and well-built, Portia was sleek,shapel
 <br>
 </details>
 
-**189 day before 2026 ⏱** days before new year
+**188 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.09°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.53°C), few clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Like an expensive sports car, fine-tuned and well-built, Portia was sleek,shapel
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 26 2025
+  Last update on Fri Jun 27 2025
   </div>
 <br>
 
