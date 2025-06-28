@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Today is the first day of the rest of the mess.
+It is right that he too should have his little chronicle, his memories,his reason, and be able to recognize the good in the bad, the bad in theworst, and so grow gently old all down the unchanging days and die oneday like any other day, only shorter.		-- Samuel Beckett, "Malone Dies"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Today is the first day of the rest of the mess.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Aloha Fruit punch</strong></div></td>
+      <td><div align="center"><strong>Drinking Chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/u6jrdf1487603173.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 cup  Water, 2 tsp  Ginger, 2 cups  Guava juice, 1 1/2 tblsp  Lemon juice, 1 1/2 cup  Pineapple, 1 cup  Sugar, 3-4 cups  Pineapple juice</td>
+      <td><b>Ingredients:</b> 2 oz  Heavy cream, 6-8 oz  Milk, 1 stick  Cinnamon, 1  Vanilla, 2 oz finely chopped dark  Chocolate, Fresh  Whipped cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.</td>
+      <td><b>Instructions:</b> Heat the cream and milk with the cinnamon and vanilla bean very slowly for 15-20 minutes. (If you don't have any beans add 1-2 tsp of vanilla after heating). Remove the bean and cinnamon. Add the chocolate. Mix until fully melted. Serve topped with some very dense fresh whipped cream. Serves 1-2 depending upon how much of a glutton you are. For a richer chocolate, use 4 oz of milk, 4 oz of cream, 4 oz of chocolate. Serve in coffee mug.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Today is the first day of the rest of the mess.
 <br>
 </details>
 
-**188 day before 2026 ⏱** days before new year
+**187 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.53°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.52°C), few clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Today is the first day of the rest of the mess.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jun 27 2025
+  Last update on Sat Jun 28 2025
   </div>
 <br>
 
