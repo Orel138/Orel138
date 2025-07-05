@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Better hope the life-inspector doesn't come around while you have yourlife in such a mess.
+After your lover has gone you will still have PEANUT BUTTER!
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Better hope the life-inspector doesn't come around while you have yourlife in su
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Sunset</strong></div></td>
+      <td><div align="center"><strong>Screwdriver</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 jigger  Triple sec, 3 shots  Amaretto, 1/2 cup  Cider, Add 1/2 cup  Ice</td>
+      <td><b>Ingredients:</b> 2 oz  Vodka, Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.</td>
+      <td><b>Instructions:</b> Mix in a highball glass with ice. Garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Better hope the life-inspector doesn't come around while you have yourlife in su
 <br>
 </details>
 
-**181 day before 2026 ⏱** days before new year
+**180 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 18.43°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.32°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:55 and sets 🌇 at 21:26
@@ -117,7 +117,7 @@ Better hope the life-inspector doesn't come around while you have yourlife in su
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jul 04 2025
+  Last update on Sat Jul 05 2025
   </div>
 <br>
 
