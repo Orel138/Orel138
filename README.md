@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-After your lover has gone you will still have PEANUT BUTTER!
+Q:	Why don't Scotsmen ever have coffee the way they like it?A:	Well, they like it with two lumps of sugar.  If they drink	it at home, they only take one, and if they drink it while	visiting, they always take three.
 </details>
 
 <details>
@@ -74,19 +74,23 @@ After your lover has gone you will still have PEANUT BUTTER!
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Screwdriver</strong></div></td>
+      <td><div align="center"><strong>Bloody Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5yhd3n1571687385.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Punch bowl</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, Orange juice</td>
+      <td><b>Ingredients:</b> 10 shots Vodka, 3 cups Strawberries, 1/2 cup Lime Juice, 12 oz Lemon-lime soda, 12 oz Lemon-lime soda, 1 cup Raisins, 1 cup Blueberries</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix in a highball glass with ice. Garnish and serve.</td>
+      <td><b>Instructions:</b> Place the thawed strawberries in a large bowl. Mash them with a fork to ensure no large chunks.
+
+In a punch bowl or pitcher, combine mashed strawberries, lime pulp and soda. Mix well.
+
+Add blueberries and raisins. They will float and look like bugs in the punch.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ After your lover has gone you will still have PEANUT BUTTER!
 <br>
 </details>
 
-**180 day before 2026 ⏱** days before new year
+**179 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.32°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.04°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:55 and sets 🌇 at 21:26
+  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:25
   </div>
 <br>
 
@@ -117,7 +121,7 @@ After your lover has gone you will still have PEANUT BUTTER!
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jul 05 2025
+  Last update on Sun Jul 06 2025
   </div>
 <br>
 
