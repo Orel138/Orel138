@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why don't Scotsmen ever have coffee the way they like it?A:	Well, they like it with two lumps of sugar.  If they drink	it at home, they only take one, and if they drink it while	visiting, they always take three.
+Q:	What's the difference between a dead dog in the road and a dead	lawyer in the road?A:	There are skid marks in front of the dog.
 </details>
 
 <details>
@@ -74,23 +74,20 @@ Q:	Why don't Scotsmen ever have coffee the way they like it?A:	Well, they like i
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bloody Punch</strong></div></td>
+      <td><div align="center"><strong>New York Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5yhd3n1571687385.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch bowl</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 10 shots Vodka, 3 cups Strawberries, 1/2 cup Lime Juice, 12 oz Lemon-lime soda, 12 oz Lemon-lime soda, 1 cup Raisins, 1 cup Blueberries</td>
+      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Sugar, (Claret)
+ Red wine, Lemon, Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place the thawed strawberries in a large bowl. Mash them with a fork to ensure no large chunks.
-
-In a punch bowl or pitcher, combine mashed strawberries, lime pulp and soda. Mix well.
-
-Add blueberries and raisins. They will float and look like bugs in the punch.</td>
+      <td><b>Instructions:</b> Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +98,13 @@ Add blueberries and raisins. They will float and look like bugs in the punch.</t
 <br>
 </details>
 
-**179 day before 2026 ⏱** days before new year
+**178 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.04°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.65°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:25
+  The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:25
   </div>
 <br>
 
@@ -121,7 +118,7 @@ Add blueberries and raisins. They will float and look like bugs in the punch.</t
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 06 2025
+  Last update on Mon Jul 07 2025
   </div>
 <br>
 
