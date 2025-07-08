@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between a dead dog in the road and a dead	lawyer in the road?A:	There are skid marks in front of the dog.
+Don't you feel more like you do now than you did when you came in?
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Q:	What's the difference between a dead dog in the road and a dead	lawyer in the
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>New York Sour</strong></div></td>
+      <td><div align="center"><strong>Rum Toddy</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/athdk71504886286.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Sugar, (Claret)
- Red wine, Lemon, Cherry</td>
+      <td><b>Ingredients:</b> 2 oz light or dark  Rum, 2 tsp  Powdered sugar, 1 twist of  Lemon peel, 2 tsp  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.</td>
+      <td><b>Instructions:</b> Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.</td>
     </tr>
   </table>
 </div>
@@ -98,10 +97,10 @@ Q:	What's the difference between a dead dog in the road and a dead	lawyer in the
 <br>
 </details>
 
-**178 day before 2026 ⏱** days before new year
+**177 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.65°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.58°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:25
@@ -118,7 +117,7 @@ Q:	What's the difference between a dead dog in the road and a dead	lawyer in the
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 07 2025
+  Last update on Tue Jul 08 2025
   </div>
 <br>
 
