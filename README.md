@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-This will be a memorable month -- no matter how hard you try to forget it.
+You can do very well in speculation where land or anything to do with dirtis concerned.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ This will be a memorable month -- no matter how hard you try to forget it.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Melya</strong></div></td>
+      <td><div align="center"><strong>California Lemonade</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwtptq1441247579.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q5z4841582484168.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Espresso, Unsweetened  Honey, Cocoa powder</td>
+      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1  Lemon, Juice of 1  Lime, 1 tblsp Powdered sugar, 1/4 tsp Grenadine, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ This will be a memorable month -- no matter how hard you try to forget it.
 <br>
 </details>
 
-**176 day before 2026 ⏱** days before new year
+**175 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.67°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.43°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:24
+  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:24
   </div>
 <br>
 
@@ -117,7 +117,7 @@ This will be a memorable month -- no matter how hard you try to forget it.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jul 09 2025
+  Last update on Thu Jul 10 2025
   </div>
 <br>
 
