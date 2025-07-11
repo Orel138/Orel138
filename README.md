@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You can do very well in speculation where land or anything to do with dirtis concerned.
+Q:	Are we not men?A:	We are Vaxen.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You can do very well in speculation where land or anything to do with dirtis con
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>California Lemonade</strong></div></td>
+      <td><div align="center"><strong>Valencia Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q5z4841582484168.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9myuc11492975640.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1  Lemon, Juice of 1  Lime, 1 tblsp Powdered sugar, 1/4 tsp Grenadine, Carbonated water</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Apricot brandy, 1 tblsp  Orange juice, 2 dashes  Orange bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You can do very well in speculation where land or anything to do with dirtis con
 <br>
 </details>
 
-**175 day before 2026 ⏱** days before new year
+**174 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.43°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.17°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:24
+  The sun ☀️ rise 🌄 at 06:00 and sets 🌇 at 21:23
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You can do very well in speculation where land or anything to do with dirtis con
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 10 2025
+  Last update on Fri Jul 11 2025
   </div>
 <br>
 
