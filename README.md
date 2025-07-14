@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tuesday is the Wednesday of the rest of your life.
+The countdown had stalled at 'T' minus 69 seconds when Desiree, the firstfemale ape to go up in space, winked at me slyly and pouted her thick,rubbery lips unmistakably -- the first of many such advances during whatwould prove to be the longest, and most memorable, space voyage of mycareer.		-- Winning sentence, 1985 Bulwer-Lytton bad fiction contest.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Tuesday is the Wednesday of the rest of your life.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Chocolate Beverage</strong></div></td>
+      <td><div align="center"><strong>Brandy Alexander</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jbqrhv1487603186.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mlyk1i1606772340.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Whiskey Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cups  Milk, 3 oz Mexican  Chocolate, 1 tsp powdered  Cinnamon, 3  Egg</td>
+      <td><b>Ingredients:</b> 1 oz  Brandy, 1 oz white  Creme de Cacao, 1 oz  Light cream, Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Boil milk in the top of a deep double boiler five minutes. Remove from fire and add chocolate, mixed with the cinnamon, a little at a time, beating with molinillo or egg beater after each addition. When the chocolate is thoroughly blended, heat to the boiling point. Place over bottom of double boiler and add eggs, whipping constantly, until they are thoroughly blended and the mixture is frothing. Serve in coffee mug. Serves eight.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Tuesday is the Wednesday of the rest of your life.
 <br>
 </details>
 
-**172 day before 2026 ⏱** days before new year
+**171 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.1°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.61°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:02 and sets 🌇 at 21:22
+  The sun ☀️ rise 🌄 at 06:02 and sets 🌇 at 21:21
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Tuesday is the Wednesday of the rest of your life.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 13 2025
+  Last update on Mon Jul 14 2025
   </div>
 <br>
 
