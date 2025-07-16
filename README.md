@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tonight's the night: Sleep in a eucalyptus tree.
+Q:	Why did the germ cross the microscope?A:	To get to the other slide.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Tonight's the night: Sleep in a eucalyptus tree.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Acapulco</strong></div></td>
+      <td><div align="center"><strong>Jackhammer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9von5j1504388896.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 tblsp  Lime juice, 1 tsp  Sugar, 1  Egg white, 1  Mint</td>
+      <td><b>Ingredients:</b> 1 oz  Jack Daniels, 1 oz  Amaretto</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.</td>
+      <td><b>Instructions:</b> Serve over ice- Warning,Deadly!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Tonight's the night: Sleep in a eucalyptus tree.
 <br>
 </details>
 
-**170 day before 2026 ⏱** days before new year
+**169 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.17°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:03 and sets 🌇 at 21:21
+  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:20
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Tonight's the night: Sleep in a eucalyptus tree.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jul 15 2025
+  Last update on Wed Jul 16 2025
   </div>
 <br>
 
