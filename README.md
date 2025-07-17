@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why did the germ cross the microscope?A:	To get to the other slide.
+Your lover will never wish to leave you.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why did the germ cross the microscope?A:	To get to the other slide.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jackhammer</strong></div></td>
+      <td><div align="center"><strong>110 in the shade</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9von5j1504388896.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xxyywq1454511117.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Beer Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Jack Daniels, 1 oz  Amaretto</td>
+      <td><b>Ingredients:</b> 16 oz  Lager, 1.5 oz  Tequila</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Serve over ice- Warning,Deadly!</td>
+      <td><b>Instructions:</b> Drop shooter in glass. Fill with beer</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why did the germ cross the microscope?A:	To get to the other slide.
 <br>
 </details>
 
-**169 day before 2026 ⏱** days before new year
+**168 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 18.14°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:20
+  The sun ☀️ rise 🌄 at 06:05 and sets 🌇 at 21:19
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why did the germ cross the microscope?A:	To get to the other slide.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jul 16 2025
+  Last update on Thu Jul 17 2025
   </div>
 <br>
 
