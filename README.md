@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Stop!  There was first a game of blindman's buff.  Of course there was.And I no more believe Topper was really blind than I believe he had eyesin his boots.  My opinion is, that it was a done thing between him andScrooge's nephew; and that the Ghost of Christmas Present knew it.  Theway he went after that plump sister in the lace tucker, was an outrageon the credulity of human nature.
+If you learn one useless thing every day, in a single year you'll learn365 useless things.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Stop!  There was first a game of blindman's buff.  Of course there was.And I no 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Belgian Blue</strong></div></td>
+      <td><div align="center"><strong>Coffee Liqueur</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jylbrq1582580066.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ryvtsu1441253851.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cl  Vodka, 1 cl  Coconut liqueur, 1 cl  Blue Curacao, Fill with  Sprite</td>
+      <td><b>Ingredients:</b> 10 tblsp instant  Coffee, 4 tblsp  Vanilla extract, 2 1/2 cups  Sugar, 1 qt  Vodka, 2 1/2 cups  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Just pour all ingredients in the glass and stir...</td>
+      <td><b>Instructions:</b> Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Stop!  There was first a game of blindman's buff.  Of course there was.And I no 
 <br>
 </details>
 
-**166 day before 2026 ⏱** days before new year
+**165 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.94°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.87°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:07 and sets 🌇 at 21:17
+  The sun ☀️ rise 🌄 at 06:08 and sets 🌇 at 21:17
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Stop!  There was first a game of blindman's buff.  Of course there was.And I no 
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jul 19 2025
+  Last update on Sun Jul 20 2025
   </div>
 <br>
 
