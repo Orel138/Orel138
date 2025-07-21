@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-If you learn one useless thing every day, in a single year you'll learn365 useless things.
+Harp not on that string.		-- William Shakespeare, "Henry VI"
 </details>
 
 <details>
@@ -74,19 +74,20 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Coffee Liqueur</strong></div></td>
+      <td><div align="center"><strong>Honey Bee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ryvtsu1441253851.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vu8l7t1582475673.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 10 tblsp instant  Coffee, 4 tblsp  Vanilla extract, 2 1/2 cups  Sugar, 1 qt  Vodka, 2 1/2 cups  Water</td>
+      <td><b>Ingredients:</b> 6 cl White Rum, 2 cl Honey, 2 cl Lemon Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.</td>
+      <td><b>Instructions:</b> Shake ingredients with crushed ice
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <br>
 </details>
 
-**165 day before 2026 ⏱** days before new year
+**164 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.87°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.64°C), moderate rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:08 and sets 🌇 at 21:17
+  The sun ☀️ rise 🌄 at 06:09 and sets 🌇 at 21:16
   </div>
 <br>
 
@@ -117,7 +118,7 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 20 2025
+  Last update on Mon Jul 21 2025
   </div>
 <br>
 
