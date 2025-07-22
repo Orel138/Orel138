@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Harp not on that string.		-- William Shakespeare, "Henry VI"
+Don't worry.  Life's too long.		-- Vincent Sardi, Jr.
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Harp not on that string.		-- William Shakespeare, "Henry VI"
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Honey Bee</strong></div></td>
+      <td><div align="center"><strong>Amaretto Stone Sour Alternative</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vu8l7t1582475673.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Margarita glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cl White Rum, 2 cl Honey, 2 cl Lemon Juice</td>
+      <td><b>Ingredients:</b> 2 oz  Sour mix, 2 oz  Amaretto, 2 oz  Tequila, Add splash  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake ingredients with crushed ice
-</td>
+      <td><b>Instructions:</b> Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ Harp not on that string.		-- William Shakespeare, "Henry VI"
 <br>
 </details>
 
-**164 day before 2026 ⏱** days before new year
+**163 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.64°C), moderate rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.41°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:09 and sets 🌇 at 21:16
+  The sun ☀️ rise 🌄 at 06:10 and sets 🌇 at 21:15
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Harp not on that string.		-- William Shakespeare, "Henry VI"
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 21 2025
+  Last update on Tue Jul 22 2025
   </div>
 <br>
 
