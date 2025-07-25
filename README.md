@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will have domestic happiness and faithful friends.
+As flies to wanton boys are we to the gods; they kill us for their sport.		-- Shakespeare, "King Lear"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will have domestic happiness and faithful friends.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jack's Vanilla Coke</strong></div></td>
+      <td><div align="center"><strong>Gin Swizzle</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sybce31504884026.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4-5  Ice, 2 oz  Tennessee whiskey, 1 tsp  Vanilla extract, 10-12 oz  Coca-Cola</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Lime juice, 1 tsp superfine  Sugar, 2 oz  Gin, 1 dash  Bitters, 3 oz  Club soda</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will have domestic happiness and faithful friends.
 <br>
 </details>
 
-**161 day before 2026 ⏱** days before new year
+**160 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.98°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:12 and sets 🌇 at 21:13
+  The sun ☀️ rise 🌄 at 06:13 and sets 🌇 at 21:12
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will have domestic happiness and faithful friends.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 24 2025
+  Last update on Fri Jul 25 2025
   </div>
 <br>
 
