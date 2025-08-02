@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why is Christmas just like a day at the office?A:	You do all of the work and the fat guy in the suit	gets all the credit.
+Its name is Public Opinion.  It is held in reverence.  It settles everything.Some think it is the voice of God.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A True Amaretto Sour</strong></div></td>
+      <td><div align="center"><strong>Ruby Tuesday</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qsyqqq1441553437.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 jigger  Amaretto, Juice of 1/2  Lemon, Ice, Maraschino cherry</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Cranberry juice, 2 splashes  Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good "frosted" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.</td>
+      <td><b>Instructions:</b> Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
 <br>
 </details>
 
-**153 day before 2026 ⏱** days before new year
+**152 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.76°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.76°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:21 and sets 🌇 at 21:04
+  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 21:02
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 01 2025
+  Last update on Sat Aug 02 2025
   </div>
 <br>
 
