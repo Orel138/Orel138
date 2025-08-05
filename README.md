@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You may be infinitely smaller than some things, but you're infinitelylarger than others.
+The true Southern watermelon is a boon apart, and not to be mentioned withcommoner things.  It is chief of the world's luxuries, king by the grace of Godover all the fruits of the earth.  When one has tasted it, he knows what theangels eat.  It was not a Southern watermelon that Eve took; we know it becauseshe repented.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You may be infinitely smaller than some things, but you're infinitelylarger than
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Blue Mountain</strong></div></td>
+      <td><div align="center"><strong>Rum Old-fashioned</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bih7ln1582485506.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/otn2011504820649.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Añejo rum, 1/2 oz  Tia maria, 1/2 oz  Vodka, 1 oz  Orange juice, 1 tsp  Lemon juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 tsp  151 proof rum, 1/2 tsp  Powdered sugar, 1 dash  Bitters, 1 tsp  Water, Twist of  Lime peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass almost filled with ice cubes.</td>
+      <td><b>Instructions:</b> Stir powdered sugar, water, and bitters in an old-fashioned glass. When sugar has dissolved add ice cubes and light rum. Add the twist of lime peel, float 151 proof rum on top, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You may be infinitely smaller than some things, but you're infinitelylarger than
 <br>
 </details>
 
-**150 day before 2026 ⏱** days before new year
+**149 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.65°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.11°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:25 and sets 🌇 at 21:00
+  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 20:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You may be infinitely smaller than some things, but you're infinitelylarger than
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Aug 04 2025
+  Last update on Tue Aug 05 2025
   </div>
 <br>
 
