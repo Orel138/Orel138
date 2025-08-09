@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You now have Asian Flu.
+Q:	What's the difference between USL and the Titanic?A:	The Titanic had a band.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You now have Asian Flu.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Whisky Mac</strong></div></td>
+      <td><div align="center"><strong>Happy Skipper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/42w2g41487602448.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1 oz Green Ginger  Wine</td>
+      <td><b>Ingredients:</b> 1 1/2 cl  Spiced rum, Ginger ale, Lime, Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour both of the ingredients into a wine goblet with no ice.</td>
+      <td><b>Instructions:</b> Pour Captain Morgan's Spiced Rum over ice, fill glass to top with Ginger Ale. Garnish with lime. Tastes like a cream soda. Named for the Gilligan's Island reference ("The Captain" *in* "Ginger" is a Happy Skipper!)</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You now have Asian Flu.
 <br>
 </details>
 
-**146 day before 2026 ⏱** days before new year
+**145 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.4°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.6°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:29 and sets 🌇 at 20:54
+  The sun ☀️ rise 🌄 at 06:31 and sets 🌇 at 20:53
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You now have Asian Flu.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 08 2025
+  Last update on Sat Aug 09 2025
   </div>
 <br>
 
