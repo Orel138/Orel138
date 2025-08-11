@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't have any real intelligence.
+You're growing out of some of your problems, but there are others thatyou're growing into.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't ha
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lassi Khara</strong></div></td>
+      <td><div align="center"><strong>Aviation</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/m1suzm1487603970.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/trbplb1606855233.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 1 tsp  Salt, 1 pinch  Asafoetida</td>
+      <td><b>Ingredients:</b> 4.5 cl Gin, 1.5 cl lemon juice, 1.5 cl maraschino liqueur</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend (frappe) in blender until frothy. Add torn curry leaves and serve cold.</td>
+      <td><b>Instructions:</b> Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't ha
 <br>
 </details>
 
-**144 day before 2026 ⏱** days before new year
+**143 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.51°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.04°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 20:51
+  The sun ☀️ rise 🌄 at 06:33 and sets 🌇 at 20:50
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't ha
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Aug 10 2025
+  Last update on Mon Aug 11 2025
   </div>
 <br>
 
