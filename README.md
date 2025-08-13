@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-When in doubt, tell the truth.		-- Mark Twain
+An honest tale speeds best being plainly told.		-- William Shakespeare, "Henry VI"
 </details>
 
 <details>
@@ -74,19 +74,29 @@ When in doubt, tell the truth.		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>French 75</strong></div></td>
+      <td><div align="center"><strong>Ramos Gin Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hrxfbl1606773109.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/967t911643844053.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 2 tsp superfine  Sugar, 1 1/2 oz  Lemon juice, 4 oz Chilled  Champagne, 1  Orange, 1  Maraschino cherry</td>
+      <td><b>Ingredients:</b> 4.5 cL Gin, 3 cl Lemon Juice, 3 cl Sugar Syrup, 6 cl Cream, 1 Egg White, 2 drop Vanilla extract, 2 cl Soda Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.</td>
+      <td><b>Instructions:</b> Prepare all the ingredients on the counter to be able to work well and quickly, especially the cream and egg white.
+
+Pour all the ingredients into a shaker.
+
+Shake vigorously for 1 minute: cream and egg white must be mixed perfectly, so don't rush.
+
+Now open the shaker and put some ice and shake for 1-2 minutes. It depends on how long you can resist!
+
+Pour into a highball glass, add a splash of soda and garnish to taste.
+
+Ramos Gin Fizz was once drunk as an invigorating drink or even as a breakfast, try it as an aperitif and after dinner and you will discover a little gem now lost.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +107,13 @@ When in doubt, tell the truth.		-- Mark Twain
 <br>
 </details>
 
-**142 day before 2026 ⏱** days before new year
+**141 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.55°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.38°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:34 and sets 🌇 at 20:48
+  The sun ☀️ rise 🌄 at 06:35 and sets 🌇 at 20:47
   </div>
 <br>
 
@@ -117,7 +127,7 @@ When in doubt, tell the truth.		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Aug 12 2025
+  Last update on Wed Aug 13 2025
   </div>
 <br>
 
