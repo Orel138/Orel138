@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's a light-year?A:	One-third less calories than a regular year.
+You are fighting for survival in your own sweet and gentle way.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What's a light-year?A:	One-third less calories than a regular year.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Port Wine Flip</strong></div></td>
+      <td><div align="center"><strong>Japanese Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vrprxu1441553844.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/37vzv11504884831.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Port, 2 tsp  Light cream, 1 tsp  Powdered sugar, 1 whole  Egg, Nutmeg</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1 tblsp Port, 1  Egg white, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What's a light-year?A:	One-third less calories than a regular year.
 <br>
 </details>
 
-**140 day before 2026 ⏱** days before new year
+**139 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.58°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 11.86°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:37 and sets 🌇 at 20:45
+  The sun ☀️ rise 🌄 at 06:38 and sets 🌇 at 20:44
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What's a light-year?A:	One-third less calories than a regular year.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Aug 14 2025
+  Last update on Fri Aug 15 2025
   </div>
 <br>
 
