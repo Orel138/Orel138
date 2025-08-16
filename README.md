@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are fighting for survival in your own sweet and gentle way.
+When I reflect upon the number of disagreeable people who I know who have goneto a better world, I am moved to lead a different life.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,20 @@ You are fighting for survival in your own sweet and gentle way.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Japanese Fizz</strong></div></td>
+      <td><div align="center"><strong>Gin Basil Smash</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/37vzv11504884831.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jqh2141572807327.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1 tblsp Port, 1  Egg white, Carbonated water</td>
+      <td><b>Ingredients:</b> 6 cl Gin, 2 cl Lemon Juice, 2 cl Sugar Syrup, Whole Basil</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
+      <td><b>Instructions:</b> Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
+Filter and serve in a tumbler with ice</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ You are fighting for survival in your own sweet and gentle way.
 <br>
 </details>
 
-**139 day before 2026 ⏱** days before new year
+**138 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 11.86°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 18.31°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:38 and sets 🌇 at 20:44
+  The sun ☀️ rise 🌄 at 06:39 and sets 🌇 at 20:42
   </div>
 <br>
 
@@ -117,7 +118,7 @@ You are fighting for survival in your own sweet and gentle way.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 15 2025
+  Last update on Sat Aug 16 2025
   </div>
 <br>
 
