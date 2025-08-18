@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are a bundle of energy, always on the go.
+By trying we can easily learn to endure adversity.  Another man's, I mean.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,20 @@ You are a bundle of energy, always on the go.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Havana Cocktail</strong></div></td>
+      <td><div align="center"><strong>Honey Bee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vu8l7t1582475673.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Light rum, 1 oz  Pineapple juice, 1 tsp  Lemon juice</td>
+      <td><b>Ingredients:</b> 6 cl White Rum, 2 cl Honey, 2 cl Lemon Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> Shake ingredients with crushed ice
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ You are a bundle of energy, always on the go.
 <br>
 </details>
 
-**137 day before 2026 ⏱** days before new year
+**136 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 17.07°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.3°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:40 and sets 🌇 at 20:41
+  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 20:39
   </div>
 <br>
 
@@ -117,7 +118,7 @@ You are a bundle of energy, always on the go.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Aug 17 2025
+  Last update on Mon Aug 18 2025
   </div>
 <br>
 
