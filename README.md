@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't go surfing in South Dakota for a while.
+... A solemn, unsmiling, sanctimonious old iceberg who looked like hewas waiting for a vacancy in the Trinity.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't go surfing in South Dakota for a while.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Casa Blanca</strong></div></td>
+      <td><div align="center"><strong>3-Mile Long Island Iced Tea</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 1/2 tsp  Lime juice, 1 1/2 tsp  Maraschino liqueur</td>
+      <td><b>Ingredients:</b> 1/2 oz Gin, 1/2 oz Light rum, 1/2 oz Tequila, 1/2 oz Triple sec, 1/2 oz Vodka, 1/2 oz Coca-Cola, 1-2 dash  Sweet and sour, 1 wedge  Bitters, Garnish with Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet & sour. Top with dash of bitters and lemon wedge.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't go surfing in South Dakota for a while.
 <br>
 </details>
 
-**130 day before 2026 ⏱** days before new year
+**129 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.72°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.9°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:49 and sets 🌇 at 20:29
+  The sun ☀️ rise 🌄 at 06:50 and sets 🌇 at 20:27
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't go surfing in South Dakota for a while.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Aug 24 2025
+  Last update on Mon Aug 25 2025
   </div>
 <br>
 
