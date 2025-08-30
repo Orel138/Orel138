@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+The secret source of humor is not joy but sorrow; there is no humor in Heaven.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead W
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Flaming Lamborghini</strong></div></td>
+      <td><div align="center"><strong>Brandy Flip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yywpss1461866587.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Kahlua, 1 oz  Sambuca, 1 oz  Blue Curacao, 1 oz  Baileys irish cream</td>
+      <td><b>Ingredients:</b> 2 oz  Brandy, 1 whole  Egg, 1 tsp superfine  Sugar, 1/2 oz  Light cream, 1/8 tsp grated  Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead W
 <br>
 </details>
 
-**125 day before 2026 ⏱** days before new year
+**124 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 5.31°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.43°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:55 and sets 🌇 at 20:20
+  The sun ☀️ rise 🌄 at 06:56 and sets 🌇 at 20:18
   </div>
 <br>
 
@@ -117,7 +117,7 @@ As to the Adjective: when in doubt, strike it out.		-- Mark Twain, "Pudd'nhead W
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 29 2025
+  Last update on Sat Aug 30 2025
   </div>
 <br>
 
