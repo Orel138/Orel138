@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you keep a moron in suspense?
+"Not Hercules could have knock'd out his brains, for he had none."		-- Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How do you keep a moron in suspense?
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Old Cuban</strong></div></td>
+      <td><div align="center"><strong>Spanish chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz White Rum, 1 oz Sugar Syrup, 1 oz Lime Juice, 2 dashes Angostura Bitters, 2 oz Prosecco</td>
+      <td><b>Ingredients:</b> 2 cups  Milk, 2 oz sweet  Chocolate, 1/2 tsp  Cinnamon, 2 beaten  Egg yolk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.</td>
+      <td><b>Instructions:</b> Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How do you keep a moron in suspense?
 <br>
 </details>
 
-**123 day before 2026 ⏱** days before new year
+**122 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.1°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.63°C), heavy intensity rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:57 and sets 🌇 at 20:16
+  The sun ☀️ rise 🌄 at 06:58 and sets 🌇 at 20:15
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How do you keep a moron in suspense?
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Aug 31 2025
+  Last update on Mon Sep 01 2025
   </div>
 <br>
 
