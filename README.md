@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The Boy Scouts have adult supervision.
+This is the first age that's paid much attention to the future, which is alittle ironic since we may not have one.		-- Arthur Clarke
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Blue Margarita</strong></div></td>
+      <td><div align="center"><strong>Kioki Coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uppqty1441247374.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Tequila, 1 oz  Blue Curacao, 1 oz  Lime juice, Coarse  Salt</td>
+      <td><b>Ingredients:</b> 1 oz  Kahlua, 1/2 oz  Brandy, Coffee</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.</td>
+      <td><b>Instructions:</b> Stir. Add whipped cream to the top.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The 
 <br>
 </details>
 
-**120 day before 2026 ⏱** days before new year
+**119 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.08°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.62°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:01 and sets 🌇 at 20:11
+  The sun ☀️ rise 🌄 at 07:02 and sets 🌇 at 20:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The 
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 03 2025
+  Last update on Thu Sep 04 2025
   </div>
 <br>
 
