@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Unless hours were cups of sack, and minutes capons, and clocks the tonguesof bawds, and dials the signs of leaping houses, and the blessed sun himselfa fair, hot wench in flame-colored taffeta, I see no reason why thou shouldstbe so superfluous to demand the time of the day.  I wasted time and now dothtime waste me.		-- William Shakespeare
+This is the first age that's paid much attention to the future, which is alittle ironic since we may not have one.		-- Arthur Clarke
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Unless hours were cups of sack, and minutes capons, and clocks the tonguesof baw
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Iced Coffee Fillip</strong></div></td>
+      <td><div align="center"><strong>Lassi - Sweet</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp  Kahlua, Strong cold  Coffee</td>
+      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 4 tblsp  Sugar, pinch  Salt, 2 tblsp  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together in a coffee mug and chill before serving.</td>
+      <td><b>Instructions:</b> Put all ingredients into a blender and blend until nice and frothy. Serve chilled.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Unless hours were cups of sack, and minutes capons, and clocks the tonguesof baw
 <br>
 </details>
 
-**118 day before 2026 ⏱** days before new year
+**117 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.63°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.56°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:03 and sets 🌇 at 20:07
+  The sun ☀️ rise 🌄 at 07:04 and sets 🌇 at 20:05
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Unless hours were cups of sack, and minutes capons, and clocks the tonguesof baw
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 05 2025
+  Last update on Sat Sep 06 2025
   </div>
 <br>
 
