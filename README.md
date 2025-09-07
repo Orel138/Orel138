@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-This is the first age that's paid much attention to the future, which is alittle ironic since we may not have one.		-- Arthur Clarke
+When you are about to die, a wombat is better than no company at all.		-- Roger Zelazny, "Doorways in the Sand"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ This is the first age that's paid much attention to the future, which is alittle
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lassi - Sweet</strong></div></td>
+      <td><div align="center"><strong>Foxy Lady</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Yoghurt, 2 cups cold  Water, 4 tblsp  Sugar, pinch  Salt, 2 tblsp  Lemon juice</td>
+      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz  Creme de Cacao, 2 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put all ingredients into a blender and blend until nice and frothy. Serve chilled.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ This is the first age that's paid much attention to the future, which is alittle
 <br>
 </details>
 
-**117 day before 2026 ⏱** days before new year
+**116 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.56°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.57°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:04 and sets 🌇 at 20:05
+  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:03
   </div>
 <br>
 
@@ -117,7 +117,7 @@ This is the first age that's paid much attention to the future, which is alittle
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Sep 06 2025
+  Last update on Sun Sep 07 2025
   </div>
 <br>
 
