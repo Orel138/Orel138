@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-When you are about to die, a wombat is better than no company at all.		-- Roger Zelazny, "Doorways in the Sand"
+Nothing so needs reforming as other people's habits.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ When you are about to die, a wombat is better than no company at all.		-- Roger 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Foxy Lady</strong></div></td>
+      <td><div align="center"><strong>Veteran</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iwml9t1492976255.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz  Creme de Cacao, 2 oz  Light cream</td>
+      <td><b>Ingredients:</b> 2 oz  Dark rum, 1/2 oz  Cherry brandy</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ When you are about to die, a wombat is better than no company at all.		-- Roger 
 <br>
 </details>
 
-**116 day before 2026 ⏱** days before new year
+**115 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.57°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 11.99°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:03
+  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:01
   </div>
 <br>
 
@@ -117,7 +117,7 @@ When you are about to die, a wombat is better than no company at all.		-- Roger 
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 07 2025
+  Last update on Mon Sep 08 2025
   </div>
 <br>
 
