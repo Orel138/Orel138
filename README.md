@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Nothing so needs reforming as other people's habits.		-- Mark Twain
+Your love life will be happy and harmonious.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Nothing so needs reforming as other people's habits.		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Veteran</strong></div></td>
+      <td><div align="center"><strong>Irish Curdling Cow</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iwml9t1492976255.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Dark rum, 1/2 oz  Cherry brandy</td>
+      <td><b>Ingredients:</b> 3/4 oz  Baileys irish cream, 3/4 oz  Bourbon, 3/4 oz  Vodka, 2-3 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+      <td><b>Instructions:</b> Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Nothing so needs reforming as other people's habits.		-- Mark Twain
 <br>
 </details>
 
-**115 day before 2026 ⏱** days before new year
+**114 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 11.99°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 9.2°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:01
+  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 20:00
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Nothing so needs reforming as other people's habits.		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 08 2025
+  Last update on Tue Sep 09 2025
   </div>
 <br>
 
