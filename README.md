@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your love life will be happy and harmonious.
+The bay-trees in our country are all wither'dAnd meteors fright the fixed stars of heaven;The pale-faced moon looks bloody on the earthAnd lean-look'd prophets whisper fearful change.These signs forerun the death or fall of kings.		-- Wm. Shakespeare, "Richard II"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your love life will be happy and harmonious.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Irish Curdling Cow</strong></div></td>
+      <td><div align="center"><strong>Boomerang</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3m6yz81504389551.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Baileys irish cream, 3/4 oz  Bourbon, 3/4 oz  Vodka, 2-3 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Dry Vermouth, 2 dashes  Bitters, 1/2 tsp  Maraschino liqueur, 1  Maraschino cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.</td>
+      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your love life will be happy and harmonious.
 <br>
 </details>
 
-**114 day before 2026 ⏱** days before new year
+**113 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 9.2°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 20:00
+  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 19:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your love life will be happy and harmonious.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Sep 09 2025
+  Last update on Wed Sep 10 2025
   </div>
 <br>
 
