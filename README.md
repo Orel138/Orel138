@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You're at the end of the road again.
+Grief can take care of itself; but to get the full value of a joy you musthave somebody to divide it with.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You're at the end of the road again.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Moscow Mule</strong></div></td>
+      <td><div align="center"><strong>Brandon and Will's Coke Float</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xspxyr1472719185.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Copper Mug</td>
+      <td><b>Type of glass:</b> Beer mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, 2 oz  Lime juice, 8 oz  Ginger ale</td>
+      <td><b>Ingredients:</b> 2 scoops  Vanilla ice-cream, 1 can  Coca-Cola, 2 oz  Bourbon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.</td>
+      <td><b>Instructions:</b> Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You're at the end of the road again.
 <br>
 </details>
 
-**112 day before 2026 ⏱** days before new year
+**111 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 9.2°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 19:56
+  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 19:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You're at the end of the road again.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 11 2025
+  Last update on Fri Sep 12 2025
   </div>
 <br>
 
