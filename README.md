@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Grief can take care of itself; but to get the full value of a joy you musthave somebody to divide it with.		-- Mark Twain
+A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A man in love with a girl who loves another man who looks just	like him has his head chopped off in France because of a mean	lady who knits.Crime and Punishment LITE(tm)	-- by Fyodor Dostoevski	A man sends a nasty letter to a pawnbroker, but later	feels guilty and apologizes.The Odyssey LITE(tm)	-- by Homer	After working late, a valiant warrior gets lost on his way home.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Grief can take care of itself; but to get the full value of a joy you musthave s
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brandon and Will's Coke Float</strong></div></td>
+      <td><div align="center"><strong>Lone Tree Cooler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xspxyr1472719185.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyqry1479298485.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Beer mug</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 scoops  Vanilla ice-cream, 1 can  Coca-Cola, 2 oz  Bourbon</td>
+      <td><b>Ingredients:</b> Carbonated water, Gin, Dry Vermouth, Powdered sugar, Orange spiral, Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy.</td>
+      <td><b>Instructions:</b> Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Grief can take care of itself; but to get the full value of a joy you musthave s
 <br>
 </details>
 
-**111 day before 2026 ⏱** days before new year
+**110 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.22°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 19:54
+  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 19:52
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Grief can take care of itself; but to get the full value of a joy you musthave s
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 12 2025
+  Last update on Sat Sep 13 2025
   </div>
 <br>
 
