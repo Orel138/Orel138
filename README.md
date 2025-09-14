@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A man in love with a girl who loves another man who looks just	like him has his head chopped off in France because of a mean	lady who knits.Crime and Punishment LITE(tm)	-- by Fyodor Dostoevski	A man sends a nasty letter to a pawnbroker, but later	feels guilty and apologizes.The Odyssey LITE(tm)	-- by Homer	After working late, a valiant warrior gets lost on his way home.
+Q:	How many WASPs does it take to change a light bulb?A:	One.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A man in love with a girl wh
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lone Tree Cooler</strong></div></td>
+      <td><div align="center"><strong>Salty Dog</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyqry1479298485.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4vfge01504890216.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Carbonated water, Gin, Dry Vermouth, Powdered sugar, Orange spiral, Lemon peel</td>
+      <td><b>Ingredients:</b> 5 oz  Grapefruit juice, 1 1/2 oz  Gin, 1/4 tsp  Salt</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.</td>
+      <td><b>Instructions:</b> Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A man in love with a girl wh
 <br>
 </details>
 
-**110 day before 2026 ⏱** days before new year
+**109 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.22°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.17°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 19:52
+  The sun ☀️ rise 🌄 at 07:14 and sets 🌇 at 19:50
   </div>
 <br>
 
@@ -117,7 +117,7 @@ A Tale of Two Cities LITE(tm)	-- by Charles Dickens	A man in love with a girl wh
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Sep 13 2025
+  Last update on Sun Sep 14 2025
   </div>
 <br>
 
