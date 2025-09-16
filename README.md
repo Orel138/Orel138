@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be aided greatly by a person whom you thought to be unimportant.
+It is a wise father that knows his own child.		-- William Shakespeare, "The Merchant of Venice"
 </details>
 
 <details>
@@ -74,16 +74,16 @@ You will be aided greatly by a person whom you thought to be unimportant.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Strawberry Shivers</strong></div></td>
+      <td><div align="center"><strong>Just a Moonmint</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/znald61487604035.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 cup  Strawberries, 4 tsp  Honey, 1/2 cup  Water</td>
+      <td><b>Ingredients:</b> 2 cups  Milk, Chocolate syrup, Mint syrup</td>
     </tr>
     <tr>
       <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
@@ -97,13 +97,13 @@ You will be aided greatly by a person whom you thought to be unimportant.
 <br>
 </details>
 
-**108 day before 2026 ⏱** days before new year
+**107 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.36°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.22°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:15 and sets 🌇 at 19:48
+  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 19:46
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will be aided greatly by a person whom you thought to be unimportant.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 15 2025
+  Last update on Tue Sep 16 2025
   </div>
 <br>
 
