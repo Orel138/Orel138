@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-It is a wise father that knows his own child.		-- William Shakespeare, "The Merchant of Venice"
+He draweth out the thread of his verbosity finer than the staple of hisargument.		-- William Shakespeare, "Love's Labour's Lost"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ It is a wise father that knows his own child.		-- William Shakespeare, "The Merc
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Just a Moonmint</strong></div></td>
+      <td><div align="center"><strong>Kiwi Lemon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/znald61487604035.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Milk, Chocolate syrup, Mint syrup</td>
+      <td><b>Ingredients:</b> 1 part  Kiwi liqueur, 2 parts  Bitter lemon, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+      <td><b>Instructions:</b> Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ It is a wise father that knows his own child.		-- William Shakespeare, "The Merc
 <br>
 </details>
 
-**107 day before 2026 ⏱** days before new year
+**106 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.22°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.52°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 19:46
+  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 19:44
   </div>
 <br>
 
@@ -117,7 +117,7 @@ It is a wise father that knows his own child.		-- William Shakespeare, "The Merc
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Sep 16 2025
+  Last update on Wed Sep 17 2025
   </div>
 <br>
 
