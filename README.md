@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-He draweth out the thread of his verbosity finer than the staple of hisargument.		-- William Shakespeare, "Love's Labour's Lost"
+Q:	What do you have when you have a lawyer buried up to his neck in sand?A:	Not enough sand.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ He draweth out the thread of his verbosity finer than the staple of hisargument.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kiwi Lemon</strong></div></td>
+      <td><div align="center"><strong>Damned if you do</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ql7bmx1503565106.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Kiwi liqueur, 2 parts  Bitter lemon, cubes Ice</td>
+      <td><b>Ingredients:</b> 0.75 oz  Whiskey, 0.25 oz  Hot Damn</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix in highball glass. Stirr. Garnish with slice of kiwi.</td>
+      <td><b>Instructions:</b> Pour into shot glass. Put in mouth. Repeat as deemed necessary.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ He draweth out the thread of his verbosity finer than the staple of hisargument.
 <br>
 </details>
 
-**106 day before 2026 ⏱** days before new year
+**105 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.52°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.76°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 19:44
+  The sun ☀️ rise 🌄 at 07:18 and sets 🌇 at 19:42
   </div>
 <br>
 
@@ -117,7 +117,7 @@ He draweth out the thread of his verbosity finer than the staple of hisargument.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 17 2025
+  Last update on Thu Sep 18 2025
   </div>
 <br>
 
