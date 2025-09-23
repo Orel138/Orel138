@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You see, I consider that a man's brain originally is like a little emptyattic, and you have to stock it with such furniture as you choose.  A fooltakes in all the lumber of every sort he comes across, so that the knowledgewhich might be useful to him gets crowded out, or at best is jumbled up witha lot of other things, so that he has difficulty in laying his hands upon it.Now the skilful workman is very careful indeed as to what he takes into hisbrain-attic.  He will have nothing but the tools which may help him in doinghis work, but of these he has a large assortment, and all in the most perfectorder.  It is a mistake to think that that little room has elastic walls andcan distend to any extent.  Depend upon it there comes a time when for everyaddition of knowledge you forget something that you knew before.  It is ofthe highest importance, therefore, not to have useless facts elbowing outthe useful ones.		-- Sir Arthur Conan Doyle, "A Study in Scarlet"
+Q:	How do you save a drowning lawyer?A:	Throw him a rock.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You see, I consider that a man's brain originally is like a little emptyattic, a
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rum Milk Punch</strong></div></td>
+      <td><div align="center"><strong>Apple Pie with A Crust</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/w64lqm1504888810.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qspqxt1472720078.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Light rum, 1 cup  Milk, 1 tsp  Powdered sugar, Nutmeg</td>
+      <td><b>Ingredients:</b> 3 parts  Apple juice, 1 part  Malibu rum, 3 dashes  Cinnamon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except nutmeg) with ice and strain into a collins glass. Sprinkle nutmeg on top and serve.</td>
+      <td><b>Instructions:</b> Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You see, I consider that a man's brain originally is like a little emptyattic, a
 <br>
 </details>
 
-**101 day before 2026 ⏱** days before new year
+**100 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.43°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.83°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 19:35
+  The sun ☀️ rise 🌄 at 07:24 and sets 🌇 at 19:33
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You see, I consider that a man's brain originally is like a little emptyattic, a
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 22 2025
+  Last update on Tue Sep 23 2025
   </div>
 <br>
 
