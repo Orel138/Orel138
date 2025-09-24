@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you save a drowning lawyer?A:	Throw him a rock.
+You have taken yourself too seriously.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Apple Pie with A Crust</strong></div></td>
+      <td><div align="center"><strong>A True Amaretto Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qspqxt1472720078.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 parts  Apple juice, 1 part  Malibu rum, 3 dashes  Cinnamon</td>
+      <td><b>Ingredients:</b> 1 jigger  Amaretto, Juice of 1/2  Lemon, Ice, Maraschino cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.</td>
+      <td><b>Instructions:</b> Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good "frosted" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
 <br>
 </details>
 
-**100 day before 2026 ⏱** days before new year
+**99 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.83°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.29°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:24 and sets 🌇 at 19:33
+  The sun ☀️ rise 🌄 at 07:26 and sets 🌇 at 19:31
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Sep 23 2025
+  Last update on Wed Sep 24 2025
   </div>
 <br>
 
