@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many lawyers does it take to change a light bulb?A:	Whereas the party of the first part, also known as "Lawyer", and theparty of the second part, also known as "Light Bulb", do hereby and forthwithagree to a transaction wherein the party of the second part shall be removedfrom the current position as a result of failure to perform previously agreedupon duties, i.e., the lighting, elucidation, and otherwise illumination ofthe area ranging from the front (north) door, through the entryway, terminatingat an area just inside the primary living area, demarcated by the beginning ofthe carpet, any spillover illumination being at the option of the party of thesecond part and not required by the aforementioned agreement between theparties.	The aforementioned removal transaction shall include, but not belimited to, the following.  The party of the first part shall, with or withoutelevation at his option, by means of a chair, stepstool, ladder or any othermeans of elevation, grasp the party of the second part and rotate the partyof the second part in a counter-clockwise direction, this point being tenderednon-negotiable.  Upon reaching a point where the party of the second partbecomes fully detached from the receptacle, the party of the first part shallhave the option of disposing of the party of the second part in a mannerconsistent with all relevant and applicable local, state and federal statutes.Once separation and disposal have been achieved, the party of the first partshall have the option of beginning installation.  Aforesaid installation shalloccur in a manner consistent with the reverse of the procedures described instep one of this self-same document, being careful to note that the rotationshould occur in a clockwise direction, this point also being non-negotiable.The above described steps may be performed, at the option of the party of thefirst part, by any or all agents authorized by him, the objective being toproduce the most possible revenue for the Partnership.
+When I reflect upon the number of disagreeable people who I know who have goneto a better world, I am moved to lead a different life.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many lawyers does it take to change a light bulb?A:	Whereas the party of 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Absolutly Screwed Up</strong></div></td>
+      <td><div align="center"><strong>Scottish Highland Liqueur</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/upqvvp1441253441.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Absolut Citron, 1 shot  Orange juice, 1 shot  Triple sec, Fill to top  Ginger ale</td>
+      <td><b>Ingredients:</b> 1 fifth  Johnnie Walker, 1 1/2 cup mild  Honey, 2 tsp dried and chopped  Angelica root, 1/4 tsp crushed  Fennel seeds, 2 2 inch strips  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.</td>
+      <td><b>Instructions:</b> Combine all ingreds in aging container. Cover tightly and shake gently several times during the first 24 hrs. After 24 hrs, remove the lemon zest. Cover again and let stand in a cool, dark place for 2 weeks, shaking gently every other day. Strain through a wire sieve to remove the angelica root and fennel. Return to aging container, cover and let stand undisturbed in a cool dark place for 6 months. Siphon or pour clear liqueur into a sterile bottle. The cloudy dregs may be saved for cooking.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many lawyers does it take to change a light bulb?A:	Whereas the party of 
 <br>
 </details>
 
-**98 day before 2026 ⏱** days before new year
+**97 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.81°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.58°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:27 and sets 🌇 at 19:29
+  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 19:27
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many lawyers does it take to change a light bulb?A:	Whereas the party of 
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 25 2025
+  Last update on Fri Sep 26 2025
   </div>
 <br>
 
