@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-When I reflect upon the number of disagreeable people who I know who have goneto a better world, I am moved to lead a different life.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Q:	How many elephants can you fit in a VW Bug?A:	Four.  Two in the front, two in the back.Q:	How can you tell if an elephant is in your refrigerator?A:	There's a footprint in the mayo.Q:	How can you tell if two elephants are in your refrigerator?A:	There's two footprints in the mayo.Q:	How can you tell if three elephants are in your refrigerator?A:	The door won't shut.Q:	How can you tell if four elephants are in your refrigerator?A:	There's a VW Bug in your driveway.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ When I reflect upon the number of disagreeable people who I know who have goneto
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Scottish Highland Liqueur</strong></div></td>
+      <td><div align="center"><strong>Banana Milk Shake</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/upqvvp1441253441.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> White wine glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 fifth  Johnnie Walker, 1 1/2 cup mild  Honey, 2 tsp dried and chopped  Angelica root, 1/4 tsp crushed  Fennel seeds, 2 2 inch strips  Lemon peel</td>
+      <td><b>Ingredients:</b> 10 cl cold  Milk, 4 cl  Orange juice, 2 tsp  Sugar syrup, 1/2  Banana</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingreds in aging container. Cover tightly and shake gently several times during the first 24 hrs. After 24 hrs, remove the lemon zest. Cover again and let stand in a cool, dark place for 2 weeks, shaking gently every other day. Strain through a wire sieve to remove the angelica root and fennel. Return to aging container, cover and let stand undisturbed in a cool dark place for 6 months. Siphon or pour clear liqueur into a sterile bottle. The cloudy dregs may be saved for cooking.</td>
+      <td><b>Instructions:</b> Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ When I reflect upon the number of disagreeable people who I know who have goneto
 <br>
 </details>
 
-**97 day before 2026 ⏱** days before new year
+**96 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.58°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 19:27
+  The sun ☀️ rise 🌄 at 07:29 and sets 🌇 at 19:25
   </div>
 <br>
 
@@ -117,7 +117,7 @@ When I reflect upon the number of disagreeable people who I know who have goneto
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 26 2025
+  Last update on Sat Sep 27 2025
   </div>
 <br>
 
