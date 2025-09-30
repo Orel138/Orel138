@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Try to have as good a life as you can under the circumstances.
+Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul is grooved to run.  Over unsounded gorges, throughthe rifled hearts of mountains, under torrents' beds, unerringly I rush!		-- Captain Ahab, "Moby Dick"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Try to have as good a life as you can under the circumstances.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brainteaser</strong></div></td>
+      <td><div align="center"><strong>Jack's Vanilla Coke</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 30 ml white  Sambuca, 30 ml  Erin Cream, 5 ml  Advocaat</td>
+      <td><b>Ingredients:</b> 4-5  Ice, 2 oz  Tennessee whiskey, 1 tsp  Vanilla extract, 10-12 oz  Coca-Cola</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.</td>
+      <td><b>Instructions:</b> After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Try to have as good a life as you can under the circumstances.
 <br>
 </details>
 
-**94 day before 2026 ⏱** days before new year
+**93 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.56°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.84°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:32 and sets 🌇 at 19:21
+  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 19:19
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Try to have as good a life as you can under the circumstances.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 29 2025
+  Last update on Tue Sep 30 2025
   </div>
 <br>
 
