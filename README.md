@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What does it say on the bottom of Coke cans in North Dakota?A:	Open other end.
+You are a very redundant person, that's what kind of person you are.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What does it say on the bottom of Coke cans in North Dakota?A:	Open other end
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto fizz</strong></div></td>
+      <td><div align="center"><strong>Mint Julep</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/92h3jz1582474310.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/squyyq1439907312.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl Amaretto, 6 cl Orange Juice, 15 cl White Wine, Garnish with Orange Peel</td>
+      <td><b>Ingredients:</b> 4 fresh  Mint, 2 1/2 oz  Bourbon, 1 tsp  Powdered sugar, 2 tsp  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix Amaretto, orange juice and sparkling wine in a jug. Add a strip orange zest to each glass, if you like.</td>
+      <td><b>Instructions:</b> In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What does it say on the bottom of Coke cans in North Dakota?A:	Open other end
 <br>
 </details>
 
-**90 day before 2026 ⏱** days before new year
+**89 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.34°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 9.4°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 19:14
+  The sun ☀️ rise 🌄 at 07:38 and sets 🌇 at 19:12
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What does it say on the bottom of Coke cans in North Dakota?A:	Open other end
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Oct 03 2025
+  Last update on Sat Oct 04 2025
   </div>
 <br>
 
