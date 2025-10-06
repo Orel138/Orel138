@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You may be gone tomorrow, but that doesn't mean that you weren't here today.
+There is a fly on your nose.
 </details>
 
 <details>
@@ -74,22 +74,19 @@ You may be gone tomorrow, but that doesn't mean that you weren't here today.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Greyhound</strong></div></td>
+      <td><div align="center"><strong>Amaretto Stone Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwryyx1472719921.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz Vodka, 3 oz Grapefruit Juice</td>
+      <td><b>Ingredients:</b> 1 part  Amaretto, 1 part  Sour mix, 1 part  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add the vodka to a Collins glass filled with ice.
-Top with grapefruit juice and stir.
-
-</td>
+      <td><b>Instructions:</b> Shake and Serve over ice</td>
     </tr>
   </table>
 </div>
@@ -100,13 +97,13 @@ Top with grapefruit juice and stir.
 <br>
 </details>
 
-**88 day before 2026 ⏱** days before new year
+**87 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.63°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 3.74°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:39 and sets 🌇 at 19:10
+  The sun ☀️ rise 🌄 at 07:40 and sets 🌇 at 19:08
   </div>
 <br>
 
@@ -120,7 +117,7 @@ Top with grapefruit juice and stir.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Oct 05 2025
+  Last update on Mon Oct 06 2025
   </div>
 <br>
 
