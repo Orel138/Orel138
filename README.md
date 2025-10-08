@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Beware of a tall black man with one blond shoe.
+Reply hazy, ask again later.
 </details>
 
 <details>
@@ -74,27 +74,19 @@ Beware of a tall black man with one blond shoe.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zombie</strong></div></td>
+      <td><div align="center"><strong>Vodka Russian</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2en3jk1509557725.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rpttur1454515129.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Hurricane glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz Rum, 1 1/2 oz Gold rum, 1 oz 151 proof rum, 1 tsp Pernod, 1 tsp Grenadine, 1 tsp Lime Juice, 1 drop Angostura Bitters</td>
+      <td><b>Ingredients:</b> 2 oz  Vodka, Schweppes Russchian</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend at high speed for no more than 5 seconds.
-
-Pour into a glass, add ice cubes to fill, then add the garnish.
-
-*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
-
-Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
-
-Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td>
+      <td><b>Instructions:</b> Mix it as a ordinary drink .</td>
     </tr>
   </table>
 </div>
@@ -105,13 +97,13 @@ Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td
 <br>
 </details>
 
-**86 day before 2026 ⏱** days before new year
+**85 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 1.98°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.41°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:42 and sets 🌇 at 19:06
+  The sun ☀️ rise 🌄 at 07:43 and sets 🌇 at 19:04
   </div>
 <br>
 
@@ -125,7 +117,7 @@ Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.</td
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 07 2025
+  Last update on Wed Oct 08 2025
   </div>
 <br>
 
