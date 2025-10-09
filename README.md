@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Reply hazy, ask again later.
+You have an unusual magnetic personality.  Don't walk too close tometal objects which are not fastened down.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Reply hazy, ask again later.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vodka Russian</strong></div></td>
+      <td><div align="center"><strong>Old Cuban</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rpttur1454515129.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, Schweppes Russchian</td>
+      <td><b>Ingredients:</b> 2 oz White Rum, 1 oz Sugar Syrup, 1 oz Lime Juice, 2 dashes Angostura Bitters, 2 oz Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix it as a ordinary drink .</td>
+      <td><b>Instructions:</b> Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Reply hazy, ask again later.
 <br>
 </details>
 
-**85 day before 2026 ⏱** days before new year
+**84 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.41°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.75°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:43 and sets 🌇 at 19:04
+  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 19:03
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Reply hazy, ask again later.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Oct 08 2025
+  Last update on Thu Oct 09 2025
   </div>
 <br>
 
