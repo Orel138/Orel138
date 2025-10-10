@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have an unusual magnetic personality.  Don't walk too close tometal objects which are not fastened down.
+You teach best what you most need to learn.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have an unusual magnetic personality.  Don't walk too close tometal objects 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Old Cuban</strong></div></td>
+      <td><div align="center"><strong>Havana Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz White Rum, 1 oz Sugar Syrup, 1 oz Lime Juice, 2 dashes Angostura Bitters, 2 oz Prosecco</td>
+      <td><b>Ingredients:</b> 1 oz  Light rum, 1 oz  Pineapple juice, 1 tsp  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have an unusual magnetic personality.  Don't walk too close tometal objects 
 <br>
 </details>
 
-**84 day before 2026 ⏱** days before new year
+**83 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.75°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 19:03
+  The sun ☀️ rise 🌄 at 07:45 and sets 🌇 at 19:01
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have an unusual magnetic personality.  Don't walk too close tometal objects 
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Oct 09 2025
+  Last update on Fri Oct 10 2025
   </div>
 <br>
 
