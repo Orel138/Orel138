@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You'll be sorry...
+So so is good, very good, very excellent good:and yet it is not; it is but so so.		-- William Shakespeare, "As You Like It"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You'll be sorry...
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Cooler</strong></div></td>
+      <td><div align="center"><strong>Alabama Slammer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/678xt11582481163.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jntghf1606771886.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, Carbonated water, Powdered sugar, Orange spiral, Lemon peel</td>
+      <td><b>Ingredients:</b> 1 oz  Southern Comfort, 1 oz  Amaretto, 1/2 oz  Sloe gin, 1 dash  Lemon juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.</td>
+      <td><b>Instructions:</b> Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You'll be sorry...
 <br>
 </details>
 
-**80 day before 2026 ⏱** days before new year
+**79 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 4.2°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.09°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 18:55
+  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 18:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You'll be sorry...
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Oct 13 2025
+  Last update on Tue Oct 14 2025
   </div>
 <br>
 
