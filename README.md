@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will step on the night soil of many countries.
+You will get what you deserve.
 </details>
 
 <details>
@@ -74,19 +74,23 @@ You will step on the night soil of many countries.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Irish Curdling Cow</strong></div></td>
+      <td><div align="center"><strong>Hot Toddy</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ggx0lv1613942306.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Irish coffee cup</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Baileys irish cream, 3/4 oz  Bourbon, 3/4 oz  Vodka, 2-3 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 50 ml Whiskey, 15 ml Honey, 1 Cinnamon, 1 lemon, 2 Cloves</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.</td>
+      <td><b>Instructions:</b> STEP 1
+Whisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.
+
+STEP 2
+Add a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ You will step on the night soil of many countries.
 <br>
 </details>
 
-**78 day before 2026 ⏱** days before new year
+**77 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.82°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.09°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:52 and sets 🌇 at 18:52
+  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 18:50
   </div>
 <br>
 
@@ -117,7 +121,7 @@ You will step on the night soil of many countries.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Oct 15 2025
+  Last update on Thu Oct 16 2025
   </div>
 <br>
 
