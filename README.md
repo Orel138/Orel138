@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Change your thoughts and you change your world.
+Q:	What do you say to a New Yorker with a job?A:	Big Mac, fries and a Coke, please!
 </details>
 
 <details>
@@ -74,23 +74,19 @@ Change your thoughts and you change your world.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Hot Toddy</strong></div></td>
+      <td><div align="center"><strong>Egg-Nog - Classic Cooked</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ggx0lv1613942306.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Irish coffee cup</td>
+      <td><b>Type of glass:</b> Pitcher</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Whiskey, 15 ml Honey, 1 Cinnamon, 1 lemon, 2 Cloves</td>
+      <td><b>Ingredients:</b> 6  Egg, 1/4 cup  Sugar, 1/4 tsp  Salt, 1 qt  Milk, 1 tsp  Vanilla extract</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> STEP 1
-Whisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.
-
-STEP 2
-Add a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.</td>
+      <td><b>Instructions:</b> In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +97,13 @@ Add a splash of lemon juice to each, then taste and add more to your preference.
 <br>
 </details>
 
-**76 day before 2026 ⏱** days before new year
+**75 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.19°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.54°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:54 and sets 🌇 at 18:48
+  The sun ☀️ rise 🌄 at 07:56 and sets 🌇 at 18:47
   </div>
 <br>
 
@@ -121,7 +117,7 @@ Add a splash of lemon juice to each, then taste and add more to your preference.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Oct 17 2025
+  Last update on Sat Oct 18 2025
   </div>
 <br>
 
