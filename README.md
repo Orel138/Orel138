@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you say to a New Yorker with a job?A:	Big Mac, fries and a Coke, please!
+Q:	What's the difference between a dead dog in the road and a dead	lawyer in the road?A:	There are skid marks in front of the dog.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do you say to a New Yorker with a job?A:	Big Mac, fries and a Coke, plea
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Egg-Nog - Classic Cooked</strong></div></td>
+      <td><div align="center"><strong>Champagne Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/t5pv461606773026.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pitcher</td>
+      <td><b>Type of glass:</b> Champagne flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6  Egg, 1/4 cup  Sugar, 1/4 tsp  Salt, 1 qt  Milk, 1 tsp  Vanilla extract</td>
+      <td><b>Ingredients:</b> Chilled  Champagne, 1 piece  Sugar, 2 dashes  Bitters, 1 twist of  Lemon peel, 1 dash Cognac</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.</td>
+      <td><b>Instructions:</b> Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What do you say to a New Yorker with a job?A:	Big Mac, fries and a Coke, plea
 <br>
 </details>
 
-**75 day before 2026 ⏱** days before new year
+**74 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.54°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.21°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:56 and sets 🌇 at 18:47
+  The sun ☀️ rise 🌄 at 07:57 and sets 🌇 at 18:45
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What do you say to a New Yorker with a job?A:	Big Mac, fries and a Coke, plea
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Oct 18 2025
+  Last update on Sun Oct 19 2025
   </div>
 <br>
 
