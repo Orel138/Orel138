@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You look like a million dollars.  All green and wrinkled.
+You'll never be the man your mother was!
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You look like a million dollars.  All green and wrinkled.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Alaska Cocktail</strong></div></td>
+      <td><div align="center"><strong>Shanghai Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyryt1483387720.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1478820678.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 dashes  Orange bitters, 1 1/2 oz  Gin, 3/4 oz  Yellow Chartreuse, Twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 1 oz Jamaican  Light rum, 1 tsp  Anisette, 1/2 tsp  Grenadine, Juice of 1/4  Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You look like a million dollars.  All green and wrinkled.
 <br>
 </details>
 
-**72 day before 2026 ⏱** days before new year
+**71 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.54°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.36°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:00 and sets 🌇 at 18:42
+  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 18:40
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You look like a million dollars.  All green and wrinkled.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 21 2025
+  Last update on Wed Oct 22 2025
   </div>
 <br>
 
