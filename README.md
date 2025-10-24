@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The bay-trees in our country are all wither'dAnd meteors fright the fixed stars of heaven;The pale-faced moon looks bloody on the earthAnd lean-look'd prophets whisper fearful change.These signs forerun the death or fall of kings.		-- Wm. Shakespeare, "Richard II"
+Save energy: be apathetic.
 </details>
 
 <details>
@@ -74,19 +74,21 @@ The bay-trees in our country are all wither'dAnd meteors fright the fixed stars 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Long Island Tea</strong></div></td>
+      <td><div align="center"><strong>Halloween Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7hcgyj1571687671.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Punch bowl</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Vodka, 1/2 oz  Light rum, 1/2 oz  Gin, 1/2 oz  Tequila, Juice of 1/2  Lemon, 1 splash  Coca-Cola</td>
+      <td><b>Ingredients:</b> 1 bottle Cherry Juice, 3 Orange Peel, 1 Red Chili Flakes, 10 Cloves, 6 Ginger, 20 cl Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.</td>
+      <td><b>Instructions:</b> Tip the cherry juice, orange peel, chilli, cinnamon sticks, cloves and ginger into a large saucepan. Simmer for 5 mins, then turn off the heat. Leave to cool, then chill for at least 4 hrs, or up to 2 days – the longer you leave it the more intense the flavours. If serving to young children, take the chilli out after a few hours.
+
+When you’re ready to serve, pour the juice into a jug. Serve in glass bottles or glasses and pop a straw in each. If you're adding vodka, do so at this stage. Dangle a fangs sweet from each glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +99,13 @@ The bay-trees in our country are all wither'dAnd meteors fright the fixed stars 
 <br>
 </details>
 
-**70 day before 2026 ⏱** days before new year
+**69 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.15°C), heavy intensity rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:02 and sets 🌇 at 18:38
+  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 18:37
   </div>
 <br>
 
@@ -117,7 +119,7 @@ The bay-trees in our country are all wither'dAnd meteors fright the fixed stars 
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Oct 23 2025
+  Last update on Fri Oct 24 2025
   </div>
 <br>
 
