@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-October 12, the Discovery.It was wonderful to find America, but it would have been more wonderful to missit.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Grief can take care of itself; but to get the full value of a joy you musthave somebody to divide it with.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ October 12, the Discovery.It was wonderful to find America, but it would have be
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Monkey Gland</strong></div></td>
+      <td><div align="center"><strong>The Galah</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 tsp  Benedictine, 1/2 oz  Orange juice, 1 tsp  Grenadine</td>
+      <td><b>Ingredients:</b> 1 shot Dark Rum, 1 shot Campari, 1/2 shot Creme De Banane, Top Pineapple Juice, Top Lime Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Mix together the alcoholic portions and top with Pineapple and Lime juice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ October 12, the Discovery.It was wonderful to find America, but it would have be
 <br>
 </details>
 
-**67 day before 2026 ⏱** days before new year
+**66 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.82°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -1.35°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:06 and sets 🌇 at 17:34
+  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 17:32
   </div>
 <br>
 
@@ -117,7 +117,7 @@ October 12, the Discovery.It was wonderful to find America, but it would have be
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Oct 26 2025
+  Last update on Mon Oct 27 2025
   </div>
 <br>
 
