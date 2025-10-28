@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Grief can take care of itself; but to get the full value of a joy you musthave somebody to divide it with.		-- Mark Twain
+Generosity and perfection are your everlasting goals.
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Grief can take care of itself; but to get the full value of a joy you musthave s
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Galah</strong></div></td>
+      <td><div align="center"><strong>Thai Iced Coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rqpypv1441245650.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Dark Rum, 1 shot Campari, 1/2 shot Creme De Banane, Top Pineapple Juice, Top Lime Juice</td>
+      <td><b>Ingredients:</b> black Coffee, Sugar, pods
+ Cream, Cardamom</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together the alcoholic portions and top with Pineapple and Lime juice.</td>
+      <td><b>Instructions:</b> Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ Grief can take care of itself; but to get the full value of a joy you musthave s
 <br>
 </details>
 
-**66 day before 2026 ⏱** days before new year
+**65 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -1.35°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.65°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 17:32
+  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 17:31
   </div>
 <br>
 
@@ -117,7 +118,7 @@ Grief can take care of itself; but to get the full value of a joy you musthave s
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Oct 27 2025
+  Last update on Tue Oct 28 2025
   </div>
 <br>
 
