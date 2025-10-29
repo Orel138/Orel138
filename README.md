@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Generosity and perfection are your everlasting goals.
+Delay not, Caesar.  Read it instantly.		-- Shakespeare, "Julius Caesar" 3,1Here is a letter, read it at your leisure.		-- Shakespeare, "Merchant of Venice" 5,1	[Quoted in "VMS Internals and Data Structures", V4.4, when	 referring to I/O system services.]
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Generosity and perfection are your everlasting goals.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Thai Iced Coffee</strong></div></td>
+      <td><div align="center"><strong>Gin Tonic</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rqpypv1441245650.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qcgz0t1643821443.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> black Coffee, Sugar, pods
- Cream, Cardamom</td>
+      <td><b>Ingredients:</b> 4 cl Gin, 10 cl Tonic Water, 1 Slice Lemon Peel, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.</td>
+      <td><b>Instructions:</b> Fill a highball glass with ice, pour the gin, top with tonic water and squeeze a lemon wedge and garnish with a lemon wedge.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ Generosity and perfection are your everlasting goals.
 <br>
 </details>
 
-**65 day before 2026 ⏱** days before new year
+**64 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.65°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.27°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 17:31
+  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 17:29
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Generosity and perfection are your everlasting goals.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 28 2025
+  Last update on Wed Oct 29 2025
   </div>
 <br>
 
