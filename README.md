@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Delay not, Caesar.  Read it instantly.		-- Shakespeare, "Julius Caesar" 3,1Here is a letter, read it at your leisure.		-- Shakespeare, "Merchant of Venice" 5,1	[Quoted in "VMS Internals and Data Structures", V4.4, when	 referring to I/O system services.]
+It is easy to find fault, if one has that disposition.  There was once a manwho, not being able to find any other fault with his coal, complained thatthere were too many prehistoric toads in it.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Delay not, Caesar.  Read it instantly.		-- Shakespeare, "Julius Caesar" 3,1Here 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Tonic</strong></div></td>
+      <td><div align="center"><strong>The Philosopher</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qcgz0t1643821443.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl Gin, 10 cl Tonic Water, 1 Slice Lemon Peel, cubes Ice</td>
+      <td><b>Ingredients:</b> 1 shot Gin, 1 shot Melon Liqueur, 1 dash Orange Bitters, 1 dash Lemon Juice, Top Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a highball glass with ice, pour the gin, top with tonic water and squeeze a lemon wedge and garnish with a lemon wedge.</td>
+      <td><b>Instructions:</b> Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Delay not, Caesar.  Read it instantly.		-- Shakespeare, "Julius Caesar" 3,1Here 
 <br>
 </details>
 
-**64 day before 2026 ⏱** days before new year
+**63 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.27°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 5.31°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 17:29
+  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 17:28
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Delay not, Caesar.  Read it instantly.		-- Shakespeare, "Julius Caesar" 3,1Here 
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Oct 29 2025
+  Last update on Thu Oct 30 2025
   </div>
 <br>
 
