@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-It is easy to find fault, if one has that disposition.  There was once a manwho, not being able to find any other fault with his coal, complained thatthere were too many prehistoric toads in it.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+You may worry about your hair-do today, but tomorrow much peanut butter willbe sold.
 </details>
 
 <details>
@@ -74,19 +74,20 @@ It is easy to find fault, if one has that disposition.  There was once a manwho,
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Philosopher</strong></div></td>
+      <td><div align="center"><strong>Bijou</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Margarita glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Gin, 1 shot Melon Liqueur, 1 dash Orange Bitters, 1 dash Lemon Juice, Top Prosecco</td>
+      <td><b>Ingredients:</b> 1 dash Orange Bitters, 1 oz Green Chartreuse, 1 oz Gin, 1 oz Sweet Vermouth</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.</td>
+      <td><b>Instructions:</b> Stir in mixing glass with ice and strain
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ It is easy to find fault, if one has that disposition.  There was once a manwho,
 <br>
 </details>
 
-**63 day before 2026 ⏱** days before new year
+**62 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 5.31°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.9°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 17:28
+  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 17:26
   </div>
 <br>
 
@@ -117,7 +118,7 @@ It is easy to find fault, if one has that disposition.  There was once a manwho,
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Oct 30 2025
+  Last update on Fri Oct 31 2025
   </div>
 <br>
 
