@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You're at the end of the road again.
+Tomorrow, you can be anywhere.
 </details>
 
 <details>
@@ -74,22 +74,32 @@ You're at the end of the road again.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Greyhound</strong></div></td>
+      <td><div align="center"><strong>Frosé</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b4cadp1619695347.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz Vodka, 3 oz Grapefruit Juice</td>
+      <td><b>Ingredients:</b> 750 ml Rose, 1/2 cup Sugar, 8 oz Strawberries, 2-3 oz Lemon Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add the vodka to a Collins glass filled with ice.
-Top with grapefruit juice and stir.
+      <td><b>Instructions:</b> Step 1
+Pour rosé into a 13x9" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.
 
-</td>
+Step 2
+Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
+
+Step 3
+Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
+
+Step 4
+Blend again until frosé is slushy. Divide among glasses.
+
+Step 5
+Do Ahead: Rosé can be frozen 1 week ahead.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +110,13 @@ Top with grapefruit juice and stir.
 <br>
 </details>
 
-**60 day before 2026 ⏱** days before new year
+**59 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -3.17°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 17:23
+  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 17:22
   </div>
 <br>
 
@@ -120,7 +130,7 @@ Top with grapefruit juice and stir.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 02 2025
+  Last update on Mon Nov 03 2025
   </div>
 <br>
 
