@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tomorrow, you can be anywhere.
+Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Taming of the Shrew"
 </details>
 
 <details>
@@ -74,32 +74,19 @@ Tomorrow, you can be anywhere.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Frosé</strong></div></td>
+      <td><div align="center"><strong>Kentucky Colonel</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b4cadp1619695347.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/utqwpu1478820348.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 750 ml Rose, 1/2 cup Sugar, 8 oz Strawberries, 2-3 oz Lemon Juice</td>
+      <td><b>Ingredients:</b> 3 oz  Bourbon, 1/2 oz  Benedictine, 1 twist of  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Step 1
-Pour rosé into a 13x9" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.
-
-Step 2
-Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
-
-Step 3
-Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
-
-Step 4
-Blend again until frosé is slushy. Divide among glasses.
-
-Step 5
-Do Ahead: Rosé can be frozen 1 week ahead.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.</td>
     </tr>
   </table>
 </div>
@@ -110,13 +97,13 @@ Do Ahead: Rosé can be frozen 1 week ahead.</td>
 <br>
 </details>
 
-**59 day before 2026 ⏱** days before new year
+**58 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -3.17°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.85°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 17:22
+  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 17:21
   </div>
 <br>
 
@@ -130,7 +117,7 @@ Do Ahead: Rosé can be frozen 1 week ahead.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Nov 03 2025
+  Last update on Tue Nov 04 2025
   </div>
 <br>
 
