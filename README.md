@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Taming of the Shrew"
+Stay away from flying saucers today.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Tamin
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kentucky Colonel</strong></div></td>
+      <td><div align="center"><strong>Highland Fling Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/utqwpu1478820348.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 oz  Bourbon, 1/2 oz  Benedictine, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 3/4 oz  Sweet Vermouth, 2 dashes  Orange bitters, 1  Olive</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.</td>
+      <td><b>Instructions:</b> Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Tamin
 <br>
 </details>
 
-**58 day before 2026 ⏱** days before new year
+**57 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.85°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.82°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 17:21
+  The sun ☀️ rise 🌄 at 07:20 and sets 🌇 at 17:19
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Tamin
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Nov 04 2025
+  Last update on Wed Nov 05 2025
   </div>
 <br>
 
