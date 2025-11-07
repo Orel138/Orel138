@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The mind is its own place, and in itselfCan make a Heav'n of Hell, a Hell of Heav'n.		-- John Milton
+Slow day.  Practice crawling.
 </details>
 
 <details>
@@ -74,19 +74,23 @@ The mind is its own place, and in itselfCan make a Heav'n of Hell, a Hell of Hea
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Tonic</strong></div></td>
+      <td><div align="center"><strong>Mauresque</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qcgz0t1643821443.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/duwfa11686236556.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl Gin, 10 cl Tonic Water, 1 Slice Lemon Peel, cubes Ice</td>
+      <td><b>Ingredients:</b> 3 cl Ricard, 1 cl Orgeat Syrup, Full Glass Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a highball glass with ice, pour the gin, top with tonic water and squeeze a lemon wedge and garnish with a lemon wedge.</td>
+      <td><b>Instructions:</b> 1 - Pour the Ricard (or pastis)
+2 - Pour the orgeat syrup
+3 - Finally pour the water and add ice cubes at your convenience.
+
+Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ The mind is its own place, and in itselfCan make a Heav'n of Hell, a Hell of Hea
 <br>
 </details>
 
-**56 day before 2026 ⏱** days before new year
+**55 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.03°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.09°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:22 and sets 🌇 at 17:18
+  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 17:17
   </div>
 <br>
 
@@ -117,7 +121,7 @@ The mind is its own place, and in itselfCan make a Heav'n of Hell, a Hell of Hea
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 06 2025
+  Last update on Fri Nov 07 2025
   </div>
 <br>
 
