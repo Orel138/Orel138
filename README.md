@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Slow day.  Practice crawling.
+You have a strong appeal for members of the opposite sex.
 </details>
 
 <details>
@@ -74,23 +74,19 @@ Slow day.  Practice crawling.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mauresque</strong></div></td>
+      <td><div align="center"><strong>Black and Brown</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/duwfa11686236556.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wwuvxv1472668899.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Beer pilsner</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 cl Ricard, 1 cl Orgeat Syrup, Full Glass Water</td>
+      <td><b>Ingredients:</b> 1/2  Guinness stout, 1/2  Root beer</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> 1 - Pour the Ricard (or pastis)
-2 - Pour the orgeat syrup
-3 - Finally pour the water and add ice cubes at your convenience.
-
-Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</td>
+      <td><b>Instructions:</b> CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +97,13 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</t
 <br>
 </details>
 
-**55 day before 2026 ⏱** days before new year
+**54 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.09°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.59°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 17:17
+  The sun ☀️ rise 🌄 at 07:24 and sets 🌇 at 17:15
   </div>
 <br>
 
@@ -121,7 +117,7 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</t
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Nov 07 2025
+  Last update on Sat Nov 08 2025
   </div>
 <br>
 
