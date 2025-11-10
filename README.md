@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The Boy Scouts have adult supervision.
+Best of all is never to have been born.  Second best is to die soon.
 </details>
 
 <details>
@@ -74,25 +74,19 @@ Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bellini Martini</strong></div></td>
+      <td><div align="center"><strong>Black Forest Shake</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 8 cubes Ice, 3 oz  Vodka, 1.5 oz  Peach nectar, 1.5 oz  Peach schnapps, 1  Lemon peel</td>
+      <td><b>Ingredients:</b> cubes Ice, Chocolate syrup, Cherry brandy, Vodka, Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add ice cubes to shaker.
-Add vodka.
-Add peach schnapps.
-Add peach nectar.
-Shake.
-Strain into glass.
-Add lemon twist peel.</td>
+      <td><b>Instructions:</b> In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.</td>
     </tr>
   </table>
 </div>
@@ -103,13 +97,13 @@ Add lemon twist peel.</td>
 <br>
 </details>
 
-**53 day before 2026 ⏱** days before new year
+**52 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.59°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.83°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:26 and sets 🌇 at 17:14
+  The sun ☀️ rise 🌄 at 07:27 and sets 🌇 at 17:13
   </div>
 <br>
 
@@ -123,7 +117,7 @@ Add lemon twist peel.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 09 2025
+  Last update on Mon Nov 10 2025
   </div>
 <br>
 
