@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-I'll burn my books.		-- Christopher Marlowe
+Q:	What is the difference between a duck?A:	One leg is both the same.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ I'll burn my books.		-- Christopher Marlowe
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto fizz</strong></div></td>
+      <td><div align="center"><strong>Arizona Antifreeze</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/92h3jz1582474310.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dbtylp1493067262.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl Amaretto, 6 cl Orange Juice, 15 cl White Wine, Garnish with Orange Peel</td>
+      <td><b>Ingredients:</b> 1/3 oz  Vodka, 1/3 oz  Midori melon liqueur, 1/3 oz  Sweet and sour</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix Amaretto, orange juice and sparkling wine in a jug. Add a strip orange zest to each glass, if you like.</td>
+      <td><b>Instructions:</b> Pour all ingredients into shot glass and slam !!!!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ I'll burn my books.		-- Christopher Marlowe
 <br>
 </details>
 
-**50 day before 2026 ⏱** days before new year
+**49 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 1.58°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 3.6°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 17:11
+  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 17:10
   </div>
 <br>
 
@@ -117,7 +117,7 @@ I'll burn my books.		-- Christopher Marlowe
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Nov 12 2025
+  Last update on Thu Nov 13 2025
   </div>
 <br>
 
