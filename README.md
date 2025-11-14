@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What is the difference between a duck?A:	One leg is both the same.
+Q:	How many Martians does it take to screw in a light bulb?A:	One and a half.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What is the difference between a duck?A:	One leg is both the same.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Arizona Antifreeze</strong></div></td>
+      <td><div align="center"><strong>The Philosopher</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dbtylp1493067262.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/3 oz  Vodka, 1/3 oz  Midori melon liqueur, 1/3 oz  Sweet and sour</td>
+      <td><b>Ingredients:</b> 1 shot Gin, 1 shot Melon Liqueur, 1 dash Orange Bitters, 1 dash Lemon Juice, Top Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into shot glass and slam !!!!</td>
+      <td><b>Instructions:</b> Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What is the difference between a duck?A:	One leg is both the same.
 <br>
 </details>
 
-**49 day before 2026 ⏱** days before new year
+**48 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 3.6°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 4.85°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 17:10
+  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 17:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What is the difference between a duck?A:	One leg is both the same.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 13 2025
+  Last update on Fri Nov 14 2025
   </div>
 <br>
 
