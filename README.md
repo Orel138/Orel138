@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many Martians does it take to screw in a light bulb?A:	One and a half.
+Learn to pause -- or nothing worthwhile can catch up to you.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many Martians does it take to screw in a light bulb?A:	One and a half.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Philosopher</strong></div></td>
+      <td><div align="center"><strong>Egg-Nog - Classic Cooked</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Margarita glass</td>
+      <td><b>Type of glass:</b> Pitcher</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Gin, 1 shot Melon Liqueur, 1 dash Orange Bitters, 1 dash Lemon Juice, Top Prosecco</td>
+      <td><b>Ingredients:</b> 6  Egg, 1/4 cup  Sugar, 1/4 tsp  Salt, 1 qt  Milk, 1 tsp  Vanilla extract</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.</td>
+      <td><b>Instructions:</b> In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many Martians does it take to screw in a light bulb?A:	One and a half.
 <br>
 </details>
 
-**48 day before 2026 ⏱** days before new year
+**47 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 4.85°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 5.77°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 17:09
+  The sun ☀️ rise 🌄 at 07:34 and sets 🌇 at 17:08
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many Martians does it take to screw in a light bulb?A:	One and a half.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Nov 14 2025
+  Last update on Sat Nov 15 2025
   </div>
 <br>
 
