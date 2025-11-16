@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Learn to pause -- or nothing worthwhile can catch up to you.
+The only people for me are the mad ones -- the ones who are mad to live,mad to talk, mad to be saved, desirous of everything at the same time,the ones who never yawn or say a commonplace thing, but burn, burn, burnlike fabulous yellow Roman candles.		-- Jack Kerouac, "On the Road"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Learn to pause -- or nothing worthwhile can catch up to you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Egg-Nog - Classic Cooked</strong></div></td>
+      <td><div align="center"><strong>Pineapple Gingerale Smoothie</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eg9i1d1487603469.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pitcher</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6  Egg, 1/4 cup  Sugar, 1/4 tsp  Salt, 1 qt  Milk, 1 tsp  Vanilla extract</td>
+      <td><b>Ingredients:</b> 1/4 inch  Ginger, 1/2  Pineapple</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.</td>
+      <td><b>Instructions:</b> Throw everything into a blender and liquify.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Learn to pause -- or nothing worthwhile can catch up to you.
 <br>
 </details>
 
-**47 day before 2026 ⏱** days before new year
+**46 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 5.77°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.23°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:34 and sets 🌇 at 17:08
+  The sun ☀️ rise 🌄 at 07:36 and sets 🌇 at 17:07
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Learn to pause -- or nothing worthwhile can catch up to you.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Nov 15 2025
+  Last update on Sun Nov 16 2025
   </div>
 <br>
 
