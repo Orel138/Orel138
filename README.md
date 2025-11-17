@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The only people for me are the mad ones -- the ones who are mad to live,mad to talk, mad to be saved, desirous of everything at the same time,the ones who never yawn or say a commonplace thing, but burn, burn, burnlike fabulous yellow Roman candles.		-- Jack Kerouac, "On the Road"
+Good day to deal with people in high places; particularly lonely stewardesses.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The only people for me are the mad ones -- the ones who are mad to live,mad to t
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pineapple Gingerale Smoothie</strong></div></td>
+      <td><div align="center"><strong>Russian Spring Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eg9i1d1487603469.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/4 inch  Ginger, 1/2  Pineapple</td>
+      <td><b>Ingredients:</b> 2.5 cl Vodka, 1.5 cl Creme de Cassis, 1 cl Sugar Syrup, 2.5 cl Lemon Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Throw everything into a blender and liquify.</td>
+      <td><b>Instructions:</b> Pour the ingredients into an highball glass, top with Sparkling wine.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The only people for me are the mad ones -- the ones who are mad to live,mad to t
 <br>
 </details>
 
-**46 day before 2026 ⏱** days before new year
+**45 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.23°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.37°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:36 and sets 🌇 at 17:07
+  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 17:06
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The only people for me are the mad ones -- the ones who are mad to live,mad to t
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 16 2025
+  Last update on Mon Nov 17 2025
   </div>
 <br>
 
