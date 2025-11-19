@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Cheer Up!  Things are getting worse at a slower rate.
+You are farsighted, a good planner, an ardent lover, and a faithful friend.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Cheer Up!  Things are getting worse at a slower rate.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Almond Chocolate Coffee</strong></div></td>
+      <td><div align="center"><strong>Jewel Of The Nile</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jls02c1493069441.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hx4nrb1504884947.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Amaretto, 1/2 oz  Dark Creme de Cacao, 8 oz  Coffee</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Green Chartreuse, 1/2 oz  Yellow Chartreuse</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.</td>
+      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Cheer Up!  Things are getting worse at a slower rate.
 <br>
 </details>
 
-**44 day before 2026 ⏱** days before new year
+**43 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -8.1°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-8°C (felt -8.02°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:38 and sets 🌇 at 17:05
+  The sun ☀️ rise 🌄 at 07:40 and sets 🌇 at 17:04
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Cheer Up!  Things are getting worse at a slower rate.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Nov 18 2025
+  Last update on Wed Nov 19 2025
   </div>
 <br>
 
