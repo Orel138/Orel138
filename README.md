@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Break into jail and claim police brutality.
+Q:	What is orange and goes "click, click?"A:	A ball point carrot.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Break into jail and claim police brutality.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Alfie Cocktail</strong></div></td>
+      <td><div align="center"><strong>Apricot Lady</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7ityp11582579598.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Lemon vodka, 1 dash  Triple sec, 1 tblsp  Pineapple juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 oz  Apricot brandy, 1 tsp  Triple sec, 1/2 oz  Lemon juice, 1  Egg white, 1  Orange</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the rum, apricot brandy, triple sec, lemon juice, and egg white. Shake well. Strain into an old-fashioned glass almost filled with ice cubes. Garnish with the orange slice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Break into jail and claim police brutality.
 <br>
 </details>
 
-**41 day before 2026 ⏱** days before new year
+**40 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-9°C (felt -12.63°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-9°C (felt -12.42°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:42 and sets 🌇 at 17:02
+  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 17:01
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Break into jail and claim police brutality.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Nov 21 2025
+  Last update on Sat Nov 22 2025
   </div>
 <br>
 
