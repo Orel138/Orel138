@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Beauty and harmony are as necessary to you as the very breath of life.
+Don't relax!  It's only your tension that's holding you together.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Beauty and harmony are as necessary to you as the very breath of life.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lone Tree Cooler</strong></div></td>
+      <td><div align="center"><strong>Brainteaser</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyqry1479298485.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Shot Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Carbonated water, Gin, Dry Vermouth, Powdered sugar, Orange spiral, Lemon peel</td>
+      <td><b>Ingredients:</b> 30 ml white  Sambuca, 30 ml  Erin Cream, 5 ml  Advocaat</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.</td>
+      <td><b>Instructions:</b> layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Beauty and harmony are as necessary to you as the very breath of life.
 <br>
 </details>
 
-**37 day before 2026 ⏱** days before new year
+**36 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.27°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.64°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:47 and sets 🌇 at 16:59
+  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 16:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Beauty and harmony are as necessary to you as the very breath of life.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Nov 25 2025
+  Last update on Wed Nov 26 2025
   </div>
 <br>
 
