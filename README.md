@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't relax!  It's only your tension that's holding you together.
+The bone-chilling scream split the warm summer night in two, the firsthalf being before the scream when it was fairly balmy and calm andpleasant, the second half still balmy and quite pleasant for those whohadn't heard the scream at all, but not calm or balmy or even very nicefor those who did hear the scream, discounting the little period of timeduring the actual scream itself when your ears might have been hearing itbut your brain wasn't reacting yet to let you know.		-- Winning sentence, 1986 Bulwer-Lytton bad fiction contest.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't relax!  It's only your tension that's holding you together.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brainteaser</strong></div></td>
+      <td><div align="center"><strong>Lady Love Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/20d63k1504885263.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 30 ml white  Sambuca, 30 ml  Erin Cream, 5 ml  Advocaat</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 2 tsp  Light cream, 1 tsp  Powdered sugar, Juice of 1/2 Lemon, 1  Egg white, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't relax!  It's only your tension that's holding you together.
 <br>
 </details>
 
-**36 day before 2026 ⏱** days before new year
+**35 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.64°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.79°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 16:59
+  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 16:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't relax!  It's only your tension that's holding you together.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Nov 26 2025
+  Last update on Thu Nov 27 2025
   </div>
 <br>
 
