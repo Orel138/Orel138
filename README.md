@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The bone-chilling scream split the warm summer night in two, the firsthalf being before the scream when it was fairly balmy and calm andpleasant, the second half still balmy and quite pleasant for those whohadn't heard the scream at all, but not calm or balmy or even very nicefor those who did hear the scream, discounting the little period of timeduring the actual scream itself when your ears might have been hearing itbut your brain wasn't reacting yet to let you know.		-- Winning sentence, 1986 Bulwer-Lytton bad fiction contest.
+You will gain money by a speculation or lottery.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The bone-chilling scream split the warm summer night in two, the firsthalf being
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lady Love Fizz</strong></div></td>
+      <td><div align="center"><strong>Pink Lady</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/20d63k1504885263.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 2 tsp  Light cream, 1 tsp  Powdered sugar, Juice of 1/2 Lemon, 1  Egg white, Carbonated water</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 tsp  Grenadine, 1 tsp  Light cream, 1  Egg white</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The bone-chilling scream split the warm summer night in two, the firsthalf being
 <br>
 </details>
 
-**35 day before 2026 ⏱** days before new year
+**34 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.79°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -4.52°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 16:58
+  The sun ☀️ rise 🌄 at 07:51 and sets 🌇 at 16:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The bone-chilling scream split the warm summer night in two, the firsthalf being
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 27 2025
+  Last update on Fri Nov 28 2025
   </div>
 <br>
 
