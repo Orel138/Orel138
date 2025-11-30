@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be winged by an anti-aircraft battery.
+Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat think they are truffles.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,23 +74,19 @@ You will be winged by an anti-aircraft battery.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mauresque</strong></div></td>
+      <td><div align="center"><strong>Big Red</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/duwfa11686236556.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yqwuwu1441248116.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 cl Ricard, 1 cl Orgeat Syrup, Full Glass Water</td>
+      <td><b>Ingredients:</b> 1/2 oz  Irish cream, 1/2 oz  Goldschlager</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> 1 - Pour the Ricard (or pastis)
-2 - Pour the orgeat syrup
-3 - Finally pour the water and add ice cubes at your convenience.
-
-Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</td>
+      <td><b>Instructions:</b> Pour ingredients into 1 ounce shot glass</td>
     </tr>
   </table>
 </div>
@@ -101,13 +97,13 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</t
 <br>
 </details>
 
-**33 day before 2026 ⏱** days before new year
+**32 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -5.39°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.36°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:52 and sets 🌇 at 16:57
+  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 16:57
   </div>
 <br>
 
@@ -121,7 +117,7 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.</t
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Nov 29 2025
+  Last update on Sun Nov 30 2025
   </div>
 <br>
 
