@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat think they are truffles.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+October.This is one of the peculiarly dangerous months to speculate in stocks in.The others are July, January, September, April, November, May, March, June,December, August, and February.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Big Red</strong></div></td>
+      <td><div align="center"><strong>Bluebird</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yqwuwu1441248116.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5jhyd01582579843.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Irish cream, 1/2 oz  Goldschlager</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Triple sec, 1/2 oz  Blue Curacao, 2 dashes  Bitters, 1  Maraschino cherry, 1 twist of  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour ingredients into 1 ounce shot glass</td>
+      <td><b>Instructions:</b> In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat
 <br>
 </details>
 
-**32 day before 2026 ⏱** days before new year
+**31 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.36°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.16°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 16:57
+  The sun ☀️ rise 🌄 at 07:55 and sets 🌇 at 16:56
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 30 2025
+  Last update on Mon Dec 01 2025
   </div>
 <br>
 
