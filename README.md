@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-All the troubles you have will pass away very quickly.
+You have an unusual equipment for success.  Be sure to use it properly.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ All the troubles you have will pass away very quickly.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Daisy</strong></div></td>
+      <td><div align="center"><strong>Mulled Wine</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/z6e22f1582581155.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz  Lemon juice, 1/2 tsp superfine  Sugar, 1/2 tsp  Grenadine, 1  Maraschino cherry, 1  Orange</td>
+      <td><b>Ingredients:</b> 3 cups  Water, 1 cup  Sugar, 12  Cloves, 2  Cinnamon, 1  Lemon peel, 750 ml  Red wine, 1/4 cup  Brandy</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.</td>
+      <td><b>Instructions:</b> Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a "coffee temperature" (DO NOT BOIL) then add the brandy.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ All the troubles you have will pass away very quickly.
 <br>
 </details>
 
-**30 day before 2026 ⏱** days before new year
+**29 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -6.44°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -1.35°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:56 and sets 🌇 at 16:56
+  The sun ☀️ rise 🌄 at 07:57 and sets 🌇 at 16:55
   </div>
 <br>
 
@@ -117,7 +117,7 @@ All the troubles you have will pass away very quickly.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Dec 02 2025
+  Last update on Wed Dec 03 2025
   </div>
 <br>
 
