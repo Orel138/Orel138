@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you call a blind pre-historic animal?A:	Diyathinkhesaurus.Q:	What do you call a blind pre-historic animal with a dog?A:	Diyathinkhesaurus Rex.
+Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstoolsthat think they are truffles.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do you call a blind pre-historic animal?A:	Diyathinkhesaurus.Q:	What do 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin And Tonic</strong></div></td>
+      <td><div align="center"><strong>Ipamena</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Wine Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Tonic water, 1  Lime</td>
+      <td><b>Ingredients:</b> ½ Lime, 2 tsp Brown sugar, 4 cl Passion fruit juice, top up with Ginger ale, fill Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
+      <td><b>Instructions:</b> Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What do you call a blind pre-historic animal?A:	Diyathinkhesaurus.Q:	What do 
 <br>
 </details>
 
-**27 day before 2026 ⏱** days before new year
+**26 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.58°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.92°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:59 and sets 🌇 at 16:55
+  The sun ☀️ rise 🌄 at 08:00 and sets 🌇 at 16:55
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What do you call a blind pre-historic animal?A:	Diyathinkhesaurus.Q:	What do 
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Dec 05 2025
+  Last update on Sat Dec 06 2025
   </div>
 <br>
 
