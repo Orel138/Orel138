@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Work consists of whatever a body is obliged to do.Play consists of whatever a body is not obliged to do.		-- Mark Twain
+In the stairway of life, you'd best take the elevator.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Work consists of whatever a body is obliged to do.Play consists of whatever a bo
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vodka Lemon</strong></div></td>
+      <td><div align="center"><strong>Nutty Irishman</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mql55h1643820632.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xspupx1441248014.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 cl Vodka, 7 cl Lemon Juice, 1 Slice Lemon Peel, cubes Ice</td>
+      <td><b>Ingredients:</b> 1 part  Baileys irish cream, 1 part  Frangelico, 1 part  Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.</td>
+      <td><b>Instructions:</b> Serve over ice</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Work consists of whatever a body is obliged to do.Play consists of whatever a bo
 <br>
 </details>
 
-**25 day before 2026 ⏱** days before new year
+**24 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.73°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.14°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 16:55
+  The sun ☀️ rise 🌄 at 08:02 and sets 🌇 at 16:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Work consists of whatever a body is obliged to do.Play consists of whatever a bo
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Dec 07 2025
+  Last update on Mon Dec 08 2025
   </div>
 <br>
 
