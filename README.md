@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-For the fashion of Minas Tirith was such that it was built on seven levels,each delved into a hill, and about each was set a wall, and in each wallwas a gate.		-- J.R.R. Tolkien, "The Return of the King"	[Quoted in "VMS Internals and Data Structures", V4.4, when	 referring to system overview.]
+question = ( to ) ? be : ! be;		-- Wm. Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ For the fashion of Minas Tirith was such that it was built on seven levels,each 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>French Martini</strong></div></td>
+      <td><div align="center"><strong>Banana Daiquiri</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/clth721504373134.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k1xatq1504389300.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Champagne flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4.5 cl Vodka, 1.5 cl Raspberry Liqueur, 1.5 cl pineapple juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 tblsp  Triple sec, 1  Banana, 1 1/2 oz  Lime juice, 1 tsp  Sugar, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.</td>
+      <td><b>Instructions:</b> Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ For the fashion of Minas Tirith was such that it was built on seven levels,each 
 <br>
 </details>
 
-**21 day before 2026 ⏱** days before new year
+**20 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.42°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.74°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 16:54
+  The sun ☀️ rise 🌄 at 08:06 and sets 🌇 at 16:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ For the fashion of Minas Tirith was such that it was built on seven levels,each 
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Dec 11 2025
+  Last update on Fri Dec 12 2025
   </div>
 <br>
 
