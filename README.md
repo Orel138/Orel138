@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will have domestic happiness and faithful friends.
+The human race has one really effective weapon, and that is laughter.		-- Mark Twain
 </details>
 
 <details>
@@ -74,20 +74,19 @@ You will have domestic happiness and faithful friends.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Holloween Punch</strong></div></td>
+      <td><div align="center"><strong>Archbishop</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/lfeoe41504888925.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4g6xds1582579703.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch bowl</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Grape juice, , orange
- Carbonated soft drink, Sherbet, Sherbet</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz Green Ginger  Wine, 1 tsp  Benedictine, 1  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Take a bunch of grape juice and a bunch of fizzy stuff (club soda, ginger ale, lemonlime, whatever). Mix them in a punch bowl. Take orange sherbet and lime sherbet. Scoop out scoops and float them in the punch, let them melt a little so that a nasty film spreads all over the top of the punch but there are still "bubbles" in it in the form of sherbet scoops. Looks horrible, tastes just fine.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -98,10 +97,10 @@ You will have domestic happiness and faithful friends.
 <br>
 </details>
 
-**16 day before 2026 ⏱** days before new year
+**15 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.6°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.6°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 16:55
@@ -118,7 +117,7 @@ You will have domestic happiness and faithful friends.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Dec 16 2025
+  Last update on Wed Dec 17 2025
   </div>
 <br>
 
