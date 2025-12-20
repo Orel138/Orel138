@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Truth is the most valuable thing we have -- so let us economize it.		-- Mark Twain
+I was gratified to be able to answer promptly, and I did. I said I didn't know.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Truth is the most valuable thing we have -- so let us economize it.		-- Mark Twa
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Whisky Mac</strong></div></td>
+      <td><div align="center"><strong>Smashed Watermelon Margarita</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dztcv51598717861.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1 oz Green Ginger  Wine</td>
+      <td><b>Ingredients:</b> 1/2 cup Watermelon, 5 Mint, 1/3 Cup Grapefruit Juice, Juice of 1/2 Lime, 1 shot Tequila, Garnish with Watermelon, Garnish with Mint</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour both of the ingredients into a wine goblet with no ice.</td>
+      <td><b>Instructions:</b> In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Truth is the most valuable thing we have -- so let us economize it.		-- Mark Twa
 <br>
 </details>
 
-**13 day before 2026 ⏱** days before new year
+**12 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 2.87°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.4°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 16:56
@@ -117,7 +117,7 @@ Truth is the most valuable thing we have -- so let us economize it.		-- Mark Twa
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Dec 19 2025
+  Last update on Sat Dec 20 2025
   </div>
 <br>
 
