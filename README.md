@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-I was gratified to be able to answer promptly, and I did. I said I didn't know.		-- Mark Twain
+Condense soup, not books!
 </details>
 
 <details>
@@ -74,19 +74,19 @@ I was gratified to be able to answer promptly, and I did. I said I didn't know.	
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Smashed Watermelon Margarita</strong></div></td>
+      <td><div align="center"><strong>Dragonfly</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dztcv51598717861.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 cup Watermelon, 5 Mint, 1/3 Cup Grapefruit Juice, Juice of 1/2 Lime, 1 shot Tequila, Garnish with Watermelon, Garnish with Mint</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 4 oz  Ginger ale, 1  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a mason jar muddle the watermelon and 5 mint leaves together into a puree and strain. Next add the grapefruit juice, juice of half a lime and the tequila as well as some ice. Put a lid on the jar and shake. Pour into a glass and add more ice. Garnish with fresh mint and a small slice of watermelon.</td>
+      <td><b>Instructions:</b> In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ I was gratified to be able to answer promptly, and I did. I said I didn't know.	
 <br>
 </details>
 
-**12 day before 2026 ⏱** days before new year
+**11 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.4°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.45°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 16:56
+  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 16:57
   </div>
 <br>
 
@@ -117,7 +117,7 @@ I was gratified to be able to answer promptly, and I did. I said I didn't know.	
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Dec 20 2025
+  Last update on Sun Dec 21 2025
   </div>
 <br>
 
