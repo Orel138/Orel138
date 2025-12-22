@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Condense soup, not books!
+Q:	How many journalists does it take to screw in a light bulb?A:	Three.  One to report it as an inspired government program to bring	light to the people, one to report it as a diabolical government plot	to deprive the poor of darkness, and one to win a Pulitzer prize for	reporting that Electric Company hired a light bulb-assassin to break	the bulb in the first place.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Condense soup, not books!
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Dragonfly</strong></div></td>
+      <td><div align="center"><strong>Tomato Tang</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/869qr81487603278.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 4 oz  Ginger ale, 1  Lime</td>
+      <td><b>Ingredients:</b> 2 cups  Tomato juice, 1-2 tblsp  Lemon juice, 1 dash  Celery salt</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Condense soup, not books!
 <br>
 </details>
 
-**11 day before 2026 ⏱** days before new year
+**10 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.45°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.31°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 16:57
@@ -117,7 +117,7 @@ Condense soup, not books!
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Dec 21 2025
+  Last update on Mon Dec 22 2025
   </div>
 <br>
 
