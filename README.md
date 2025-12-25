@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-If you learn one useless thing every day, in a single year you'll learn365 useless things.
+Q:	How many hardware engineers does it take to change a light bulb?A:	None.  We'll fix it in software.Q:	How many system programmers does it take to change a light bulb?A:	None.  The application can work around it.Q:	How many software engineers does it take to change a light bulb?A:	None.  We'll document it in the manual.Q:	How many tech writers does it take to change a light bulb?A:	None.  The user can figure it out.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Frisco Sour</strong></div></td>
+      <td><div align="center"><strong>Hemingway Special</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/acuvjz1582482022.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, 1/2 oz  Benedictine, Juice of 1/4  Lemon, Juice of 1/2  Lime, 1 slice  Lemon, 1 slice  Lime</td>
+      <td><b>Ingredients:</b> 12 parts Rum, 8 parts Grapefruit Juice, 3 parts Maraschino Liqueur, 3 parts Lime Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.</td>
+      <td><b>Instructions:</b> Pour all ingredients into a shaker with ice. Shake.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
 <br>
 </details>
 
-**8 day before 2026 ⏱** days before new year
+**7 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -7.25°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -6.35°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:13 and sets 🌇 at 16:58
+  The sun ☀️ rise 🌄 at 08:13 and sets 🌇 at 16:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ If you learn one useless thing every day, in a single year you'll learn365 usele
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Dec 24 2025
+  Last update on Thu Dec 25 2025
   </div>
 <br>
 
