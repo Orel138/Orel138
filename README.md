@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have an ambitious nature and may make a name for yourself.
+You will have good luck and overcome many hardships.
 </details>
 
 <details>
@@ -74,19 +74,22 @@ You have an ambitious nature and may make a name for yourself.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jewel Of The Nile</strong></div></td>
+      <td><div align="center"><strong>747 Drink</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hx4nrb1504884947.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Green Chartreuse, 1/2 oz  Yellow Chartreuse</td>
+      <td><b>Ingredients:</b> 1 oz Vodka, 1 oz Roses sweetened lime juice, 1 oz Cranberry Juice, Top Sprite</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> Fill a Collins glass with ice.
+Pour in vodka, lime cordial, and cranberry juice.
+Fill up with Sprite.
+Garnish with a Lime wheel or some cranberries</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ You have an ambitious nature and may make a name for yourself.
 <br>
 </details>
 
-**4 day before 2026 ⏱** days before new year
+**3 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.76°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -5.81°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:01
+  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:02
   </div>
 <br>
 
@@ -117,7 +120,7 @@ You have an ambitious nature and may make a name for yourself.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Dec 28 2025
+  Last update on Mon Dec 29 2025
   </div>
 <br>
 
