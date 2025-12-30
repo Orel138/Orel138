@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will have good luck and overcome many hardships.
+Q:	How many college football players does it take to screw in a light bulb?A:	Only one, but he gets three credits for it.
 </details>
 
 <details>
@@ -74,22 +74,20 @@ You will have good luck and overcome many hardships.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>747 Drink</strong></div></td>
+      <td><div align="center"><strong>Zoksel</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Beer pilsner</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Vodka, 1 oz Roses sweetened lime juice, 1 oz Cranberry Juice, Top Sprite</td>
+      <td><b>Ingredients:</b> Beer, Root beer, Lemonade, slice
+ Coca-Cola, 7-Up, Creme de Cassis, Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a Collins glass with ice.
-Pour in vodka, lime cordial, and cranberry juice.
-Fill up with Sprite.
-Garnish with a Lime wheel or some cranberries</td>
+      <td><b>Instructions:</b> No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +98,13 @@ Garnish with a Lime wheel or some cranberries</td>
 <br>
 </details>
 
-**3 day before 2026 ⏱** days before new year
+**2 day before 2026 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-3°C (felt -5.81°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-9°C (felt -12.73°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:02
+  The sun ☀️ rise 🌄 at 08:15 and sets 🌇 at 17:03
   </div>
 <br>
 
@@ -120,7 +118,7 @@ Garnish with a Lime wheel or some cranberries</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Dec 29 2025
+  Last update on Tue Dec 30 2025
   </div>
 <br>
 
