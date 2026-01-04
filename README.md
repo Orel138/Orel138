@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-In the Spring, I have counted 136 different kinds of weather inside of24 hours.		-- Mark Twain, on New England weather
+My only love sprung from my only hate!Too early seen unknown, and known too late!		-- William Shakespeare, "Romeo and Juliet"
 </details>
 
 <details>
@@ -74,19 +74,21 @@ In the Spring, I have counted 136 different kinds of weather inside of24 hours.	
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Strawberry Shivers</strong></div></td>
+      <td><div align="center"><strong>Spice 75</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0108c41576797064.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Wine Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 cup  Strawberries, 4 tsp  Honey, 1/2 cup  Water</td>
+      <td><b>Ingredients:</b> 60 ml Sugar, 1 tblsp Allspice, 20 cl Rum, 90 ml Lime Juice, 6 cl Champagne, Garnish with Orange spiral</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
+      <td><b>Instructions:</b> Gently warm 60g golden caster sugar in a pan with 30ml water and 1 tbsp allspice. Cook gently until the sugar has dissolved, then leave the mixture to cool. Strain through a sieve lined with a coffee filter (or a double layer of kitchen paper).
+
+Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90ml lime juice. Shake with ice and strain between six flute glasses. Top up with 600ml champagne and garnish each with an orange twist.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +99,13 @@ In the Spring, I have counted 136 different kinds of weather inside of24 hours.	
 <br>
 </details>
 
-**363 day before 2027 ⏱** days before new year
+**362 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-8°C (felt -10.9°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-12°C (felt -16.07°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:15 and sets 🌇 at 17:06
+  The sun ☀️ rise 🌄 at 08:15 and sets 🌇 at 17:07
   </div>
 <br>
 
@@ -117,7 +119,7 @@ In the Spring, I have counted 136 different kinds of weather inside of24 hours.	
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 03 2026
+  Last update on Sun Jan 04 2026
   </div>
 <br>
 
