@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-My only love sprung from my only hate!Too early seen unknown, and known too late!		-- William Shakespeare, "Romeo and Juliet"
+The very ink with which all history is written is merely fluid prejudice.		-- Mark Twain
 </details>
 
 <details>
@@ -74,21 +74,19 @@ My only love sprung from my only hate!Too early seen unknown, and known too late
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Spice 75</strong></div></td>
+      <td><div align="center"><strong>Melya</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0108c41576797064.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwtptq1441247579.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 60 ml Sugar, 1 tblsp Allspice, 20 cl Rum, 90 ml Lime Juice, 6 cl Champagne, Garnish with Orange spiral</td>
+      <td><b>Ingredients:</b> Espresso, Unsweetened  Honey, Cocoa powder</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Gently warm 60g golden caster sugar in a pan with 30ml water and 1 tbsp allspice. Cook gently until the sugar has dissolved, then leave the mixture to cool. Strain through a sieve lined with a coffee filter (or a double layer of kitchen paper).
-
-Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90ml lime juice. Shake with ice and strain between six flute glasses. Top up with 600ml champagne and garnish each with an orange twist.</td>
+      <td><b>Instructions:</b> Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +97,13 @@ Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90
 <br>
 </details>
 
-**362 day before 2027 ⏱** days before new year
+**361 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-12°C (felt -16.07°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-11°C (felt -14.22°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:15 and sets 🌇 at 17:07
+  The sun ☀️ rise 🌄 at 08:15 and sets 🌇 at 17:08
   </div>
 <br>
 
@@ -119,7 +117,7 @@ Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jan 04 2026
+  Last update on Mon Jan 05 2026
   </div>
 <br>
 
