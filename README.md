@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Today's weirdness is tomorrow's reason why.		-- Hunter S. Thompson
+Q:	Why was Stonehenge abandoned?A:	It wasn't IBM compatible.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Today's weirdness is tomorrow's reason why.		-- Hunter S. Thompson
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bourbon Sling</strong></div></td>
+      <td><div align="center"><strong>Bermuda Highball</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3s36ql1504366260.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qrvtww1441206528.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 tsp superfine  Sugar, 2 tsp  Water, 1 oz  Lemon juice, 2 oz  Bourbon, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 3/4 oz  Brandy, 3/4 oz  Gin, 3/4 oz  Dry Vermouth, Carbonated water, Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.</td>
+      <td><b>Instructions:</b> Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Today's weirdness is tomorrow's reason why.		-- Hunter S. Thompson
 <br>
 </details>
 
-**360 day before 2027 ⏱** days before new year
+**359 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-13°C (felt -17.38°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-13°C (felt -17.6°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:09
+  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:10
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Today's weirdness is tomorrow's reason why.		-- Hunter S. Thompson
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jan 06 2026
+  Last update on Wed Jan 07 2026
   </div>
 <br>
 
