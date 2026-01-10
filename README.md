@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have been selected for a secret mission.
+Tomorrow, this will be part of the unchangeable past but fortunately,it can still be changed today.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have been selected for a secret mission.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Thai Coffee</strong></div></td>
+      <td><div align="center"><strong>Radler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wquwxs1441247025.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xz8igv1504888995.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 tblsp ground Coffee, 1/4 tsp  Coriander, 4-5 whole green  Cardamom, Sugar, Whipping cream, Ice</td>
+      <td><b>Ingredients:</b> 12 oz  Beer, 12 oz  7-Up</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it's easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away.</td>
+      <td><b>Instructions:</b> Pour beer into large mug, slowly add the 7-up (or Sprite).</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have been selected for a secret mission.
 <br>
 </details>
 
-**357 day before 2027 ⏱** days before new year
+**356 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.11°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.68°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:14 and sets 🌇 at 17:12
+  The sun ☀️ rise 🌄 at 08:13 and sets 🌇 at 17:13
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have been selected for a secret mission.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jan 09 2026
+  Last update on Sat Jan 10 2026
   </div>
 <br>
 
