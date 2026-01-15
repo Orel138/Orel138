@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Good night to spend with family, but avoid arguments with your mate'snew lover.
+Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his light bulb when he's done.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Good night to spend with family, but avoid arguments with your mate'snew lover.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Lemon</strong></div></td>
+      <td><div align="center"><strong>Port Wine Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/6gdohq1681212476.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6 cl Gin, 8 cl Lemon Juice, 1 Slice Lemon Peel, cubes Ice</td>
+      <td><b>Ingredients:</b> 2 1/2 oz  Port, 1/2 tsp  Brandy</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> For the preparation of the gin lemon you will not need the shaker. Fill the tumbler with ice, pour the gin and lemonade over it. Gently mix and decorate with a slice of lemon. Those who prefer can also add a few mint leaves. Your gin lemon is ready to be served.</td>
+      <td><b>Instructions:</b> Stir ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Good night to spend with family, but avoid arguments with your mate'snew lover.
 <br>
 </details>
 
-**352 day before 2027 ⏱** days before new year
+**351 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.89°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.12°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:12 and sets 🌇 at 17:18
+  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 17:19
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Good night to spend with family, but avoid arguments with your mate'snew lover.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jan 14 2026
+  Last update on Thu Jan 15 2026
   </div>
 <br>
 
