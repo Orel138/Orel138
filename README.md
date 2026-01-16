@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his light bulb when he's done.
+Q:	"What is the burning question on the mind of every dyslexic	existentialist?"A:	"Is there a dog?"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his l
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Port Wine Cocktail</strong></div></td>
+      <td><div align="center"><strong>Gagliardo</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/lyloe91487602877.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 1/2 oz  Port, 1/2 tsp  Brandy</td>
+      <td><b>Ingredients:</b> 5 parts  Peach Vodka, 3 parts  Lemon juice, 1 part  Galliano, 1 part  Sirup of roses</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his l
 <br>
 </details>
 
-**351 day before 2027 ⏱** days before new year
+**350 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.12°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.72°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 17:19
+  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 17:21
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his l
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jan 15 2026
+  Last update on Fri Jan 16 2026
   </div>
 <br>
 
