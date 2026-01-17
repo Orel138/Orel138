@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	"What is the burning question on the mind of every dyslexic	existentialist?"A:	"Is there a dog?"
+The difference between a Miracle and a Fact is exactly the differencebetween a mermaid and a seal.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	"What is the burning question on the mind of every dyslexic	existentialist?"A
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gagliardo</strong></div></td>
+      <td><div align="center"><strong>Arizona Stingers</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/lyloe91487602877.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y7w0721493068255.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 parts  Peach Vodka, 3 parts  Lemon juice, 1 part  Galliano, 1 part  Sirup of roses</td>
+      <td><b>Ingredients:</b> 2 shots  Absolut Vodka, 12 oz lemon  Iced tea</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy.</td>
+      <td><b>Instructions:</b> Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	"What is the burning question on the mind of every dyslexic	existentialist?"A
 <br>
 </details>
 
-**350 day before 2027 ⏱** days before new year
+**349 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.72°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.96°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:11 and sets 🌇 at 17:21
+  The sun ☀️ rise 🌄 at 08:10 and sets 🌇 at 17:22
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	"What is the burning question on the mind of every dyslexic	existentialist?"A
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jan 16 2026
+  Last update on Sat Jan 17 2026
   </div>
 <br>
 
