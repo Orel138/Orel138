@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The difference between a Miracle and a Fact is exactly the differencebetween a mermaid and a seal.		-- Mark Twain
+Writing is easy; all you do is sit staring at the blank sheet of paper untildrops of blood form on your forehead.		-- Gene Fowler
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The difference between a Miracle and a Fact is exactly the differencebetween a m
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Arizona Stingers</strong></div></td>
+      <td><div align="center"><strong>Rum Cobbler</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y7w0721493068255.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5vh9ld1504390683.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Hurricane glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 shots  Absolut Vodka, 12 oz lemon  Iced tea</td>
+      <td><b>Ingredients:</b> 1 tsp superfine  Sugar, 3 oz  Club soda, 1  Lemon, 2 oz  Dark rum, 1  Maraschino cherry, 1  Orange</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!</td>
+      <td><b>Instructions:</b> In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the rum. Stir well. Garnish with the cherry and the orange and lemon slices.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The difference between a Miracle and a Fact is exactly the differencebetween a m
 <br>
 </details>
 
-**349 day before 2027 ⏱** days before new year
+**348 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.96°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.85°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:10 and sets 🌇 at 17:22
+  The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 17:23
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The difference between a Miracle and a Fact is exactly the differencebetween a m
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 17 2026
+  Last update on Sun Jan 18 2026
   </div>
 <br>
 
