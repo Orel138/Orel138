@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Writing is easy; all you do is sit staring at the blank sheet of paper untildrops of blood form on your forehead.		-- Gene Fowler
+Always the dullness of the fool is the whetstone of the wits.		-- William Shakespeare, "As You Like It"
 </details>
 
 <details>
@@ -74,19 +74,22 @@ Writing is easy; all you do is sit staring at the blank sheet of paper untildrop
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rum Cobbler</strong></div></td>
+      <td><div align="center"><strong>The Jimmy Conway</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5vh9ld1504390683.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wbcvyo1535794478.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 tsp superfine  Sugar, 3 oz  Club soda, 1  Lemon, 2 oz  Dark rum, 1  Maraschino cherry, 1  Orange</td>
+      <td><b>Ingredients:</b> 50 ml Irish Whiskey, 50 ml Amaretto, 4 oz Cranberry Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the rum. Stir well. Garnish with the cherry and the orange and lemon slices.</td>
+      <td><b>Instructions:</b> Fill glass with ice
+Pour in The Irishman and Disaronno
+Fill to the top with Cranberry Juice
+Garnish with a slice of lemon…Enjoy!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ Writing is easy; all you do is sit staring at the blank sheet of paper untildrop
 <br>
 </details>
 
-**348 day before 2027 ⏱** days before new year
+**347 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.85°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.36°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 17:23
+  The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 17:25
   </div>
 <br>
 
@@ -117,7 +120,7 @@ Writing is easy; all you do is sit staring at the blank sheet of paper untildrop
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jan 18 2026
+  Last update on Mon Jan 19 2026
   </div>
 <br>
 
