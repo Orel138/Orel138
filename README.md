@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Always the dullness of the fool is the whetstone of the wits.		-- William Shakespeare, "As You Like It"
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19A:	To be or not to be.Q:	What is the square root of 4b^2?
 </details>
 
 <details>
@@ -74,22 +74,19 @@ Always the dullness of the fool is the whetstone of the wits.		-- William Shakes
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Jimmy Conway</strong></div></td>
+      <td><div align="center"><strong>Old Cuban</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wbcvyo1535794478.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Irish Whiskey, 50 ml Amaretto, 4 oz Cranberry Juice</td>
+      <td><b>Ingredients:</b> 2 oz White Rum, 1 oz Sugar Syrup, 1 oz Lime Juice, 2 dashes Angostura Bitters, 2 oz Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill glass with ice
-Pour in The Irishman and Disaronno
-Fill to the top with Cranberry Juice
-Garnish with a slice of lemon…Enjoy!</td>
+      <td><b>Instructions:</b> Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +97,13 @@ Garnish with a slice of lemon…Enjoy!</td>
 <br>
 </details>
 
-**347 day before 2027 ⏱** days before new year
+**346 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 0.36°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.95°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:09 and sets 🌇 at 17:25
+  The sun ☀️ rise 🌄 at 08:08 and sets 🌇 at 17:26
   </div>
 <br>
 
@@ -120,7 +117,7 @@ Garnish with a slice of lemon…Enjoy!</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jan 19 2026
+  Last update on Tue Jan 20 2026
   </div>
 <br>
 
