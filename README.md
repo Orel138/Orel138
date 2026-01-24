@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Is this really happening?
+Do not sleep in a eucalyptus tree tonight.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Is this really happening?
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cosmopolitan Martini</strong></div></td>
+      <td><div align="center"><strong>Drinking Chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/u6jrdf1487603173.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Cointreau, 1 oz  Vodka, Juice of 1/2  Lime, 1 splash  Cranberry juice</td>
+      <td><b>Ingredients:</b> 2 oz  Heavy cream, 6-8 oz  Milk, 1 stick  Cinnamon, 1  Vanilla, 2 oz finely chopped dark  Chocolate, Fresh  Whipped cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.</td>
+      <td><b>Instructions:</b> Heat the cream and milk with the cinnamon and vanilla bean very slowly for 15-20 minutes. (If you don't have any beans add 1-2 tsp of vanilla after heating). Remove the bean and cinnamon. Add the chocolate. Mix until fully melted. Serve topped with some very dense fresh whipped cream. Serves 1-2 depending upon how much of a glutton you are. For a richer chocolate, use 4 oz of milk, 4 oz of cream, 4 oz of chocolate. Serve in coffee mug.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Is this really happening?
 <br>
 </details>
 
-**343 day before 2027 ⏱** days before new year
+**342 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.74°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -9.54°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:06 and sets 🌇 at 17:30
+  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 17:31
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Is this really happening?
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jan 23 2026
+  Last update on Sat Jan 24 2026
   </div>
 <br>
 
