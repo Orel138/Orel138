@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Do not sleep in a eucalyptus tree tonight.
+Tomorrow will be cancelled due to lack of interest.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Do not sleep in a eucalyptus tree tonight.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Drinking Chocolate</strong></div></td>
+      <td><div align="center"><strong>Russian Spring Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/u6jrdf1487603173.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Heavy cream, 6-8 oz  Milk, 1 stick  Cinnamon, 1  Vanilla, 2 oz finely chopped dark  Chocolate, Fresh  Whipped cream</td>
+      <td><b>Ingredients:</b> 2.5 cl Vodka, 1.5 cl Creme de Cassis, 1 cl Sugar Syrup, 2.5 cl Lemon Juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Heat the cream and milk with the cinnamon and vanilla bean very slowly for 15-20 minutes. (If you don't have any beans add 1-2 tsp of vanilla after heating). Remove the bean and cinnamon. Add the chocolate. Mix until fully melted. Serve topped with some very dense fresh whipped cream. Serves 1-2 depending upon how much of a glutton you are. For a richer chocolate, use 4 oz of milk, 4 oz of cream, 4 oz of chocolate. Serve in coffee mug.</td>
+      <td><b>Instructions:</b> Pour the ingredients into an highball glass, top with Sparkling wine.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Do not sleep in a eucalyptus tree tonight.
 <br>
 </details>
 
-**342 day before 2027 ⏱** days before new year
+**341 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-6°C (felt -9.54°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -4.13°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:05 and sets 🌇 at 17:31
+  The sun ☀️ rise 🌄 at 08:04 and sets 🌇 at 17:33
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Do not sleep in a eucalyptus tree tonight.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jan 24 2026
+  Last update on Sun Jan 25 2026
   </div>
 <br>
 
