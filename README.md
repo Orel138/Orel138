@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.		-- Mark Twain
+You have a deep interest in all that is artistic.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.	
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rose</strong></div></td>
+      <td><div align="center"><strong>Imperial Fizz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8kxbvq1504371462.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/zj1usl1504884548.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Dry Vermouth, 1 oz  Gin, 1/2 oz  Apricot brandy, 1/2 tsp  Lemon juice, 1 tsp  Grenadine, Powdered sugar</td>
+      <td><b>Ingredients:</b> 1/2 oz  Light rum, 1 1/2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.	
 <br>
 </details>
 
-**333 day before 2027 ⏱** days before new year
+**332 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.95°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -3.61°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:55 and sets 🌇 at 17:44
+  The sun ☀️ rise 🌄 at 07:54 and sets 🌇 at 17:46
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.	
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Feb 02 2026
+  Last update on Tue Feb 03 2026
   </div>
 <br>
 
