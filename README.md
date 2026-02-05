@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What does a WASP Mom make for dinner?A:	A crisp salad, a hearty soup, a lovely entree, followed by	a delicious dessert.
+You will have domestic happiness and faithful friends.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What does a WASP Mom make for dinner?A:	A crisp salad, a hearty soup, a lovel
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Green Goblin</strong></div></td>
+      <td><div align="center"><strong>The Evil Blue Thing</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pint glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 pint hard  Cider, 1/2 pint  Lager, 1 shot  Blue Curacao</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Creme de Cacao, 1 oz  Blue Curacao, 1/2 oz  Light rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Cider First, Lager then Curacao</td>
+      <td><b>Instructions:</b> Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more "fun".</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What does a WASP Mom make for dinner?A:	A crisp salad, a hearty soup, a lovel
 <br>
 </details>
 
-**331 day before 2027 ⏱** days before new year
+**330 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.67°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.68°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 17:47
+  The sun ☀️ rise 🌄 at 07:52 and sets 🌇 at 17:49
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What does a WASP Mom make for dinner?A:	A crisp salad, a hearty soup, a lovel
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Feb 04 2026
+  Last update on Thu Feb 05 2026
   </div>
 <br>
 
