@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your object is to save the world, while still leading a pleasant life.
+You have an ambitious nature and may make a name for yourself.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your object is to save the world, while still leading a pleasant life.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mountain Bramble</strong></div></td>
+      <td><div align="center"><strong>Alfie Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/stwiva1619704025.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz Gin, 0.75 oz Lemon Juice, 0.75 oz Sugar Syrup, Ground Blackberries, Top Soda Water, Garnish with Mint</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Lemon vodka, 1 dash  Triple sec, 1 tblsp  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Muddle the blackberries in a tumbler glass. Mix the Gin, lemon juice and sugar syrup in a shaker and strain over chopped ice. Top with Soda water and garnish with more blackberries and some mint</td>
+      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your object is to save the world, while still leading a pleasant life.
 <br>
 </details>
 
-**329 day before 2027 ⏱** days before new year
+**328 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.45°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 17:50
+  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 17:52
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your object is to save the world, while still leading a pleasant life.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Feb 06 2026
+  Last update on Sat Feb 07 2026
   </div>
 <br>
 
