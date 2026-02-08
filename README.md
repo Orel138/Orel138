@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have an ambitious nature and may make a name for yourself.
+You will stop at nothing to reach your objective, but only because yourbrakes are defective.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have an ambitious nature and may make a name for yourself.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Alfie Cocktail</strong></div></td>
+      <td><div align="center"><strong>Jello shots</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l0smzo1504884904.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Lemon vodka, 1 dash  Triple sec, 1 tblsp  Pineapple juice</td>
+      <td><b>Ingredients:</b> 2 cups  Vodka, 3 packages  Jello, 3 cups  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have an ambitious nature and may make a name for yourself.
 <br>
 </details>
 
-**328 day before 2027 ⏱** days before new year
+**327 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.45°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.31°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 17:52
+  The sun ☀️ rise 🌄 at 07:48 and sets 🌇 at 17:53
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have an ambitious nature and may make a name for yourself.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Feb 07 2026
+  Last update on Sun Feb 08 2026
   </div>
 <br>
 
