@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many gradual (sorry, that's supposed to be "graduate") students	does it take to screw in a light bulb?A:	"I'm afraid we don't know, but make my stipend tax-free, give my	advisor a $30,000 grant of the taxpayer's money, and I'm sure he	can tell me how to do the gruntwork for him so he can take the	credit for answering this incredibly vital question."
+Many changes of mind and mood; do not hesitate too long.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many gradual (sorry, that's supposed to be "graduate") students	does it t
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brainteaser</strong></div></td>
+      <td><div align="center"><strong>Monkey Wrench</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 30 ml white  Sambuca, 30 ml  Erin Cream, 5 ml  Advocaat</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 3 oz  Grapefruit juice, 1 dash  Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.</td>
+      <td><b>Instructions:</b> Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many gradual (sorry, that's supposed to be "graduate") students	does it t
 <br>
 </details>
 
-**326 day before 2027 ⏱** days before new year
+**325 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -7.18°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.72°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 17:54
+  The sun ☀️ rise 🌄 at 07:45 and sets 🌇 at 17:56
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many gradual (sorry, that's supposed to be "graduate") students	does it t
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Feb 09 2026
+  Last update on Tue Feb 10 2026
   </div>
 <br>
 
