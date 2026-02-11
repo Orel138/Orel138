@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Many changes of mind and mood; do not hesitate too long.
+Q:	Why is Poland just like the United States?A:	In the United States you can't buy anything for zlotys and in	Poland you can't either, while in the U.S. you can get whatever	you want for dollars, just as you can in Poland.		-- being told in Poland, 1987
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Many changes of mind and mood; do not hesitate too long.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Monkey Wrench</strong></div></td>
+      <td><div align="center"><strong>Caribbean Orange Liqueur</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bw2noj1582473243.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 3 oz  Grapefruit juice, 1 dash  Bitters</td>
+      <td><b>Ingredients:</b> 3 large  Orange, 3 cups  Vodka, 1 1/3 cup superfine  Sugar</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.</td>
+      <td><b>Instructions:</b> Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Many changes of mind and mood; do not hesitate too long.
 <br>
 </details>
 
-**325 day before 2027 ⏱** days before new year
+**324 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.72°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.6°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:45 and sets 🌇 at 17:56
+  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 17:57
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Many changes of mind and mood; do not hesitate too long.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 10 2026
+  Last update on Wed Feb 11 2026
   </div>
 <br>
 
