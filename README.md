@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why is Poland just like the United States?A:	In the United States you can't buy anything for zlotys and in	Poland you can't either, while in the U.S. you can get whatever	you want for dollars, just as you can in Poland.		-- being told in Poland, 1987
+You will pay for your sins.  If you have already paid, please disregardthis message.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why is Poland just like the United States?A:	In the United States you can't b
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Caribbean Orange Liqueur</strong></div></td>
+      <td><div align="center"><strong>London Town</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rpsrqv1468923507.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 large  Orange, 3 cups  Vodka, 1 1/3 cup superfine  Sugar</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Maraschino liqueur, 2 dashes  Orange bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.</td>
+      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why is Poland just like the United States?A:	In the United States you can't b
 <br>
 </details>
 
-**324 day before 2027 ⏱** days before new year
+**323 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.6°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.57°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:44 and sets 🌇 at 17:57
+  The sun ☀️ rise 🌄 at 07:42 and sets 🌇 at 17:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why is Poland just like the United States?A:	In the United States you can't b
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Feb 11 2026
+  Last update on Thu Feb 12 2026
   </div>
 <br>
 
