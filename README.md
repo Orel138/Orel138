@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will pay for your sins.  If you have already paid, please disregardthis message.
+Q:	What's the difference between Bell Labs and the Boy Scouts of America?A:	The Boy Scouts have adult supervision.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will pay for your sins.  If you have already paid, please disregardthis mess
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>London Town</strong></div></td>
+      <td><div align="center"><strong>Zima Blaster</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rpsrqv1468923507.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/1wifuv1485619797.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1/2 oz  Maraschino liqueur, 2 dashes  Orange bitters</td>
+      <td><b>Ingredients:</b> 12 oz  Zima, 3 oz  Chambord raspberry liqueur</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will pay for your sins.  If you have already paid, please disregardthis mess
 <br>
 </details>
 
-**323 day before 2027 ⏱** days before new year
+**322 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.57°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -5.53°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:42 and sets 🌇 at 17:59
+  The sun ☀️ rise 🌄 at 07:41 and sets 🌇 at 18:00
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will pay for your sins.  If you have already paid, please disregardthis mess
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Feb 12 2026
+  Last update on Fri Feb 13 2026
   </div>
 <br>
 
