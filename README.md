@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Chicken Little was right.
+At once it struck me what quality went to form a man of achievement,especially in literature, and which Shakespeare possessed so enormously-- I mean negative capability, that is, when a man is capable of beingin uncertainties, mysteries, doubts, without any irritable reachingafter fact and reason.		-- John Keats
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Chicken Little was right.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Grand Blue</strong></div></td>
+      <td><div align="center"><strong>Rum Screwdriver</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vsrsqu1472761749.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 cl  Malibu rum, 1 1/2 cl  Peach schnapps, 1 1/2 cl  Blue Curacao, 3 cl  Sweet and sour</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 5 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Serve in an old fashioned glass.</td>
+      <td><b>Instructions:</b> Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Chicken Little was right.
 <br>
 </details>
 
-**319 day before 2027 ⏱** days before new year
+**318 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.61°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:36 and sets 🌇 at 18:05
+  The sun ☀️ rise 🌄 at 07:35 and sets 🌇 at 18:06
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Chicken Little was right.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Feb 16 2026
+  Last update on Tue Feb 17 2026
   </div>
 <br>
 
