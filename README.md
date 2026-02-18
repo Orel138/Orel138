@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-At once it struck me what quality went to form a man of achievement,especially in literature, and which Shakespeare possessed so enormously-- I mean negative capability, that is, when a man is capable of beingin uncertainties, mysteries, doubts, without any irritable reachingafter fact and reason.		-- John Keats
+Give him an evasive answer.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ At once it struck me what quality went to form a man of achievement,especially i
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rum Screwdriver</strong></div></td>
+      <td><div align="center"><strong>Blue Margarita</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 5 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Tequila, 1 oz  Blue Curacao, 1 oz  Lime juice, Coarse  Salt</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.</td>
+      <td><b>Instructions:</b> Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ At once it struck me what quality went to form a man of achievement,especially i
 <br>
 </details>
 
-**318 day before 2027 ⏱** days before new year
+**317 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.61°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.28°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:35 and sets 🌇 at 18:06
+  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 18:07
   </div>
 <br>
 
@@ -117,7 +117,7 @@ At once it struck me what quality went to form a man of achievement,especially i
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Feb 17 2026
+  Last update on Wed Feb 18 2026
   </div>
 <br>
 
