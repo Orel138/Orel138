@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Give him an evasive answer.
+The difference between the right word and the almost right word is thedifference between lightning and the lightning bug.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Give him an evasive answer.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Blue Margarita</strong></div></td>
+      <td><div align="center"><strong>Irish Cream</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/90etyl1504884699.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Irish coffee cup</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Tequila, 1 oz  Blue Curacao, 1 oz  Lime juice, Coarse  Salt</td>
+      <td><b>Ingredients:</b> 1 cup  Scotch, 1 1/4 cup  Half-and-half, 1 can sweetened  Condensed milk, 3 drops  Coconut syrup, 1 tblsp  Chocolate syrup</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.</td>
+      <td><b>Instructions:</b> Mix scotch and milk. Add half-and-half. Add rest.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Give him an evasive answer.
 <br>
 </details>
 
-**317 day before 2027 ⏱** days before new year
+**316 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.28°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -2.46°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 18:07
+  The sun ☀️ rise 🌄 at 07:32 and sets 🌇 at 18:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Give him an evasive answer.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Feb 18 2026
+  Last update on Thu Feb 19 2026
   </div>
 <br>
 
