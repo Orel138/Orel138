@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The difference between the right word and the almost right word is thedifference between lightning and the lightning bug.		-- Mark Twain
+Suspicion always haunts the guilty mind.		-- Wm. Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The difference between the right word and the almost right word is thedifference
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Irish Cream</strong></div></td>
+      <td><div align="center"><strong>Absinthe #2</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/90etyl1504884699.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Irish coffee cup</td>
+      <td><b>Type of glass:</b> Jar</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Scotch, 1 1/4 cup  Half-and-half, 1 can sweetened  Condensed milk, 3 drops  Coconut syrup, 1 tblsp  Chocolate syrup</td>
+      <td><b>Ingredients:</b> 1 bottle  Vodka, 50 gr  Sugar, 50 ml pure  Anise, 1 tblsp  Licorice root, 1  Wormwood</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix scotch and milk. Add half-and-half. Add rest.</td>
+      <td><b>Instructions:</b> Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The difference between the right word and the almost right word is thedifference
 <br>
 </details>
 
-**316 day before 2027 ⏱** days before new year
+**315 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -2.46°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.34°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:32 and sets 🌇 at 18:09
+  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 18:10
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The difference between the right word and the almost right word is thedifference
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Feb 19 2026
+  Last update on Fri Feb 20 2026
   </div>
 <br>
 
