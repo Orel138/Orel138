@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Suspicion always haunts the guilty mind.		-- Wm. Shakespeare
+Q:	What's the difference between USL and the Titanic?A:	The Titanic had a band.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Suspicion always haunts the guilty mind.		-- Wm. Shakespeare
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Absinthe #2</strong></div></td>
+      <td><div align="center"><strong>Almond Joy</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xutuqs1483388296.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Jar</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 bottle  Vodka, 50 gr  Sugar, 50 ml pure  Anise, 1 tblsp  Licorice root, 1  Wormwood</td>
+      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz white  Creme de Cacao, 2 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Suspicion always haunts the guilty mind.		-- Wm. Shakespeare
 <br>
 </details>
 
-**315 day before 2027 ⏱** days before new year
+**314 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.34°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -5.64°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 18:10
+  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 18:12
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Suspicion always haunts the guilty mind.		-- Wm. Shakespeare
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Feb 20 2026
+  Last update on Sat Feb 21 2026
   </div>
 <br>
 
