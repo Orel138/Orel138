@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You may worry about your hair-do today, but tomorrow much peanut butter willbe sold.
+The human race has one really effective weapon, and that is laughter.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You may worry about your hair-do today, but tomorrow much peanut butter willbe s
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mint Julep</strong></div></td>
+      <td><div align="center"><strong>Brigadier</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/squyyq1439907312.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Coupe Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 fresh  Mint, 2 1/2 oz  Bourbon, 1 tsp  Powdered sugar, 2 tsp  Water</td>
+      <td><b>Ingredients:</b> 4 oz Hot Chocolate, 1 oz Green Chartreuse, 1 oz Cherry Heering</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.</td>
+      <td><b>Instructions:</b> Mix ingredients in a warmed mug and stir.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You may worry about your hair-do today, but tomorrow much peanut butter willbe s
 <br>
 </details>
 
-**313 day before 2027 ⏱** days before new year
+**312 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -6.03°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.76°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:27 and sets 🌇 at 18:13
+  The sun ☀️ rise 🌄 at 07:25 and sets 🌇 at 18:14
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You may worry about your hair-do today, but tomorrow much peanut butter willbe s
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Feb 22 2026
+  Last update on Mon Feb 23 2026
   </div>
 <br>
 
