@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The human race has one really effective weapon, and that is laughter.		-- Mark Twain
+Advancement in position.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The human race has one really effective weapon, and that is laughter.		-- Mark T
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brigadier</strong></div></td>
+      <td><div align="center"><strong>Brooklyn</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coupe Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 oz Hot Chocolate, 1 oz Green Chartreuse, 1 oz Cherry Heering</td>
+      <td><b>Ingredients:</b> 2 oz Rye Whiskey, 1 oz Dry Vermouth, 1/4 oz Maraschino Liqueur, 3 dashes Angostura Bitters, 1 Maraschino Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix ingredients in a warmed mug and stir.</td>
+      <td><b>Instructions:</b> Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The human race has one really effective weapon, and that is laughter.		-- Mark T
 <br>
 </details>
 
-**312 day before 2027 ⏱** days before new year
+**311 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.76°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.73°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:25 and sets 🌇 at 18:14
+  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 18:16
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The human race has one really effective weapon, and that is laughter.		-- Mark T
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Feb 23 2026
+  Last update on Tue Feb 24 2026
   </div>
 <br>
 
