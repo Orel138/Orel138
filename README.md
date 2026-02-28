@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #15A:	The Royal Canadian Mounted Police.Q:	What was the greatest achievement in taxidermy?
+In the plot, people came to the land; the land loved them; they worked andstruggled and had lots of children.  There was a Frenchman who talked funnyand a greenhorn from England who was a fancy-pants but when it came to thecrunch he was all courage.  Those novels would make you retch.		-- Canadian novelist Robertson Davies, on the generic Canadian		   novel.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #15A:	The Royal Canadian Mount
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Casa Blanca</strong></div></td>
+      <td><div align="center"><strong>Barracuda</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 1/2 tsp  Lime juice, 1 1/2 tsp  Maraschino liqueur</td>
+      <td><b>Ingredients:</b> 4.5 cl Rum, 1.5 cl Galliano, 6 cl Pineapple Juice, 1 dash Lime Juice, top up  Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #15A:	The Royal Canadian Mount
 <br>
 </details>
 
-**308 day before 2027 ⏱** days before new year
+**307 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.93°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -1.93°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:18 and sets 🌇 at 18:20
+  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 18:21
   </div>
 <br>
 
@@ -117,7 +117,7 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #15A:	The Royal Canadian Mount
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Feb 27 2026
+  Last update on Sat Feb 28 2026
   </div>
 <br>
 
