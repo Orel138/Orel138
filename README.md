@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Celebrate Hannibal Day this year.  Take an elephant to lunch.
+Don't read everything you believe.
 </details>
 
 <details>
@@ -74,19 +74,23 @@ Celebrate Hannibal Day this year.  Take an elephant to lunch.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cream Soda</strong></div></td>
+      <td><div align="center"><strong>Vodka Tonic</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Spiced rum, Ginger ale</td>
+      <td><b>Ingredients:</b> 4 cl Vodka, 10 cl Tonic Water, 1 Slice Lemon Peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.</td>
+      <td><b>Instructions:</b> Wash and cut 1 wedge and 1 slice of lime or lemon.
+Fill a tumbler with fresh ice.
+Pour the desired dose of vodka and top up with the tonic.
+Squeeze the lime wedge into the glass and decorate with the slice.
+That's all, very simple: it's just the recipe for happiness!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +101,13 @@ Celebrate Hannibal Day this year.  Take an elephant to lunch.
 <br>
 </details>
 
-**305 day before 2027 ⏱** days before new year
+**304 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.62°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.33°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 18:24
+  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 18:25
   </div>
 <br>
 
@@ -117,7 +121,7 @@ Celebrate Hannibal Day this year.  Take an elephant to lunch.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Mar 02 2026
+  Last update on Tue Mar 03 2026
   </div>
 <br>
 
