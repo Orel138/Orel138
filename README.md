@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't read everything you believe.
+Q:	How many existentialists does it take to screw in a light bulb?A:	Two.  One to screw it in and one to observe how the light bulb	itself symbolizes a single incandescent beacon of subjective	reality in a netherworld of endless absurdity reaching out toward a	maudlin cosmos of nothingness.
 </details>
 
 <details>
@@ -74,23 +74,19 @@ Don't read everything you believe.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vodka Tonic</strong></div></td>
+      <td><div align="center"><strong>Gin And Tonic</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl Vodka, 10 cl Tonic Water, 1 Slice Lemon Peel</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Tonic water, 1  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Wash and cut 1 wedge and 1 slice of lime or lemon.
-Fill a tumbler with fresh ice.
-Pour the desired dose of vodka and top up with the tonic.
-Squeeze the lime wedge into the glass and decorate with the slice.
-That's all, very simple: it's just the recipe for happiness!</td>
+      <td><b>Instructions:</b> Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
     </tr>
   </table>
 </div>
@@ -101,13 +97,13 @@ That's all, very simple: it's just the recipe for happiness!</td>
 <br>
 </details>
 
-**304 day before 2027 ⏱** days before new year
+**303 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.33°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.03°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 18:25
+  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 18:27
   </div>
 <br>
 
@@ -121,7 +117,7 @@ That's all, very simple: it's just the recipe for happiness!</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Mar 03 2026
+  Last update on Wed Mar 04 2026
   </div>
 <br>
 
