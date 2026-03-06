@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.		-- Mark Twain
+You will pay for your sins.  If you have already paid, please disregardthis message.
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.	
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Red Snapper</strong></div></td>
+      <td><div align="center"><strong>Zoksel</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Beer pilsner</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Crown Royal, 1 shot  Amaretto, 1 shot  Cranberry juice</td>
+      <td><b>Ingredients:</b> Beer, Root beer, Lemonade, slice
+ Coca-Cola, 7-Up, Creme de Cassis, Lemon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> One shot each, shake n shoot</td>
+      <td><b>Instructions:</b> No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.	
 <br>
 </details>
 
-**302 day before 2027 ⏱** days before new year
+**301 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 2.88°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.54°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:08 and sets 🌇 at 18:28
+  The sun ☀️ rise 🌄 at 07:06 and sets 🌇 at 18:29
   </div>
 <br>
 
@@ -117,7 +118,7 @@ Fame is a vapor; popularity an accident; the only earthly certainty isoblivion.	
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 05 2026
+  Last update on Fri Mar 06 2026
   </div>
 <br>
 
