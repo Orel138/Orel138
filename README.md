@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why do the police always travel in threes?A:	One to do the reading, one to do the writing, and the other keeps	an eye on the two intellectuals.
+Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Taming of the Shrew"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why do the police always travel in threes?A:	One to do the reading, one to do
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mai Tai</strong></div></td>
+      <td><div align="center"><strong>Alice in Wonderland</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Light rum, 1/2 oz  Orgeat syrup, 1/2 oz  Triple sec, 1 1/2 oz  Sweet and sour, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1 shot  Amaretto, 1 shot  Grand Marnier, 1 shot  Southern Comfort</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.</td>
+      <td><b>Instructions:</b> Just mix the three ingredients one to one to one</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why do the police always travel in threes?A:	One to do the reading, one to do
 <br>
 </details>
 
-**299 day before 2027 ⏱** days before new year
+**298 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.11°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.75°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:02 and sets 🌇 at 18:32
+  The sun ☀️ rise 🌄 at 07:00 and sets 🌇 at 18:33
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why do the police always travel in threes?A:	One to do the reading, one to do
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 08 2026
+  Last update on Mon Mar 09 2026
   </div>
 <br>
 
