@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Taming of the Shrew"
+Q:	What's the contour integral around Western Europe?A:	Zero, because all the Poles are in Eastern Europe!Addendum: Actually, there ARE some Poles in Western Europe, but they	are removable!Q:	An English mathematician (I forgot who) was asked by his	very religious colleague: Do you believe in one God?A:	Yes, up to isomorphism!Q:	What is a compact city?A:	It's a city that can be guarded by finitely many near-sighted	policemen!		-- Peter Lax
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Tamin
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Alice in Wonderland</strong></div></td>
+      <td><div align="center"><strong>AT&T</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rhhwmp1493067619.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Amaretto, 1 shot  Grand Marnier, 1 shot  Southern Comfort</td>
+      <td><b>Ingredients:</b> 1 oz  Absolut Vodka, 1 oz  Gin, 4 oz  Tonic water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Just mix the three ingredients one to one to one</td>
+      <td><b>Instructions:</b> Pour Vodka and Gin over ice, add Tonic and Stir</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Tamin
 <br>
 </details>
 
-**298 day before 2027 ⏱** days before new year
+**297 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.75°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.03°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:00 and sets 🌇 at 18:33
+  The sun ☀️ rise 🌄 at 06:59 and sets 🌇 at 18:35
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Kiss me, Kate, we will be married o' Sunday.		-- William Shakespeare, "The Tamin
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Mar 09 2026
+  Last update on Tue Mar 10 2026
   </div>
 <br>
 
