@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will feel hungry again in another hour.
+This life is yours.  Some of it was given to you; the rest, you made yourself.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will feel hungry again in another hour.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brandy Sour</strong></div></td>
+      <td><div align="center"><strong>Broadside</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b1bxgq1582484872.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l2o6xu1582476870.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Whiskey sour glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Brandy, Juice of 1/2  Lemon, 1/2 tsp  Powdered sugar, 1/2 slice  Lemon, 1  Cherry</td>
+      <td><b>Ingredients:</b> 1 shot 151 proof rum, 1/2 shot Scotch, 3 drops Bitters, 1 Fresh Wormwood, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.</td>
+      <td><b>Instructions:</b> Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will feel hungry again in another hour.
 <br>
 </details>
 
-**295 day before 2027 ⏱** days before new year
+**294 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.96°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.02°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:55 and sets 🌇 at 18:37
+  The sun ☀️ rise 🌄 at 06:53 and sets 🌇 at 18:39
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will feel hungry again in another hour.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 12 2026
+  Last update on Fri Mar 13 2026
   </div>
 <br>
 
