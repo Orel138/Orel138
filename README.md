@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Learn to pause -- or nothing worthwhile can catch up to you.
+If you stand on your head, you will get footprints in your hair.
 </details>
 
 <details>
@@ -97,13 +97,13 @@ Learn to pause -- or nothing worthwhile can catch up to you.
 <br>
 </details>
 
-**292 day before 2027 ⏱** days before new year
+**291 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -9.71°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.42°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:49 and sets 🌇 at 18:41
+  The sun ☀️ rise 🌄 at 06:47 and sets 🌇 at 18:42
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Learn to pause -- or nothing worthwhile can catch up to you.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Mar 15 2026
+  Last update on Mon Mar 16 2026
   </div>
 <br>
 
