@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Hope that the day after you die is a nice day.
+You are only young once, but you can stay immature indefinitely.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Hope that the day after you die is a nice day.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Slippery Nipple</strong></div></td>
+      <td><div align="center"><strong>252</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part Sambuca, 1 part Irish cream</td>
+      <td><b>Ingredients:</b> 1/2 shot Bacardi  151 proof rum, 1/2 shot  Wild Turkey</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.</td>
+      <td><b>Instructions:</b> Add both ingredients to shot glass, shoot, and get drunk quick</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Hope that the day after you die is a nice day.
 <br>
 </details>
 
-**288 day before 2027 ⏱** days before new year
+**287 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -5.93°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.22°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:42 and sets 🌇 at 18:46
+  The sun ☀️ rise 🌄 at 06:40 and sets 🌇 at 18:48
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Hope that the day after you die is a nice day.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Mar 19 2026
+  Last update on Fri Mar 20 2026
   </div>
 <br>
 
