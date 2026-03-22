@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have taken yourself too seriously.
+Tonight's the night: Sleep in a eucalyptus tree.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have taken yourself too seriously.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A midsummernight dream</strong></div></td>
+      <td><div align="center"><strong>Rose</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ysqvqp1461867292.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8kxbvq1504371462.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, 1 oz  Kirschwasser, 1 tsp  Strawberry liqueur, 5  Strawberries, Schweppes Russchian</td>
+      <td><b>Ingredients:</b> 1/2 oz  Dry Vermouth, 1 oz  Gin, 1/2 oz  Apricot brandy, 1/2 tsp  Lemon juice, 1 tsp  Grenadine, Powdered sugar</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix the strawberrys in a blender Pour it together with the vodka,kirch and strawberry liquer over ice in a shaker. Shake well and pour in a highballglass. Fill up with the Russchian water</td>
+      <td><b>Instructions:</b> Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have taken yourself too seriously.
 <br>
 </details>
 
-**286 day before 2027 ⏱** days before new year
+**285 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 2.03°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 1.43°C), light snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:38 and sets 🌇 at 18:49
+  The sun ☀️ rise 🌄 at 06:36 and sets 🌇 at 18:50
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have taken yourself too seriously.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Mar 21 2026
+  Last update on Sun Mar 22 2026
   </div>
 <br>
 
