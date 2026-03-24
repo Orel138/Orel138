@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Extreme fear can neither fight nor fly.		-- William Shakespeare, "The Rape of Lucrece"
+Give your very best today.  Heaven knows it's little enough.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Extreme fear can neither fight nor fly.		-- William Shakespeare, "The Rape of Lu
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Chocolate Monkey</strong></div></td>
+      <td><div align="center"><strong>Blue Margarita</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tyvpxt1468875212.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Parfait glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Banana liqueur, 2 shots  Creme de Cacao, 2 scoops  Chocolate ice-cream, 1 oz  Chocolate syrup, 4 oz  Chocolate milk, 1  Whipped cream, 1  Cherry, 1 piece  Banana</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Tequila, 1 oz  Blue Curacao, 1 oz  Lime juice, Coarse  Salt</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> blend liqeuors with ice-cream, milk and syrup. pour into parfait glass, top with whipped cream and garnish with banana and cherry.</td>
+      <td><b>Instructions:</b> Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Extreme fear can neither fight nor fly.		-- William Shakespeare, "The Rape of Lu
 <br>
 </details>
 
-**284 day before 2027 ⏱** days before new year
+**283 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.1°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.56°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:34 and sets 🌇 at 18:51
+  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 18:53
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Extreme fear can neither fight nor fly.		-- William Shakespeare, "The Rape of Lu
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Mar 23 2026
+  Last update on Tue Mar 24 2026
   </div>
 <br>
 
