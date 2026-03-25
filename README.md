@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Give your very best today.  Heaven knows it's little enough.
+Q:	What do you call a half-dozen Indians with Asian flu?A:	Six sick Sikhs (sic).
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Give your very best today.  Heaven knows it's little enough.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Blue Margarita</strong></div></td>
+      <td><div align="center"><strong>Homemade Kahlua</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Tequila, 1 oz  Blue Curacao, 1 oz  Lime juice, Coarse  Salt</td>
+      <td><b>Ingredients:</b> 2 1/2 cups  Sugar, 1 cup  Corn syrup, 1 1/2 oz instant  Coffee, 2 oz  Vanilla extract, 3 cups boiling  Water, 1 fifth  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.</td>
+      <td><b>Instructions:</b> Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture "mature" for 4-5 weeks.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Give your very best today.  Heaven knows it's little enough.
 <br>
 </details>
 
-**283 day before 2027 ⏱** days before new year
+**282 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.56°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.93°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 18:53
+  The sun ☀️ rise 🌄 at 06:30 and sets 🌇 at 18:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Give your very best today.  Heaven knows it's little enough.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Mar 24 2026
+  Last update on Wed Mar 25 2026
   </div>
 <br>
 
