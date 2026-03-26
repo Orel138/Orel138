@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What do you call a half-dozen Indians with Asian flu?A:	Six sick Sikhs (sic).
+You have been selected for a secret mission.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What do you call a half-dozen Indians with Asian flu?A:	Six sick Sikhs (sic).
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Homemade Kahlua</strong></div></td>
+      <td><div align="center"><strong>Hawaiian Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ujoh9x1504882987.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 1/2 cups  Sugar, 1 cup  Corn syrup, 1 1/2 oz instant  Coffee, 2 oz  Vanilla extract, 3 cups boiling  Water, 1 fifth  Vodka</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Triple sec, 1 tblsp  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture "mature" for 4-5 weeks.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What do you call a half-dozen Indians with Asian flu?A:	Six sick Sikhs (sic).
 <br>
 </details>
 
-**282 day before 2027 ⏱** days before new year
+**281 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.93°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -12.5°C), snow</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:30 and sets 🌇 at 18:54
+  The sun ☀️ rise 🌄 at 06:28 and sets 🌇 at 18:55
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What do you call a half-dozen Indians with Asian flu?A:	Six sick Sikhs (sic).
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Mar 25 2026
+  Last update on Thu Mar 26 2026
   </div>
 <br>
 
