@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-There is an old time toast which is golden for its beauty."When you ascend the hill of prosperity may you not meet a friend."		-- Mark Twain
+There's small choice in rotten apples.		-- William Shakespeare, "The Taming of the Shrew"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ There is an old time toast which is golden for its beauty."When you ascend the h
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Martinez Cocktail</strong></div></td>
+      <td><div align="center"><strong>Death in the Afternoon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y7s3rh1598719574.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Gin, 1 oz  Dry Vermouth, 1/4 tsp  Triple sec, 1 dash  Orange bitters, 1  Cherry</td>
+      <td><b>Ingredients:</b> 2 shots Absinthe, Top Champagne</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
+      <td><b>Instructions:</b> Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ There is an old time toast which is golden for its beauty."When you ascend the h
 <br>
 </details>
 
-**280 day before 2027 ⏱** days before new year
+**279 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -4.06°C), light snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -10.67°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:27 and sets 🌇 at 18:56
+  The sun ☀️ rise 🌄 at 06:25 and sets 🌇 at 18:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ There is an old time toast which is golden for its beauty."When you ascend the h
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Mar 27 2026
+  Last update on Sat Mar 28 2026
   </div>
 <br>
 
