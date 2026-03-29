@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-There's small choice in rotten apples.		-- William Shakespeare, "The Taming of the Shrew"
+Communicate!  It can't make things any worse.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ There's small choice in rotten apples.		-- William Shakespeare, "The Taming of t
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Death in the Afternoon</strong></div></td>
+      <td><div align="center"><strong>Boxcar</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/y7s3rh1598719574.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Margarita glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 shots Absinthe, Top Champagne</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Triple sec, 1 tsp  Lemon juice, 1/2 tsp  Grenadine, 1  Egg white</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ There's small choice in rotten apples.		-- William Shakespeare, "The Taming of t
 <br>
 </details>
 
-**279 day before 2027 ⏱** days before new year
+**278 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-7°C (felt -10.67°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-4°C (felt -7.83°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:25 and sets 🌇 at 18:58
+  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 19:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ There's small choice in rotten apples.		-- William Shakespeare, "The Taming of t
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Mar 28 2026
+  Last update on Sun Mar 29 2026
   </div>
 <br>
 
