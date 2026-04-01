@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elephants have big flat feet?A:	To stamp out flaming ducks.
+A banker is a fellow who lends you his umbrella when the sun is shiningand wants it back the minute it begins to rain.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elepha
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Elderflower Caipirinha</strong></div></td>
+      <td><div align="center"><strong>Aperol Spritz</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dif7a31614006331.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iloasq1587661955.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Wine Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 60 ml Cachaca, 1 Lime, 3 cl Elderflower cordial</td>
+      <td><b>Ingredients:</b> 100 ml Aperol, 150 ml Prosecco, Top Soda Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Take the glass and muddle the lime in it. Fill the glass with crushed ice and add the Cachaca. Stir well and top with some more crushed ice. Garnish with lime and enjoy!</td>
+      <td><b>Instructions:</b> Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elepha
 <br>
 </details>
 
-**276 day before 2027 ⏱** days before new year
+**275 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt -0.73°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.26°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 20:02
+  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 20:03
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why do ducks have big flat feet?A:	To stamp out forest fires.Q:	Why do elepha
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Mar 31 2026
+  Last update on Wed Apr 01 2026
   </div>
 <br>
 
