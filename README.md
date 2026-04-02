@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A banker is a fellow who lends you his umbrella when the sun is shiningand wants it back the minute it begins to rain.		-- Mark Twain
+An exotic journey in downtown Newark is in your future.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ A banker is a fellow who lends you his umbrella when the sun is shiningand wants
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Aperol Spritz</strong></div></td>
+      <td><div align="center"><strong>Queen Bee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iloasq1587661955.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rvvpxu1478963194.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 100 ml Aperol, 150 ml Prosecco, Top Soda Water</td>
+      <td><b>Ingredients:</b> 1 oz  Coffee brandy, 1 1/2 oz  Lime vodka, 1/2 oz cream  Sherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ A banker is a fellow who lends you his umbrella when the sun is shiningand wants
 <br>
 </details>
 
-**275 day before 2027 ⏱** days before new year
+**274 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -8.26°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -9.04°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 20:03
+  The sun ☀️ rise 🌄 at 07:15 and sets 🌇 at 20:04
   </div>
 <br>
 
@@ -117,7 +117,7 @@ A banker is a fellow who lends you his umbrella when the sun is shiningand wants
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Apr 01 2026
+  Last update on Thu Apr 02 2026
   </div>
 <br>
 
