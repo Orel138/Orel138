@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-An exotic journey in downtown Newark is in your future.
+But, for my own part, it was Greek to me.		-- William Shakespeare, "Julius Caesar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ An exotic journey in downtown Newark is in your future.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Queen Bee</strong></div></td>
+      <td><div align="center"><strong>Grasshopper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rvvpxu1478963194.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Coffee brandy, 1 1/2 oz  Lime vodka, 1/2 oz cream  Sherry</td>
+      <td><b>Ingredients:</b> 3/4 oz  Green Creme de Menthe, 3/4 oz white  Creme de Cacao, 3/4 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ An exotic journey in downtown Newark is in your future.
 <br>
 </details>
 
-**274 day before 2027 ⏱** days before new year
+**273 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-5°C (felt -9.04°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.34°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:15 and sets 🌇 at 20:04
+  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 20:05
   </div>
 <br>
 
@@ -117,7 +117,7 @@ An exotic journey in downtown Newark is in your future.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Apr 02 2026
+  Last update on Fri Apr 03 2026
   </div>
 <br>
 
