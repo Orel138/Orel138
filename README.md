@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-But, for my own part, it was Greek to me.		-- William Shakespeare, "Julius Caesar"
+There's small choice in rotten apples.		-- William Shakespeare, "The Taming of the Shrew"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ But, for my own part, it was Greek to me.		-- William Shakespeare, "Julius Caesa
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Grasshopper</strong></div></td>
+      <td><div align="center"><strong>Dirty Nipple</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Green Creme de Menthe, 3/4 oz white  Creme de Cacao, 3/4 oz  Light cream</td>
+      <td><b>Ingredients:</b> Kahlua, Sambuca, Baileys irish cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> This is a layered shot - the Bailey's must be on top</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ But, for my own part, it was Greek to me.		-- William Shakespeare, "Julius Caesa
 <br>
 </details>
 
-**273 day before 2027 ⏱** days before new year
+**272 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -4.34°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -1.1°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 20:05
+  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 20:07
   </div>
 <br>
 
@@ -117,7 +117,7 @@ But, for my own part, it was Greek to me.		-- William Shakespeare, "Julius Caesa
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 03 2026
+  Last update on Sat Apr 04 2026
   </div>
 <br>
 
