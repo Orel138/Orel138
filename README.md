@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What is the difference between a duck?A:	One leg is both the same.
+Mind!  I don't mean to say that I know, of my own knowledge, what there isparticularly dead about a door-nail.  I might have been inclined, myself,to regard a coffin-nail as the deadest piece of ironmongery in the trade.But the wisdom of our ancestors is in the simile; and my unhallowed handsshall not disturb it, or the Country's done for.  You will therefore permitme to repeat, emphatically, that Marley was as dead as a door-nail.		-- Charles Dickens, "A Christmas Carol"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What is the difference between a duck?A:	One leg is both the same.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Screaming Orgasm</strong></div></td>
+      <td><div align="center"><strong>Pink Lady</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Vodka, 1 1/2 oz  Baileys irish cream, 1/2 oz  Kahlua</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 tsp  Grenadine, 1 tsp  Light cream, 1  Egg white</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What is the difference between a duck?A:	One leg is both the same.
 <br>
 </details>
 
-**270 day before 2027 ⏱** days before new year
+**269 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>null°C (felt null°C), null</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.98°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at null and sets 🌇 at null
+  The sun ☀️ rise 🌄 at 07:06 and sets 🌇 at 20:10
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What is the difference between a duck?A:	One leg is both the same.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 06 2026
+  Last update on Tue Apr 07 2026
   </div>
 <br>
 
