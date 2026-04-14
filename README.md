@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be awarded some great honor.
+You are destined to become the commandant of the fighting men of thedepartment of transportation.
 </details>
 
 <details>
@@ -74,22 +74,19 @@ You will be awarded some great honor.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Greyhound</strong></div></td>
+      <td><div align="center"><strong>Gideon's Green Dinosaur</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/p5r0tr1503564636.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz Vodka, 3 oz Grapefruit Juice</td>
+      <td><b>Ingredients:</b> 1/2 oz  Dark rum, 1/2 oz  Vodka, 1/2 oz  Triple sec, 1/2 oz  Tequila, 1/2 oz  Melon liqueur, Fill with  Mountain Dew</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add the vodka to a Collins glass filled with ice.
-Top with grapefruit juice and stir.
-
-</td>
+      <td><b>Instructions:</b> Add all ingredients in collins glass with ice and stir.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +97,13 @@ Top with grapefruit juice and stir.
 <br>
 </details>
 
-**263 day before 2027 ⏱** days before new year
+**262 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.93°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.75°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:55 and sets 🌇 at 20:18
+  The sun ☀️ rise 🌄 at 06:53 and sets 🌇 at 20:19
   </div>
 <br>
 
@@ -120,7 +117,7 @@ Top with grapefruit juice and stir.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 13 2026
+  Last update on Tue Apr 14 2026
   </div>
 <br>
 
