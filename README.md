@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are destined to become the commandant of the fighting men of thedepartment of transportation.
+The bone-chilling scream split the warm summer night in two, the firsthalf being before the scream when it was fairly balmy and calm andpleasant, the second half still balmy and quite pleasant for those whohadn't heard the scream at all, but not calm or balmy or even very nicefor those who did hear the scream, discounting the little period of timeduring the actual scream itself when your ears might have been hearing itbut your brain wasn't reacting yet to let you know.		-- Winning sentence, 1986 Bulwer-Lytton bad fiction contest.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gideon's Green Dinosaur</strong></div></td>
+      <td><div align="center"><strong>Foxy Lady</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/p5r0tr1503564636.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Dark rum, 1/2 oz  Vodka, 1/2 oz  Triple sec, 1/2 oz  Tequila, 1/2 oz  Melon liqueur, Fill with  Mountain Dew</td>
+      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz  Creme de Cacao, 2 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all ingredients in collins glass with ice and stir.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <br>
 </details>
 
-**262 day before 2027 ⏱** days before new year
+**261 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 3.75°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 1.43°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:53 and sets 🌇 at 20:19
+  The sun ☀️ rise 🌄 at 06:52 and sets 🌇 at 20:21
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You are destined to become the commandant of the fighting men of thedepartment o
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 14 2026
+  Last update on Wed Apr 15 2026
   </div>
 <br>
 
