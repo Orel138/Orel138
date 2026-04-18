@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your goose is cooked.(Your current chick is burned up too!)
+Q:	Why did the chicken cross the road?A:	He was giving it last rites.
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Your goose is cooked.(Your current chick is burned up too!)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Coffee Liqueur</strong></div></td>
+      <td><div align="center"><strong>Masala Chai</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ryvtsu1441253851.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Coffee Mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 10 tblsp instant  Coffee, 4 tblsp  Vanilla extract, 2 1/2 cups  Sugar, 1 qt  Vodka, 2 1/2 cups  Water</td>
+      <td><b>Ingredients:</b> 2 cups  Water, 3-4 tsp  Tea, 1 chunk dried  Ginger, 3-4 crushed  Cardamom, 3  Cloves, 1 piece  Cinnamon, 1-2 whole  Black pepper, to taste
+ Sugar, to taste Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.</td>
+      <td><b>Instructions:</b> Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ Your goose is cooked.(Your current chick is burned up too!)
 <br>
 </details>
 
-**259 day before 2027 ⏱** days before new year
+**258 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 9.14°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.7°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:48 and sets 🌇 at 20:23
+  The sun ☀️ rise 🌄 at 06:46 and sets 🌇 at 20:24
   </div>
 <br>
 
@@ -117,7 +118,7 @@ Your goose is cooked.(Your current chick is burned up too!)
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 17 2026
+  Last update on Sat Apr 18 2026
   </div>
 <br>
 
