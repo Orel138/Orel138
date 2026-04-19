@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why did the chicken cross the road?A:	He was giving it last rites.
+You are standing on my toes.
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Q:	Why did the chicken cross the road?A:	He was giving it last rites.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Masala Chai</strong></div></td>
+      <td><div align="center"><strong>Pink Moon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/lnjoc81619696191.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee Mug</td>
+      <td><b>Type of glass:</b> Whiskey Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Water, 3-4 tsp  Tea, 1 chunk dried  Ginger, 3-4 crushed  Cardamom, 3  Cloves, 1 piece  Cinnamon, 1-2 whole  Black pepper, to taste
- Sugar, to taste Milk</td>
+      <td><b>Ingredients:</b> 1 shot Gin, 1 shot Coconut Liqueur, 25 ml Elderflower cordial, 30 ml Lime Juice, Garnish with Blackberries</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT.</td>
+      <td><b>Instructions:</b> Slowly shake in a shaker with ice, strain into a square whiskey glass. Top with fresh ice. Add the blackberries to garnish. Add flowers and a green leaf for a special look!</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ Q:	Why did the chicken cross the road?A:	He was giving it last rites.
 <br>
 </details>
 
-**258 day before 2027 ⏱** days before new year
+**257 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.7°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:46 and sets 🌇 at 20:24
+  The sun ☀️ rise 🌄 at 06:45 and sets 🌇 at 20:26
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Q:	Why did the chicken cross the road?A:	He was giving it last rites.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Apr 18 2026
+  Last update on Sun Apr 19 2026
   </div>
 <br>
 
