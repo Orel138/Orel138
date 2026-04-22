@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't go around saying the world owes you a living.  The world owes younothing.  It was here first.		-- Mark Twain
+Cold hands, no gloves.
 </details>
 
 <details>
@@ -74,25 +74,19 @@ Don't go around saying the world owes you a living.  The world owes younothing. 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Laverstoke</strong></div></td>
+      <td><div align="center"><strong>Bobby Burns Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/6xfj5t1517748412.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Balloon Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml Gin, 15 ml Elderflower cordial, 15 ml Rosso Vermouth, 75 ml Tonic Water, 2 Wedges Lime, 1 Slice Ginger, 1 Large Sprig Mint</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Sweet Vermouth, 1 1/2 oz  Scotch, 1 1/4 tsp  Benedictine, 1 twist of  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> 1) Squeeze two lime wedges into a balloon glass then add the cordial, Bombay Sapphire and MARTINI Rosso Vermouth, swirl to mix.
-
-2) Fully fill the glass with cubed ice and stir to chill.
-
-3) Top with Fever-Tree Ginger Ale and gently stir again to combine.
-
-4) Garnish with a snapped ginger slice and an awoken mint sprig.</td>
+      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
     </tr>
   </table>
 </div>
@@ -103,13 +97,13 @@ Don't go around saying the world owes you a living.  The world owes younothing. 
 <br>
 </details>
 
-**255 day before 2027 ⏱** days before new year
+**254 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.54°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>2°C (felt 1.98°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 20:28
+  The sun ☀️ rise 🌄 at 06:40 and sets 🌇 at 20:29
   </div>
 <br>
 
@@ -123,7 +117,7 @@ Don't go around saying the world owes you a living.  The world owes younothing. 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 21 2026
+  Last update on Wed Apr 22 2026
   </div>
 <br>
 
