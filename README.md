@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You too can wear a nose mitten.
+Your society will be sought by people of taste and refinement.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You too can wear a nose mitten.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pina Colada</strong></div></td>
+      <td><div align="center"><strong>Zorro</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/upgsue1668419912.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/kvvd4z1485621283.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Coffee Mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 oz  Light rum, 3 tblsp  Coconut milk, 3 tblsp  Pineapple</td>
+      <td><b>Ingredients:</b> 2 cl  Sambuca, 2 cl  Baileys irish cream, 2 cl  White Creme de Menthe</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.</td>
+      <td><b>Instructions:</b> add all and pour black coffee and add whipped cream on top.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You too can wear a nose mitten.
 <br>
 </details>
 
-**253 day before 2027 ⏱** days before new year
+**252 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.69°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.76°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:38 and sets 🌇 at 20:31
+  The sun ☀️ rise 🌄 at 06:36 and sets 🌇 at 20:32
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You too can wear a nose mitten.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Apr 23 2026
+  Last update on Fri Apr 24 2026
   </div>
 <br>
 
