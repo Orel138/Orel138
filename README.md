@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your society will be sought by people of taste and refinement.
+The human race is a race of cowards; and I am not only marching in thatprocession but carrying a banner.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your society will be sought by people of taste and refinement.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zorro</strong></div></td>
+      <td><div align="center"><strong>Vodka Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/kvvd4z1485621283.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qyxrqw1439906528.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee Mug</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cl  Sambuca, 2 cl  Baileys irish cream, 2 cl  White Creme de Menthe</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Vodka, 3/4 oz  Dry Vermouth, 1  Olive</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> add all and pour black coffee and add whipped cream on top.</td>
+      <td><b>Instructions:</b> Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your society will be sought by people of taste and refinement.
 <br>
 </details>
 
-**252 day before 2027 ⏱** days before new year
+**251 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.76°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.43°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:36 and sets 🌇 at 20:32
+  The sun ☀️ rise 🌄 at 06:35 and sets 🌇 at 20:33
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your society will be sought by people of taste and refinement.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Apr 24 2026
+  Last update on Sat Apr 25 2026
   </div>
 <br>
 
