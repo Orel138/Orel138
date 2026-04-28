@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Of course you have a purpose -- to find a purpose.
+You two ought to be more careful--your love could drag on for years and years.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Of course you have a purpose -- to find a purpose.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bramble</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sunset</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/twtbh51630406392.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-Fashioned glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 cl Gin, 1.5 cl lemon juice, 1 cl Sugar syrup, 1.5 cl Creme de Mure</td>
+      <td><b>Ingredients:</b> 1/2 jigger  Triple sec, 3 shots  Amaretto, 1/2 cup  Cider, Add 1/2 cup  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.</td>
+      <td><b>Instructions:</b> Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Of course you have a purpose -- to find a purpose.
 <br>
 </details>
 
-**249 day before 2027 ⏱** days before new year
+**248 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.35°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:32 and sets 🌇 at 20:36
+  The sun ☀️ rise 🌄 at 06:30 and sets 🌇 at 20:37
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Of course you have a purpose -- to find a purpose.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Apr 27 2026
+  Last update on Tue Apr 28 2026
   </div>
 <br>
 
