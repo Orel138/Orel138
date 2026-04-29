@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You two ought to be more careful--your love could drag on for years and years.
+Never be led astray onto the path of virtue.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You two ought to be more careful--your love could drag on for years and years.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Sunset</strong></div></td>
+      <td><div align="center"><strong>Bobby Burns Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 jigger  Triple sec, 3 shots  Amaretto, 1/2 cup  Cider, Add 1/2 cup  Ice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Sweet Vermouth, 1 1/2 oz  Scotch, 1 1/4 tsp  Benedictine, 1 twist of  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.</td>
+      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You two ought to be more careful--your love could drag on for years and years.
 <br>
 </details>
 
-**248 day before 2027 ⏱** days before new year
+**247 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.35°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:30 and sets 🌇 at 20:37
+  The sun ☀️ rise 🌄 at 06:29 and sets 🌇 at 20:38
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You two ought to be more careful--your love could drag on for years and years.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Apr 28 2026
+  Last update on Wed Apr 29 2026
   </div>
 <br>
 
