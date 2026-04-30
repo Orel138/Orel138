@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Never be led astray onto the path of virtue.
+	You will remember, Watson, how the dreadful business of theAbernetty family was first brought to my notice by the depth which theparsley had sunk into the butter upon a hot day.		-- Sherlock Holmes
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Never be led astray onto the path of virtue.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bobby Burns Cocktail</strong></div></td>
+      <td><div align="center"><strong>Turkeyball</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rxurpr1441554292.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Sweet Vermouth, 1 1/2 oz  Scotch, 1 1/4 tsp  Benedictine, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 1 oz  Wild Turkey, 3/4 oz  Amaretto, 1 splash  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
+      <td><b>Instructions:</b> Shake with ice and strain into a shot glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Never be led astray onto the path of virtue.
 <br>
 </details>
 
-**247 day before 2027 ⏱** days before new year
+**246 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:29 and sets 🌇 at 20:38
+  The sun ☀️ rise 🌄 at 06:27 and sets 🌇 at 20:40
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Never be led astray onto the path of virtue.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Apr 29 2026
+  Last update on Thu Apr 30 2026
   </div>
 <br>
 
