@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-	You will remember, Watson, how the dreadful business of theAbernetty family was first brought to my notice by the depth which theparsley had sunk into the butter upon a hot day.		-- Sherlock Holmes
+Beware the one behind you.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Turkeyball</strong></div></td>
+      <td><div align="center"><strong>Martinez Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rxurpr1441554292.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Wild Turkey, 3/4 oz  Amaretto, 1 splash  Pineapple juice</td>
+      <td><b>Ingredients:</b> 1 oz  Gin, 1 oz  Dry Vermouth, 1/4 tsp  Triple sec, 1 dash  Orange bitters, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with ice and strain into a shot glass.</td>
+      <td><b>Instructions:</b> Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**246 day before 2027 ⏱** days before new year
+**245 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:27 and sets 🌇 at 20:40
+  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 20:41
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Apr 30 2026
+  Last update on Fri May 01 2026
   </div>
 <br>
 
