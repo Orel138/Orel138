@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Zounds!  I was never so bethumped with wordssince I first called my brother's father dad.		-- William Shakespeare, "Kind John"
+Its name is Public Opinion.  It is held in reverence.  It settles everything.Some think it is the voice of God.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Zounds!  I was never so bethumped with wordssince I first called my brother's fa
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Rum Old-fashioned</strong></div></td>
+      <td><div align="center"><strong>ABC</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/otn2011504820649.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tqpvqp1472668328.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 tsp  151 proof rum, 1/2 tsp  Powdered sugar, 1 dash  Bitters, 1 tsp  Water, Twist of  Lime peel</td>
+      <td><b>Ingredients:</b> 1/3  Amaretto, 1/3  Baileys irish cream, 1/3  Cognac</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir powdered sugar, water, and bitters in an old-fashioned glass. When sugar has dissolved add ice cubes and light rum. Add the twist of lime peel, float 151 proof rum on top, and serve.</td>
+      <td><b>Instructions:</b> Layered in a shot glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Zounds!  I was never so bethumped with wordssince I first called my brother's fa
 <br>
 </details>
 
-**244 day before 2027 ⏱** days before new year
+**243 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.94°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.57°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 20:42
+  The sun ☀️ rise 🌄 at 06:23 and sets 🌇 at 20:43
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Zounds!  I was never so bethumped with wordssince I first called my brother's fa
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 02 2026
+  Last update on Sun May 03 2026
   </div>
 <br>
 
