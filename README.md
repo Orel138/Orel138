@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"Good afternoon, madam.  How may I help you?""Good afternoon.  I'd like a FrintArms HandCannon, please.""A--?  Oh, now, that's an awfully big gun for such a lovely lady.  Imean, not everybody thinks ladies should carry guns at all, though Isay they have a right to.  But I think... I might... Let's have a lookdown here.  I might have just the thing for you.  Yes, here we are!Look at that, isn't it neat?  Now that is a FrintArms product as well,but it's what's called a laser -- a light-pistol some people callthem.  Very small, as you see; fits easily into a pocket or bag; won'tspoil the line of a jacket; and you won't feel you're lugging half atonne of iron around with you.  We do a range of matching accessories,including -- if I may say so -- a rather saucy garter holster.  Wish Igot to do the fitting for that!  Ha -- just my little joke.  Andthere's *even*... here we are -- this special presentation pack: gun,charged battery, charging unit, beautiful glider-hide shoulder holsterwith adjustable fitting and contrast stitching, and a discount on yournext battery.  Full instructions, of course, and a voucher for freelessons at your local gun club or range.  Or there's the *special*presentation pack; it has all the other one's got but with *two*charged batteries and a night-sight, too.  Here, feel that -- don'tworry, it's a dummy battery -- isn't it neat?  Feel how light it is?Smooth, see?  No bits to stick out and catch on your clothes, *and*beautifully balanced.  And of course the beauty of a laser is, there'sno recoil.  Because it's shooting light, you see?  Beautiful gun,beautiful gun; my wife has one.  Really.  That's not a line, shereally has.  Now, I can do you that one -- with a battery and a freecharge -- for ninety-five; or the presentation pack on a specialoffer for one-nineteen; or this, the special presentation pack, forone-forty-nine.""I'll take the special.""Sound choice, madam, *sound* choice.  Now, do--?""And a HandCannon, with the eighty-mill silencer, five GP clips, threesix-five AP/wire-fl'echettes clips, two bipropellant HE clips, and aSpecial Projectile Pack if you have one -- the one with the embeddingrounds, not the signalers.  I assume the night-sight on this toy iscompatible?""Aah... yes,  And how does madam wish to pay?"She slapped her credit card on the counter.  "Eventually."		-- Iain M. Banks, "Against a Dark Background"
+Don't you wish you had more energy... or less ambition?
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>110 in the shade</strong></div></td>
+      <td><div align="center"><strong>Negroni</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xxyywq1454511117.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Beer Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 16 oz  Lager, 1.5 oz  Tequila</td>
+      <td><b>Ingredients:</b> 1 oz  Gin, 1 oz  Campari, 1 oz  Sweet Vermouth</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Drop shooter in glass. Fill with beer</td>
+      <td><b>Instructions:</b> Stir into glass over ice, garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**240 day before 2027 ⏱** days before new year
+**239 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.75°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.09°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:18 and sets 🌇 at 20:47
+  The sun ☀️ rise 🌄 at 06:17 and sets 🌇 at 20:48
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Wed May 06 2026
+  Last update on Thu May 07 2026
   </div>
 <br>
 
