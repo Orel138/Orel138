@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍧
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't you wish you had more energy... or less ambition?
+You will be audited by the Internal Revenue Service.
 </details>
 
 <details>
@@ -74,19 +74,22 @@ Don't you wish you had more energy... or less ambition?
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Negroni</strong></div></td>
+      <td><div align="center"><strong>Boozy Snickers Milkshake</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/861tzm1504784164.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Mason jar</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Gin, 1 oz  Campari, 1 oz  Sweet Vermouth</td>
+      <td><b>Ingredients:</b> 3 cups  Vanilla Ice-Cream, 1 cup  Milk, 1/2 cup  Godiva liqueur, for topping Whipped Cream, 4 tablespoons
+ caramel sauce, 4 tablespoons
+ chocolate sauce, 15
+ Mini-snickers bars</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir into glass over ice, garnish and serve.</td>
+      <td><b>Instructions:</b> Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ Don't you wish you had more energy... or less ambition?
 <br>
 </details>
 
-**239 day before 2027 ⏱** days before new year
+**238 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 3.09°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>4°C (felt 4.2°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:17 and sets 🌇 at 20:48
+  The sun ☀️ rise 🌄 at 06:16 and sets 🌇 at 20:50
   </div>
 <br>
 
@@ -117,7 +120,7 @@ Don't you wish you had more energy... or less ambition?
   </div>
 <div align="center">
   <sub>
-  Last update on Thu May 07 2026
+  Last update on Fri May 08 2026
   </div>
 <br>
 
