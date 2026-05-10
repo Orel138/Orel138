@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-So so is good, very good, very excellent good:and yet it is not; it is but so so.		-- William Shakespeare, "As You Like It"
+Go to a movie tonight.  Darkness becomes you.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ So so is good, very good, very excellent good:and yet it is not; it is but so so
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Limona Corona</strong></div></td>
+      <td><div align="center"><strong>Gentleman's Club</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wwqrsw1441248662.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Beer Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 bottle  Corona, 1 oz  Bacardi Limon</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Brandy, 1 oz  Sweet Vermouth, 1 oz  Club soda</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Open the Corona. Fill the empty space in the neck in the bottle with the rum. The bottle should be filled to the top. Plug the bottle with your thumb or the palm of your hand. Turn the bottle upside-down so the rum and beer mix. Turn the bottle rightside-up, unplug, and drink.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ So so is good, very good, very excellent good:and yet it is not; it is but so so
 <br>
 </details>
 
-**237 day before 2027 ⏱** days before new year
+**236 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:14 and sets 🌇 at 20:51
+  The sun ☀️ rise 🌄 at 06:13 and sets 🌇 at 20:52
   </div>
 <br>
 
@@ -117,7 +117,7 @@ So so is good, very good, very excellent good:and yet it is not; it is but so so
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 09 2026
+  Last update on Sun May 10 2026
   </div>
 <br>
 
