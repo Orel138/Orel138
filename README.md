@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she can't have and the South gets trashed.Gift of the Magi LITE(tm)	-- by O. Henry	A husband and wife forget to register their gift preferences.The Old Man and the Sea LITE(tm)	-- by Ernest Hemingway	An old man goes fishing, but doesn't have much luck.
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #4A:	Go west, young man, go west!Q:	What do wabbits do when they get tiwed of wunning awound?
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Darkwood Sling</strong></div></td>
+      <td><div align="center"><strong>Espresso Rumtini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxxsyq1472719303.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/acvf171561574403.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Cherry Heering, 1 part  Soda water, 1 part  Orange juice, cubes Ice</td>
+      <td><b>Ingredients:</b> 1 shot Rum, 1/2 shot Vanilla syrup, 1 shot Espresso, 1 shot Coffee</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> There are many good cherry liqueurs you can use, but I prefere Heering. Add one share of the liqueur. Then you add one share of Soda. For a sour sling use Tonic (most people prefer the drink without Tonic). Afterwards you fill the glass with Orange Juice and ice cubes.</td>
+      <td><b>Instructions:</b> Mix together in a cocktail glass. Garnish with some choclate powder and coffee beans</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
 <br>
 </details>
 
-**231 day before 2027 ⏱** days before new year
+**230 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -0.8°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.99°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:07 and sets 🌇 at 20:58
+  The sun ☀️ rise 🌄 at 06:06 and sets 🌇 at 20:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
   </div>
 <div align="center">
   <sub>
-  Last update on Fri May 15 2026
+  Last update on Sat May 16 2026
   </div>
 <br>
 
