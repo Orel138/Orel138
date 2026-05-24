@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-	My dear People.	My dear Bagginses and Boffins, and my dear Tooks and Brandybucks,and Grubbs, and Chubbs, and Burrowses, and Hornblowers, and Bolgers,Bracegirdles, Goodbodies, Brockhouses and Proudfoots.  Also my goodSackville Bagginses that I welcome back at last to Bag End.  Today is myone hundred and eleventh birthday: I am eleventy-one today!"		-- J. R. R. Tolkien
+You're definitely on their list.  The question to ask next is what list it is.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Tia-Maria</strong></div></td>
+      <td><div align="center"><strong>Brooklyn</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sih81u1504367097.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup  Water, 3/4-1 cup  Brown sugar, 4 tsp  Coffee, 1 cup  Rum, 4 tsp  Vanilla extract</td>
+      <td><b>Ingredients:</b> 2 oz Rye Whiskey, 1 oz Dry Vermouth, 1/4 oz Maraschino Liqueur, 3 dashes Angostura Bitters, 1 Maraschino Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.</td>
+      <td><b>Instructions:</b> Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**223 day before 2027 ⏱** days before new year
+**222 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.18°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.21°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:07
+  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:08
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 23 2026
+  Last update on Sun May 24 2026
   </div>
 <br>
 
