@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You're definitely on their list.  The question to ask next is what list it is.
+Q:	How did you get into artificial intelligence?A:	Seemed logical -- I didn't have any real intelligence.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You're definitely on their list.  The question to ask next is what list it is.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brooklyn</strong></div></td>
+      <td><div align="center"><strong>Long vodka</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/9179i01503565212.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz Rye Whiskey, 1 oz Dry Vermouth, 1/4 oz Maraschino Liqueur, 3 dashes Angostura Bitters, 1 Maraschino Cherry</td>
+      <td><b>Ingredients:</b> 5 cl  Vodka, 1/2  Lime, 4 dashes  Angostura bitters, 1 dl Schweppes  Tonic water, 4  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You're definitely on their list.  The question to ask next is what list it is.
 <br>
 </details>
 
-**222 day before 2027 ⏱** days before new year
+**221 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.21°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>20°C (felt 19.25°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:08
+  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You're definitely on their list.  The question to ask next is what list it is.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun May 24 2026
+  Last update on Mon May 25 2026
   </div>
 <br>
 
