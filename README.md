@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have the body of a 19 year old.  Please return it before it gets wrinkled.
+Tuesday After Lunch is the cosmic time of the week.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have the body of a 19 year old.  Please return it before it gets wrinkled.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Havana Cocktail</strong></div></td>
+      <td><div align="center"><strong>Dirty Nipple</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Light rum, 1 oz  Pineapple juice, 1 tsp  Lemon juice</td>
+      <td><b>Ingredients:</b> Kahlua, Sambuca, Baileys irish cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> This is a layered shot - the Bailey's must be on top</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have the body of a 19 year old.  Please return it before it gets wrinkled.
 <br>
 </details>
 
-**216 day before 2027 ⏱** days before new year
+**215 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.58°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.63°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:54 and sets 🌇 at 21:14
+  The sun ☀️ rise 🌄 at 05:53 and sets 🌇 at 21:15
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have the body of a 19 year old.  Please return it before it gets wrinkled.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat May 30 2026
+  Last update on Sun May 31 2026
   </div>
 <br>
 
