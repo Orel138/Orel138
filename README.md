@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Tomorrow, you can be anywhere.
+Q:	What is purple and commutes?A:	An Abelian grape.
 </details>
 
 <details>
@@ -74,19 +74,24 @@ Tomorrow, you can be anywhere.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bloody Mary</strong></div></td>
+      <td><div align="center"><strong>Blue Hurricane</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Vodka, 3 oz  Tomato juice, 1 dash  Lemon juice, 1/2 tsp  Worcestershire sauce, 2-3 drops  Tabasco sauce, 1 wedge  Lime</td>
+      <td><b>Ingredients:</b> 4 parts Rum, 2 parts Dark Rum, 1 part Passoa, 1 part Blue Curacao, 6 parts Sweet and Sour, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stirring gently, pour all ingredients into highball glass. Garnish.</td>
+      <td><b>Instructions:</b> If each part is 1/2 oz then use about 2.5 cups of ice.
+
+Blend it all together. 
+Drink it with a big straw if you have one.
+
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +102,13 @@ Tomorrow, you can be anywhere.
 <br>
 </details>
 
-**214 day before 2027 ⏱** days before new year
+**213 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>21°C (felt 20.68°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.11°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:53 and sets 🌇 at 21:16
+  The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:16
   </div>
 <br>
 
@@ -117,7 +122,7 @@ Tomorrow, you can be anywhere.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 01 2026
+  Last update on Tue Jun 02 2026
   </div>
 <br>
 
