@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What is purple and commutes?A:	An Abelian grape.
+Many enraged psychiatrists are inciting a weary butcher.  The butcher isweary and tired because he has cut meat and steak and lamb for hours andweeks.  He does not desire to chant about anything with raving psychiatrists,but he sings about his gingivectomist, he dreams about a single cosmologist,he thinks about his dog.  The dog is named Herbert.		-- Racter, "The Policeman's Beard is Half-Constructed"
 </details>
 
 <details>
@@ -74,24 +74,19 @@ Q:	What is purple and commutes?A:	An Abelian grape.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Blue Hurricane</strong></div></td>
+      <td><div align="center"><strong>Flaming Dr. Pepper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/d30z931503565384.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 4 parts Rum, 2 parts Dark Rum, 1 part Passoa, 1 part Blue Curacao, 6 parts Sweet and Sour, cubes Ice</td>
+      <td><b>Ingredients:</b> 1 oz  Amaretto, 1 oz  Vodka, 1 oz Bacardi  151 proof rum, 1 oz  Dr. Pepper, 1 oz  Beer</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> If each part is 1/2 oz then use about 2.5 cups of ice.
-
-Blend it all together. 
-Drink it with a big straw if you have one.
-
-</td>
+      <td><b>Instructions:</b> Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer</td>
     </tr>
   </table>
 </div>
@@ -102,13 +97,13 @@ Drink it with a big straw if you have one.
 <br>
 </details>
 
-**213 day before 2027 ⏱** days before new year
+**212 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.11°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 5.78°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:16
+  The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:17
   </div>
 <br>
 
@@ -122,7 +117,7 @@ Drink it with a big straw if you have one.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jun 02 2026
+  Last update on Wed Jun 03 2026
   </div>
 <br>
 
