@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Stop!  There was first a game of blindman's buff.  Of course there was.And I no more believe Topper was really blind than I believe he had eyesin his boots.  My opinion is, that it was a done thing between him andScrooge's nephew; and that the Ghost of Christmas Present knew it.  Theway he went after that plump sister in the lace tucker, was an outrageon the credulity of human nature.
+You will remember something that you should not have forgotten.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Stop!  There was first a game of blindman's buff.  Of course there was.And I no 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Salty Dog</strong></div></td>
+      <td><div align="center"><strong>Sloe Gin Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4vfge01504890216.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/d7mo481504889531.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 oz  Grapefruit juice, 1 1/2 oz  Gin, 1/4 tsp  Salt</td>
+      <td><b>Ingredients:</b> 2 oz  Sloe gin, 1/4 tsp  Dry Vermouth, 1 dash  Orange bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)</td>
+      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Stop!  There was first a game of blindman's buff.  Of course there was.And I no 
 <br>
 </details>
 
-**211 day before 2027 ⏱** days before new year
+**210 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 10.85°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.68°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:18
+  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:19
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Stop!  There was first a game of blindman's buff.  Of course there was.And I no 
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 04 2026
+  Last update on Fri Jun 05 2026
   </div>
 <br>
 
