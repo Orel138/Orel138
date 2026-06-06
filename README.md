@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will remember something that you should not have forgotten.
+Hope that the day after you die is a nice day.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will remember something that you should not have forgotten.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Sloe Gin Cocktail</strong></div></td>
+      <td><div align="center"><strong>Port And Starboard</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/d7mo481504889531.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wxvupx1441553911.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Pousse cafe glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Sloe gin, 1/4 tsp  Dry Vermouth, 1 dash  Orange bitters</td>
+      <td><b>Ingredients:</b> 1 tblsp  Grenadine, 1/2 oz  Green Creme de Menthe</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will remember something that you should not have forgotten.
 <br>
 </details>
 
-**210 day before 2027 ⏱** days before new year
+**209 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 5.68°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 8.09°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:19
+  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:20
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will remember something that you should not have forgotten.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jun 05 2026
+  Last update on Sat Jun 06 2026
   </div>
 <br>
 
