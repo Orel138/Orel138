@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You're currently going through a difficult transition period called "Life."
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #31A:	Chicken Teriyaki.Q:	What is the name of the world's oldest kamikaze pilot?
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You're currently going through a difficult transition period called "Life."
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Arizona Twister</strong></div></td>
+      <td><div align="center"><strong>Sweet Bananas</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ido1j01493068134.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxpcj71487603345.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Hurricane glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot  Vodka, 1 shot  Malibu rum, 1 shot  Gold tequila, 1 splash  Orange juice, 1 splash  Pineapple juice, 1 splash  Cream of coconut, 1 dash  Grenadine, crushed  Ice, 1 wedge  Pineapple</td>
+      <td><b>Ingredients:</b> 2 cups  Milk, 1  Banana, 1 tblsp  Honey</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Just mix in the shots of rum, vodka, and tequila. Add splashes of the three juices, heavy on the pineapple. Top off with grenadine. Crushed ice should already be in glass. Top off the glass with a pineapple wedge.</td>
+      <td><b>Instructions:</b> Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You're currently going through a difficult transition period called "Life."
 <br>
 </details>
 
-**207 day before 2027 ⏱** days before new year
+**206 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>24°C (felt 23.68°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.26°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:21
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:22
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You're currently going through a difficult transition period called "Life."
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 08 2026
+  Last update on Tue Jun 09 2026
   </div>
 <br>
 
