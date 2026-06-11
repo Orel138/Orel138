@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Avert misunderstanding by calm, poise, and balance.
+Accent on helpful side of your nature.  Drain the moat.
 </details>
 
 <details>
@@ -74,42 +74,19 @@ Avert misunderstanding by calm, poise, and balance.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Empellón Cocina's Fat-Washed Mezcal</strong></div></td>
+      <td><div align="center"><strong>Shark Attack</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/osgvxt1513595509.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uv96zr1504793256.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Beer Glass</td>
+      <td><b>Type of glass:</b> Pitcher</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz Mezcal, 3/4 oz Chocolate liqueur, 1/2 oz Coffee liqueur</td>
+      <td><b>Ingredients:</b> 1 can  Lemonade, 3 cans  Water, 1 1/2 cup  Vodka</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> To ensure that your pork fat is just as delicious as theirs, here’s their adobo marinade and what to do with it (you’ll also need a rack of ribs):
-
-4 ancho chiles, 8 guajillo chiles and 4 chipotle chiles, plus 4 cloves roasted garlic, half a cup of cider vinegar, a quarter teaspoon of Mexican oregano, 1 teaspoon of ground black pepper, a whole clove, a quarter teaspoon of ground cinnamon and a half teaspoon of ground cumin.
-
-Toast the dried chiles and soak in water for at least an hour until they are rehydrated. Drain and discard the soaking liquid. Combine the soaked chiles with the remaining ingredients and purée until smooth.
-
-Cold smoke a rack of baby back pork ribs by taking a large hotel pan with woodchips on one side and charcoal on the other. Place another, smaller, pan with pork ribs, above the charcoal/woodchip pan. Ignite the charcoal, being careful to not ignite the woodchips. Cover both pans with foil and allow to smoke for 10-15 minutes, until desired level of smoke is achieved, then coat with adobo marinade and wrap in tin foil prior to placing ribs in a 300 degree oven for 7 hours. When the ribs have cooled, strain off the fat and use for the infusion.
-
-If you’re having a hard time coming up to the same kind of volume of fat, make up the balance with pork lard from a butcher. To get the same depth of flavor without the ribs, heat up the fat in a pot with a few spoons of the marinade.
-
-Once you’ve got your tub of seasoned pork fat in cooled liquid form, pour equal amounts of Ilegal Joven mezcal and fat into a sealable container. Seal the container and give it a really good shake, then put it in the freezer overnight. When the whole thing is separated and congealed, pour it through a fine mesh chinoise. If you don’t have a chinoise, try a fine mesh strainer, or if you don’t have one of those, try spooning off most of the fat. There will be some beads of orange fat left in the strained mezcal: run that through a few layers of cheesecloth (or coffee filters in a pinch) to get rid of the last of it.
-
-The mezcal is now ready for drinking, straight-up or in a cocktail. 
-
-Habanero tincture
-
-Slice habaneros and add 2 ounces Ilegal Joven mezcal.
-Allow to sit overnight or until desired level of heat is achieved.
-Cocktail
-
-Combine mezcal and chocolate liqueur in a mixing glass with ice and stir for 45 seconds.
-Strain into chilled coupe.
-Carefully "sink" the coffee liqueur down the inside of the coupe over a spoon.
-Garnish with 5 drops habanero tincture.</td>
+      <td><b>Instructions:</b> Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1/3 cans of water do so. Mix into pitcher. Add 1 1/2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!</td>
     </tr>
   </table>
 </div>
@@ -120,13 +97,13 @@ Garnish with 5 drops habanero tincture.</td>
 <br>
 </details>
 
-**205 day before 2027 ⏱** days before new year
+**204 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 8.99°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.19°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:22
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:23
   </div>
 <br>
 
@@ -140,7 +117,7 @@ Garnish with 5 drops habanero tincture.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jun 10 2026
+  Last update on Thu Jun 11 2026
   </div>
 <br>
 
