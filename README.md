@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You need more time; and you probably always will.
+Small things make base men proud.		-- William Shakespeare, "Henry VI"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You need more time; and you probably always will.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Nuked Hot Chocolate</strong></div></td>
+      <td><div align="center"><strong>Grim Reaper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xcu6nb1487603142.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/kztu161504883192.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp  Cocoa powder, 1 tsp  Sugar, 1/2 tsp  Vanilla extract, 12 oz  Milk</td>
+      <td><b>Ingredients:</b> 1 oz  Kahlua, 1 oz Bacardi  151 proof rum, 1 dash  Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts.</td>
+      <td><b>Instructions:</b> Mix Kahlua and 151 in glass. Quickly add ice and pour grenadine over ice to give ice red tint.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You need more time; and you probably always will.
 <br>
 </details>
 
-**199 day before 2027 ⏱** days before new year
+**198 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 17.77°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.01°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:25
+  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:26
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You need more time; and you probably always will.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jun 16 2026
+  Last update on Wed Jun 17 2026
   </div>
 <br>
 
