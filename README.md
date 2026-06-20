@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many lawyers does it take to change a light bulb?A:	You won't find a lawyer who can change a light bulb.  Now, if	you're looking for a lawyer to screw a light bulb...
+You are taking yourself far too seriously.
 </details>
 
 <details>
@@ -97,10 +97,10 @@ Q:	How many lawyers does it take to change a light bulb?A:	You won't find a lawy
 <br>
 </details>
 
-**196 day before 2027 ⏱** days before new year
+**195 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.96°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 13.86°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:26
@@ -117,7 +117,7 @@ Q:	How many lawyers does it take to change a light bulb?A:	You won't find a lawy
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jun 19 2026
+  Last update on Sat Jun 20 2026
   </div>
 <br>
 
