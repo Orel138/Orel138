@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The Bulwer-Lytton fiction contest is held ever year at San Jose StateUniv.  by Professor Scott Rice.  It is held in memory of Edward GeorgeEarle Bulwer-Lytton (1803-1873), a rather prolific and popular (in histime) novelist.  He is best known today for having written "The LastDays of Pompeii."Whenever Snoopy starts typing his novel from the top of his doghouse,beginning "It was a dark and stormy night..." he is borrowing from LordBulwer-Lytton.  This was the line that opened his novel, "Paul Clifford,"written in 1830.  The full line reveals why it is so bad:	It was a dark and stormy night; the rain fell in torrents -- except	at occasional intervals, when it was checked by a violent gust of	wind which swept up the streets (for it is in London that our scene	lies), rattling along the housetops, and fiercely agitating the scanty	flame of the lamps that struggled against the darkness.
+Awash with unfocused desire, Everett twisted the lobe of his one remainingear and felt the presence of somebody else behind him, which caused terrorto push through his nervous system like a flash flood roaring down themid-fork of the Feather River before the completion of the Oroville Damin 1959.		-- Grand Panjandrum's Special Award, 1984 Bulwer-Lytton		   bad fiction contest.
 </details>
 
 <details>
@@ -97,10 +97,10 @@ The Bulwer-Lytton fiction contest is held ever year at San Jose StateUniv.  by P
 <br>
 </details>
 
-**194 day before 2027 ⏱** days before new year
+**193 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.75°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.16°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ The Bulwer-Lytton fiction contest is held ever year at San Jose StateUniv.  by P
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jun 21 2026
+  Last update on Mon Jun 22 2026
   </div>
 <br>
 
