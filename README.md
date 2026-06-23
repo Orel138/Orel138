@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Awash with unfocused desire, Everett twisted the lobe of his one remainingear and felt the presence of somebody else behind him, which caused terrorto push through his nervous system like a flash flood roaring down themid-fork of the Feather River before the completion of the Oroville Damin 1959.		-- Grand Panjandrum's Special Award, 1984 Bulwer-Lytton		   bad fiction contest.
+Look afar and see the end from the beginning.
 </details>
 
 <details>
@@ -97,13 +97,13 @@ Awash with unfocused desire, Everett twisted the lobe of his one remainingear an
 <br>
 </details>
 
-**193 day before 2027 ⏱** days before new year
+**192 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.16°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>23°C (felt 23.13°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:49 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Awash with unfocused desire, Everett twisted the lobe of his one remainingear an
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 22 2026
+  Last update on Tue Jun 23 2026
   </div>
 <br>
 
