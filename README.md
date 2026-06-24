@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Look afar and see the end from the beginning.
+You're not my type.  For that matter, you're not even my species!!!
 </details>
 
 <details>
@@ -97,10 +97,10 @@ Look afar and see the end from the beginning.
 <br>
 </details>
 
-**192 day before 2027 ⏱** days before new year
+**191 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>23°C (felt 23.13°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>21°C (felt 21.17°C), scattered clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Look afar and see the end from the beginning.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Jun 23 2026
+  Last update on Wed Jun 24 2026
   </div>
 <br>
 
