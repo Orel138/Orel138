@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How do you save a drowning lawyer?A:	Throw him a rock.
+Your business will assume vast proportions.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Strawberry Daiquiri</strong></div></td>
+      <td><div align="center"><strong>Avalon</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/deu59m1504736135.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Strawberry schnapps, 1 oz  Light rum, 1 oz  Lime juice, 1 tsp  Powdered sugar, 1 oz  Strawberries</td>
+      <td><b>Ingredients:</b> 3 parts Vodka, 1 part  Pisang Ambon, 6 parts  Apple juice, 1 1/2 part  Lemon juice, Lemonade</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
 <br>
 </details>
 
-**190 day before 2027 ⏱** days before new year
+**189 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.41°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.46°C), few clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Q:	How do you save a drowning lawyer?A:	Throw him a rock.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jun 25 2026
+  Last update on Fri Jun 26 2026
   </div>
 <br>
 
