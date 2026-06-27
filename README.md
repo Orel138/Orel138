@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your business will assume vast proportions.
+Your depth of comprehension may tend to make you lax in worldly ways.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your business will assume vast proportions.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Avalon</strong></div></td>
+      <td><div align="center"><strong>Mimosa</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Champagne flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 parts Vodka, 1 part  Pisang Ambon, 6 parts  Apple juice, 1 1/2 part  Lemon juice, Lemonade</td>
+      <td><b>Ingredients:</b> Chilled  Champagne, 2 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.</td>
+      <td><b>Instructions:</b> Ensure both ingredients are well chilled, then mix into the glass. Serve cold.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your business will assume vast proportions.
 <br>
 </details>
 
-**189 day before 2027 ⏱** days before new year
+**188 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.46°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>22°C (felt 22.56°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:50 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your business will assume vast proportions.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jun 26 2026
+  Last update on Sat Jun 27 2026
   </div>
 <br>
 
