@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your depth of comprehension may tend to make you lax in worldly ways.
+Delores breezed along the surface of her life like a flat stone foreverskipping along smooth water, rippling reality sporadically but obliviousto it consistently, until she finally lost momentum, sank, and due to anoverdose of flouride as a child which caused her to suffer from chronicapathy, doomed herself to lie forever on the floor of her life as uselessas an appendix and as lonely as a five-hundred pound barbell in asteroid-free fitness center.		-- Winning sentence, 1990 Bulwer-Lytton bad fiction contest.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your depth of comprehension may tend to make you lax in worldly ways.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mimosa</strong></div></td>
+      <td><div align="center"><strong>Quaker's Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yrqppx1478962314.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Champagne flute</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Chilled  Champagne, 2 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 3/4 oz  Light rum, 3/4 oz  Brandy, Juice of 1/4  Lemon, 2 tsp  Raspberry syrup</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Ensure both ingredients are well chilled, then mix into the glass. Serve cold.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Your depth of comprehension may tend to make you lax in worldly ways.
 <br>
 </details>
 
-**188 day before 2027 ⏱** days before new year
+**187 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>22°C (felt 22.56°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 16.99°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Your depth of comprehension may tend to make you lax in worldly ways.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jun 27 2026
+  Last update on Sun Jun 28 2026
   </div>
 <br>
 
