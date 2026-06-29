@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Delores breezed along the surface of her life like a flat stone foreverskipping along smooth water, rippling reality sporadically but obliviousto it consistently, until she finally lost momentum, sank, and due to anoverdose of flouride as a child which caused her to suffer from chronicapathy, doomed herself to lie forever on the floor of her life as uselessas an appendix and as lonely as a five-hundred pound barbell in asteroid-free fitness center.		-- Winning sentence, 1990 Bulwer-Lytton bad fiction contest.
+You are destined to become the commandant of the fighting men of thedepartment of transportation.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Delores breezed along the surface of her life like a flat stone foreverskipping 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Quaker's Cocktail</strong></div></td>
+      <td><div align="center"><strong>Angel Face</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yrqppx1478962314.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Light rum, 3/4 oz  Brandy, Juice of 1/4  Lemon, 2 tsp  Raspberry syrup</td>
+      <td><b>Ingredients:</b> 1/2 oz  Apricot brandy, 1/2 oz  Apple brandy, 1 oz  Gin</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice and strain contents into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Delores breezed along the surface of her life like a flat stone foreverskipping 
 <br>
 </details>
 
-**187 day before 2027 ⏱** days before new year
+**186 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 16.99°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 15.09°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:51 and sets 🌇 at 21:27
+  The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:27
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Delores breezed along the surface of her life like a flat stone foreverskipping 
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jun 28 2026
+  Last update on Mon Jun 29 2026
   </div>
 <br>
 
