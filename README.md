@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are destined to become the commandant of the fighting men of thedepartment of transportation.
+You will remember something that you should not have forgotten.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Angel Face</strong></div></td>
+      <td><div align="center"><strong>Harvey Wallbanger</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Apricot brandy, 1/2 oz  Apple brandy, 1 oz  Gin</td>
+      <td><b>Ingredients:</b> 1 oz  Vodka, 1/2 oz  Galliano, 4 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice and strain contents into a cocktail glass.</td>
+      <td><b>Instructions:</b> Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ You are destined to become the commandant of the fighting men of thedepartment o
 <br>
 </details>
 
-**186 day before 2027 ⏱** days before new year
+**185 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 15.09°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.21°C), scattered clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:52 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ You are destined to become the commandant of the fighting men of thedepartment o
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jun 29 2026
+  Last update on Tue Jun 30 2026
   </div>
 <br>
 
