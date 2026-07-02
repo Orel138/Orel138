@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many Californians does it take to screw in a light bulb?A:	Five.  One to screw in the light bulb and four to share the		experience.  (Actually, Californians don't screw in		light bulbs, they screw in hot tubs.)Q:	How many Oregonians does it take to screw in a light bulb?A:	Three.  One to screw in the light bulb and two to fend off all		those Californians trying to share the experience.
+Today is what happened to yesterday.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many Californians does it take to screw in a light bulb?A:	Five.  One to 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Turkeyball</strong></div></td>
+      <td><div align="center"><strong>Rum Runner</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rxurpr1441554292.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Wild Turkey, 3/4 oz  Amaretto, 1 splash  Pineapple juice</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Malibu rum, 1 oz  Blackberry brandy, 3-4 oz  Orange juice, 3-4 oz  Pineapple juice, 3-4 oz  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with ice and strain into a shot glass.</td>
+      <td><b>Instructions:</b> Mix all ingredients in glass & add ice.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ Q:	How many Californians does it take to screw in a light bulb?A:	Five.  One to 
 <br>
 </details>
 
-**184 day before 2027 ⏱** days before new year
+**183 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.38°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.51°C), clear sky</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 05:53 and sets 🌇 at 21:27
@@ -117,7 +117,7 @@ Q:	How many Californians does it take to screw in a light bulb?A:	Five.  One to 
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jul 01 2026
+  Last update on Thu Jul 02 2026
   </div>
 <br>
 
