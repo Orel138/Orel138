@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Always the dullness of the fool is the whetstone of the wits.		-- William Shakespeare, "As You Like It"
+Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Always the dullness of the fool is the whetstone of the wits.		-- William Shakes
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>White Russian</strong></div></td>
+      <td><div align="center"><strong>Monkey Gland</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, 1 oz  Coffee liqueur, Light cream</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1 tsp  Benedictine, 1/2 oz  Orange juice, 1 tsp  Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.</td>
+      <td><b>Instructions:</b> Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Always the dullness of the fool is the whetstone of the wits.		-- William Shakes
 <br>
 </details>
 
-**180 day before 2027 ⏱** days before new year
+**179 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.34°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 13.94°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:55 and sets 🌇 at 21:26
+  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:26
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Always the dullness of the fool is the whetstone of the wits.		-- William Shakes
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 05 2026
+  Last update on Mon Jul 06 2026
   </div>
 <br>
 
