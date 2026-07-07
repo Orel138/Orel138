@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
+You work very hard.  Don't try to think as well.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Monkey Gland</strong></div></td>
+      <td><div align="center"><strong>Egg Nog #4</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wpspsy1468875747.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Punch bowl</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 tsp  Benedictine, 1/2 oz  Orange juice, 1 tsp  Grenadine</td>
+      <td><b>Ingredients:</b> 6  Egg yolk, 1/4 cup  Sugar, 2 cups  Milk, 1/2 cup  Light rum, 1/2 cup  Bourbon, 1 tsp  Vanilla extract, 1/4 tsp  Salt, 1 cup  Whipping cream, 6  Egg white, 1/4 cup  Sugar, Ground  Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1/4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
 <br>
 </details>
 
-**179 day before 2027 ⏱** days before new year
+**178 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 13.94°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.74°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:56 and sets 🌇 at 21:26
+  The sun ☀️ rise 🌄 at 05:57 and sets 🌇 at 21:25
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why don't lawyers go to the beach?A:	The cats keep trying to bury them.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 06 2026
+  Last update on Tue Jul 07 2026
   </div>
 <br>
 
