@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his light bulb when he's done.
+Conscience doth make cowards of us all.		-- Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his l
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pink Panty Pulldowns</strong></div></td>
+      <td><div align="center"><strong>Ipamena</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/squsuy1468926657.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Wine Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 L  Sprite, 2 cups  Pink lemonade, 2 cups  Vodka</td>
+      <td><b>Ingredients:</b> ½ Lime, 2 tsp Brown sugar, 4 cl Passion fruit juice, top up with Ginger ale, fill Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake well</td>
+      <td><b>Instructions:</b> Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his l
 <br>
 </details>
 
-**176 day before 2027 ⏱** days before new year
+**175 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.22°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.24°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:58 and sets 🌇 at 21:24
+  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:24
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many lawyers does it take to change a light bulb?A:	One.  Only it's his l
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 09 2026
+  Last update on Fri Jul 10 2026
   </div>
 <br>
 
