@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Conscience doth make cowards of us all.		-- Shakespeare
+You should go home.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Conscience doth make cowards of us all.		-- Shakespeare
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Ipamena</strong></div></td>
+      <td><div align="center"><strong>Tequila Sunrise</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Wine Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> ½ Lime, 2 tsp Brown sugar, 4 cl Passion fruit juice, top up with Ginger ale, fill Ice</td>
+      <td><b>Ingredients:</b> 2 measures  Tequila, Orange juice, Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime</td>
+      <td><b>Instructions:</b> Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Conscience doth make cowards of us all.		-- Shakespeare
 <br>
 </details>
 
-**175 day before 2027 ⏱** days before new year
+**174 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.24°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.47°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 05:59 and sets 🌇 at 21:24
+  The sun ☀️ rise 🌄 at 06:00 and sets 🌇 at 21:23
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Conscience doth make cowards of us all.		-- Shakespeare
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Jul 10 2026
+  Last update on Sat Jul 11 2026
   </div>
 <br>
 
