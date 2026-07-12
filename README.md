@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You should go home.
+One of the most striking differences between a cat and a lie is that a cat hasonly nine lives.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You should go home.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Tequila Sunrise</strong></div></td>
+      <td><div align="center"><strong>Ace</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 measures  Tequila, Orange juice, Grenadine</td>
+      <td><b>Ingredients:</b> 2 shots  Gin, 1/2 shot  Grenadine, 1/2 shot  Heavy cream, 1/2 shot Milk, 1/2 Fresh Egg White</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.</td>
+      <td><b>Instructions:</b> Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.</td>
     </tr>
   </table>
 </div>
@@ -97,10 +97,10 @@ You should go home.
 <br>
 </details>
 
-**174 day before 2027 ⏱** days before new year
+**173 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.47°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.68°C), overcast clouds</b>.
   </div>
 <div align="left">
   The sun ☀️ rise 🌄 at 06:00 and sets 🌇 at 21:23
@@ -117,7 +117,7 @@ You should go home.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jul 11 2026
+  Last update on Sun Jul 12 2026
   </div>
 <br>
 
