@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she can't have and the South gets trashed.Gift of the Magi LITE(tm)	-- by O. Henry	A husband and wife forget to register their gift preferences.The Old Man and the Sea LITE(tm)	-- by Ernest Hemingway	An old man goes fishing, but doesn't have much luck.
+I've touch'd the highest point of all my greatness;And from that full meridian of my gloryI haste now to my setting.  I shall fall,Like a bright exhalation in the eveningAnd no man see me more.		-- Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bora Bora</strong></div></td>
+      <td><div align="center"><strong>Gideon's Green Dinosaur</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/p5r0tr1503564636.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 10 cl  Pineapple juice, 6 cl  Passion fruit juice, 1 cl  Lemon juice, 1 cl  Grenadine</td>
+      <td><b>Ingredients:</b> 1/2 oz  Dark rum, 1/2 oz  Vodka, 1/2 oz  Triple sec, 1/2 oz  Tequila, 1/2 oz  Melon liqueur, Fill with  Mountain Dew</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.</td>
+      <td><b>Instructions:</b> Add all ingredients in collins glass with ice and stir.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
 <br>
 </details>
 
-**170 day before 2027 ⏱** days before new year
+**169 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.07°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 18.26°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:03 and sets 🌇 at 21:21
+  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:20
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Gone With The Wind LITE(tm)	-- by Margaret Mitchell	A woman only likes men she c
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Jul 15 2026
+  Last update on Thu Jul 16 2026
   </div>
 <br>
 
