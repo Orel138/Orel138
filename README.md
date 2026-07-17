@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-I've touch'd the highest point of all my greatness;And from that full meridian of my gloryI haste now to my setting.  I shall fall,Like a bright exhalation in the eveningAnd no man see me more.		-- Shakespeare
+Courage is resistance to fear, mastery of fear--not absence of fear.  Except acreature be part coward it is not a compliment to say it is brave; it is merelya loose misapplication of the word.  Consider the flea!--incomparably thebravest of all the creatures of God, if ignorance of fear were courage.Whether you are asleep or awake he will attack you, caring nothing for the factthat in bulk and strength you are to him as are the massed armies of the earthto a sucking child; he lives both day and night and all days and nights in thevery lap of peril and the immediate presence of death, and yet is no moreafraid than is the man who walks the streets of a city that was threatened byan earthquake ten centuries before.  When we speak of Clive, Nelson, and Putnamas men who "didn't know what fear was," we ought always to add the flea--andput him at the head of the procession.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,25 @@ I've touch'd the highest point of all my greatness;And from that full meridian o
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gideon's Green Dinosaur</strong></div></td>
+      <td><div align="center"><strong>Bellini Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/p5r0tr1503564636.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Dark rum, 1/2 oz  Vodka, 1/2 oz  Triple sec, 1/2 oz  Tequila, 1/2 oz  Melon liqueur, Fill with  Mountain Dew</td>
+      <td><b>Ingredients:</b> 8 cubes Ice, 3 oz  Vodka, 1.5 oz  Peach nectar, 1.5 oz  Peach schnapps, 1  Lemon peel</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add all ingredients in collins glass with ice and stir.</td>
+      <td><b>Instructions:</b> Add ice cubes to shaker.
+Add vodka.
+Add peach schnapps.
+Add peach nectar.
+Shake.
+Strain into glass.
+Add lemon twist peel.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +103,13 @@ I've touch'd the highest point of all my greatness;And from that full meridian o
 <br>
 </details>
 
-**169 day before 2027 ⏱** days before new year
+**168 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 18.26°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.77°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:04 and sets 🌇 at 21:20
+  The sun ☀️ rise 🌄 at 06:05 and sets 🌇 at 21:19
   </div>
 <br>
 
@@ -117,7 +123,7 @@ I've touch'd the highest point of all my greatness;And from that full meridian o
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 16 2026
+  Last update on Fri Jul 17 2026
   </div>
 <br>
 
