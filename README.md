@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will have long and healthy life.
+Your society will be sought by people of taste and refinement.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will have long and healthy life.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Addison</strong></div></td>
+      <td><div align="center"><strong>ACID</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Martini Glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 shot  Gin, 1 1/2 shot  Vermouth</td>
+      <td><b>Ingredients:</b> 1 oz Bacardi  151 proof rum, 1 oz  Wild Turkey</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake together all the ingredients and strain into a cold glass.</td>
+      <td><b>Instructions:</b> Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will have long and healthy life.
 <br>
 </details>
 
-**167 day before 2027 ⏱** days before new year
+**166 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.57°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.31°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:06 and sets 🌇 at 21:18
+  The sun ☀️ rise 🌄 at 06:07 and sets 🌇 at 21:18
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will have long and healthy life.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Jul 18 2026
+  Last update on Sun Jul 19 2026
   </div>
 <br>
 
