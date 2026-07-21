@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Stay away from flying saucers today.
+That secret you've been guarding, isn't.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Stay away from flying saucers today.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Foxy Lady</strong></div></td>
+      <td><div align="center"><strong>Cranberry Cordial</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qtspsx1472667392.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Amaretto, 1/2 oz  Creme de Cacao, 2 oz  Light cream</td>
+      <td><b>Ingredients:</b> 1/2 kg chopped  Cranberries, 3/4 L  Sugar, 1/2 L  Light rum</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Place the chopped cranberries in a 2 liter jar that has a tight-fitting lid. Add the sugar and rum. Adjust the lid securely and place the jar in a cool, dark place. Invert the jar and shake it every day for six weeks. Strain the cordial into bottles and seal with corks.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Stay away from flying saucers today.
 <br>
 </details>
 
-**165 day before 2027 ⏱** days before new year
+**164 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.85°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.05°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:08 and sets 🌇 at 21:17
+  The sun ☀️ rise 🌄 at 06:09 and sets 🌇 at 21:16
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Stay away from flying saucers today.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 20 2026
+  Last update on Tue Jul 21 2026
   </div>
 <br>
 
