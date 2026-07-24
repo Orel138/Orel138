@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be attacked by a beast who has the body of a wolf, the tail ofa lion, and the face of Donald Duck.
+Q:	What do you call a blind pre-historic animal?A:	Diyathinkhesaurus.Q:	What do you call a blind pre-historic animal with a dog?A:	Diyathinkhesaurus Rex.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will be attacked by a beast who has the body of a wolf, the tail ofa lion, a
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Porto flip</strong></div></td>
+      <td><div align="center"><strong>Casa Blanca</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 parts Brandy, 9 parts Port, 2 parts Egg Yolk</td>
+      <td><b>Ingredients:</b> 2 oz  Light rum, 1 1/2 tsp  Triple sec, 1 1/2 tsp  Lime juice, 1 1/2 tsp  Maraschino liqueur</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will be attacked by a beast who has the body of a wolf, the tail ofa lion, a
 <br>
 </details>
 
-**162 day before 2027 ⏱** days before new year
+**161 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.65°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.44°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:11 and sets 🌇 at 21:14
+  The sun ☀️ rise 🌄 at 06:12 and sets 🌇 at 21:13
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will be attacked by a beast who has the body of a wolf, the tail ofa lion, a
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 23 2026
+  Last update on Fri Jul 24 2026
   </div>
 <br>
 
