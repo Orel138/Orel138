@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why do mountain climbers rope themselves together?A:	To prevent the sensible ones from going home.
+I reverently believe that the maker who made us all  makes everything in NewEngland, but the weather.  I don't know who makes that, but I think it must beraw apprentices in the weather-clerks factory who experiment and learn how, inNew England, for board and clothes, and then are promoted to make weather forcountries that require a good article, and will take their custom elsewhereif they don't get it.		-- Mark Twain
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Q:	Why do mountain climbers rope themselves together?A:	To prevent the sensible 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zoksel</strong></div></td>
+      <td><div align="center"><strong>Angel Face</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Beer pilsner</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> Beer, Root beer, Lemonade, slice
- Coca-Cola, 7-Up, Creme de Cassis, Lemon</td>
+      <td><b>Ingredients:</b> 1/2 oz  Apricot brandy, 1/2 oz  Apple brandy, 1 oz  Gin</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice and strain contents into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ Q:	Why do mountain climbers rope themselves together?A:	To prevent the sensible 
 <br>
 </details>
 
-**159 day before 2027 ⏱** days before new year
+**158 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 16.38°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.71°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:14 and sets 🌇 at 21:11
+  The sun ☀️ rise 🌄 at 06:15 and sets 🌇 at 21:10
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Q:	Why do mountain climbers rope themselves together?A:	To prevent the sensible 
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Jul 26 2026
+  Last update on Mon Jul 27 2026
   </div>
 <br>
 
