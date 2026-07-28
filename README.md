@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-I reverently believe that the maker who made us all  makes everything in NewEngland, but the weather.  I don't know who makes that, but I think it must beraw apprentices in the weather-clerks factory who experiment and learn how, inNew England, for board and clothes, and then are promoted to make weather forcountries that require a good article, and will take their custom elsewhereif they don't get it.		-- Mark Twain
+Write yourself a threatening letter and pen a defiant reply.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ I reverently believe that the maker who made us all  makes everything in NewEngl
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Angel Face</strong></div></td>
+      <td><div align="center"><strong>Mudslinger</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Punch bowl</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Apricot brandy, 1/2 oz  Apple brandy, 1 oz  Gin</td>
+      <td><b>Ingredients:</b> 750 ml  Southern Comfort, 1 L  Orange juice, 750 ml  Pepsi Cola</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice and strain contents into a cocktail glass.</td>
+      <td><b>Instructions:</b> Add all contents to a large jug or punch bowl. Stir well!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ I reverently believe that the maker who made us all  makes everything in NewEngl
 <br>
 </details>
 
-**158 day before 2027 ⏱** days before new year
+**157 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.71°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 16.99°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:15 and sets 🌇 at 21:10
+  The sun ☀️ rise 🌄 at 06:16 and sets 🌇 at 21:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ I reverently believe that the maker who made us all  makes everything in NewEngl
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Jul 27 2026
+  Last update on Tue Jul 28 2026
   </div>
 <br>
 
