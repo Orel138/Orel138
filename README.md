@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your lover will never wish to leave you.
+Today is the tomorrow you worried about yesterday.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your lover will never wish to leave you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Sangria The  Best</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sweet & Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vysywu1468924264.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pitcher</td>
+      <td><b>Type of glass:</b> Margarita/Coupette glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 L  Red wine, 1 cup  Sugar, 1 large  Lemon, 1 large  Orange, 1 large  Apple, 3-4 oz plain  Brandy, Soda water</td>
+      <td><b>Ingredients:</b> Amaretto, Sweet and sour, Midori melon liqueur, Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix wine, sugar and fruit, and let sit in the fridge for 18-24 hours. The mixture will have a somewhat syrupy consistency. Before serving stir in brandy and cut the mixture with soda water until it have a thinner, more wine like consistency. Serve from a pitcher in wine glasses.</td>
+      <td><b>Instructions:</b> Fill the blender with 3/4 ice. Add sweet & sour mix to the top of the ice. Add about 1" of pineapple juice, 1/2" of melon liqeur, and 1/2 to 1/4" of amaretto. Then blend the mix until it is of margaritta consistency or thinner.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your lover will never wish to leave you.
 <br>
 </details>
 
-**155 day before 2027 ⏱** days before new year
+**154 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.05°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.15°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:19 and sets 🌇 at 21:06
+  The sun ☀️ rise 🌄 at 06:20 and sets 🌇 at 21:05
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your lover will never wish to leave you.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Jul 30 2026
+  Last update on Fri Jul 31 2026
   </div>
 <br>
 
