@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The abuse of greatness is when it disjoins remorse from power.		-- William Shakespeare, "Julius Caesar"
+He draweth out the thread of his verbosity finer than the staple of hisargument.		-- William Shakespeare, "Love's Labour's Lost"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The abuse of greatness is when it disjoins remorse from power.		-- William Shake
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin And Tonic</strong></div></td>
+      <td><div align="center"><strong>Red Snapper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 5 oz  Tonic water, 1  Lime</td>
+      <td><b>Ingredients:</b> 1 shot  Crown Royal, 1 shot  Amaretto, 1 shot  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.</td>
+      <td><b>Instructions:</b> One shot each, shake n shoot</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The abuse of greatness is when it disjoins remorse from power.		-- William Shake
 <br>
 </details>
 
-**153 day before 2027 ⏱** days before new year
+**152 day before 2027 ⏱** days before new year
 
 <div align="left">
   Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.78°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:21 and sets 🌇 at 21:04
+  The sun ☀️ rise 🌄 at 06:22 and sets 🌇 at 21:03
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The abuse of greatness is when it disjoins remorse from power.		-- William Shake
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Aug 01 2026
+  Last update on Sun Aug 02 2026
   </div>
 <br>
 
