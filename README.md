@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will have domestic happiness and faithful friends.
+The Public is merely a multiplied "me."		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will have domestic happiness and faithful friends.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>National Aquarium</strong></div></td>
+      <td><div align="center"><strong>Iced Coffee Fillip</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dlw0om1503565021.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Rum, 1/2 oz  Vodka, 1/2 oz  Gin, 1/2 oz  Blue Curacao, 2 oz  Sour mix, 1 splash  Lemon-lime soda</td>
+      <td><b>Ingredients:</b> 2 tsp  Kahlua, Strong cold  Coffee</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.</td>
+      <td><b>Instructions:</b> Mix together in a coffee mug and chill before serving.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will have domestic happiness and faithful friends.
 <br>
 </details>
 
-**151 day before 2027 ⏱** days before new year
+**150 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>21°C (felt 21.32°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.28°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:23 and sets 🌇 at 21:01
+  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 21:00
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will have domestic happiness and faithful friends.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Aug 03 2026
+  Last update on Tue Aug 04 2026
   </div>
 <br>
 
