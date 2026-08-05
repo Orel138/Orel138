@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧇
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The Public is merely a multiplied "me."		-- Mark Twain
+Q:	Why was Stonehenge abandoned?A:	It wasn't IBM compatible.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The Public is merely a multiplied "me."		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Iced Coffee Fillip</strong></div></td>
+      <td><div align="center"><strong>Thai Coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wquwxs1441247025.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp  Kahlua, Strong cold  Coffee</td>
+      <td><b>Ingredients:</b> 6 tblsp ground Coffee, 1/4 tsp  Coriander, 4-5 whole green  Cardamom, Sugar, Whipping cream, Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together in a coffee mug and chill before serving.</td>
+      <td><b>Instructions:</b> Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it's easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The Public is merely a multiplied "me."		-- Mark Twain
 <br>
 </details>
 
-**150 day before 2027 ⏱** days before new year
+**149 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.28°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.53°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:24 and sets 🌇 at 21:00
+  The sun ☀️ rise 🌄 at 06:26 and sets 🌇 at 20:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The Public is merely a multiplied "me."		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Aug 04 2026
+  Last update on Wed Aug 05 2026
   </div>
 <br>
 
