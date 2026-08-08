@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't tell any big lies today.  Small ones can be just as effective.
+The countdown had stalled at 'T' minus 69 seconds when Desiree, the firstfemale ape to go up in space, winked at me slyly and pouted her thick,rubbery lips unmistakably -- the first of many such advances during whatwould prove to be the longest, and most memorable, space voyage of mycareer.		-- Winning sentence, 1985 Bulwer-Lytton bad fiction contest.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't tell any big lies today.  Small ones can be just as effective.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Microwave Hot Cocoa</strong></div></td>
+      <td><div align="center"><strong>Broadside</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8y4x5f1487603151.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/l2o6xu1582476870.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 tblsp  Sugar, 3 tblsp  Cocoa powder, 1 dash  Salt, 3 tblsp hot  Water, 2 cups  Milk, 1/4 tsp  Vanilla extract</td>
+      <td><b>Ingredients:</b> 1 shot 151 proof rum, 1/2 shot Scotch, 3 drops Bitters, 1 Fresh Wormwood, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine sugar, cocoa, salt and hot water in 1-quart micro-proof measuring cup (or coffee mug). Microwave at HIGH (100%) for 1 to 1 1/2 minutes or until boiling. Add milk, sitr and microwave an additonal 1 1/2 to 2 minutes or until hot. Stir in vanilla, blend well.</td>
+      <td><b>Instructions:</b> Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't tell any big lies today.  Small ones can be just as effective.
 <br>
 </details>
 
-**147 day before 2027 ⏱** days before new year
+**146 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.33°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.17°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:28 and sets 🌇 at 20:56
+  The sun ☀️ rise 🌄 at 06:29 and sets 🌇 at 20:55
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't tell any big lies today.  Small ones can be just as effective.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 07 2026
+  Last update on Sat Aug 08 2026
   </div>
 <br>
 
