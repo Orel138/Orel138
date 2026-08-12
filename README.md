@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't look now, but there is a multi-legged creature on your shoulder.
+I fell asleep reading a dull book, and I dreamt that I was reading on,so I woke up from sheer boredom.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't look now, but there is a multi-legged creature on your shoulder.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Karsk</strong></div></td>
+      <td><div align="center"><strong>Mother's Milk</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/808mxk1487602471.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7stuuh1504885399.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Coffee, 2 parts  Grain alcohol</td>
+      <td><b>Ingredients:</b> 1 oz  Goldschlager, 1 oz  Butterscotch schnapps, 1 oz  Milk</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.</td>
+      <td><b>Instructions:</b> Shake over ice, strain. Serves two.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't look now, but there is a multi-legged creature on your shoulder.
 <br>
 </details>
 
-**143 day before 2027 ⏱** days before new year
+**142 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.39°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 11.63°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:33 and sets 🌇 at 20:50
+  The sun ☀️ rise 🌄 at 06:34 and sets 🌇 at 20:49
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't look now, but there is a multi-legged creature on your shoulder.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Aug 11 2026
+  Last update on Wed Aug 12 2026
   </div>
 <br>
 
