@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-No live organism can continue for long to exist sanely under conditions ofabsolute reality; even larks and katydids are supposed, by some, to dream.Hill House, not sane, stood by itself against its hills, holding darknesswithin; it had stood so for eighty years and might stand for eighty more.Within, walls continued upright, bricks met neatly, floors were firm, anddoors were sensibly shut; silence lay steadily against the wood and stoneof Hill House, and whatever walked there, walked alone.		-- Shirley Jackson, "The Haunting of Hill House"
+You will probably marry after a very brief courtship.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ No live organism can continue for long to exist sanely under conditions ofabsolu
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>The Galah</strong></div></td>
+      <td><div align="center"><strong>Bob Marley</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 shot Dark Rum, 1 shot Campari, 1/2 shot Creme De Banane, Top Pineapple Juice, Top Lime Juice</td>
+      <td><b>Ingredients:</b> 1/2 oz  Midori melon liqueur, 1/2 oz  Jägermeister, 1/2 oz  Goldschlager</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix together the alcoholic portions and top with Pineapple and Lime juice.</td>
+      <td><b>Instructions:</b> Layer in a 2 oz shot glass or pony glass</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ No live organism can continue for long to exist sanely under conditions ofabsolu
 <br>
 </details>
 
-**139 day before 2027 ⏱** days before new year
+**138 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.09°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.23°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:38 and sets 🌇 at 20:44
+  The sun ☀️ rise 🌄 at 06:39 and sets 🌇 at 20:43
   </div>
 <br>
 
@@ -117,7 +117,7 @@ No live organism can continue for long to exist sanely under conditions ofabsolu
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Aug 15 2026
+  Last update on Sun Aug 16 2026
   </div>
 <br>
 
