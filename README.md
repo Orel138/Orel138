@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will probably marry after a very brief courtship.
+Fine day to work off excess energy.  Steal something heavy.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will probably marry after a very brief courtship.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bob Marley</strong></div></td>
+      <td><div align="center"><strong>Strawberry Lemonade</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Midori melon liqueur, 1/2 oz  Jägermeister, 1/2 oz  Goldschlager</td>
+      <td><b>Ingredients:</b> Juice of 1  Lemon, 1 tblsp  Sugar, 8-10 ripe  Strawberries, 1 cup  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Layer in a 2 oz shot glass or pony glass</td>
+      <td><b>Instructions:</b> Throw everything into a blender and mix until fairly smooth. Serve over ice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will probably marry after a very brief courtship.
 <br>
 </details>
 
-**138 day before 2027 ⏱** days before new year
+**137 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.23°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.9°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:39 and sets 🌇 at 20:43
+  The sun ☀️ rise 🌄 at 06:40 and sets 🌇 at 20:41
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will probably marry after a very brief courtship.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Aug 16 2026
+  Last update on Mon Aug 17 2026
   </div>
 <br>
 
