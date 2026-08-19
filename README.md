@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Repartee is something we think of twenty-four hours too late.		-- Mark Twain
+Q:	Why do the police always travel in threes?A:	One to do the reading, one to do the writing, and the other keeps	an eye on the two intellectuals.
 </details>
 
 <details>
@@ -74,19 +74,22 @@ Repartee is something we think of twenty-four hours too late.		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Black Russian</strong></div></td>
+      <td><div align="center"><strong>Oatmeal Cookie</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8oxlqf1606772765.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Mason jar</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Coffee liqueur, 1 1/2 oz  Vodka</td>
+      <td><b>Ingredients:</b> 2 parts Kahlua, 2 parts Baileys irish cream, 4 parts Butterscotch schnapps, 1 part Jagermeister, 1/2 part Goldschlager</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.</td>
+      <td><b>Instructions:</b> Just mix it all together.
+It's meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
+
+Tastes like an oatmeal cookie.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ Repartee is something we think of twenty-four hours too late.		-- Mark Twain
 <br>
 </details>
 
-**136 day before 2027 ⏱** days before new year
+**135 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.37°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.41°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:41 and sets 🌇 at 20:39
+  The sun ☀️ rise 🌄 at 06:42 and sets 🌇 at 20:38
   </div>
 <br>
 
@@ -117,7 +120,7 @@ Repartee is something we think of twenty-four hours too late.		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Aug 18 2026
+  Last update on Wed Aug 19 2026
   </div>
 <br>
 
