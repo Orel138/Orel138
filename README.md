@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why do the police always travel in threes?A:	One to do the reading, one to do the writing, and the other keeps	an eye on the two intellectuals.
+Q:	What is orange and goes "click, click?"A:	A ball point carrot.
 </details>
 
 <details>
@@ -74,22 +74,19 @@ Q:	Why do the police always travel in threes?A:	One to do the reading, one to do
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Oatmeal Cookie</strong></div></td>
+      <td><div align="center"><strong>Archbishop</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/4g6xds1582579703.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Mason jar</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 parts Kahlua, 2 parts Baileys irish cream, 4 parts Butterscotch schnapps, 1 part Jagermeister, 1/2 part Goldschlager</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz Green Ginger  Wine, 1 tsp  Benedictine, 1  Lime</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Just mix it all together.
-It's meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +97,13 @@ Tastes like an oatmeal cookie.</td>
 <br>
 </details>
 
-**135 day before 2027 ⏱** days before new year
+**134 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.41°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 19.13°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:42 and sets 🌇 at 20:38
+  The sun ☀️ rise 🌄 at 06:44 and sets 🌇 at 20:36
   </div>
 <br>
 
@@ -120,7 +117,7 @@ Tastes like an oatmeal cookie.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Aug 19 2026
+  Last update on Thu Aug 20 2026
   </div>
 <br>
 
