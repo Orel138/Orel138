@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The surest protection against temptation is cowardice.		-- Mark Twain
+Q:	What's the contour integral around Western Europe?A:	Zero, because all the Poles are in Eastern Europe!Addendum: Actually, there ARE some Poles in Western Europe, but they	are removable!Q:	An English mathematician (I forgot who) was asked by his	very religious colleague: Do you believe in one God?A:	Yes, up to isomorphism!Q:	What is a compact city?A:	It's a city that can be guarded by finitely many near-sighted	policemen!		-- Peter Lax
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The surest protection against temptation is cowardice.		-- Mark Twain
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Blue Lagoon</strong></div></td>
+      <td><div align="center"><strong>Barracuda</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5wm4zo1582579154.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Margarita glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Vodka, 1 oz  Blue Curacao, Lemonade, Cherry</td>
+      <td><b>Ingredients:</b> 4.5 cl Rum, 1.5 cl Galliano, 6 cl Pineapple Juice, 1 dash Lime Juice, top up  Prosecco</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.</td>
+      <td><b>Instructions:</b> Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The surest protection against temptation is cowardice.		-- Mark Twain
 <br>
 </details>
 
-**133 day before 2027 ⏱** days before new year
+**132 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.85°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.59°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:45 and sets 🌇 at 20:34
+  The sun ☀️ rise 🌄 at 06:46 and sets 🌇 at 20:33
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The surest protection against temptation is cowardice.		-- Mark Twain
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 21 2026
+  Last update on Sat Aug 22 2026
   </div>
 <br>
 
