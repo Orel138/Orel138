@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Doppelgutt and said 'The Senator must really have been on abender this time -- he left a party in Cleveland, Ohio, at 11:30 lastnight, and they found his car this morning in the smokestack of a Britishaircraft carrier in the Formosa Straits.'		-- Grand Panjandrum's Special Award, 1985 Bulwer-Lytton		   bad fiction contest.
+October 12, the Discovery.It was wonderful to find America, but it would have been more wonderful to missit.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Do
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Elderflower Caipirinha</strong></div></td>
+      <td><div align="center"><strong>A1</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/dif7a31614006331.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 60 ml Cachaca, 1 Lime, 3 cl Elderflower cordial</td>
+      <td><b>Ingredients:</b> 1 3/4 shot  Gin, 1 Shot  Grand Marnier, 1/4 Shot Lemon Juice, 1/8 Shot Grenadine</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Take the glass and muddle the lime in it. Fill the glass with crushed ice and add the Cachaca. Stir well and top with some more crushed ice. Garnish with lime and enjoy!</td>
+      <td><b>Instructions:</b> Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Do
 <br>
 </details>
 
-**129 day before 2027 ⏱** days before new year
+**128 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.52°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.67°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:50 and sets 🌇 at 20:28
+  The sun ☀️ rise 🌄 at 06:51 and sets 🌇 at 20:26
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Do
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Aug 25 2026
+  Last update on Wed Aug 26 2026
   </div>
 <br>
 
