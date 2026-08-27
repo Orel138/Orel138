@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-October 12, the Discovery.It was wonderful to find America, but it would have been more wonderful to missit.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+You work very hard.  Don't try to think as well.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ October 12, the Discovery.It was wonderful to find America, but it would have be
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A1</strong></div></td>
+      <td><div align="center"><strong>Zimadori Zinger</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 3/4 shot  Gin, 1 Shot  Grand Marnier, 1/4 Shot Lemon Juice, 1/8 Shot Grenadine</td>
+      <td><b>Ingredients:</b> 1.5 oz  Midori melon liqueur, 12 oz  Zima</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.</td>
+      <td><b>Instructions:</b> Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ October 12, the Discovery.It was wonderful to find America, but it would have be
 <br>
 </details>
 
-**128 day before 2027 ⏱** days before new year
+**126 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.67°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>26°C (felt 26.43°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:51 and sets 🌇 at 20:26
+  The sun ☀️ rise 🌄 at 06:52 and sets 🌇 at 20:24
   </div>
 <br>
 
@@ -117,7 +117,7 @@ October 12, the Discovery.It was wonderful to find America, but it would have be
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Aug 26 2026
+  Last update on Thu Aug 27 2026
   </div>
 <br>
 
