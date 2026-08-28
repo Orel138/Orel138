@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You work very hard.  Don't try to think as well.
+You will have a long and unpleasant discussion with your supervisor.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You work very hard.  Don't try to think as well.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Zimadori Zinger</strong></div></td>
+      <td><div align="center"><strong>Fruit Shake</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1.5 oz  Midori melon liqueur, 12 oz  Zima</td>
+      <td><b>Ingredients:</b> 1 cup fruit  Yoghurt, 1  Banana, 4 oz frozen  Orange juice, 1/2 piece textural  Fruit, 6  Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry.</td>
+      <td><b>Instructions:</b> Blend til smooth.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You work very hard.  Don't try to think as well.
 <br>
 </details>
 
-**126 day before 2027 ⏱** days before new year
+**125 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>26°C (felt 26.43°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.07°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:52 and sets 🌇 at 20:24
+  The sun ☀️ rise 🌄 at 06:53 and sets 🌇 at 20:22
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You work very hard.  Don't try to think as well.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Aug 27 2026
+  Last update on Fri Aug 28 2026
   </div>
 <br>
 
