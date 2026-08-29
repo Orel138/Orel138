@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will have a long and unpleasant discussion with your supervisor.
+Your mode of life will be changed for the better because of good news soon.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will have a long and unpleasant discussion with your supervisor.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Fruit Shake</strong></div></td>
+      <td><div align="center"><strong>Sex on the Beach</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/fi67641668420787.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 cup fruit  Yoghurt, 1  Banana, 4 oz frozen  Orange juice, 1/2 piece textural  Fruit, 6  Ice</td>
+      <td><b>Ingredients:</b> 1 oz  Vodka, 3/4 oz  Peach schnapps, Cranberry juice, Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend til smooth.</td>
+      <td><b>Instructions:</b> Build all ingredients in a highball glass filled with ice. Garnish with orange slice.</td>
     </tr>
   </table>
 </div>
@@ -100,10 +100,10 @@ You will have a long and unpleasant discussion with your supervisor.
 **125 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.07°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>17°C (felt 15.93°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:53 and sets 🌇 at 20:22
+  The sun ☀️ rise 🌄 at 06:54 and sets 🌇 at 20:20
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will have a long and unpleasant discussion with your supervisor.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Aug 28 2026
+  Last update on Sat Aug 29 2026
   </div>
 <br>
 
