@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-A few hours grace before the madness begins again.
+Do what comes naturally.  Seethe and fume and throw a tantrum.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ A few hours grace before the madness begins again.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bubble Gum</strong></div></td>
+      <td><div align="center"><strong>Buccaneer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/upvtyt1441249023.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Beer pilsner</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/4  Vodka, 1/4  Banana liqueur, 1/4  Orange juice, 1/4  Peach schnapps</td>
+      <td><b>Ingredients:</b> 1  Corona, 1 shot  Bacardi Limon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Layer in order into a shot glass.</td>
+      <td><b>Instructions:</b> Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ A few hours grace before the madness begins again.
 <br>
 </details>
 
-**121 day before 2027 ⏱** days before new year
+**120 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 14.84°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.39°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 06:59 and sets 🌇 at 20:13
+  The sun ☀️ rise 🌄 at 07:00 and sets 🌇 at 20:11
   </div>
 <br>
 
@@ -117,7 +117,7 @@ A few hours grace before the madness begins again.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 02 2026
+  Last update on Thu Sep 03 2026
   </div>
 <br>
 
