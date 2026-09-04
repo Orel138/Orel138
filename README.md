@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Do what comes naturally.  Seethe and fume and throw a tantrum.
+Its name is Public Opinion.  It is held in reverence.  It settles everything.Some think it is the voice of God.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Do what comes naturally.  Seethe and fume and throw a tantrum.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Buccaneer</strong></div></td>
+      <td><div align="center"><strong>Stone Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/upvtyt1441249023.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Beer pilsner</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1  Corona, 1 shot  Bacardi Limon</td>
+      <td><b>Ingredients:</b> 1 oz  Apricot brandy, 1 oz  Orange juice, 1 oz  Sweet and sour</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Do what comes naturally.  Seethe and fume and throw a tantrum.
 <br>
 </details>
 
-**120 day before 2027 ⏱** days before new year
+**119 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.39°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>20°C (felt 18.94°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:00 and sets 🌇 at 20:11
+  The sun ☀️ rise 🌄 at 07:02 and sets 🌇 at 20:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Do what comes naturally.  Seethe and fume and throw a tantrum.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 03 2026
+  Last update on Fri Sep 04 2026
   </div>
 <br>
 
