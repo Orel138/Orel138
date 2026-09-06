@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You love peace.
+You teach best what you most need to learn.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You love peace.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Brain Fart</strong></div></td>
+      <td><div align="center"><strong>Balmoral</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Punch bowl</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 fifth  Everclear, 1 fifth Smirnoff red label  Vodka, 2 L  Mountain Dew, 2 L  Surge, 1 small bottle  Lemon juice, 1 pint  Rum</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1/2 oz  Sweet Vermouth, 1/2 oz  Dry Vermouth, 2 dashes  Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda's are very cold.</td>
+      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You love peace.
 <br>
 </details>
 
-**118 day before 2027 ⏱** days before new year
+**117 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 17.44°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.01°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:03 and sets 🌇 at 20:08
+  The sun ☀️ rise 🌄 at 07:04 and sets 🌇 at 20:06
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You love peace.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Sep 05 2026
+  Last update on Sun Sep 06 2026
   </div>
 <br>
 
