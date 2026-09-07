@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You teach best what you most need to learn.
+Delores breezed along the surface of her life like a flat stone foreverskipping along smooth water, rippling reality sporadically but obliviousto it consistently, until she finally lost momentum, sank, and due to anoverdose of flouride as a child which caused her to suffer from chronicapathy, doomed herself to lie forever on the floor of her life as uselessas an appendix and as lonely as a five-hundred pound barbell in asteroid-free fitness center.		-- Winning sentence, 1990 Bulwer-Lytton bad fiction contest.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You teach best what you most need to learn.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Balmoral</strong></div></td>
+      <td><div align="center"><strong>Apple Slammer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1/2 oz  Sweet Vermouth, 1/2 oz  Dry Vermouth, 2 dashes  Bitters</td>
+      <td><b>Ingredients:</b> 1 part  7-Up, 1 part  Apple schnapps</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
+      <td><b>Instructions:</b> pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You teach best what you most need to learn.
 <br>
 </details>
 
-**117 day before 2027 ⏱** days before new year
+**116 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.01°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>25°C (felt 25.58°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:04 and sets 🌇 at 20:06
+  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:04
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You teach best what you most need to learn.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 06 2026
+  Last update on Mon Sep 07 2026
   </div>
 <br>
 
