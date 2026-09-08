@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Delores breezed along the surface of her life like a flat stone foreverskipping along smooth water, rippling reality sporadically but obliviousto it consistently, until she finally lost momentum, sank, and due to anoverdose of flouride as a child which caused her to suffer from chronicapathy, doomed herself to lie forever on the floor of her life as uselessas an appendix and as lonely as a five-hundred pound barbell in asteroid-free fitness center.		-- Winning sentence, 1990 Bulwer-Lytton bad fiction contest.
+We know all about the habits of the ant, we know all about the habits of thebee, but we know nothing at all about the habits of the oyster.  It seemsalmost certain that we have been choosing the wrong time for studying theoyster.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Delores breezed along the surface of her life like a flat stone foreverskipping 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Apple Slammer</strong></div></td>
+      <td><div align="center"><strong>Pisco Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  7-Up, 1 part  Apple schnapps</td>
+      <td><b>Ingredients:</b> 2 oz  Pisco, 1 oz  Lemon juice, 1-2 tblsp  Sugar, 1 Ice, Egg White</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.</td>
+      <td><b>Instructions:</b> Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ Delores breezed along the surface of her life like a flat stone foreverskipping 
 <br>
 </details>
 
-**116 day before 2027 ⏱** days before new year
+**115 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>25°C (felt 25.58°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>25°C (felt 24.24°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 20:04
+  The sun ☀️ rise 🌄 at 07:06 and sets 🌇 at 20:02
   </div>
 <br>
 
@@ -117,7 +118,7 @@ Delores breezed along the surface of her life like a flat stone foreverskipping 
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 07 2026
+  Last update on Tue Sep 08 2026
   </div>
 <br>
 
