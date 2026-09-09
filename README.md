@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-We know all about the habits of the ant, we know all about the habits of thebee, but we know nothing at all about the habits of the oyster.  It seemsalmost certain that we have been choosing the wrong time for studying theoyster.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+It is right that he too should have his little chronicle, his memories,his reason, and be able to recognize the good in the bad, the bad in theworst, and so grow gently old all down the unchanging days and die oneday like any other day, only shorter.		-- Samuel Beckett, "Malone Dies"
 </details>
 
 <details>
@@ -74,20 +74,19 @@ We know all about the habits of the ant, we know all about the habits of thebee,
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pisco Sour</strong></div></td>
+      <td><div align="center"><strong>California Lemonade</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q5z4841582484168.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Pisco, 1 oz  Lemon juice, 1-2 tblsp  Sugar, 1 Ice, Egg White</td>
+      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1  Lemon, Juice of 1  Lime, 1 tblsp Powdered sugar, 1/4 tsp Grenadine, Carbonated water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
-</td>
+      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ We know all about the habits of the ant, we know all about the habits of thebee,
 <br>
 </details>
 
-**115 day before 2027 ⏱** days before new year
+**114 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>25°C (felt 24.24°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.55°C), moderate rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:06 and sets 🌇 at 20:02
+  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:00
   </div>
 <br>
 
@@ -118,7 +117,7 @@ We know all about the habits of the ant, we know all about the habits of thebee,
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Sep 08 2026
+  Last update on Wed Sep 09 2026
   </div>
 <br>
 
