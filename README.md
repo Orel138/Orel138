@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-It is right that he too should have his little chronicle, his memories,his reason, and be able to recognize the good in the bad, the bad in theworst, and so grow gently old all down the unchanging days and die oneday like any other day, only shorter.		-- Samuel Beckett, "Malone Dies"
+You'll be called to a post requiring ability in handling groups of people.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ It is right that he too should have his little chronicle, his memories,his reaso
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>California Lemonade</strong></div></td>
+      <td><div align="center"><strong>Quick F**K</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/q5z4841582484168.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1  Lemon, Juice of 1  Lime, 1 tblsp Powdered sugar, 1/4 tsp Grenadine, Carbonated water</td>
+      <td><b>Ingredients:</b> 1 part  Kahlua, 1 part  Midori melon liqueur, 1 part  Baileys irish cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.</td>
+      <td><b>Instructions:</b> In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ It is right that he too should have his little chronicle, his memories,his reaso
 <br>
 </details>
 
-**114 day before 2027 ⏱** days before new year
+**113 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.55°C), moderate rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.01°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:07 and sets 🌇 at 20:00
+  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 19:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ It is right that he too should have his little chronicle, his memories,his reaso
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 09 2026
+  Last update on Thu Sep 10 2026
   </div>
 <br>
 
