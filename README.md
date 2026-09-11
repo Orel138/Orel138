@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You'll be called to a post requiring ability in handling groups of people.
+Never look up when dragons fly overhead.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You'll be called to a post requiring ability in handling groups of people.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Quick F**K</strong></div></td>
+      <td><div align="center"><strong>Amaretto Stone Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwryyx1472719921.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Kahlua, 1 part  Midori melon liqueur, 1 part  Baileys irish cream</td>
+      <td><b>Ingredients:</b> 1 part  Amaretto, 1 part  Sour mix, 1 part  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream</td>
+      <td><b>Instructions:</b> Shake and Serve over ice</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You'll be called to a post requiring ability in handling groups of people.
 <br>
 </details>
 
-**113 day before 2027 ⏱** days before new year
+**112 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.01°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.47°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 19:58
+  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 19:56
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You'll be called to a post requiring ability in handling groups of people.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 10 2026
+  Last update on Fri Sep 11 2026
   </div>
 <br>
 
