@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Never look up when dragons fly overhead.
+Your own qualities will help prevent your advancement in the world.
 </details>
 
 <details>
@@ -74,19 +74,20 @@ Never look up when dragons fly overhead.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Amaretto Stone Sour</strong></div></td>
+      <td><div align="center"><strong>Thai Iced Coffee</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xwryyx1472719921.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rqpypv1441245650.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Amaretto, 1 part  Sour mix, 1 part  Orange juice</td>
+      <td><b>Ingredients:</b> black Coffee, Sugar, pods
+ Cream, Cardamom</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake and Serve over ice</td>
+      <td><b>Instructions:</b> Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ Never look up when dragons fly overhead.
 <br>
 </details>
 
-**112 day before 2027 ⏱** days before new year
+**111 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 6.47°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 10.77°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 19:56
+  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 19:54
   </div>
 <br>
 
@@ -117,7 +118,7 @@ Never look up when dragons fly overhead.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 11 2026
+  Last update on Sat Sep 12 2026
   </div>
 <br>
 
