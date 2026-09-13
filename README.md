@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your own qualities will help prevent your advancement in the world.
+Seeing that death, a necessary end,Will come when it will come.		-- William Shakespeare, "Julius Caesar"
 </details>
 
 <details>
@@ -74,20 +74,19 @@ Your own qualities will help prevent your advancement in the world.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Thai Iced Coffee</strong></div></td>
+      <td><div align="center"><strong>Cuba Libra</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rqpypv1441245650.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ck6d0p1504388696.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> black Coffee, Sugar, pods
- Cream, Cardamom</td>
+      <td><b>Ingredients:</b> 1-2 shot  Dark rum, Squeeze  Lime, Fill with  Coca-Cola, Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.</td>
+      <td><b>Instructions:</b> Fill tall glass with ice cubes. Add rum. Rub cut edge of lime on rim of glass then squeeze juice into glass. Fill with Coca-Cola. Garnish with lime slice. Enjoy!</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ Your own qualities will help prevent your advancement in the world.
 <br>
 </details>
 
-**111 day before 2027 ⏱** days before new year
+**110 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 10.77°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.05°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:11 and sets 🌇 at 19:54
+  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 19:52
   </div>
 <br>
 
@@ -118,7 +117,7 @@ Your own qualities will help prevent your advancement in the world.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Sep 12 2026
+  Last update on Sun Sep 13 2026
   </div>
 <br>
 
