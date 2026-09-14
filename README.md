@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Seeing that death, a necessary end,Will come when it will come.		-- William Shakespeare, "Julius Caesar"
+Q:	How many bureaucrats does it take to screw in a light bulb?A:	Two.  One to assure everyone that everything possible is being	done while the other screws the bulb into the water faucet.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Seeing that death, a necessary end,Will come when it will come.		-- William Shak
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cuba Libra</strong></div></td>
+      <td><div align="center"><strong>Aloha Fruit punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/ck6d0p1504388696.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1-2 shot  Dark rum, Squeeze  Lime, Fill with  Coca-Cola, Ice</td>
+      <td><b>Ingredients:</b> 3/4 cup  Water, 2 tsp  Ginger, 2 cups  Guava juice, 1 1/2 tblsp  Lemon juice, 1 1/2 cup  Pineapple, 1 cup  Sugar, 3-4 cups  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill tall glass with ice cubes. Add rum. Rub cut edge of lime on rim of glass then squeeze juice into glass. Fill with Coca-Cola. Garnish with lime slice. Enjoy!</td>
+      <td><b>Instructions:</b> Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Seeing that death, a necessary end,Will come when it will come.		-- William Shak
 <br>
 </details>
 
-**110 day before 2027 ⏱** days before new year
+**109 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.05°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.51°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 19:52
+  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 19:51
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Seeing that death, a necessary end,Will come when it will come.		-- William Shak
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 13 2026
+  Last update on Mon Sep 14 2026
   </div>
 <br>
 
