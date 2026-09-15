@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍦
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many bureaucrats does it take to screw in a light bulb?A:	Two.  One to assure everyone that everything possible is being	done while the other screws the bulb into the water faucet.
+You will win success in whatever calling you adopt.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many bureaucrats does it take to screw in a light bulb?A:	Two.  One to as
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Aloha Fruit punch</strong></div></td>
+      <td><div align="center"><strong>John Collins</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/0t4bv71606854479.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Collins glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 cup  Water, 2 tsp  Ginger, 2 cups  Guava juice, 1 1/2 tblsp  Lemon juice, 1 1/2 cup  Pineapple, 1 cup  Sugar, 3-4 cups  Pineapple juice</td>
+      <td><b>Ingredients:</b> 2 oz  Bourbon, 1 oz  Lemon juice, 1 tsp superfine  Sugar, 3 oz  Club soda, 1  Maraschino cherry, 1  Orange</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.</td>
+      <td><b>Instructions:</b> Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many bureaucrats does it take to screw in a light bulb?A:	Two.  One to as
 <br>
 </details>
 
-**109 day before 2027 ⏱** days before new year
+**108 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.51°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>18°C (felt 16.94°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 19:51
+  The sun ☀️ rise 🌄 at 07:15 and sets 🌇 at 19:49
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many bureaucrats does it take to screw in a light bulb?A:	Two.  One to as
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 14 2026
+  Last update on Tue Sep 15 2026
   </div>
 <br>
 
