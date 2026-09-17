@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Expect the worst, it's the least you can do.
+The holy passion of Friendship is of so sweet and steady and loyal andenduring a nature that it will last through a whole lifetime, if not asked tolend money.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Expect the worst, it's the least you can do.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Abilene</strong></div></td>
+      <td><div align="center"><strong>B-52</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/smb2oe1582479072.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Dark rum, 2 oz  Peach nectar, 3 oz  Orange juice</td>
+      <td><b>Ingredients:</b> 1/3  Baileys irish cream, 1/3  Grand Marnier, 1/4  Kahlua</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.</td>
+      <td><b>Instructions:</b> Layer ingredients into a shot glass. Serve with a stirrer.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Expect the worst, it's the least you can do.
 <br>
 </details>
 
-**107 day before 2027 ⏱** days before new year
+**106 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.83°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 10.88°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 19:47
+  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 19:45
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Expect the worst, it's the least you can do.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Sep 16 2026
+  Last update on Thu Sep 17 2026
   </div>
 <br>
 
