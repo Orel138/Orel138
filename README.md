@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The holy passion of Friendship is of so sweet and steady and loyal andenduring a nature that it will last through a whole lifetime, if not asked tolend money.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Q:	How many journalists does it take to screw in a light bulb?A:	Three.  One to report it as an inspired government program to bring	light to the people, one to report it as a diabolical government plot	to deprive the poor of darkness, and one to win a Pulitzer prize for	reporting that Electric Company hired a light bulb-assassin to break	the bulb in the first place.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ The holy passion of Friendship is of so sweet and steady and loyal andenduring a
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>B-52</strong></div></td>
+      <td><div align="center"><strong>ACID</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/3  Baileys irish cream, 1/3  Grand Marnier, 1/4  Kahlua</td>
+      <td><b>Ingredients:</b> 1 oz Bacardi  151 proof rum, 1 oz  Wild Turkey</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Layer ingredients into a shot glass. Serve with a stirrer.</td>
+      <td><b>Instructions:</b> Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ The holy passion of Friendship is of so sweet and steady and loyal andenduring a
 <br>
 </details>
 
-**106 day before 2027 ⏱** days before new year
+**105 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 10.88°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.66°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 19:45
+  The sun ☀️ rise 🌄 at 07:18 and sets 🌇 at 19:43
   </div>
 <br>
 
@@ -117,7 +117,7 @@ The holy passion of Friendship is of so sweet and steady and loyal andenduring a
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 17 2026
+  Last update on Fri Sep 18 2026
   </div>
 <br>
 
