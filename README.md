@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many journalists does it take to screw in a light bulb?A:	Three.  One to report it as an inspired government program to bring	light to the people, one to report it as a diabolical government plot	to deprive the poor of darkness, and one to win a Pulitzer prize for	reporting that Electric Company hired a light bulb-assassin to break	the bulb in the first place.
+Q:	What is green and lives in the ocean?A:	Moby Pickle.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many journalists does it take to screw in a light bulb?A:	Three.  One to 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>ACID</strong></div></td>
+      <td><div align="center"><strong>Banana Cantaloupe Smoothie</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uqxqsy1468876703.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Highball Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz Bacardi  151 proof rum, 1 oz  Wild Turkey</td>
+      <td><b>Ingredients:</b> Juice of 1/2  Cantaloupe, 1  Banana</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.</td>
+      <td><b>Instructions:</b> Juice cantaloupe, pour juice into blender, add banana, and liquify.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many journalists does it take to screw in a light bulb?A:	Three.  One to 
 <br>
 </details>
 
-**105 day before 2027 ⏱** days before new year
+**104 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.66°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.13°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:18 and sets 🌇 at 19:43
+  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 19:41
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many journalists does it take to screw in a light bulb?A:	Three.  One to 
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Sep 18 2026
+  Last update on Sat Sep 19 2026
   </div>
 <br>
 
