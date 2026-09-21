@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will wish you hadn't.
+Be free and open and breezy!  Enjoy!  Things won't get any better soget used to it.
 </details>
 
 <details>
@@ -74,19 +74,22 @@ You will wish you hadn't.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Green Goblin</strong></div></td>
+      <td><div align="center"><strong>747 Drink</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pint glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 pint hard  Cider, 1/2 pint  Lager, 1 shot  Blue Curacao</td>
+      <td><b>Ingredients:</b> 1 oz Vodka, 1 oz Roses sweetened lime juice, 1 oz Cranberry Juice, Top Sprite</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Cider First, Lager then Curacao</td>
+      <td><b>Instructions:</b> Fill a Collins glass with ice.
+Pour in vodka, lime cordial, and cranberry juice.
+Fill up with Sprite.
+Garnish with a Lime wheel or some cranberries</td>
     </tr>
   </table>
 </div>
@@ -97,13 +100,13 @@ You will wish you hadn't.
 <br>
 </details>
 
-**103 day before 2027 ⏱** days before new year
+**102 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 12.53°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 12.51°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:20 and sets 🌇 at 19:39
+  The sun ☀️ rise 🌄 at 07:22 and sets 🌇 at 19:37
   </div>
 <br>
 
@@ -117,7 +120,7 @@ You will wish you hadn't.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 20 2026
+  Last update on Mon Sep 21 2026
   </div>
 <br>
 
