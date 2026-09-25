@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will gain money by a fattening action.
+Communicate!  It can't make things any worse.
 </details>
 
 <details>
@@ -74,19 +74,20 @@ You will gain money by a fattening action.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Screwdriver</strong></div></td>
+      <td><div align="center"><strong>Aquamarine</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/zvsre31572902738.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Martini Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Vodka, Orange juice</td>
+      <td><b>Ingredients:</b> 2 oz Hpnotiq, 1 oz Pineapple Juice, 1 oz Banana Liqueur</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix in a highball glass with ice. Garnish and serve.</td>
+      <td><b>Instructions:</b> Shake well in a shaker with ice.
+Strain in a martini glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ You will gain money by a fattening action.
 <br>
 </details>
 
-**99 day before 2027 ⏱** days before new year
+**98 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 13.68°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 11.92°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:25 and sets 🌇 at 19:31
+  The sun ☀️ rise 🌄 at 07:26 and sets 🌇 at 19:29
   </div>
 <br>
 
@@ -117,7 +118,7 @@ You will gain money by a fattening action.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Sep 24 2026
+  Last update on Fri Sep 25 2026
   </div>
 <br>
 
