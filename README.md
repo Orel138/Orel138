@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but it takes a long time, and the light bulb has	to really want to change.
+You can create your own opportunities this week.  Blackmail a senior executive.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but i
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Flying Dutchman</strong></div></td>
+      <td><div align="center"><strong>Arctic Mouthwash</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wqstwv1478963735.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1/2 oz  Triple sec</td>
+      <td><b>Ingredients:</b> 5 oz blue  Maui, 5 oz  Mountain Dew, cubes Ice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.</td>
+      <td><b>Instructions:</b> Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but i
 <br>
 </details>
 
-**96 day before 2027 ⏱** days before new year
+**95 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>21°C (felt 20.83°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.33°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:29 and sets 🌇 at 19:26
+  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 19:24
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	How many psychiatrists does it take to change a light bulb?A:	Only one, but i
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Sep 27 2026
+  Last update on Mon Sep 28 2026
   </div>
 <br>
 
