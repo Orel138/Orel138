@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You can create your own opportunities this week.  Blackmail a senior executive.
+You will be the victim of a bizarre joke.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You can create your own opportunities this week.  Blackmail a senior executive.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Arctic Mouthwash</strong></div></td>
+      <td><div align="center"><strong>Dark and Stormy</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wqstwv1478963735.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/t1tn0s1504374905.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 oz blue  Maui, 5 oz  Mountain Dew, cubes Ice</td>
+      <td><b>Ingredients:</b> 5 cl Dark Rum, 10 cl Ginger Beer</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve.</td>
+      <td><b>Instructions:</b> In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You can create your own opportunities this week.  Blackmail a senior executive.
 <br>
 </details>
 
-**95 day before 2027 ⏱** days before new year
+**94 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 15.33°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 14.66°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 19:24
+  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 19:22
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You can create your own opportunities this week.  Blackmail a senior executive.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Sep 28 2026
+  Last update on Tue Sep 29 2026
   </div>
 <br>
 
