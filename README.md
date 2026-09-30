@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will be the victim of a bizarre joke.
+Q:	What's tan and black and looks great on a lawyer?A:	A doberman.
 </details>
 
 <details>
@@ -74,19 +74,21 @@ You will be the victim of a bizarre joke.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Dark and Stormy</strong></div></td>
+      <td><div align="center"><strong>Kiwi Martini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/t1tn0s1504374905.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/bmxmyq1630407098.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 5 cl Dark Rum, 10 cl Ginger Beer</td>
+      <td><b>Ingredients:</b> 1/2 Kiwi, 1 tsp Sugar Syrup, 1 1/2 oz Vodka, Garnish with Kiwi</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a highball glass filled with ice add 6cl dark rum and top with ginger beer. Garnish with lime wedge.</td>
+      <td><b>Instructions:</b> The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.
+
+For this recipe, you'll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It's a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +99,13 @@ You will be the victim of a bizarre joke.
 <br>
 </details>
 
-**94 day before 2027 ⏱** days before new year
+**93 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>16°C (felt 14.66°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.51°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 19:22
+  The sun ☀️ rise 🌄 at 07:33 and sets 🌇 at 19:20
   </div>
 <br>
 
@@ -117,7 +119,7 @@ You will be the victim of a bizarre joke.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Sep 29 2026
+  Last update on Wed Sep 30 2026
   </div>
 <br>
 
