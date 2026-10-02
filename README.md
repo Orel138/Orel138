@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍰
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You definitely intend to start living sometime soon.
+Caution: breathing may be hazardous to your health.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You definitely intend to start living sometime soon.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Strawberry Daiquiri</strong></div></td>
+      <td><div align="center"><strong>Grasshopper</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/deu59m1504736135.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 oz  Strawberry schnapps, 1 oz  Light rum, 1 oz  Lime juice, 1 tsp  Powdered sugar, 1 oz  Strawberries</td>
+      <td><b>Ingredients:</b> 3/4 oz  Green Creme de Menthe, 3/4 oz white  Creme de Cacao, 3/4 oz  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You definitely intend to start living sometime soon.
 <br>
 </details>
 
-**92 day before 2027 ⏱** days before new year
+**91 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.02°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.32°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:34 and sets 🌇 at 19:18
+  The sun ☀️ rise 🌄 at 07:35 and sets 🌇 at 19:16
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You definitely intend to start living sometime soon.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Oct 01 2026
+  Last update on Fri Oct 02 2026
   </div>
 <br>
 
