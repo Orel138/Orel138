@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Caution: breathing may be hazardous to your health.
+There are more things in heaven and earth,Horatio, than are dreamt of in your philosophy.		-- Wm. Shakespeare, "Hamlet"
 </details>
 
 <details>
@@ -74,19 +74,21 @@ Caution: breathing may be hazardous to your health.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Grasshopper</strong></div></td>
+      <td><div align="center"><strong>Mango Mojito</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Jar</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Green Creme de Menthe, 3/4 oz white  Creme de Cacao, 3/4 oz  Light cream</td>
+      <td><b>Ingredients:</b> 3 Lime, 1 Fresh Mango, Sprig Mint, 200 ml White Rum, cubes Ice, Top Soda Water, Garnish with Mango</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.</td>
+      <td><b>Instructions:</b> Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
+Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
+Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +99,13 @@ Caution: breathing may be hazardous to your health.
 <br>
 </details>
 
-**91 day before 2027 ⏱** days before new year
+**90 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.32°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>19°C (felt 18.78°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:35 and sets 🌇 at 19:16
+  The sun ☀️ rise 🌄 at 07:36 and sets 🌇 at 19:14
   </div>
 <br>
 
@@ -117,7 +119,7 @@ Caution: breathing may be hazardous to your health.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Oct 02 2026
+  Last update on Sat Oct 03 2026
   </div>
 <br>
 
