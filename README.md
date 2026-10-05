@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Be careful!  UGLY strikes 9 out of 10!
+Q:	Why should you always serve a Southern Carolina football man	soup in a plate?A:	'Cause if you give him a bowl, he'll throw it away.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Be careful!  UGLY strikes 9 out of 10!
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Sweet Tooth</strong></div></td>
+      <td><div align="center"><strong>Gentleman's Club</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 shots  Godiva liqueur, Milk</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 oz  Brandy, 1 oz  Sweet Vermouth, 1 oz  Club soda</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.</td>
+      <td><b>Instructions:</b> In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Be careful!  UGLY strikes 9 out of 10!
 <br>
 </details>
 
-**89 day before 2027 ⏱** days before new year
+**88 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.56°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>21°C (felt 20.64°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 19:12
+  The sun ☀️ rise 🌄 at 07:39 and sets 🌇 at 19:10
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Be careful!  UGLY strikes 9 out of 10!
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Oct 04 2026
+  Last update on Mon Oct 05 2026
   </div>
 <br>
 
