@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-There is an old time toast which is golden for its beauty."When you ascend the hill of prosperity may you not meet a friend."		-- Mark Twain
+Think twice before speaking, but don't say "think think click click".
 </details>
 
 <details>
@@ -74,19 +74,19 @@ There is an old time toast which is golden for its beauty."When you ascend the h
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Citrus Coke</strong></div></td>
+      <td><div align="center"><strong>Mary Pickford</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/f9erqb1504350557.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part  Bacardi Limon, 2 parts  Coca-Cola</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 oz  Pineapple juice, 1/2 tsp  Maraschino liqueur, 1/2 tsp  Grenadine, 1  Maraschino cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour half of coke in a glass. Then add Bacardi and top it off with the remaining coke. Stir and drink up!</td>
+      <td><b>Instructions:</b> Shake and strain into a chilled large cocktail glass</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ There is an old time toast which is golden for its beauty."When you ascend the h
 <br>
 </details>
 
-**83 day before 2027 ⏱** days before new year
+**82 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 9.2°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:45 and sets 🌇 at 19:01
+  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 18:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ There is an old time toast which is golden for its beauty."When you ascend the h
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Oct 10 2026
+  Last update on Sun Oct 11 2026
   </div>
 <br>
 
