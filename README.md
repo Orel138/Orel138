@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Think twice before speaking, but don't say "think think click click".
+Your lover will never wish to leave you.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Think twice before speaking, but don't say "think think click click".
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Mary Pickford</strong></div></td>
+      <td><div align="center"><strong>Kill the cold Smoothie</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/f9erqb1504350557.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Light rum, 1 oz  Pineapple juice, 1/2 tsp  Maraschino liqueur, 1/2 tsp  Grenadine, 1  Maraschino cherry</td>
+      <td><b>Ingredients:</b> 1 inch  Ginger, 1/4  Lemon, 1 cup hot  Water</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake and strain into a chilled large cocktail glass</td>
+      <td><b>Instructions:</b> Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Think twice before speaking, but don't say "think think click click".
 <br>
 </details>
 
-**82 day before 2027 ⏱** days before new year
+**81 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.65°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 18:59
+  The sun ☀️ rise 🌄 at 07:48 and sets 🌇 at 18:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Think twice before speaking, but don't say "think think click click".
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Oct 11 2026
+  Last update on Mon Oct 12 2026
   </div>
 <br>
 
