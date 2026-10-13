@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Your lover will never wish to leave you.
+Q:	Why is Christmas just like a day at the office?A:	You do all of the work and the fat guy in the suit	gets all the credit.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Your lover will never wish to leave you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Kill the cold Smoothie</strong></div></td>
+      <td><div align="center"><strong>Cherry Rum</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7j1z2e1487603414.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/twsuvr1441554424.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 inch  Ginger, 1/4  Lemon, 1 cup hot  Water</td>
+      <td><b>Ingredients:</b> 1 1/4 oz  Light rum, 1 1/2 tsp  Cherry brandy, 1 tblsp  Light cream</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Juice ginger and lemon and add it to hot water. You may add cardomom.</td>
+      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Your lover will never wish to leave you.
 <br>
 </details>
 
-**81 day before 2027 ⏱** days before new year
+**80 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.65°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.55°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:48 and sets 🌇 at 18:58
+  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 18:56
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Your lover will never wish to leave you.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Oct 12 2026
+  Last update on Tue Oct 13 2026
   </div>
 <br>
 
