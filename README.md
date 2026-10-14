@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌮
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧁
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why is Christmas just like a day at the office?A:	You do all of the work and the fat guy in the suit	gets all the credit.
+Q:	How many lawyers does it take to change a light bulb?A:	Whereas the party of the first part, also known as "Lawyer", and theparty of the second part, also known as "Light Bulb", do hereby and forthwithagree to a transaction wherein the party of the second part shall be removedfrom the current position as a result of failure to perform previously agreedupon duties, i.e., the lighting, elucidation, and otherwise illumination ofthe area ranging from the front (north) door, through the entryway, terminatingat an area just inside the primary living area, demarcated by the beginning ofthe carpet, any spillover illumination being at the option of the party of thesecond part and not required by the aforementioned agreement between theparties.	The aforementioned removal transaction shall include, but not belimited to, the following.  The party of the first part shall, with or withoutelevation at his option, by means of a chair, stepstool, ladder or any othermeans of elevation, grasp the party of the second part and rotate the partyof the second part in a counter-clockwise direction, this point being tenderednon-negotiable.  Upon reaching a point where the party of the second partbecomes fully detached from the receptacle, the party of the first part shallhave the option of disposing of the party of the second part in a mannerconsistent with all relevant and applicable local, state and federal statutes.Once separation and disposal have been achieved, the party of the first partshall have the option of beginning installation.  Aforesaid installation shalloccur in a manner consistent with the reverse of the procedures described instep one of this self-same document, being careful to note that the rotationshould occur in a clockwise direction, this point also being non-negotiable.The above described steps may be performed, at the option of the party of thefirst part, by any or all agents authorized by him, the objective being toproduce the most possible revenue for the Partnership.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Cherry Rum</strong></div></td>
+      <td><div align="center"><strong>Apple Cider Punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/twsuvr1441554424.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xrqxuv1454513218.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/4 oz  Light rum, 1 1/2 tsp  Cherry brandy, 1 tblsp  Light cream</td>
+      <td><b>Ingredients:</b> 4 qt  Apple cider, 1 cup  Brown sugar, 6 oz frozen  Lemonade, 6 oz frozen  Orange juice, 6 whole  Cloves, 6 whole  Allspice, 1 tsp ground  Nutmeg, 3 sticks  Cinnamon</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
 <br>
 </details>
 
-**80 day before 2027 ⏱** days before new year
+**79 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.55°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 10.82°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:49 and sets 🌇 at 18:56
+  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 18:54
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why is Christmas just like a day at the office?A:	You do all of the work and 
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Oct 13 2026
+  Last update on Wed Oct 14 2026
   </div>
 <br>
 
