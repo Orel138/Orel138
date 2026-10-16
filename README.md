@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Go to a movie tonight.  Darkness becomes you.
+What good is an obscenity trial except to popularize literature?		-- Nero Wolfe, "The League of Frightened Men"
 </details>
 
 <details>
@@ -74,21 +74,19 @@ Go to a movie tonight.  Darkness becomes you.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Bahama Mama</strong></div></td>
+      <td><div align="center"><strong>Amaretto Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tyb4a41515793339.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/xnzc541493070211.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 parts Rum, 1 part Dark Rum, 1 part Banana liqueur, 1 part Grenadine, 2 parts Pineapple Juice, 2 parts Orange Juice, 1 part Sweet and Sour</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Amaretto, 3 oz  Sour mix</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add 2 parts club soda or more or less to taste.
-
-Mix it all together and pour over a bunch of ice. Drink with a straw.</td>
+      <td><b>Instructions:</b> Shake and strain. Garnish with a cherry and an orange slice.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +97,13 @@ Mix it all together and pour over a bunch of ice. Drink with a straw.</td>
 <br>
 </details>
 
-**78 day before 2027 ⏱** days before new year
+**77 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.94°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>15°C (felt 14.56°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:51 and sets 🌇 at 18:52
+  The sun ☀️ rise 🌄 at 07:53 and sets 🌇 at 18:50
   </div>
 <br>
 
@@ -119,7 +117,7 @@ Mix it all together and pour over a bunch of ice. Drink with a straw.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Oct 15 2026
+  Last update on Fri Oct 16 2026
   </div>
 <br>
 
