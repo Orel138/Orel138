@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will pass away very quickly.
+You never hesitate to tackle the most difficult problems.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will pass away very quickly.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Pink Lady</strong></div></td>
+      <td><div align="center"><strong>Screaming Orgasm</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Gin, 1 tsp  Grenadine, 1 tsp  Light cream, 1  Egg white</td>
+      <td><b>Ingredients:</b> 1 oz  Vodka, 1 1/2 oz  Baileys irish cream, 1/2 oz  Kahlua</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will pass away very quickly.
 <br>
 </details>
 
-**74 day before 2027 ⏱** days before new year
+**73 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 11.7°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.98°C), moderate rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:57 and sets 🌇 at 18:45
+  The sun ☀️ rise 🌄 at 07:58 and sets 🌇 at 18:44
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will pass away very quickly.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Oct 19 2026
+  Last update on Tue Oct 20 2026
   </div>
 <br>
 
