@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You are fighting for survival in your own sweet and gentle way.
+Tonight's the night: Sleep in a eucalyptus tree.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You are fighting for survival in your own sweet and gentle way.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Royal Fizz</strong></div></td>
+      <td><div align="center"><strong>Mulled Wine</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wrh44j1504390609.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Gin, 2 oz  Sweet and sour, 1 whole  Egg, Coca-Cola</td>
+      <td><b>Ingredients:</b> 3 cups  Water, 1 cup  Sugar, 12  Cloves, 2  Cinnamon, 1  Lemon peel, 750 ml  Red wine, 1/4 cup  Brandy</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.</td>
+      <td><b>Instructions:</b> Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a "coffee temperature" (DO NOT BOIL) then add the brandy.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You are fighting for survival in your own sweet and gentle way.
 <br>
 </details>
 
-**72 day before 2027 ⏱** days before new year
+**71 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.54°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 8.87°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:59 and sets 🌇 at 18:42
+  The sun ☀️ rise 🌄 at 08:01 and sets 🌇 at 18:40
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You are fighting for survival in your own sweet and gentle way.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Oct 21 2026
+  Last update on Thu Oct 22 2026
   </div>
 <br>
 
