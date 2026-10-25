@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🌯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-The devil can cite Scripture for his purpose.		-- William Shakespeare, "The Merchant of Venice"
+Let me take you a button-hole lower.		-- William Shakespeare, "Love's Labour's Lost"
 </details>
 
 <details>
@@ -74,21 +74,19 @@ The devil can cite Scripture for his purpose.		-- William Shakespeare, "The Merc
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Salted Toffee Martini</strong></div></td>
+      <td><div align="center"><strong>Apple Slammer</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/3s6mlr1509551211.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 50 ml  Gin, 30 ml  Chocolate liqueur, 15 ml Amaretto, Garnish Chocolate Sauce, Grated Salted Chocolate</td>
+      <td><b>Ingredients:</b> 1 part  7-Up, 1 part  Apple schnapps</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add ice, toffee gin, chocolate liqueur and Amaretto to a cocktail shaker and shake vigorously. 
-Pour the chocolate syrup into a saucer and dip the top of a martini glass into the sauce. Grate some of the Willie\'s sea salt chocolate into another saucer and dip the coated glass, so the flakes stick to the sauce, creating a chocolate rim!
-Pour the contents of the shaker into your chocolatey glass and sprinkle with more grated chocolate - enjoy!  </td>
+      <td><b>Instructions:</b> pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.</td>
     </tr>
   </table>
 </div>
@@ -99,13 +97,13 @@ Pour the contents of the shaker into your chocolatey glass and sprinkle with mor
 <br>
 </details>
 
-**69 day before 2027 ⏱** days before new year
+**68 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 4.17°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 08:03 and sets 🌇 at 18:37
+  The sun ☀️ rise 🌄 at 07:05 and sets 🌇 at 17:36
   </div>
 <br>
 
@@ -119,7 +117,7 @@ Pour the contents of the shaker into your chocolatey glass and sprinkle with mor
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Oct 24 2026
+  Last update on Sun Oct 25 2026
   </div>
 <br>
 
