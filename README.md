@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-All the troubles you have will pass away very quickly.
+I must have a prodigious quantity of mind; it takes me as much as aweek sometimes to make it up.		-- Mark Twain, "The Innocents Abroad"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ All the troubles you have will pass away very quickly.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Vermouth Cassis</strong></div></td>
+      <td><div align="center"><strong>Lunch Box</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tswpxx1441554674.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Dry Vermouth, 3/4 oz  Creme de Cassis, Carbonated water</td>
+      <td><b>Ingredients:</b> 3/4 bottle  Beer, 1 shot  Amaretto, 1 oz  Orange juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.</td>
+      <td><b>Instructions:</b> Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ All the troubles you have will pass away very quickly.
 <br>
 </details>
 
-**65 day before 2027 ⏱** days before new year
+**64 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 4.62°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>14°C (felt 13.46°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:09 and sets 🌇 at 17:31
+  The sun ☀️ rise 🌄 at 07:10 and sets 🌇 at 17:29
   </div>
 <br>
 
@@ -117,7 +117,7 @@ All the troubles you have will pass away very quickly.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Oct 28 2026
+  Last update on Thu Oct 29 2026
   </div>
 <br>
 
