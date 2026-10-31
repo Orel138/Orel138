@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍔
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍿
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You never know how many friends you have until you rent a house on the beach.
+You can rent this space for only $5 a week.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You never know how many friends you have until you rent a house on the beach.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Lone Tree Cocktail</strong></div></td>
+      <td><div align="center"><strong>Bellini</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/tsxpty1468923417.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/eaag491504367543.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Champagne Flute</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3/4 oz  Sweet Vermouth, 1 1/2 oz  Gin</td>
+      <td><b>Ingredients:</b> 6 oz  Champagne, 1 oz  Peach schnapps</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Pour peach purée into chilled flute, add sparkling wine. Stir gently.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You never know how many friends you have until you rent a house on the beach.
 <br>
 </details>
 
-**63 day before 2027 ⏱** days before new year
+**62 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>12°C (felt 10.68°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.66°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:12 and sets 🌇 at 17:28
+  The sun ☀️ rise 🌄 at 07:13 and sets 🌇 at 17:26
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You never know how many friends you have until you rent a house on the beach.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Oct 30 2026
+  Last update on Sat Oct 31 2026
   </div>
 <br>
 
