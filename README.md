@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍝
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't feed the bats tonight.
+... A solemn, unsmiling, sanctimonious old iceberg who looked like hewas waiting for a vacancy in the Trinity.		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't feed the bats tonight.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Whiskey Sour</strong></div></td>
+      <td><div align="center"><strong>A Splash of Nash</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1/2 tsp  Powdered sugar, 1  Cherry, 1/2 slice  Lemon</td>
+      <td><b>Ingredients:</b> 2 oz  Cranberry juice, 2 oz  Soda water, 0.5 oz  Midori melon liqueur, 0.5 oz  Creme de Banane</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.</td>
+      <td><b>Instructions:</b> Drop shot glass with banana & melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't feed the bats tonight.
 <br>
 </details>
 
-**61 day before 2027 ⏱** days before new year
+**59 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 1.8°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.03°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:14 and sets 🌇 at 17:25
+  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 17:24
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't feed the bats tonight.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 01 2026
+  Last update on Mon Nov 02 2026
   </div>
 <br>
 
