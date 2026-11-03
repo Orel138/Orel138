@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍟
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-... A solemn, unsmiling, sanctimonious old iceberg who looked like hewas waiting for a vacancy in the Trinity.		-- Mark Twain
+Q:	How many members of the U.S.S. Enterprise does it take to change a	light bulb?A:	Seven.  Scotty has to report to Captain Kirk that the light bulb in	the Engineering Section is getting dim, at which point Kirk will send	Bones to pronounce the bulb dead (although he'll immediately claim	that he's a doctor, not an electrician).  Scotty, after checking	around, realizes that they have no more new light bulbs, and complains	that he "canna" see in the dark.  Kirk will make an emergency stop at	the next uncharted planet, Alpha Regula IV, to procure a light bulb	from the natives, who, are friendly, but seem to be hiding something.	Kirk, Spock, Bones, Yeoman Rand and two red shirt security officers	beam down to the planet, where the two security officers are promply	killed by the natives, and the rest of the landing party is captured.	As something begins to develop between the Captain and Yeoman Rand,	Scotty, back in orbit, is attacked by a Klingon destroyer and must	warp out of orbit.  Although badly outgunned, he cripples the Klingon	and races back to the planet in order to rescue Kirk et. al. who have	just saved the natives' from an awful fate and, as a reward, been	given all light bulbs they can carry.  The new bulb is then inserted	and the Enterprise continues on its five year mission.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>A Splash of Nash</strong></div></td>
+      <td><div align="center"><strong>Brandy Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/b1bxgq1582484872.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Cranberry juice, 2 oz  Soda water, 0.5 oz  Midori melon liqueur, 0.5 oz  Creme de Banane</td>
+      <td><b>Ingredients:</b> 2 oz  Brandy, Juice of 1/2  Lemon, 1/2 tsp  Powdered sugar, 1/2 slice  Lemon, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Drop shot glass with banana & melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.</td>
+      <td><b>Instructions:</b> Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.</td>
     </tr>
   </table>
 </div>
@@ -100,10 +100,10 @@ Random Stuff (for fun)
 **59 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.03°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 0.87°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:16 and sets 🌇 at 17:24
+  The sun ☀️ rise 🌄 at 07:17 and sets 🌇 at 17:22
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Nov 02 2026
+  Last update on Tue Nov 03 2026
   </div>
 <br>
 
