@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🎂
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You enjoy the company of other people.
+Q:	Why do firemen wear red suspenders?A:	To conform with departmental regulations concerning uniform dress.
 </details>
 
 <details>
@@ -74,20 +74,19 @@ You enjoy the company of other people.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Banana Strawberry Shake</strong></div></td>
+      <td><div align="center"><strong>Boston Sour</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/kxlgbi1504366100.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball Glass</td>
+      <td><b>Type of glass:</b> Whiskey sour glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 lb frozen  Strawberries, 1 frozen  Banana, 1 cup plain  Yoghurt, 1 cup  Milk, to taste
- Honey</td>
+      <td><b>Ingredients:</b> 2 oz  Blended whiskey, Juice of 1/2  Lemon, 1 tsp  Powdered sugar, 1  Egg white, 1 slice  Lemon, 1  Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend all together in a blender until smooth.</td>
+      <td><b>Instructions:</b> Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.</td>
     </tr>
   </table>
 </div>
@@ -98,13 +97,13 @@ You enjoy the company of other people.
 <br>
 </details>
 
-**58 day before 2027 ⏱** days before new year
+**56 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 7.09°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.54°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:19 and sets 🌇 at 17:21
+  The sun ☀️ rise 🌄 at 07:20 and sets 🌇 at 17:20
   </div>
 <br>
 
@@ -118,7 +117,7 @@ You enjoy the company of other people.
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Nov 04 2026
+  Last update on Thu Nov 05 2026
   </div>
 <br>
 
