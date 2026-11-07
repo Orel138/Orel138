@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Behold, the fool saith, "Put not all thine eggs in the one basket"--which isbut a manner of saying, "Scatter your money and your attention;" but the wiseman saith, "Put all your eggs in the one basket and--WATCH THAT BASKET."		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+All say, "How hard it is that we have to die"--a strange complaint to come fromthe mouths of people who have had to live.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,22 +74,19 @@ Behold, the fool saith, "Put not all thine eggs in the one basket"--which isbut 
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Dark Caipirinha</strong></div></td>
+      <td><div align="center"><strong>Orange Scented Hot Chocolate</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hdzwrh1487603131.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Coffee mug</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 tsp  demerara Sugar, 1 Lime, 2 1/2 oz Cachaca</td>
+      <td><b>Ingredients:</b> 2 cups  Milk, 4 oz chopped bittersweet or semi-sweet  Chocolate, 3 2-inch strips  Orange peel, 1/2 tsp instant  Espresso, 1/8 tsp ground  Nutmeg</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Muddle the sugar into the lime wedges in an old-fashioned glass.
-Fill the glass with ice cubes.
-Pour the cachaca into the glass.
-Stir well.</td>
+      <td><b>Instructions:</b> Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.</td>
     </tr>
   </table>
 </div>
@@ -100,13 +97,13 @@ Stir well.</td>
 <br>
 </details>
 
-**56 day before 2027 ⏱** days before new year
+**55 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>3°C (felt 2.54°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.67°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:21 and sets 🌇 at 17:18
+  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 17:17
   </div>
 <br>
 
@@ -120,7 +117,7 @@ Stir well.</td>
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Nov 06 2026
+  Last update on Sat Nov 07 2026
   </div>
 <br>
 
