@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍩
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-All say, "How hard it is that we have to die"--a strange complaint to come fromthe mouths of people who have had to live.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+You have a strong desire for a home and your family interests come first.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ All say, "How hard it is that we have to die"--a strange complaint to come fromt
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Orange Scented Hot Chocolate</strong></div></td>
+      <td><div align="center"><strong>Banana Strawberry Shake Daiquiri</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/hdzwrh1487603131.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uvypss1472720581.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee mug</td>
+      <td><b>Type of glass:</b> Cocktail Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 cups  Milk, 4 oz chopped bittersweet or semi-sweet  Chocolate, 3 2-inch strips  Orange peel, 1/2 tsp instant  Espresso, 1/8 tsp ground  Nutmeg</td>
+      <td><b>Ingredients:</b> 1/2 lb frozen  Strawberries, 1 frozen  Banana, 2 cups fresh  Apple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.</td>
+      <td><b>Instructions:</b> Blend all together in a blender until smooth.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ All say, "How hard it is that we have to die"--a strange complaint to come fromt
 <br>
 </details>
 
-**55 day before 2027 ⏱** days before new year
+**54 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>8°C (felt 7.67°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.72°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:23 and sets 🌇 at 17:17
+  The sun ☀️ rise 🌄 at 07:24 and sets 🌇 at 17:16
   </div>
 <br>
 
@@ -117,7 +117,7 @@ All say, "How hard it is that we have to die"--a strange complaint to come fromt
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Nov 07 2026
+  Last update on Sun Nov 08 2026
   </div>
 <br>
 
