@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You have a strong desire for a home and your family interests come first.
+Swerve me?  The path to my fixed purpose is laid with iron rails,whereon my soul is grooved to run.  Over unsounded gorges, throughthe rifled hearts of mountains, under torrents' beds, unerringly I rush!		-- Captain Ahab, "Moby Dick"
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You have a strong desire for a home and your family interests come first.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Banana Strawberry Shake Daiquiri</strong></div></td>
+      <td><div align="center"><strong>Aloha Fruit punch</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uvypss1472720581.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail Glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1/2 lb frozen  Strawberries, 1 frozen  Banana, 2 cups fresh  Apple juice</td>
+      <td><b>Ingredients:</b> 3/4 cup  Water, 2 tsp  Ginger, 2 cups  Guava juice, 1 1/2 tblsp  Lemon juice, 1 1/2 cup  Pineapple, 1 cup  Sugar, 3-4 cups  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Blend all together in a blender until smooth.</td>
+      <td><b>Instructions:</b> Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You have a strong desire for a home and your family interests come first.
 <br>
 </details>
 
-**54 day before 2027 ⏱** days before new year
+**52 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>9°C (felt 7.72°C), broken clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>11°C (felt 9.81°C), broken clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:24 and sets 🌇 at 17:16
+  The sun ☀️ rise 🌄 at 07:26 and sets 🌇 at 17:15
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You have a strong desire for a home and your family interests come first.
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 08 2026
+  Last update on Mon Nov 09 2026
   </div>
 <br>
 
