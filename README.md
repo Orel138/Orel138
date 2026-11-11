@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't kiss an elephant on the lips today.
+	My dear People.	My dear Bagginses and Boffins, and my dear Tooks and Brandybucks,and Grubbs, and Chubbs, and Burrowses, and Hornblowers, and Bolgers,Bracegirdles, Goodbodies, Brockhouses and Proudfoots.  Also my goodSackville Bagginses that I welcome back at last to Bag End.  Today is myone hundred and eleventh birthday: I am eleventy-one today!"		-- J. R. R. Tolkien
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't kiss an elephant on the lips today.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Dubonnet Cocktail</strong></div></td>
+      <td><div align="center"><strong>Black & Tan</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/pfz3hz1582483111.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Pint glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 1/2 oz  Dubonnet Rouge, 3/4 oz  Gin, 1 dash  Bitters, 1 twist of  Lemon peel</td>
+      <td><b>Ingredients:</b> 1 part Bass pale  Ale, 1 part  Guinness stout</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.</td>
+      <td><b>Instructions:</b> Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black & Tan.</td>
     </tr>
   </table>
 </div>
@@ -100,10 +100,10 @@ Don't kiss an elephant on the lips today.
 **51 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.32°C), few clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.19°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:27 and sets 🌇 at 17:13
+  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 17:12
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't kiss an elephant on the lips today.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Nov 10 2026
+  Last update on Wed Nov 11 2026
   </div>
 <br>
 
