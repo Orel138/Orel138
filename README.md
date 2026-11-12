@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍭
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-	My dear People.	My dear Bagginses and Boffins, and my dear Tooks and Brandybucks,and Grubbs, and Chubbs, and Burrowses, and Hornblowers, and Bolgers,Bracegirdles, Goodbodies, Brockhouses and Proudfoots.  Also my goodSackville Bagginses that I welcome back at last to Bag End.  Today is myone hundred and eleventh birthday: I am eleventy-one today!"		-- J. R. R. Tolkien
+Q:	Why did the astrophysicist order three hamburgers?A:	Because he was hungry.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Black & Tan</strong></div></td>
+      <td><div align="center"><strong>Malibu Twister</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2dwae41504885321.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pint glass</td>
+      <td><b>Type of glass:</b> Highball glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 part Bass pale  Ale, 1 part  Guinness stout</td>
+      <td><b>Ingredients:</b> 2 parts  Malibu rum, 2 parts  Tropicana, 1 part  Cranberry juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black & Tan.</td>
+      <td><b>Instructions:</b> Add rum & trister then, add cranberry jucie,stir</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**51 day before 2027 ⏱** days before new year
+**49 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>13°C (felt 12.19°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.6°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:28 and sets 🌇 at 17:12
+  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 17:11
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Wed Nov 11 2026
+  Last update on Thu Nov 12 2026
   </div>
 <br>
 
