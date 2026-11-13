@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥪
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	Why did the astrophysicist order three hamburgers?A:	Because he was hungry.
+Q:	What's the difference between USL and the Titanic?A:	The Titanic had a band.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	Why did the astrophysicist order three hamburgers?A:	Because he was hungry.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Malibu Twister</strong></div></td>
+      <td><div align="center"><strong>Gin Daisy</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/2dwae41504885321.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/z6e22f1582581155.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Highball glass</td>
+      <td><b>Type of glass:</b> Old-fashioned glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 parts  Malibu rum, 2 parts  Tropicana, 1 part  Cranberry juice</td>
+      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz  Lemon juice, 1/2 tsp superfine  Sugar, 1/2 tsp  Grenadine, 1  Maraschino cherry, 1  Orange</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Add rum & trister then, add cranberry jucie,stir</td>
+      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.</td>
     </tr>
   </table>
 </div>
@@ -100,10 +100,10 @@ Q:	Why did the astrophysicist order three hamburgers?A:	Because he was hungry.
 **49 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>10°C (felt 9.6°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.62°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:30 and sets 🌇 at 17:11
+  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 17:10
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	Why did the astrophysicist order three hamburgers?A:	Because he was hungry.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 12 2026
+  Last update on Fri Nov 13 2026
   </div>
 <br>
 
