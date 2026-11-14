@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Q:	What's the difference between USL and the Titanic?A:	The Titanic had a band.
+Excellent day to have a rotten day.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Q:	What's the difference between USL and the Titanic?A:	The Titanic had a band.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Gin Daisy</strong></div></td>
+      <td><div align="center"><strong>Auburn Headbanger</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/z6e22f1582581155.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vw7iv91493067320.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Old-fashioned glass</td>
+      <td><b>Type of glass:</b> Shot glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 oz  Gin, 1 oz  Lemon juice, 1/2 tsp superfine  Sugar, 1/2 tsp  Grenadine, 1  Maraschino cherry, 1  Orange</td>
+      <td><b>Ingredients:</b> 1 oz  Jägermeister, 1 oz  Goldschlager</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.</td>
+      <td><b>Instructions:</b> Mix in spread glass over ice. Strain and pour in shot glass. Sit down before shotting. ENJOY!!</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Q:	What's the difference between USL and the Titanic?A:	The Titanic had a band.
 <br>
 </details>
 
-**49 day before 2027 ⏱** days before new year
+**48 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -2.62°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 7.13°C), clear sky</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:31 and sets 🌇 at 17:10
+  The sun ☀️ rise 🌄 at 07:32 and sets 🌇 at 17:09
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Q:	What's the difference between USL and the Titanic?A:	The Titanic had a band.
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Nov 13 2026
+  Last update on Sat Nov 14 2026
   </div>
 <br>
 
