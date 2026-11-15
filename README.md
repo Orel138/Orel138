@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍫
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Excellent day to have a rotten day.
+"... all the modern inconveniences ..."		-- Mark Twain
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Excellent day to have a rotten day.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Auburn Headbanger</strong></div></td>
+      <td><div align="center"><strong>Angelica Liqueur</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vw7iv91493067320.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yuurps1472667672.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Collins Glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Jägermeister, 1 oz  Goldschlager</td>
+      <td><b>Ingredients:</b> 3 tblsp chopped Angelica root, 1 tblsp chopped  Almond, 1 cracked  Allspice, 1 one-inch  Cinnamon, 3-6 crushed  Anise, 1/8 tsp powdered  Coriander, 1 tblsp fresh chopped  Marjoram leaves, 1.5 cup  Vodka, 1/2 cup granulated  Sugar, 1/4 cup  Water, 1 drop yellow  Food coloring, 1 drop green  Food coloring</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix in spread glass over ice. Strain and pour in shot glass. Sit down before shotting. ENJOY!!</td>
+      <td><b>Instructions:</b> Combine all herbs, nuts and spices with vodka in a 1 quart or larger aging container. Cap tightly and shake daily for 2 weeks. Strain through a fine muslin cloth or coffee filter, discarding solids. Clean out aging container. Place liquid back in container. Place sugar and water in saucepan and stir to combine over medium heat. When sugar is completely dissolved, set aside and let cool. When cool combine with food coloring and add to liqueur liquid. Cap and allow to age and mellow in a cool, dark place for one month.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Excellent day to have a rotten day.
 <br>
 </details>
 
-**48 day before 2027 ⏱** days before new year
+**47 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 7.13°C), clear sky</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 2.78°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:32 and sets 🌇 at 17:09
+  The sun ☀️ rise 🌄 at 07:34 and sets 🌇 at 17:08
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Excellent day to have a rotten day.
   </div>
 <div align="center">
   <sub>
-  Last update on Sat Nov 14 2026
+  Last update on Sun Nov 15 2026
   </div>
 <br>
 
