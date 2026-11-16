@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥐
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-"... all the modern inconveniences ..."		-- Mark Twain
+You will engage in a profitable business activity.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Random Stuff (for fun)
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Angelica Liqueur</strong></div></td>
+      <td><div align="center"><strong>Egg-Nog - Classic Cooked</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yuurps1472667672.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Collins Glass</td>
+      <td><b>Type of glass:</b> Pitcher</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 3 tblsp chopped Angelica root, 1 tblsp chopped  Almond, 1 cracked  Allspice, 1 one-inch  Cinnamon, 3-6 crushed  Anise, 1/8 tsp powdered  Coriander, 1 tblsp fresh chopped  Marjoram leaves, 1.5 cup  Vodka, 1/2 cup granulated  Sugar, 1/4 cup  Water, 1 drop yellow  Food coloring, 1 drop green  Food coloring</td>
+      <td><b>Ingredients:</b> 6  Egg, 1/4 cup  Sugar, 1/4 tsp  Salt, 1 qt  Milk, 1 tsp  Vanilla extract</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Combine all herbs, nuts and spices with vodka in a 1 quart or larger aging container. Cap tightly and shake daily for 2 weeks. Strain through a fine muslin cloth or coffee filter, discarding solids. Clean out aging container. Place liquid back in container. Place sugar and water in saucepan and stir to combine over medium heat. When sugar is completely dissolved, set aside and let cool. When cool combine with food coloring and add to liqueur liquid. Cap and allow to age and mellow in a cool, dark place for one month.</td>
+      <td><b>Instructions:</b> In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Random Stuff (for fun)
 <br>
 </details>
 
-**47 day before 2027 ⏱** days before new year
+**45 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>5°C (felt 2.78°C), scattered clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:34 and sets 🌇 at 17:08
+  The sun ☀️ rise 🌄 at 07:35 and sets 🌇 at 17:07
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Random Stuff (for fun)
   </div>
 <div align="center">
   <sub>
-  Last update on Sun Nov 15 2026
+  Last update on Mon Nov 16 2026
   </div>
 <br>
 
