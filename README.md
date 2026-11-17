@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍕
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥖
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-You will engage in a profitable business activity.
+FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dopey, Sneezy, Sleepy, & GrumpyQ:	Who were the Democratic presidential candidates?
 </details>
 
 <details>
@@ -74,19 +74,19 @@ You will engage in a profitable business activity.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Egg-Nog - Classic Cooked</strong></div></td>
+      <td><div align="center"><strong>Port Wine Cocktail</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Pitcher</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 6  Egg, 1/4 cup  Sugar, 1/4 tsp  Salt, 1 qt  Milk, 1 tsp  Vanilla extract</td>
+      <td><b>Ingredients:</b> 2 1/2 oz  Port, 1/2 tsp  Brandy</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.</td>
+      <td><b>Instructions:</b> Stir ingredients with ice, strain into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ You will engage in a profitable business activity.
 <br>
 </details>
 
-**45 day before 2027 ⏱** days before new year
+**44 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.87°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.28°C), light rain</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:35 and sets 🌇 at 17:07
+  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 17:06
   </div>
 <br>
 
@@ -117,7 +117,7 @@ You will engage in a profitable business activity.
   </div>
 <div align="center">
   <sub>
-  Last update on Mon Nov 16 2026
+  Last update on Tue Nov 17 2026
   </div>
 <br>
 
