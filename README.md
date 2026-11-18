@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-darth-vader.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dopey, Sneezy, Sleepy, & GrumpyQ:	Who were the Democratic presidential candidates?
+When I reflect upon the number of disagreeable people who I know who have goneto a better world, I am moved to lead a different life.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 </details>
 
 <details>
@@ -74,19 +74,20 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dop
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Port Wine Cocktail</strong></div></td>
+      <td><div align="center"><strong>Bijou</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg/preview" /></div></td>
     </tr>
     <tr>
       <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2 1/2 oz  Port, 1/2 tsp  Brandy</td>
+      <td><b>Ingredients:</b> 1 dash Orange Bitters, 1 oz Green Chartreuse, 1 oz Gin, 1 oz Sweet Vermouth</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Stir ingredients with ice, strain into a cocktail glass, and serve.</td>
+      <td><b>Instructions:</b> Stir in mixing glass with ice and strain
+</td>
     </tr>
   </table>
 </div>
@@ -97,13 +98,13 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dop
 <br>
 </details>
 
-**44 day before 2027 ⏱** days before new year
+**43 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>7°C (felt 6.28°C), light rain</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 6.43°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:37 and sets 🌇 at 17:06
+  The sun ☀️ rise 🌄 at 07:38 and sets 🌇 at 17:05
   </div>
 <br>
 
@@ -117,7 +118,7 @@ FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:	Doc, Happy, Bashful, Dop
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Nov 17 2026
+  Last update on Wed Nov 18 2026
   </div>
 <br>
 
