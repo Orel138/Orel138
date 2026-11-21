@@ -4,7 +4,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark_theme/dark-banner-1.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-1.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_light_theme/light-banner-lego-minifigure.png">
     <img alt="TEXT" src="assets/banner_light_theme/<#banner_light>">
   </picture>
 </h1>
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-One of the most striking differences between a cat and a lie is that a cat hasonly nine lives.		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+I've touch'd the highest point of all my greatness;And from that full meridian of my gloryI haste now to my setting.  I shall fall,Like a bright exhalation in the eveningAnd no man see me more.		-- Shakespeare
 </details>
 
 <details>
@@ -74,19 +74,19 @@ One of the most striking differences between a cat and a lie is that a cat hason
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Jam Donut</strong></div></td>
+      <td><div align="center"><strong>Algonquin</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uuytrp1474039804.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Shot glass</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 2/3 oz Baileys irish cream, 1/3 oz Chambord raspberry liqueur, 1 tsp Sugar syrup, 2 pinches Sugar</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Blended whiskey, 1 oz  Dry Vermouth, 1 oz  Pineapple juice</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.</td>
+      <td><b>Instructions:</b> Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ One of the most striking differences between a cat and a lie is that a cat hason
 <br>
 </details>
 
-**41 day before 2027 ⏱** days before new year
+**40 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt -0.34°C), snow</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>6°C (felt 5.07°C), few clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:41 and sets 🌇 at 17:03
+  The sun ☀️ rise 🌄 at 07:42 and sets 🌇 at 17:02
   </div>
 <br>
 
@@ -117,7 +117,7 @@ One of the most striking differences between a cat and a lie is that a cat hason
   </div>
 <div align="center">
   <sub>
-  Last update on Fri Nov 20 2026
+  Last update on Sat Nov 21 2026
   </div>
 <br>
 
