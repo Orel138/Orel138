@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🧀
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Don't kiss an elephant on the lips today.
+You're growing out of some of your problems, but there are others thatyou're growing into.
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Don't kiss an elephant on the lips today.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Flaming Lamborghini</strong></div></td>
+      <td><div align="center"><strong>Singapore Sling</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/yywpss1461866587.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/7dozeg1582578095.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Cocktail glass</td>
+      <td><b>Type of glass:</b> Hurricane glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 1 oz  Kahlua, 1 oz  Sambuca, 1 oz  Blue Curacao, 1 oz  Baileys irish cream</td>
+      <td><b>Ingredients:</b> 1/2 oz  Cherry brandy, 1/2 oz  Grenadine, 1 oz  Gin, 2 oz  Sweet and sour, Carbonated water, Cherry</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!</td>
+      <td><b>Instructions:</b> Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Don't kiss an elephant on the lips today.
 <br>
 </details>
 
-**37 day before 2027 ⏱** days before new year
+**36 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>1°C (felt 0.87°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>0°C (felt -0.24°C), overcast clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:46 and sets 🌇 at 17:00
+  The sun ☀️ rise 🌄 at 07:47 and sets 🌇 at 16:59
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Don't kiss an elephant on the lips today.
   </div>
 <div align="center">
   <sub>
-  Last update on Tue Nov 24 2026
+  Last update on Wed Nov 25 2026
   </div>
 <br>
 
