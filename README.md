@@ -29,7 +29,7 @@ My fascination with technology extends beyond my professional life, finding root
 
 🌐 On my GitHub, I love to share projects close to my heart, reflecting my journey and discoveries in embedded systems, particularly focusing on STM32 projects.
 
-🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🥯
+🍽️ "Your body is a reflection of what you eat" they say, and in that spirit, I'd say I'm a 🍨
 
 🍹 Outside of tech, I have a budding interest in mixology. Learning the art of crafting beautiful cocktails not only satisfies my curiosity but also adds a touch of elegance to my day. Speaking of which, check out the <a href="#cocktail">"Cocktail of the Day"</a> section below!
 
@@ -64,7 +64,7 @@ Random Stuff (for fun)
 
 <details>
   <summary>🥠 Fortune cookie</summary>
-Blow it out your ear.
+English literature's performing flea.		-- Sean O'Casey on P. G. Wodehouse
 </details>
 
 <details>
@@ -74,19 +74,19 @@ Blow it out your ear.
 <div align="center">
   <table>
     <tr>
-      <td><div align="center"><strong>Tennesee Mud</strong></div></td>
+      <td><div align="center"><strong>Balmoral</strong></div></td>
     </tr>
     <tr>
-      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/txruqv1441245770.jpg/preview" /></div></td>
+      <td><div align="center"><img alt="Cocktail Image" src="https://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg/preview" /></div></td>
     </tr>
     <tr>
-      <td><b>Type of glass:</b> Coffee Mug</td>
+      <td><b>Type of glass:</b> Cocktail glass</td>
     </tr>
     <tr>
-      <td><b>Ingredients:</b> 8 oz  Coffee, 4 oz  Jack Daniels, 4 oz  Amaretto, Whipped cream</td>
+      <td><b>Ingredients:</b> 1 1/2 oz  Scotch, 1/2 oz  Sweet Vermouth, 1/2 oz  Dry Vermouth, 2 dashes  Bitters</td>
     </tr>
     <tr>
-      <td><b>Instructions:</b> Mix Coffee, Jack Daniels and Amaretto. Add Cream on top.</td>
+      <td><b>Instructions:</b> In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.</td>
     </tr>
   </table>
 </div>
@@ -97,13 +97,13 @@ Blow it out your ear.
 <br>
 </details>
 
-**35 day before 2027 ⏱** days before new year
+**34 day before 2027 ⏱** days before new year
 
 <div align="left">
-  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-1°C (felt -3.37°C), overcast clouds</b>.
+  Today's weather for <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Grenoble, France</b>: <b>-2°C (felt -2.46°C), scattered clouds</b>.
   </div>
 <div align="left">
-  The sun ☀️ rise 🌄 at 07:48 and sets 🌇 at 16:59
+  The sun ☀️ rise 🌄 at 07:50 and sets 🌇 at 16:58
   </div>
 <br>
 
@@ -117,7 +117,7 @@ Blow it out your ear.
   </div>
 <div align="center">
   <sub>
-  Last update on Thu Nov 26 2026
+  Last update on Fri Nov 27 2026
   </div>
 <br>
 
